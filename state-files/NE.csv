@@ -1,0 +1,656 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"NE","Adams","31001","3100100000","Governor","statewide",10219,"Democrat","Bob Krist",3152
+"NE","Adams","31001","3100100000","Governor","statewide",10219,"Republican","Pete Ricketts",7067
+"NE","Antelope","31003","3100300000","Governor","statewide",2543,"Democrat","Bob Krist",440
+"NE","Antelope","31003","3100300000","Governor","statewide",2543,"Republican","Pete Ricketts",2103
+"NE","Arthur","31005","3100500000","Governor","statewide",227,"Democrat","Bob Krist",31
+"NE","Arthur","31005","3100500000","Governor","statewide",227,"Republican","Pete Ricketts",196
+"NE","Banner","31007","3100700000","Governor","statewide",316,"Democrat","Bob Krist",62
+"NE","Banner","31007","3100700000","Governor","statewide",316,"Republican","Pete Ricketts",254
+"NE","Blaine","31009","3100900000","Governor","statewide",264,"Democrat","Bob Krist",49
+"NE","Blaine","31009","3100900000","Governor","statewide",264,"Republican","Pete Ricketts",215
+"NE","Boone","31011","3101100000","Governor","statewide",2312,"Democrat","Bob Krist",440
+"NE","Boone","31011","3101100000","Governor","statewide",2312,"Republican","Pete Ricketts",1872
+"NE","Box Butte","31013","3101300000","Governor","statewide",3621,"Democrat","Bob Krist",1096
+"NE","Box Butte","31013","3101300000","Governor","statewide",3621,"Republican","Pete Ricketts",2525
+"NE","Boyd","31015","3101500000","Governor","statewide",961,"Democrat","Bob Krist",152
+"NE","Boyd","31015","3101500000","Governor","statewide",961,"Republican","Pete Ricketts",809
+"NE","Brown","31017","3101700000","Governor","statewide",1365,"Democrat","Bob Krist",214
+"NE","Brown","31017","3101700000","Governor","statewide",1365,"Republican","Pete Ricketts",1151
+"NE","Buffalo","31019","3101900000","Governor","statewide",16322,"Democrat","Bob Krist",5154
+"NE","Buffalo","31019","3101900000","Governor","statewide",16322,"Republican","Pete Ricketts",11168
+"NE","Burt","31021","3102100000","Governor","statewide",2949,"Democrat","Bob Krist",976
+"NE","Burt","31021","3102100000","Governor","statewide",2949,"Republican","Pete Ricketts",1973
+"NE","Butler","31023","3102300000","Governor","statewide",3502,"Democrat","Bob Krist",870
+"NE","Butler","31023","3102300000","Governor","statewide",3502,"Republican","Pete Ricketts",2632
+"NE","Cass","31025","3102500000","Governor","statewide",10632,"Democrat","Bob Krist",3709
+"NE","Cass","31025","3102500000","Governor","statewide",10632,"Republican","Pete Ricketts",6923
+"NE","Cedar","31027","3102700000","Governor","statewide",3530,"Democrat","Bob Krist",755
+"NE","Cedar","31027","3102700000","Governor","statewide",3530,"Republican","Pete Ricketts",2775
+"NE","Chase","31029","3102900000","Governor","statewide",1559,"Democrat","Bob Krist",205
+"NE","Chase","31029","3102900000","Governor","statewide",1559,"Republican","Pete Ricketts",1354
+"NE","Cherry","31031","3103100000","Governor","statewide",2405,"Democrat","Bob Krist",426
+"NE","Cherry","31031","3103100000","Governor","statewide",2405,"Republican","Pete Ricketts",1979
+"NE","Cheyenne","31033","3103300000","Governor","statewide",3249,"Democrat","Bob Krist",715
+"NE","Cheyenne","31033","3103300000","Governor","statewide",3249,"Republican","Pete Ricketts",2534
+"NE","Clay","31035","3103500000","Governor","statewide",2686,"Democrat","Bob Krist",564
+"NE","Clay","31035","3103500000","Governor","statewide",2686,"Republican","Pete Ricketts",2122
+"NE","Colfax","31037","3103700000","Governor","statewide",2503,"Democrat","Bob Krist",738
+"NE","Colfax","31037","3103700000","Governor","statewide",2503,"Republican","Pete Ricketts",1765
+"NE","Cuming","31039","3103900000","Governor","statewide",3379,"Democrat","Bob Krist",697
+"NE","Cuming","31039","3103900000","Governor","statewide",3379,"Republican","Pete Ricketts",2682
+"NE","Custer","31041","3104100000","Governor","statewide",4639,"Democrat","Bob Krist",778
+"NE","Custer","31041","3104100000","Governor","statewide",4639,"Republican","Pete Ricketts",3861
+"NE","Dakota","31043","3104300000","Governor","statewide",4542,"Democrat","Bob Krist",1841
+"NE","Dakota","31043","3104300000","Governor","statewide",4542,"Republican","Pete Ricketts",2701
+"NE","Dawes","31045","3104500000","Governor","statewide",3367,"Democrat","Bob Krist",1188
+"NE","Dawes","31045","3104500000","Governor","statewide",3367,"Republican","Pete Ricketts",2179
+"NE","Dawson","31047","3104700000","Governor","statewide",6264,"Democrat","Bob Krist",1706
+"NE","Dawson","31047","3104700000","Governor","statewide",6264,"Republican","Pete Ricketts",4558
+"NE","Deuel","31049","3104900000","Governor","statewide",712,"Democrat","Bob Krist",127
+"NE","Deuel","31049","3104900000","Governor","statewide",712,"Republican","Pete Ricketts",585
+"NE","Dixon","31051","3105100000","Governor","statewide",2247,"Democrat","Bob Krist",581
+"NE","Dixon","31051","3105100000","Governor","statewide",2247,"Republican","Pete Ricketts",1666
+"NE","Dodge","31053","3105300000","Governor","statewide",12090,"Democrat","Bob Krist",4633
+"NE","Dodge","31053","3105300000","Governor","statewide",12090,"Republican","Pete Ricketts",7457
+"NE","Douglas","31055","3105500000","Governor","statewide",204355,"Democrat","Bob Krist",108235
+"NE","Douglas","31055","3105500000","Governor","statewide",204355,"Republican","Pete Ricketts",96120
+"NE","Dundy","31057","3105700000","Governor","statewide",773,"Democrat","Bob Krist",119
+"NE","Dundy","31057","3105700000","Governor","statewide",773,"Republican","Pete Ricketts",654
+"NE","Fillmore","31059","3105900000","Governor","statewide",2542,"Democrat","Bob Krist",752
+"NE","Fillmore","31059","3105900000","Governor","statewide",2542,"Republican","Pete Ricketts",1790
+"NE","Franklin","31061","3106100000","Governor","statewide",1363,"Democrat","Bob Krist",254
+"NE","Franklin","31061","3106100000","Governor","statewide",1363,"Republican","Pete Ricketts",1109
+"NE","Frontier","31063","3106300000","Governor","statewide",1048,"Democrat","Bob Krist",191
+"NE","Frontier","31063","3106300000","Governor","statewide",1048,"Republican","Pete Ricketts",857
+"NE","Furnas","31065","3106500000","Governor","statewide",2138,"Democrat","Bob Krist",371
+"NE","Furnas","31065","3106500000","Governor","statewide",2138,"Republican","Pete Ricketts",1767
+"NE","Gage","31067","3106700000","Governor","statewide",8342,"Democrat","Bob Krist",3092
+"NE","Gage","31067","3106700000","Governor","statewide",8342,"Republican","Pete Ricketts",5250
+"NE","Garden","31069","3106900000","Governor","statewide",1004,"Democrat","Bob Krist",186
+"NE","Garden","31069","3106900000","Governor","statewide",1004,"Republican","Pete Ricketts",818
+"NE","Garfield","31071","3107100000","Governor","statewide",797,"Democrat","Bob Krist",131
+"NE","Garfield","31071","3107100000","Governor","statewide",797,"Republican","Pete Ricketts",666
+"NE","Gosper","31073","3107300000","Governor","statewide",835,"Democrat","Bob Krist",150
+"NE","Gosper","31073","3107300000","Governor","statewide",835,"Republican","Pete Ricketts",685
+"NE","Grant","31075","3107500000","Governor","statewide",302,"Democrat","Bob Krist",42
+"NE","Grant","31075","3107500000","Governor","statewide",302,"Republican","Pete Ricketts",260
+"NE","Greeley","31077","3107700000","Governor","statewide",1003,"Democrat","Bob Krist",251
+"NE","Greeley","31077","3107700000","Governor","statewide",1003,"Republican","Pete Ricketts",752
+"NE","Hall","31079","3107900000","Governor","statewide",16730,"Democrat","Bob Krist",5661
+"NE","Hall","31079","3107900000","Governor","statewide",16730,"Republican","Pete Ricketts",11069
+"NE","Hamilton","31081","3108100000","Governor","statewide",4118,"Democrat","Bob Krist",904
+"NE","Hamilton","31081","3108100000","Governor","statewide",4118,"Republican","Pete Ricketts",3214
+"NE","Harlan","31083","3108300000","Governor","statewide",1504,"Democrat","Bob Krist",273
+"NE","Harlan","31083","3108300000","Governor","statewide",1504,"Republican","Pete Ricketts",1231
+"NE","Hayes","31085","3108500000","Governor","statewide",395,"Democrat","Bob Krist",42
+"NE","Hayes","31085","3108500000","Governor","statewide",395,"Republican","Pete Ricketts",353
+"NE","Hitchcock","31087","3108700000","Governor","statewide",1077,"Democrat","Bob Krist",191
+"NE","Hitchcock","31087","3108700000","Governor","statewide",1077,"Republican","Pete Ricketts",886
+"NE","Holt","31089","3108900000","Governor","statewide",4162,"Democrat","Bob Krist",823
+"NE","Holt","31089","3108900000","Governor","statewide",4162,"Republican","Pete Ricketts",3339
+"NE","Hooker","31091","3109100000","Governor","statewide",317,"Democrat","Bob Krist",58
+"NE","Hooker","31091","3109100000","Governor","statewide",317,"Republican","Pete Ricketts",259
+"NE","Howard","31093","3109300000","Governor","statewide",2426,"Democrat","Bob Krist",633
+"NE","Howard","31093","3109300000","Governor","statewide",2426,"Republican","Pete Ricketts",1793
+"NE","Jefferson","31095","3109500000","Governor","statewide",2986,"Democrat","Bob Krist",944
+"NE","Jefferson","31095","3109500000","Governor","statewide",2986,"Republican","Pete Ricketts",2042
+"NE","Johnson","31097","3109700000","Governor","statewide",1796,"Democrat","Bob Krist",672
+"NE","Johnson","31097","3109700000","Governor","statewide",1796,"Republican","Pete Ricketts",1124
+"NE","Kearney","31099","3109900000","Governor","statewide",2625,"Democrat","Bob Krist",605
+"NE","Kearney","31099","3109900000","Governor","statewide",2625,"Republican","Pete Ricketts",2020
+"NE","Keith","31101","3110100000","Governor","statewide",3200,"Democrat","Bob Krist",684
+"NE","Keith","31101","3110100000","Governor","statewide",3200,"Republican","Pete Ricketts",2516
+"NE","Keya Paha","31103","3110300000","Governor","statewide",390,"Democrat","Bob Krist",43
+"NE","Keya Paha","31103","3110300000","Governor","statewide",390,"Republican","Pete Ricketts",347
+"NE","Kimball","31105","3110500000","Governor","statewide",1380,"Democrat","Bob Krist",263
+"NE","Kimball","31105","3110500000","Governor","statewide",1380,"Republican","Pete Ricketts",1117
+"NE","Knox","31107","3110700000","Governor","statewide",3599,"Democrat","Bob Krist",818
+"NE","Knox","31107","3110700000","Governor","statewide",3599,"Republican","Pete Ricketts",2781
+"NE","Lancaster","31109","3110900000","Governor","statewide",116506,"Democrat","Bob Krist",64946
+"NE","Lancaster","31109","3110900000","Governor","statewide",116506,"Republican","Pete Ricketts",51560
+"NE","Lincoln","31111","3111100000","Governor","statewide",12519,"Democrat","Bob Krist",3174
+"NE","Lincoln","31111","3111100000","Governor","statewide",12519,"Republican","Pete Ricketts",9345
+"NE","Logan","31113","3111300000","Governor","statewide",335,"Democrat","Bob Krist",28
+"NE","Logan","31113","3111300000","Governor","statewide",335,"Republican","Pete Ricketts",307
+"NE","Loup","31115","3111500000","Governor","statewide",307,"Democrat","Bob Krist",57
+"NE","Loup","31115","3111500000","Governor","statewide",307,"Republican","Pete Ricketts",250
+"NE","Madison","31119","3111900000","Governor","statewide",10465,"Democrat","Bob Krist",2559
+"NE","Madison","31119","3111900000","Governor","statewide",10465,"Republican","Pete Ricketts",7906
+"NE","McPherson","31117","3111700000","Governor","statewide",256,"Democrat","Bob Krist",45
+"NE","McPherson","31117","3111700000","Governor","statewide",256,"Republican","Pete Ricketts",211
+"NE","Merrick","31121","3112100000","Governor","statewide",3377,"Democrat","Bob Krist",682
+"NE","Merrick","31121","3112100000","Governor","statewide",3377,"Republican","Pete Ricketts",2695
+"NE","Morrill","31123","3112300000","Governor","statewide",2115,"Democrat","Bob Krist",474
+"NE","Morrill","31123","3112300000","Governor","statewide",2115,"Republican","Pete Ricketts",1641
+"NE","Nance","31125","3112500000","Governor","statewide",1246,"Democrat","Bob Krist",318
+"NE","Nance","31125","3112500000","Governor","statewide",1246,"Republican","Pete Ricketts",928
+"NE","Nemaha","31127","3112700000","Governor","statewide",2616,"Democrat","Bob Krist",791
+"NE","Nemaha","31127","3112700000","Governor","statewide",2616,"Republican","Pete Ricketts",1825
+"NE","Nuckolls","31129","3112900000","Governor","statewide",1765,"Democrat","Bob Krist",340
+"NE","Nuckolls","31129","3112900000","Governor","statewide",1765,"Republican","Pete Ricketts",1425
+"NE","Otoe","31131","3113100000","Governor","statewide",6371,"Democrat","Bob Krist",2107
+"NE","Otoe","31131","3113100000","Governor","statewide",6371,"Republican","Pete Ricketts",4264
+"NE","Pawnee","31133","3113300000","Governor","statewide",1154,"Democrat","Bob Krist",350
+"NE","Pawnee","31133","3113300000","Governor","statewide",1154,"Republican","Pete Ricketts",804
+"NE","Perkins","31135","3113500000","Governor","statewide",1224,"Democrat","Bob Krist",195
+"NE","Perkins","31135","3113500000","Governor","statewide",1224,"Republican","Pete Ricketts",1029
+"NE","Phelps","31137","3113700000","Governor","statewide",3855,"Democrat","Bob Krist",693
+"NE","Phelps","31137","3113700000","Governor","statewide",3855,"Republican","Pete Ricketts",3162
+"NE","Pierce","31139","3113900000","Governor","statewide",2775,"Democrat","Bob Krist",398
+"NE","Pierce","31139","3113900000","Governor","statewide",2775,"Republican","Pete Ricketts",2377
+"NE","Platte","31141","3114100000","Governor","statewide",11043,"Democrat","Bob Krist",2473
+"NE","Platte","31141","3114100000","Governor","statewide",11043,"Republican","Pete Ricketts",8570
+"NE","Polk","31143","3114300000","Governor","statewide",2088,"Democrat","Bob Krist",438
+"NE","Polk","31143","3114300000","Governor","statewide",2088,"Republican","Pete Ricketts",1650
+"NE","Red Willow","31145","3114500000","Governor","statewide",3889,"Democrat","Bob Krist",728
+"NE","Red Willow","31145","3114500000","Governor","statewide",3889,"Republican","Pete Ricketts",3161
+"NE","Richardson","31147","3114700000","Governor","statewide",3091,"Democrat","Bob Krist",829
+"NE","Richardson","31147","3114700000","Governor","statewide",3091,"Republican","Pete Ricketts",2262
+"NE","Rock","31149","3114900000","Governor","statewide",667,"Democrat","Bob Krist",94
+"NE","Rock","31149","3114900000","Governor","statewide",667,"Republican","Pete Ricketts",573
+"NE","Saline","31151","3115100000","Governor","statewide",4221,"Democrat","Bob Krist",1815
+"NE","Saline","31151","3115100000","Governor","statewide",4221,"Republican","Pete Ricketts",2406
+"NE","Sarpy","31153","3115300000","Governor","statewide",67560,"Democrat","Bob Krist",27632
+"NE","Sarpy","31153","3115300000","Governor","statewide",67560,"Republican","Pete Ricketts",39928
+"NE","Saunders","31155","3115500000","Governor","statewide",9524,"Democrat","Bob Krist",3016
+"NE","Saunders","31155","3115500000","Governor","statewide",9524,"Republican","Pete Ricketts",6508
+"NE","Scotts Bluff","31157","3115700000","Governor","statewide",10680,"Democrat","Bob Krist",3439
+"NE","Scotts Bluff","31157","3115700000","Governor","statewide",10680,"Republican","Pete Ricketts",7241
+"NE","Seward","31159","3115900000","Governor","statewide",7059,"Democrat","Bob Krist",2247
+"NE","Seward","31159","3115900000","Governor","statewide",7059,"Republican","Pete Ricketts",4812
+"NE","Sheridan","31161","3116100000","Governor","statewide",2011,"Democrat","Bob Krist",498
+"NE","Sheridan","31161","3116100000","Governor","statewide",2011,"Republican","Pete Ricketts",1513
+"NE","Sherman","31163","3116300000","Governor","statewide",1294,"Democrat","Bob Krist",346
+"NE","Sherman","31163","3116300000","Governor","statewide",1294,"Republican","Pete Ricketts",948
+"NE","Sioux","31165","3116500000","Governor","statewide",537,"Democrat","Bob Krist",96
+"NE","Sioux","31165","3116500000","Governor","statewide",537,"Republican","Pete Ricketts",441
+"NE","Stanton","31167","3116700000","Governor","statewide",2264,"Democrat","Bob Krist",435
+"NE","Stanton","31167","3116700000","Governor","statewide",2264,"Republican","Pete Ricketts",1829
+"NE","Thayer","31169","3116900000","Governor","statewide",2256,"Democrat","Bob Krist",541
+"NE","Thayer","31169","3116900000","Governor","statewide",2256,"Republican","Pete Ricketts",1715
+"NE","Thomas","31171","3117100000","Governor","statewide",344,"Democrat","Bob Krist",44
+"NE","Thomas","31171","3117100000","Governor","statewide",344,"Republican","Pete Ricketts",300
+"NE","Thurston","31173","3117300000","Governor","statewide",1839,"Democrat","Bob Krist",876
+"NE","Thurston","31173","3117300000","Governor","statewide",1839,"Republican","Pete Ricketts",963
+"NE","Valley","31175","3117500000","Governor","statewide",1799,"Democrat","Bob Krist",355
+"NE","Valley","31175","3117500000","Governor","statewide",1799,"Republican","Pete Ricketts",1444
+"NE","Washington","31177","3117700000","Governor","statewide",9209,"Democrat","Bob Krist",2752
+"NE","Washington","31177","3117700000","Governor","statewide",9209,"Republican","Pete Ricketts",6457
+"NE","Wayne","31179","3117900000","Governor","statewide",3218,"Democrat","Bob Krist",922
+"NE","Wayne","31179","3117900000","Governor","statewide",3218,"Republican","Pete Ricketts",2296
+"NE","Webster","31181","3118100000","Governor","statewide",1370,"Democrat","Bob Krist",291
+"NE","Webster","31181","3118100000","Governor","statewide",1370,"Republican","Pete Ricketts",1079
+"NE","Wheeler","31183","3118300000","Governor","statewide",399,"Democrat","Bob Krist",80
+"NE","Wheeler","31183","3118300000","Governor","statewide",399,"Republican","Pete Ricketts",319
+"NE","York","31185","3118500000","Governor","statewide",5121,"Democrat","Bob Krist",1378
+"NE","York","31185","3118500000","Governor","statewide",5121,"Republican","Pete Ricketts",3743
+"NE","Adams","31001","3100100000","US House","statewide",10203,"Republican","Adrian Smith",7171
+"NE","Adams","31001","3100100000","US House","statewide",10203,"Democrat","Paul Theobald",3032
+"NE","Antelope","31003","3100300000","US House","statewide",2503,"Republican","Adrian Smith",2149
+"NE","Antelope","31003","3100300000","US House","statewide",2503,"Democrat","Paul Theobald",354
+"NE","Arthur","31005","3100500000","US House","statewide",230,"Republican","Adrian Smith",208
+"NE","Arthur","31005","3100500000","US House","statewide",230,"Democrat","Paul Theobald",22
+"NE","Banner","31007","3100700000","US House","statewide",311,"Republican","Adrian Smith",258
+"NE","Banner","31007","3100700000","US House","statewide",311,"Democrat","Paul Theobald",53
+"NE","Blaine","31009","3100900000","US House","statewide",261,"Republican","Adrian Smith",224
+"NE","Blaine","31009","3100900000","US House","statewide",261,"Democrat","Paul Theobald",37
+"NE","Boone","31011","3101100000","US House","statewide",2290,"Republican","Adrian Smith",1903
+"NE","Boone","31011","3101100000","US House","statewide",2290,"Democrat","Paul Theobald",387
+"NE","Box Butte","31013","3101300000","US House","statewide",3627,"Republican","Adrian Smith",2688
+"NE","Box Butte","31013","3101300000","US House","statewide",3627,"Democrat","Paul Theobald",939
+"NE","Boyd","31015","3101500000","US House","statewide",929,"Republican","Adrian Smith",824
+"NE","Boyd","31015","3101500000","US House","statewide",929,"Democrat","Paul Theobald",105
+"NE","Brown","31017","3101700000","US House","statewide",1359,"Republican","Adrian Smith",1200
+"NE","Brown","31017","3101700000","US House","statewide",1359,"Democrat","Paul Theobald",159
+"NE","Buffalo","31019","3101900000","US House","statewide",16340,"Republican","Adrian Smith",11837
+"NE","Buffalo","31019","3101900000","US House","statewide",16340,"Democrat","Paul Theobald",4503
+"NE","Burt","31021","3102100000","US House","statewide",2919,"Republican","Jeff Fortenberry",2130
+"NE","Burt","31021","3102100000","US House","statewide",2919,"Democrat","Jessica McClure",789
+"NE","Butler","31023","3102300000","US House","statewide",3470,"Republican","Jeff Fortenberry",2836
+"NE","Butler","31023","3102300000","US House","statewide",3470,"Democrat","Jessica McClure",634
+"NE","Cass","31025","3102500000","US House","statewide",10560,"Republican","Jeff Fortenberry",7213
+"NE","Cass","31025","3102500000","US House","statewide",10560,"Democrat","Jessica McClure",3347
+"NE","Cedar","31027","3102700000","US House","statewide",3461,"Republican","Adrian Smith",2863
+"NE","Cedar","31027","3102700000","US House","statewide",3461,"Democrat","Paul Theobald",598
+"NE","Chase","31029","3102900000","US House","statewide",1560,"Republican","Adrian Smith",1390
+"NE","Chase","31029","3102900000","US House","statewide",1560,"Democrat","Paul Theobald",170
+"NE","Cherry","31031","3103100000","US House","statewide",2361,"Republican","Adrian Smith",2056
+"NE","Cherry","31031","3103100000","US House","statewide",2361,"Democrat","Paul Theobald",305
+"NE","Cheyenne","31033","3103300000","US House","statewide",3252,"Republican","Adrian Smith",2660
+"NE","Cheyenne","31033","3103300000","US House","statewide",3252,"Democrat","Paul Theobald",592
+"NE","Clay","31035","3103500000","US House","statewide",2687,"Republican","Adrian Smith",2195
+"NE","Clay","31035","3103500000","US House","statewide",2687,"Democrat","Paul Theobald",492
+"NE","Colfax","31037","3103700000","US House","statewide",2483,"Republican","Jeff Fortenberry",1845
+"NE","Colfax","31037","3103700000","US House","statewide",2483,"Democrat","Jessica McClure",638
+"NE","Cuming","31039","3103900000","US House","statewide",3349,"Republican","Jeff Fortenberry",2797
+"NE","Cuming","31039","3103900000","US House","statewide",3349,"Democrat","Jessica McClure",552
+"NE","Custer","31041","3104100000","US House","statewide",4617,"Republican","Adrian Smith",3955
+"NE","Custer","31041","3104100000","US House","statewide",4617,"Democrat","Paul Theobald",662
+"NE","Dakota","31043","3104300000","US House","statewide",4473,"Republican","Adrian Smith",2636
+"NE","Dakota","31043","3104300000","US House","statewide",4473,"Democrat","Paul Theobald",1837
+"NE","Dawes","31045","3104500000","US House","statewide",3385,"Republican","Adrian Smith",2425
+"NE","Dawes","31045","3104500000","US House","statewide",3385,"Democrat","Paul Theobald",960
+"NE","Dawson","31047","3104700000","US House","statewide",6259,"Republican","Adrian Smith",4753
+"NE","Dawson","31047","3104700000","US House","statewide",6259,"Democrat","Paul Theobald",1506
+"NE","Deuel","31049","3104900000","US House","statewide",711,"Republican","Adrian Smith",600
+"NE","Deuel","31049","3104900000","US House","statewide",711,"Democrat","Paul Theobald",111
+"NE","Dixon","31051","3105100000","US House","statewide",2208,"Republican","Adrian Smith",1594
+"NE","Dixon","31051","3105100000","US House","statewide",2208,"Republican","Jeff Fortenberry",50
+"NE","Dixon","31051","3105100000","US House","statewide",2208,"Democrat","Jessica McClure",26
+"NE","Dixon","31051","3105100000","US House","statewide",2208,"Democrat","Paul Theobald",538
+"NE","Dodge","31053","3105300000","US House","statewide",12038,"Republican","Jeff Fortenberry",8497
+"NE","Dodge","31053","3105300000","US House","statewide",12038,"Democrat","Jessica McClure",3541
+"NE","Douglas","31055","3105500000","US House","statewide",204350,"Republican","Don Bacon",98922
+"NE","Douglas","31055","3105500000","US House","statewide",204350,"Democrat","Kara Eastman",105428
+"NE","Dundy","31057","3105700000","US House","statewide",774,"Republican","Adrian Smith",693
+"NE","Dundy","31057","3105700000","US House","statewide",774,"Democrat","Paul Theobald",81
+"NE","Fillmore","31059","3105900000","US House","statewide",2524,"Republican","Adrian Smith",1963
+"NE","Fillmore","31059","3105900000","US House","statewide",2524,"Democrat","Paul Theobald",561
+"NE","Franklin","31061","3106100000","US House","statewide",1354,"Republican","Adrian Smith",1114
+"NE","Franklin","31061","3106100000","US House","statewide",1354,"Democrat","Paul Theobald",240
+"NE","Frontier","31063","3106300000","US House","statewide",1045,"Republican","Adrian Smith",881
+"NE","Frontier","31063","3106300000","US House","statewide",1045,"Democrat","Paul Theobald",164
+"NE","Furnas","31065","3106500000","US House","statewide",2132,"Republican","Adrian Smith",1819
+"NE","Furnas","31065","3106500000","US House","statewide",2132,"Democrat","Paul Theobald",313
+"NE","Gage","31067","3106700000","US House","statewide",8250,"Republican","Adrian Smith",5680
+"NE","Gage","31067","3106700000","US House","statewide",8250,"Democrat","Paul Theobald",2570
+"NE","Garden","31069","3106900000","US House","statewide",997,"Republican","Adrian Smith",845
+"NE","Garden","31069","3106900000","US House","statewide",997,"Democrat","Paul Theobald",152
+"NE","Garfield","31071","3107100000","US House","statewide",789,"Republican","Adrian Smith",686
+"NE","Garfield","31071","3107100000","US House","statewide",789,"Democrat","Paul Theobald",103
+"NE","Gosper","31073","3107300000","US House","statewide",836,"Republican","Adrian Smith",705
+"NE","Gosper","31073","3107300000","US House","statewide",836,"Democrat","Paul Theobald",131
+"NE","Grant","31075","3107500000","US House","statewide",305,"Republican","Adrian Smith",293
+"NE","Grant","31075","3107500000","US House","statewide",305,"Democrat","Paul Theobald",12
+"NE","Greeley","31077","3107700000","US House","statewide",992,"Republican","Adrian Smith",785
+"NE","Greeley","31077","3107700000","US House","statewide",992,"Democrat","Paul Theobald",207
+"NE","Hall","31079","3107900000","US House","statewide",16679,"Republican","Adrian Smith",11287
+"NE","Hall","31079","3107900000","US House","statewide",16679,"Democrat","Paul Theobald",5392
+"NE","Hamilton","31081","3108100000","US House","statewide",4071,"Republican","Adrian Smith",3261
+"NE","Hamilton","31081","3108100000","US House","statewide",4071,"Democrat","Paul Theobald",810
+"NE","Harlan","31083","3108300000","US House","statewide",1495,"Republican","Adrian Smith",1259
+"NE","Harlan","31083","3108300000","US House","statewide",1495,"Democrat","Paul Theobald",236
+"NE","Hayes","31085","3108500000","US House","statewide",392,"Republican","Adrian Smith",361
+"NE","Hayes","31085","3108500000","US House","statewide",392,"Democrat","Paul Theobald",31
+"NE","Hitchcock","31087","3108700000","US House","statewide",1075,"Republican","Adrian Smith",926
+"NE","Hitchcock","31087","3108700000","US House","statewide",1075,"Democrat","Paul Theobald",149
+"NE","Holt","31089","3108900000","US House","statewide",4124,"Republican","Adrian Smith",3529
+"NE","Holt","31089","3108900000","US House","statewide",4124,"Democrat","Paul Theobald",595
+"NE","Hooker","31091","3109100000","US House","statewide",312,"Republican","Adrian Smith",263
+"NE","Hooker","31091","3109100000","US House","statewide",312,"Democrat","Paul Theobald",49
+"NE","Howard","31093","3109300000","US House","statewide",2401,"Republican","Adrian Smith",1836
+"NE","Howard","31093","3109300000","US House","statewide",2401,"Democrat","Paul Theobald",565
+"NE","Jefferson","31095","3109500000","US House","statewide",2968,"Republican","Adrian Smith",2239
+"NE","Jefferson","31095","3109500000","US House","statewide",2968,"Democrat","Paul Theobald",729
+"NE","Johnson","31097","3109700000","US House","statewide",1733,"Republican","Adrian Smith",1258
+"NE","Johnson","31097","3109700000","US House","statewide",1733,"Democrat","Paul Theobald",475
+"NE","Kearney","31099","3109900000","US House","statewide",2630,"Republican","Adrian Smith",2111
+"NE","Kearney","31099","3109900000","US House","statewide",2630,"Democrat","Paul Theobald",519
+"NE","Keith","31101","3110100000","US House","statewide",3206,"Republican","Adrian Smith",2643
+"NE","Keith","31101","3110100000","US House","statewide",3206,"Democrat","Paul Theobald",563
+"NE","Keya Paha","31103","3110300000","US House","statewide",387,"Republican","Adrian Smith",355
+"NE","Keya Paha","31103","3110300000","US House","statewide",387,"Democrat","Paul Theobald",32
+"NE","Kimball","31105","3110500000","US House","statewide",1382,"Republican","Adrian Smith",1147
+"NE","Kimball","31105","3110500000","US House","statewide",1382,"Democrat","Paul Theobald",235
+"NE","Knox","31107","3110700000","US House","statewide",3507,"Republican","Adrian Smith",2814
+"NE","Knox","31107","3110700000","US House","statewide",3507,"Democrat","Paul Theobald",693
+"NE","Lancaster","31109","3110900000","US House","statewide",116711,"Republican","Jeff Fortenberry",57568
+"NE","Lancaster","31109","3110900000","US House","statewide",116711,"Democrat","Jessica McClure",59143
+"NE","Lincoln","31111","3111100000","US House","statewide",12510,"Republican","Adrian Smith",9603
+"NE","Lincoln","31111","3111100000","US House","statewide",12510,"Democrat","Paul Theobald",2907
+"NE","Logan","31113","3111300000","US House","statewide",335,"Republican","Adrian Smith",308
+"NE","Logan","31113","3111300000","US House","statewide",335,"Democrat","Paul Theobald",27
+"NE","Loup","31115","3111500000","US House","statewide",305,"Republican","Adrian Smith",257
+"NE","Loup","31115","3111500000","US House","statewide",305,"Democrat","Paul Theobald",48
+"NE","Madison","31119","3111900000","US House","statewide",10472,"Republican","Jeff Fortenberry",8124
+"NE","Madison","31119","3111900000","US House","statewide",10472,"Democrat","Jessica McClure",2348
+"NE","McPherson","31117","3111700000","US House","statewide",258,"Republican","Adrian Smith",233
+"NE","McPherson","31117","3111700000","US House","statewide",258,"Democrat","Paul Theobald",25
+"NE","Merrick","31121","3112100000","US House","statewide",3357,"Republican","Adrian Smith",2740
+"NE","Merrick","31121","3112100000","US House","statewide",3357,"Democrat","Paul Theobald",617
+"NE","Morrill","31123","3112300000","US House","statewide",2105,"Republican","Adrian Smith",1737
+"NE","Morrill","31123","3112300000","US House","statewide",2105,"Democrat","Paul Theobald",368
+"NE","Nance","31125","3112500000","US House","statewide",1238,"Republican","Adrian Smith",946
+"NE","Nance","31125","3112500000","US House","statewide",1238,"Democrat","Paul Theobald",292
+"NE","Nemaha","31127","3112700000","US House","statewide",2591,"Republican","Adrian Smith",1920
+"NE","Nemaha","31127","3112700000","US House","statewide",2591,"Democrat","Paul Theobald",671
+"NE","Nuckolls","31129","3112900000","US House","statewide",1755,"Republican","Adrian Smith",1436
+"NE","Nuckolls","31129","3112900000","US House","statewide",1755,"Democrat","Paul Theobald",319
+"NE","Otoe","31131","3113100000","US House","statewide",6341,"Republican","Jeff Fortenberry",4548
+"NE","Otoe","31131","3113100000","US House","statewide",6341,"Democrat","Jessica McClure",1793
+"NE","Pawnee","31133","3113300000","US House","statewide",1127,"Republican","Adrian Smith",875
+"NE","Pawnee","31133","3113300000","US House","statewide",1127,"Democrat","Paul Theobald",252
+"NE","Perkins","31135","3113500000","US House","statewide",1220,"Republican","Adrian Smith",1071
+"NE","Perkins","31135","3113500000","US House","statewide",1220,"Democrat","Paul Theobald",149
+"NE","Phelps","31137","3113700000","US House","statewide",3852,"Republican","Adrian Smith",3275
+"NE","Phelps","31137","3113700000","US House","statewide",3852,"Democrat","Paul Theobald",577
+"NE","Pierce","31139","3113900000","US House","statewide",2748,"Republican","Adrian Smith",2367
+"NE","Pierce","31139","3113900000","US House","statewide",2748,"Democrat","Paul Theobald",381
+"NE","Platte","31141","3114100000","US House","statewide",11003,"Republican","Jeff Fortenberry",8893
+"NE","Platte","31141","3114100000","US House","statewide",11003,"Democrat","Jessica McClure",2110
+"NE","Polk","31143","3114300000","US House","statewide",2082,"Republican","Jeff Fortenberry",1711
+"NE","Polk","31143","3114300000","US House","statewide",2082,"Democrat","Jessica McClure",371
+"NE","Red Willow","31145","3114500000","US House","statewide",3897,"Republican","Adrian Smith",3279
+"NE","Red Willow","31145","3114500000","US House","statewide",3897,"Democrat","Paul Theobald",618
+"NE","Richardson","31147","3114700000","US House","statewide",3004,"Republican","Adrian Smith",2238
+"NE","Richardson","31147","3114700000","US House","statewide",3004,"Democrat","Paul Theobald",766
+"NE","Rock","31149","3114900000","US House","statewide",655,"Republican","Adrian Smith",590
+"NE","Rock","31149","3114900000","US House","statewide",655,"Democrat","Paul Theobald",65
+"NE","Saline","31151","3115100000","US House","statewide",4181,"Republican","Adrian Smith",2691
+"NE","Saline","31151","3115100000","US House","statewide",4181,"Democrat","Paul Theobald",1490
+"NE","Sarpy","31153","3115300000","US House","statewide",67652,"Republican","Don Bacon",27793
+"NE","Sarpy","31153","3115300000","US House","statewide",67652,"Republican","Jeff Fortenberry",13715
+"NE","Sarpy","31153","3115300000","US House","statewide",67652,"Democrat","Jessica McClure",9802
+"NE","Sarpy","31153","3115300000","US House","statewide",67652,"Democrat","Kara Eastman",16342
+"NE","Saunders","31155","3115500000","US House","statewide",9484,"Republican","Jeff Fortenberry",7017
+"NE","Saunders","31155","3115500000","US House","statewide",9484,"Democrat","Jessica McClure",2467
+"NE","Scotts Bluff","31157","3115700000","US House","statewide",10567,"Republican","Adrian Smith",7301
+"NE","Scotts Bluff","31157","3115700000","US House","statewide",10567,"Democrat","Paul Theobald",3266
+"NE","Seward","31159","3115900000","US House","statewide",7049,"Republican","Jeff Fortenberry",5225
+"NE","Seward","31159","3115900000","US House","statewide",7049,"Democrat","Jessica McClure",1824
+"NE","Sheridan","31161","3116100000","US House","statewide",2019,"Republican","Adrian Smith",1706
+"NE","Sheridan","31161","3116100000","US House","statewide",2019,"Democrat","Paul Theobald",313
+"NE","Sherman","31163","3116300000","US House","statewide",1288,"Republican","Adrian Smith",942
+"NE","Sherman","31163","3116300000","US House","statewide",1288,"Democrat","Paul Theobald",346
+"NE","Sioux","31165","3116500000","US House","statewide",538,"Republican","Adrian Smith",461
+"NE","Sioux","31165","3116500000","US House","statewide",538,"Democrat","Paul Theobald",77
+"NE","Stanton","31167","3116700000","US House","statewide",2242,"Republican","Jeff Fortenberry",1854
+"NE","Stanton","31167","3116700000","US House","statewide",2242,"Democrat","Jessica McClure",388
+"NE","Thayer","31169","3116900000","US House","statewide",2226,"Republican","Adrian Smith",1778
+"NE","Thayer","31169","3116900000","US House","statewide",2226,"Democrat","Paul Theobald",448
+"NE","Thomas","31171","3117100000","US House","statewide",345,"Republican","Adrian Smith",311
+"NE","Thomas","31171","3117100000","US House","statewide",345,"Democrat","Paul Theobald",34
+"NE","Thurston","31173","3117300000","US House","statewide",1819,"Republican","Jeff Fortenberry",968
+"NE","Thurston","31173","3117300000","US House","statewide",1819,"Democrat","Jessica McClure",851
+"NE","Valley","31175","3117500000","US House","statewide",1790,"Republican","Adrian Smith",1475
+"NE","Valley","31175","3117500000","US House","statewide",1790,"Democrat","Paul Theobald",315
+"NE","Washington","31177","3117700000","US House","statewide",9166,"Republican","Jeff Fortenberry",6721
+"NE","Washington","31177","3117700000","US House","statewide",9166,"Democrat","Jessica McClure",2445
+"NE","Wayne","31179","3117900000","US House","statewide",3182,"Republican","Adrian Smith",2287
+"NE","Wayne","31179","3117900000","US House","statewide",3182,"Democrat","Paul Theobald",895
+"NE","Webster","31181","3118100000","US House","statewide",1364,"Republican","Adrian Smith",1097
+"NE","Webster","31181","3118100000","US House","statewide",1364,"Democrat","Paul Theobald",267
+"NE","Wheeler","31183","3118300000","US House","statewide",409,"Republican","Adrian Smith",350
+"NE","Wheeler","31183","3118300000","US House","statewide",409,"Democrat","Paul Theobald",59
+"NE","York","31185","3118500000","US House","statewide",5127,"Republican","Adrian Smith",4034
+"NE","York","31185","3118500000","US House","statewide",5127,"Democrat","Paul Theobald",1093
+"NE","Adams","31001","3100100000","US Senate","statewide",10223,"Republican","Deb Fischer",6487
+"NE","Adams","31001","3100100000","US Senate","statewide",10223,"Democrat","Jane Raybould",3334
+"NE","Adams","31001","3100100000","US Senate","statewide",10223,"Libertarian","Jim Schultz",402
+"NE","Antelope","31003","3100300000","US Senate","statewide",2524,"Republican","Deb Fischer",2061
+"NE","Antelope","31003","3100300000","US Senate","statewide",2524,"Democrat","Jane Raybould",396
+"NE","Antelope","31003","3100300000","US Senate","statewide",2524,"Libertarian","Jim Schultz",67
+"NE","Arthur","31005","3100500000","US Senate","statewide",232,"Republican","Deb Fischer",202
+"NE","Arthur","31005","3100500000","US Senate","statewide",232,"Democrat","Jane Raybould",24
+"NE","Arthur","31005","3100500000","US Senate","statewide",232,"Libertarian","Jim Schultz",6
+"NE","Banner","31007","3100700000","US Senate","statewide",314,"Republican","Deb Fischer",263
+"NE","Banner","31007","3100700000","US Senate","statewide",314,"Democrat","Jane Raybould",39
+"NE","Banner","31007","3100700000","US Senate","statewide",314,"Libertarian","Jim Schultz",12
+"NE","Blaine","31009","3100900000","US Senate","statewide",263,"Republican","Deb Fischer",223
+"NE","Blaine","31009","3100900000","US Senate","statewide",263,"Democrat","Jane Raybould",34
+"NE","Blaine","31009","3100900000","US Senate","statewide",263,"Libertarian","Jim Schultz",6
+"NE","Boone","31011","3101100000","US Senate","statewide",2288,"Republican","Deb Fischer",1757
+"NE","Boone","31011","3101100000","US Senate","statewide",2288,"Democrat","Jane Raybould",457
+"NE","Boone","31011","3101100000","US Senate","statewide",2288,"Libertarian","Jim Schultz",74
+"NE","Box Butte","31013","3101300000","US Senate","statewide",3627,"Republican","Deb Fischer",2632
+"NE","Box Butte","31013","3101300000","US Senate","statewide",3627,"Democrat","Jane Raybould",835
+"NE","Box Butte","31013","3101300000","US Senate","statewide",3627,"Libertarian","Jim Schultz",160
+"NE","Boyd","31015","3101500000","US Senate","statewide",959,"Republican","Deb Fischer",797
+"NE","Boyd","31015","3101500000","US Senate","statewide",959,"Democrat","Jane Raybould",128
+"NE","Boyd","31015","3101500000","US Senate","statewide",959,"Libertarian","Jim Schultz",34
+"NE","Brown","31017","3101700000","US Senate","statewide",1385,"Republican","Deb Fischer",1153
+"NE","Brown","31017","3101700000","US Senate","statewide",1385,"Democrat","Jane Raybould",190
+"NE","Brown","31017","3101700000","US Senate","statewide",1385,"Libertarian","Jim Schultz",42
+"NE","Buffalo","31019","3101900000","US Senate","statewide",16354,"Republican","Deb Fischer",10939
+"NE","Buffalo","31019","3101900000","US Senate","statewide",16354,"Democrat","Jane Raybould",4765
+"NE","Buffalo","31019","3101900000","US Senate","statewide",16354,"Libertarian","Jim Schultz",650
+"NE","Burt","31021","3102100000","US Senate","statewide",2935,"Republican","Deb Fischer",1995
+"NE","Burt","31021","3102100000","US Senate","statewide",2935,"Democrat","Jane Raybould",836
+"NE","Burt","31021","3102100000","US Senate","statewide",2935,"Libertarian","Jim Schultz",104
+"NE","Butler","31023","3102300000","US Senate","statewide",3478,"Republican","Deb Fischer",2470
+"NE","Butler","31023","3102300000","US Senate","statewide",3478,"Democrat","Jane Raybould",871
+"NE","Butler","31023","3102300000","US Senate","statewide",3478,"Libertarian","Jim Schultz",137
+"NE","Cass","31025","3102500000","US Senate","statewide",10603,"Republican","Deb Fischer",6787
+"NE","Cass","31025","3102500000","US Senate","statewide",10603,"Democrat","Jane Raybould",3393
+"NE","Cass","31025","3102500000","US Senate","statewide",10603,"Libertarian","Jim Schultz",423
+"NE","Cedar","31027","3102700000","US Senate","statewide",3514,"Republican","Deb Fischer",2866
+"NE","Cedar","31027","3102700000","US Senate","statewide",3514,"Democrat","Jane Raybould",537
+"NE","Cedar","31027","3102700000","US Senate","statewide",3514,"Libertarian","Jim Schultz",111
+"NE","Chase","31029","3102900000","US Senate","statewide",1562,"Republican","Deb Fischer",1340
+"NE","Chase","31029","3102900000","US Senate","statewide",1562,"Democrat","Jane Raybould",184
+"NE","Chase","31029","3102900000","US Senate","statewide",1562,"Libertarian","Jim Schultz",38
+"NE","Cherry","31031","3103100000","US Senate","statewide",2372,"Republican","Deb Fischer",1913
+"NE","Cherry","31031","3103100000","US Senate","statewide",2372,"Democrat","Jane Raybould",314
+"NE","Cherry","31031","3103100000","US Senate","statewide",2372,"Libertarian","Jim Schultz",145
+"NE","Cheyenne","31033","3103300000","US Senate","statewide",3256,"Republican","Deb Fischer",2566
+"NE","Cheyenne","31033","3103300000","US Senate","statewide",3256,"Democrat","Jane Raybould",579
+"NE","Cheyenne","31033","3103300000","US Senate","statewide",3256,"Libertarian","Jim Schultz",111
+"NE","Clay","31035","3103500000","US Senate","statewide",2679,"Republican","Deb Fischer",1979
+"NE","Clay","31035","3103500000","US Senate","statewide",2679,"Democrat","Jane Raybould",592
+"NE","Clay","31035","3103500000","US Senate","statewide",2679,"Libertarian","Jim Schultz",108
+"NE","Colfax","31037","3103700000","US Senate","statewide",2499,"Republican","Deb Fischer",1731
+"NE","Colfax","31037","3103700000","US Senate","statewide",2499,"Democrat","Jane Raybould",693
+"NE","Colfax","31037","3103700000","US Senate","statewide",2499,"Libertarian","Jim Schultz",75
+"NE","Cuming","31039","3103900000","US Senate","statewide",3362,"Republican","Deb Fischer",2672
+"NE","Cuming","31039","3103900000","US Senate","statewide",3362,"Democrat","Jane Raybould",604
+"NE","Cuming","31039","3103900000","US Senate","statewide",3362,"Libertarian","Jim Schultz",86
+"NE","Custer","31041","3104100000","US Senate","statewide",4642,"Republican","Deb Fischer",3797
+"NE","Custer","31041","3104100000","US Senate","statewide",4642,"Democrat","Jane Raybould",687
+"NE","Custer","31041","3104100000","US Senate","statewide",4642,"Libertarian","Jim Schultz",158
+"NE","Dakota","31043","3104300000","US Senate","statewide",4532,"Republican","Deb Fischer",2677
+"NE","Dakota","31043","3104300000","US Senate","statewide",4532,"Democrat","Jane Raybould",1691
+"NE","Dakota","31043","3104300000","US Senate","statewide",4532,"Libertarian","Jim Schultz",164
+"NE","Dawes","31045","3104500000","US Senate","statewide",3390,"Republican","Deb Fischer",2334
+"NE","Dawes","31045","3104500000","US Senate","statewide",3390,"Democrat","Jane Raybould",914
+"NE","Dawes","31045","3104500000","US Senate","statewide",3390,"Libertarian","Jim Schultz",142
+"NE","Dawson","31047","3104700000","US Senate","statewide",6247,"Republican","Deb Fischer",4363
+"NE","Dawson","31047","3104700000","US Senate","statewide",6247,"Democrat","Jane Raybould",1657
+"NE","Dawson","31047","3104700000","US Senate","statewide",6247,"Libertarian","Jim Schultz",227
+"NE","Deuel","31049","3104900000","US Senate","statewide",717,"Republican","Deb Fischer",578
+"NE","Deuel","31049","3104900000","US Senate","statewide",717,"Democrat","Jane Raybould",109
+"NE","Deuel","31049","3104900000","US Senate","statewide",717,"Libertarian","Jim Schultz",30
+"NE","Dixon","31051","3105100000","US Senate","statewide",2224,"Republican","Deb Fischer",1655
+"NE","Dixon","31051","3105100000","US Senate","statewide",2224,"Democrat","Jane Raybould",488
+"NE","Dixon","31051","3105100000","US Senate","statewide",2224,"Libertarian","Jim Schultz",81
+"NE","Dodge","31053","3105300000","US Senate","statewide",12056,"Republican","Deb Fischer",7827
+"NE","Dodge","31053","3105300000","US Senate","statewide",12056,"Democrat","Jane Raybould",3824
+"NE","Dodge","31053","3105300000","US Senate","statewide",12056,"Libertarian","Jim Schultz",405
+"NE","Douglas","31055","3105500000","US Senate","statewide",204574,"Republican","Deb Fischer",94777
+"NE","Douglas","31055","3105500000","US Senate","statewide",204574,"Democrat","Jane Raybould",103070
+"NE","Douglas","31055","3105500000","US Senate","statewide",204574,"Libertarian","Jim Schultz",6727
+"NE","Dundy","31057","3105700000","US Senate","statewide",771,"Republican","Deb Fischer",649
+"NE","Dundy","31057","3105700000","US Senate","statewide",771,"Democrat","Jane Raybould",99
+"NE","Dundy","31057","3105700000","US Senate","statewide",771,"Libertarian","Jim Schultz",23
+"NE","Fillmore","31059","3105900000","US Senate","statewide",2526,"Republican","Deb Fischer",1718
+"NE","Fillmore","31059","3105900000","US Senate","statewide",2526,"Democrat","Jane Raybould",690
+"NE","Fillmore","31059","3105900000","US Senate","statewide",2526,"Libertarian","Jim Schultz",118
+"NE","Franklin","31061","3106100000","US Senate","statewide",1349,"Republican","Deb Fischer",1044
+"NE","Franklin","31061","3106100000","US Senate","statewide",1349,"Democrat","Jane Raybould",255
+"NE","Franklin","31061","3106100000","US Senate","statewide",1349,"Libertarian","Jim Schultz",50
+"NE","Frontier","31063","3106300000","US Senate","statewide",1040,"Republican","Deb Fischer",831
+"NE","Frontier","31063","3106300000","US Senate","statewide",1040,"Democrat","Jane Raybould",173
+"NE","Frontier","31063","3106300000","US Senate","statewide",1040,"Libertarian","Jim Schultz",36
+"NE","Furnas","31065","3106500000","US Senate","statewide",2139,"Republican","Deb Fischer",1719
+"NE","Furnas","31065","3106500000","US Senate","statewide",2139,"Democrat","Jane Raybould",334
+"NE","Furnas","31065","3106500000","US Senate","statewide",2139,"Libertarian","Jim Schultz",86
+"NE","Gage","31067","3106700000","US Senate","statewide",8329,"Republican","Deb Fischer",4896
+"NE","Gage","31067","3106700000","US Senate","statewide",8329,"Democrat","Jane Raybould",3024
+"NE","Gage","31067","3106700000","US Senate","statewide",8329,"Libertarian","Jim Schultz",409
+"NE","Garden","31069","3106900000","US Senate","statewide",999,"Republican","Deb Fischer",816
+"NE","Garden","31069","3106900000","US Senate","statewide",999,"Democrat","Jane Raybould",139
+"NE","Garden","31069","3106900000","US Senate","statewide",999,"Libertarian","Jim Schultz",44
+"NE","Garfield","31071","3107100000","US Senate","statewide",798,"Republican","Deb Fischer",667
+"NE","Garfield","31071","3107100000","US Senate","statewide",798,"Democrat","Jane Raybould",113
+"NE","Garfield","31071","3107100000","US Senate","statewide",798,"Libertarian","Jim Schultz",18
+"NE","Gosper","31073","3107300000","US Senate","statewide",837,"Republican","Deb Fischer",667
+"NE","Gosper","31073","3107300000","US Senate","statewide",837,"Democrat","Jane Raybould",147
+"NE","Gosper","31073","3107300000","US Senate","statewide",837,"Libertarian","Jim Schultz",23
+"NE","Grant","31075","3107500000","US Senate","statewide",301,"Republican","Deb Fischer",282
+"NE","Grant","31075","3107500000","US Senate","statewide",301,"Democrat","Jane Raybould",14
+"NE","Grant","31075","3107500000","US Senate","statewide",301,"Libertarian","Jim Schultz",5
+"NE","Greeley","31077","3107700000","US Senate","statewide",995,"Republican","Deb Fischer",732
+"NE","Greeley","31077","3107700000","US Senate","statewide",995,"Democrat","Jane Raybould",238
+"NE","Greeley","31077","3107700000","US Senate","statewide",995,"Libertarian","Jim Schultz",25
+"NE","Hall","31079","3107900000","US Senate","statewide",16772,"Republican","Deb Fischer",10483
+"NE","Hall","31079","3107900000","US Senate","statewide",16772,"Democrat","Jane Raybould",5624
+"NE","Hall","31079","3107900000","US Senate","statewide",16772,"Libertarian","Jim Schultz",665
+"NE","Hamilton","31081","3108100000","US Senate","statewide",4105,"Republican","Deb Fischer",3076
+"NE","Hamilton","31081","3108100000","US Senate","statewide",4105,"Democrat","Jane Raybould",896
+"NE","Hamilton","31081","3108100000","US Senate","statewide",4105,"Libertarian","Jim Schultz",133
+"NE","Harlan","31083","3108300000","US Senate","statewide",1488,"Republican","Deb Fischer",1149
+"NE","Harlan","31083","3108300000","US Senate","statewide",1488,"Democrat","Jane Raybould",287
+"NE","Harlan","31083","3108300000","US Senate","statewide",1488,"Libertarian","Jim Schultz",52
+"NE","Hayes","31085","3108500000","US Senate","statewide",392,"Republican","Deb Fischer",350
+"NE","Hayes","31085","3108500000","US Senate","statewide",392,"Democrat","Jane Raybould",32
+"NE","Hayes","31085","3108500000","US Senate","statewide",392,"Libertarian","Jim Schultz",10
+"NE","Hitchcock","31087","3108700000","US Senate","statewide",1079,"Republican","Deb Fischer",890
+"NE","Hitchcock","31087","3108700000","US Senate","statewide",1079,"Democrat","Jane Raybould",154
+"NE","Hitchcock","31087","3108700000","US Senate","statewide",1079,"Libertarian","Jim Schultz",35
+"NE","Holt","31089","3108900000","US Senate","statewide",4142,"Republican","Deb Fischer",3226
+"NE","Holt","31089","3108900000","US Senate","statewide",4142,"Democrat","Jane Raybould",725
+"NE","Holt","31089","3108900000","US Senate","statewide",4142,"Libertarian","Jim Schultz",191
+"NE","Hooker","31091","3109100000","US Senate","statewide",310,"Republican","Deb Fischer",258
+"NE","Hooker","31091","3109100000","US Senate","statewide",310,"Democrat","Jane Raybould",49
+"NE","Hooker","31091","3109100000","US Senate","statewide",310,"Libertarian","Jim Schultz",3
+"NE","Howard","31093","3109300000","US Senate","statewide",2415,"Republican","Deb Fischer",1696
+"NE","Howard","31093","3109300000","US Senate","statewide",2415,"Democrat","Jane Raybould",610
+"NE","Howard","31093","3109300000","US Senate","statewide",2415,"Libertarian","Jim Schultz",109
+"NE","Jefferson","31095","3109500000","US Senate","statewide",2975,"Republican","Deb Fischer",1913
+"NE","Jefferson","31095","3109500000","US Senate","statewide",2975,"Democrat","Jane Raybould",924
+"NE","Jefferson","31095","3109500000","US Senate","statewide",2975,"Libertarian","Jim Schultz",138
+"NE","Johnson","31097","3109700000","US Senate","statewide",1772,"Republican","Deb Fischer",1101
+"NE","Johnson","31097","3109700000","US Senate","statewide",1772,"Democrat","Jane Raybould",581
+"NE","Johnson","31097","3109700000","US Senate","statewide",1772,"Libertarian","Jim Schultz",90
+"NE","Kearney","31099","3109900000","US Senate","statewide",2629,"Republican","Deb Fischer",1952
+"NE","Kearney","31099","3109900000","US Senate","statewide",2629,"Democrat","Jane Raybould",592
+"NE","Kearney","31099","3109900000","US Senate","statewide",2629,"Libertarian","Jim Schultz",85
+"NE","Keith","31101","3110100000","US Senate","statewide",3209,"Republican","Deb Fischer",2542
+"NE","Keith","31101","3110100000","US Senate","statewide",3209,"Democrat","Jane Raybould",567
+"NE","Keith","31101","3110100000","US Senate","statewide",3209,"Libertarian","Jim Schultz",100
+"NE","Keya Paha","31103","3110300000","US Senate","statewide",386,"Republican","Deb Fischer",336
+"NE","Keya Paha","31103","3110300000","US Senate","statewide",386,"Democrat","Jane Raybould",42
+"NE","Keya Paha","31103","3110300000","US Senate","statewide",386,"Libertarian","Jim Schultz",8
+"NE","Kimball","31105","3110500000","US Senate","statewide",1379,"Republican","Deb Fischer",1122
+"NE","Kimball","31105","3110500000","US Senate","statewide",1379,"Democrat","Jane Raybould",202
+"NE","Kimball","31105","3110500000","US Senate","statewide",1379,"Libertarian","Jim Schultz",55
+"NE","Knox","31107","3110700000","US Senate","statewide",3588,"Republican","Deb Fischer",2812
+"NE","Knox","31107","3110700000","US Senate","statewide",3588,"Democrat","Jane Raybould",669
+"NE","Knox","31107","3110700000","US Senate","statewide",3588,"Libertarian","Jim Schultz",107
+"NE","Lancaster","31109","3110900000","US Senate","statewide",117036,"Republican","Deb Fischer",49449
+"NE","Lancaster","31109","3110900000","US Senate","statewide",117036,"Democrat","Jane Raybould",63175
+"NE","Lancaster","31109","3110900000","US Senate","statewide",117036,"Libertarian","Jim Schultz",4412
+"NE","Lincoln","31111","3111100000","US Senate","statewide",12491,"Republican","Deb Fischer",8999
+"NE","Lincoln","31111","3111100000","US Senate","statewide",12491,"Democrat","Jane Raybould",2886
+"NE","Lincoln","31111","3111100000","US Senate","statewide",12491,"Libertarian","Jim Schultz",606
+"NE","Logan","31113","3111300000","US Senate","statewide",337,"Republican","Deb Fischer",306
+"NE","Logan","31113","3111300000","US Senate","statewide",337,"Democrat","Jane Raybould",23
+"NE","Logan","31113","3111300000","US Senate","statewide",337,"Libertarian","Jim Schultz",8
+"NE","Loup","31115","3111500000","US Senate","statewide",307,"Republican","Deb Fischer",247
+"NE","Loup","31115","3111500000","US Senate","statewide",307,"Democrat","Jane Raybould",51
+"NE","Loup","31115","3111500000","US Senate","statewide",307,"Libertarian","Jim Schultz",9
+"NE","Madison","31119","3111900000","US Senate","statewide",10508,"Republican","Deb Fischer",7949
+"NE","Madison","31119","3111900000","US Senate","statewide",10508,"Democrat","Jane Raybould",2236
+"NE","Madison","31119","3111900000","US Senate","statewide",10508,"Libertarian","Jim Schultz",323
+"NE","McPherson","31117","3111700000","US Senate","statewide",262,"Republican","Deb Fischer",228
+"NE","McPherson","31117","3111700000","US Senate","statewide",262,"Democrat","Jane Raybould",22
+"NE","McPherson","31117","3111700000","US Senate","statewide",262,"Libertarian","Jim Schultz",12
+"NE","Merrick","31121","3112100000","US Senate","statewide",3362,"Republican","Deb Fischer",2563
+"NE","Merrick","31121","3112100000","US Senate","statewide",3362,"Democrat","Jane Raybould",647
+"NE","Merrick","31121","3112100000","US Senate","statewide",3362,"Libertarian","Jim Schultz",152
+"NE","Morrill","31123","3112300000","US Senate","statewide",2114,"Republican","Deb Fischer",1699
+"NE","Morrill","31123","3112300000","US Senate","statewide",2114,"Democrat","Jane Raybould",308
+"NE","Morrill","31123","3112300000","US Senate","statewide",2114,"Libertarian","Jim Schultz",107
+"NE","Nance","31125","3112500000","US Senate","statewide",1237,"Republican","Deb Fischer",885
+"NE","Nance","31125","3112500000","US Senate","statewide",1237,"Democrat","Jane Raybould",315
+"NE","Nance","31125","3112500000","US Senate","statewide",1237,"Libertarian","Jim Schultz",37
+"NE","Nemaha","31127","3112700000","US Senate","statewide",2611,"Republican","Deb Fischer",1788
+"NE","Nemaha","31127","3112700000","US Senate","statewide",2611,"Democrat","Jane Raybould",727
+"NE","Nemaha","31127","3112700000","US Senate","statewide",2611,"Libertarian","Jim Schultz",96
+"NE","Nuckolls","31129","3112900000","US Senate","statewide",1752,"Republican","Deb Fischer",1321
+"NE","Nuckolls","31129","3112900000","US Senate","statewide",1752,"Democrat","Jane Raybould",365
+"NE","Nuckolls","31129","3112900000","US Senate","statewide",1752,"Libertarian","Jim Schultz",66
+"NE","Otoe","31131","3113100000","US Senate","statewide",6335,"Republican","Deb Fischer",4098
+"NE","Otoe","31131","3113100000","US Senate","statewide",6335,"Democrat","Jane Raybould",1977
+"NE","Otoe","31131","3113100000","US Senate","statewide",6335,"Libertarian","Jim Schultz",260
+"NE","Pawnee","31133","3113300000","US Senate","statewide",1153,"Republican","Deb Fischer",774
+"NE","Pawnee","31133","3113300000","US Senate","statewide",1153,"Democrat","Jane Raybould",332
+"NE","Pawnee","31133","3113300000","US Senate","statewide",1153,"Libertarian","Jim Schultz",47
+"NE","Perkins","31135","3113500000","US Senate","statewide",1224,"Republican","Deb Fischer",1011
+"NE","Perkins","31135","3113500000","US Senate","statewide",1224,"Democrat","Jane Raybould",180
+"NE","Perkins","31135","3113500000","US Senate","statewide",1224,"Libertarian","Jim Schultz",33
+"NE","Phelps","31137","3113700000","US Senate","statewide",3855,"Republican","Deb Fischer",3068
+"NE","Phelps","31137","3113700000","US Senate","statewide",3855,"Democrat","Jane Raybould",671
+"NE","Phelps","31137","3113700000","US Senate","statewide",3855,"Libertarian","Jim Schultz",116
+"NE","Pierce","31139","3113900000","US Senate","statewide",2764,"Republican","Deb Fischer",2339
+"NE","Pierce","31139","3113900000","US Senate","statewide",2764,"Democrat","Jane Raybould",341
+"NE","Pierce","31139","3113900000","US Senate","statewide",2764,"Libertarian","Jim Schultz",84
+"NE","Platte","31141","3114100000","US Senate","statewide",11032,"Republican","Deb Fischer",8372
+"NE","Platte","31141","3114100000","US Senate","statewide",11032,"Democrat","Jane Raybould",2343
+"NE","Platte","31141","3114100000","US Senate","statewide",11032,"Libertarian","Jim Schultz",317
+"NE","Polk","31143","3114300000","US Senate","statewide",2093,"Republican","Deb Fischer",1574
+"NE","Polk","31143","3114300000","US Senate","statewide",2093,"Democrat","Jane Raybould",448
+"NE","Polk","31143","3114300000","US Senate","statewide",2093,"Libertarian","Jim Schultz",71
+"NE","Red Willow","31145","3114500000","US Senate","statewide",3887,"Republican","Deb Fischer",3051
+"NE","Red Willow","31145","3114500000","US Senate","statewide",3887,"Democrat","Jane Raybould",696
+"NE","Red Willow","31145","3114500000","US Senate","statewide",3887,"Libertarian","Jim Schultz",140
+"NE","Richardson","31147","3114700000","US Senate","statewide",3082,"Republican","Deb Fischer",2137
+"NE","Richardson","31147","3114700000","US Senate","statewide",3082,"Democrat","Jane Raybould",858
+"NE","Richardson","31147","3114700000","US Senate","statewide",3082,"Libertarian","Jim Schultz",87
+"NE","Rock","31149","3114900000","US Senate","statewide",665,"Republican","Deb Fischer",569
+"NE","Rock","31149","3114900000","US Senate","statewide",665,"Democrat","Jane Raybould",79
+"NE","Rock","31149","3114900000","US Senate","statewide",665,"Libertarian","Jim Schultz",17
+"NE","Saline","31151","3115100000","US Senate","statewide",4216,"Republican","Deb Fischer",2255
+"NE","Saline","31151","3115100000","US Senate","statewide",4216,"Democrat","Jane Raybould",1732
+"NE","Saline","31151","3115100000","US Senate","statewide",4216,"Libertarian","Jim Schultz",229
+"NE","Sarpy","31153","3115300000","US Senate","statewide",67622,"Republican","Deb Fischer",39306
+"NE","Sarpy","31153","3115300000","US Senate","statewide",67622,"Democrat","Jane Raybould",25706
+"NE","Sarpy","31153","3115300000","US Senate","statewide",67622,"Libertarian","Jim Schultz",2610
+"NE","Saunders","31155","3115500000","US Senate","statewide",9514,"Republican","Deb Fischer",6479
+"NE","Saunders","31155","3115500000","US Senate","statewide",9514,"Democrat","Jane Raybould",2664
+"NE","Saunders","31155","3115500000","US Senate","statewide",9514,"Libertarian","Jim Schultz",371
+"NE","Scotts Bluff","31157","3115700000","US Senate","statewide",10735,"Republican","Deb Fischer",7398
+"NE","Scotts Bluff","31157","3115700000","US Senate","statewide",10735,"Democrat","Jane Raybould",2887
+"NE","Scotts Bluff","31157","3115700000","US Senate","statewide",10735,"Libertarian","Jim Schultz",450
+"NE","Seward","31159","3115900000","US Senate","statewide",7063,"Republican","Deb Fischer",4607
+"NE","Seward","31159","3115900000","US Senate","statewide",7063,"Democrat","Jane Raybould",2174
+"NE","Seward","31159","3115900000","US Senate","statewide",7063,"Libertarian","Jim Schultz",282
+"NE","Sheridan","31161","3116100000","US Senate","statewide",2036,"Republican","Deb Fischer",1670
+"NE","Sheridan","31161","3116100000","US Senate","statewide",2036,"Democrat","Jane Raybould",275
+"NE","Sheridan","31161","3116100000","US Senate","statewide",2036,"Libertarian","Jim Schultz",91
+"NE","Sherman","31163","3116300000","US Senate","statewide",1289,"Republican","Deb Fischer",873
+"NE","Sherman","31163","3116300000","US Senate","statewide",1289,"Democrat","Jane Raybould",370
+"NE","Sherman","31163","3116300000","US Senate","statewide",1289,"Libertarian","Jim Schultz",46
+"NE","Sioux","31165","3116500000","US Senate","statewide",537,"Republican","Deb Fischer",447
+"NE","Sioux","31165","3116500000","US Senate","statewide",537,"Democrat","Jane Raybould",69
+"NE","Sioux","31165","3116500000","US Senate","statewide",537,"Libertarian","Jim Schultz",21
+"NE","Stanton","31167","3116700000","US Senate","statewide",2261,"Republican","Deb Fischer",1817
+"NE","Stanton","31167","3116700000","US Senate","statewide",2261,"Democrat","Jane Raybould",363
+"NE","Stanton","31167","3116700000","US Senate","statewide",2261,"Libertarian","Jim Schultz",81
+"NE","Thayer","31169","3116900000","US Senate","statewide",2234,"Republican","Deb Fischer",1606
+"NE","Thayer","31169","3116900000","US Senate","statewide",2234,"Democrat","Jane Raybould",539
+"NE","Thayer","31169","3116900000","US Senate","statewide",2234,"Libertarian","Jim Schultz",89
+"NE","Thomas","31171","3117100000","US Senate","statewide",338,"Republican","Deb Fischer",291
+"NE","Thomas","31171","3117100000","US Senate","statewide",338,"Democrat","Jane Raybould",36
+"NE","Thomas","31171","3117100000","US Senate","statewide",338,"Libertarian","Jim Schultz",11
+"NE","Thurston","31173","3117300000","US Senate","statewide",1826,"Republican","Deb Fischer",970
+"NE","Thurston","31173","3117300000","US Senate","statewide",1826,"Democrat","Jane Raybould",817
+"NE","Thurston","31173","3117300000","US Senate","statewide",1826,"Libertarian","Jim Schultz",39
+"NE","Valley","31175","3117500000","US Senate","statewide",1797,"Republican","Deb Fischer",1388
+"NE","Valley","31175","3117500000","US Senate","statewide",1797,"Democrat","Jane Raybould",359
+"NE","Valley","31175","3117500000","US Senate","statewide",1797,"Libertarian","Jim Schultz",50
+"NE","Washington","31177","3117700000","US Senate","statewide",9191,"Republican","Deb Fischer",6462
+"NE","Washington","31177","3117700000","US Senate","statewide",9191,"Democrat","Jane Raybould",2438
+"NE","Washington","31177","3117700000","US Senate","statewide",9191,"Libertarian","Jim Schultz",291
+"NE","Wayne","31179","3117900000","US Senate","statewide",3217,"Republican","Deb Fischer",2388
+"NE","Wayne","31179","3117900000","US Senate","statewide",3217,"Democrat","Jane Raybould",724
+"NE","Wayne","31179","3117900000","US Senate","statewide",3217,"Libertarian","Jim Schultz",105
+"NE","Webster","31181","3118100000","US Senate","statewide",1364,"Republican","Deb Fischer",997
+"NE","Webster","31181","3118100000","US Senate","statewide",1364,"Democrat","Jane Raybould",318
+"NE","Webster","31181","3118100000","US Senate","statewide",1364,"Libertarian","Jim Schultz",49
+"NE","Wheeler","31183","3118300000","US Senate","statewide",414,"Republican","Deb Fischer",343
+"NE","Wheeler","31183","3118300000","US Senate","statewide",414,"Democrat","Jane Raybould",60
+"NE","Wheeler","31183","3118300000","US Senate","statewide",414,"Libertarian","Jim Schultz",11
+"NE","York","31185","3118500000","US Senate","statewide",5120,"Republican","Deb Fischer",3659
+"NE","York","31185","3118500000","US Senate","statewide",5120,"Democrat","Jane Raybould",1281
+"NE","York","31185","3118500000","US Senate","statewide",5120,"Libertarian","Jim Schultz",180

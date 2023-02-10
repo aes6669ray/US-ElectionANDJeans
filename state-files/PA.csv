@@ -1,0 +1,1321 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"PA","Adams","42001","4200100000","Governor","statewide",39053,"Green","GLOVER, PAUL",255
+"PA","Adams","42001","4200100000","Governor","statewide",39053,"Libertarian","KRAWCHUK, KENNETH V",435
+"PA","Adams","42001","4200100000","Governor","statewide",39053,"Republican","WAGNER, SCOTT R",22501
+"PA","Adams","42001","4200100000","Governor","statewide",39053,"Democrat","WOLF, THOMAS W",15862
+"PA","Allegheny","42003","4200300000","Governor","statewide",541305,"Green","GLOVER, PAUL",2458
+"PA","Allegheny","42003","4200300000","Governor","statewide",541305,"Libertarian","KRAWCHUK, KENNETH V",5244
+"PA","Allegheny","42003","4200300000","Governor","statewide",541305,"Republican","WAGNER, SCOTT R",168893
+"PA","Allegheny","42003","4200300000","Governor","statewide",541305,"Democrat","WOLF, THOMAS W",364710
+"PA","Armstrong","42005","4200500000","Governor","statewide",24643,"Green","GLOVER, PAUL",153
+"PA","Armstrong","42005","4200500000","Governor","statewide",24643,"Libertarian","KRAWCHUK, KENNETH V",278
+"PA","Armstrong","42005","4200500000","Governor","statewide",24643,"Republican","WAGNER, SCOTT R",15373
+"PA","Armstrong","42005","4200500000","Governor","statewide",24643,"Democrat","WOLF, THOMAS W",8839
+"PA","Beaver","42007","4200700000","Governor","statewide",67876,"Green","GLOVER, PAUL",406
+"PA","Beaver","42007","4200700000","Governor","statewide",67876,"Libertarian","KRAWCHUK, KENNETH V",711
+"PA","Beaver","42007","4200700000","Governor","statewide",67876,"Republican","WAGNER, SCOTT R",30593
+"PA","Beaver","42007","4200700000","Governor","statewide",67876,"Democrat","WOLF, THOMAS W",36166
+"PA","Bedford","42009","4200900000","Governor","statewide",18863,"Green","GLOVER, PAUL",84
+"PA","Bedford","42009","4200900000","Governor","statewide",18863,"Libertarian","KRAWCHUK, KENNETH V",110
+"PA","Bedford","42009","4200900000","Governor","statewide",18863,"Republican","WAGNER, SCOTT R",14261
+"PA","Bedford","42009","4200900000","Governor","statewide",18863,"Democrat","WOLF, THOMAS W",4408
+"PA","Berks","42011","4201100000","Governor","statewide",144426,"Green","GLOVER, PAUL",915
+"PA","Berks","42011","4201100000","Governor","statewide",144426,"Libertarian","KRAWCHUK, KENNETH V",1619
+"PA","Berks","42011","4201100000","Governor","statewide",144426,"Republican","WAGNER, SCOTT R",65756
+"PA","Berks","42011","4201100000","Governor","statewide",144426,"Democrat","WOLF, THOMAS W",76136
+"PA","Blair","42013","4201300000","Governor","statewide",43522,"Green","GLOVER, PAUL",217
+"PA","Blair","42013","4201300000","Governor","statewide",43522,"Libertarian","KRAWCHUK, KENNETH V",508
+"PA","Blair","42013","4201300000","Governor","statewide",43522,"Republican","WAGNER, SCOTT R",28175
+"PA","Blair","42013","4201300000","Governor","statewide",43522,"Democrat","WOLF, THOMAS W",14622
+"PA","Bradford","42015","4201500000","Governor","statewide",20420,"Green","GLOVER, PAUL",181
+"PA","Bradford","42015","4201500000","Governor","statewide",20420,"Libertarian","KRAWCHUK, KENNETH V",319
+"PA","Bradford","42015","4201500000","Governor","statewide",20420,"Republican","WAGNER, SCOTT R",13068
+"PA","Bradford","42015","4201500000","Governor","statewide",20420,"Democrat","WOLF, THOMAS W",6852
+"PA","Bucks","42017","4201700000","Governor","statewide",294329,"Green","GLOVER, PAUL",1513
+"PA","Bucks","42017","4201700000","Governor","statewide",294329,"Libertarian","KRAWCHUK, KENNETH V",2602
+"PA","Bucks","42017","4201700000","Governor","statewide",294329,"Republican","WAGNER, SCOTT R",117912
+"PA","Bucks","42017","4201700000","Governor","statewide",294329,"Democrat","WOLF, THOMAS W",172302
+"PA","Butler","42019","4201900000","Governor","statewide",79711,"Green","GLOVER, PAUL",490
+"PA","Butler","42019","4201900000","Governor","statewide",79711,"Libertarian","KRAWCHUK, KENNETH V",1088
+"PA","Butler","42019","4201900000","Governor","statewide",79711,"Republican","WAGNER, SCOTT R",45242
+"PA","Butler","42019","4201900000","Governor","statewide",79711,"Democrat","WOLF, THOMAS W",32891
+"PA","Cambria","42021","4202100000","Governor","statewide",49894,"Green","GLOVER, PAUL",312
+"PA","Cambria","42021","4202100000","Governor","statewide",49894,"Libertarian","KRAWCHUK, KENNETH V",413
+"PA","Cambria","42021","4202100000","Governor","statewide",49894,"Republican","WAGNER, SCOTT R",27530
+"PA","Cambria","42021","4202100000","Governor","statewide",49894,"Democrat","WOLF, THOMAS W",21639
+"PA","Cameron","42023","4202300000","Governor","statewide",1773,"Green","GLOVER, PAUL",10
+"PA","Cameron","42023","4202300000","Governor","statewide",1773,"Libertarian","KRAWCHUK, KENNETH V",17
+"PA","Cameron","42023","4202300000","Governor","statewide",1773,"Republican","WAGNER, SCOTT R",1127
+"PA","Cameron","42023","4202300000","Governor","statewide",1773,"Democrat","WOLF, THOMAS W",619
+"PA","Carbon","42025","4202500000","Governor","statewide",22542,"Green","GLOVER, PAUL",140
+"PA","Carbon","42025","4202500000","Governor","statewide",22542,"Libertarian","KRAWCHUK, KENNETH V",267
+"PA","Carbon","42025","4202500000","Governor","statewide",22542,"Republican","WAGNER, SCOTT R",12476
+"PA","Carbon","42025","4202500000","Governor","statewide",22542,"Democrat","WOLF, THOMAS W",9659
+"PA","Centre","42027","4202700000","Governor","statewide",60678,"Green","GLOVER, PAUL",515
+"PA","Centre","42027","4202700000","Governor","statewide",60678,"Libertarian","KRAWCHUK, KENNETH V",849
+"PA","Centre","42027","4202700000","Governor","statewide",60678,"Republican","WAGNER, SCOTT R",24353
+"PA","Centre","42027","4202700000","Governor","statewide",60678,"Democrat","WOLF, THOMAS W",34961
+"PA","Chester","42029","4202900000","Governor","statewide",236775,"Green","GLOVER, PAUL",1242
+"PA","Chester","42029","4202900000","Governor","statewide",236775,"Libertarian","KRAWCHUK, KENNETH V",2448
+"PA","Chester","42029","4202900000","Governor","statewide",236775,"Republican","WAGNER, SCOTT R",87873
+"PA","Chester","42029","4202900000","Governor","statewide",236775,"Democrat","WOLF, THOMAS W",145212
+"PA","Clarion","42031","4203100000","Governor","statewide",14094,"Green","GLOVER, PAUL",114
+"PA","Clarion","42031","4203100000","Governor","statewide",14094,"Libertarian","KRAWCHUK, KENNETH V",195
+"PA","Clarion","42031","4203100000","Governor","statewide",14094,"Republican","WAGNER, SCOTT R",8594
+"PA","Clarion","42031","4203100000","Governor","statewide",14094,"Democrat","WOLF, THOMAS W",5191
+"PA","Clearfield","42033","4203300000","Governor","statewide",26892,"Green","GLOVER, PAUL",165
+"PA","Clearfield","42033","4203300000","Governor","statewide",26892,"Libertarian","KRAWCHUK, KENNETH V",251
+"PA","Clearfield","42033","4203300000","Governor","statewide",26892,"Republican","WAGNER, SCOTT R",17241
+"PA","Clearfield","42033","4203300000","Governor","statewide",26892,"Democrat","WOLF, THOMAS W",9235
+"PA","Clinton","42035","4203500000","Governor","statewide",12476,"Green","GLOVER, PAUL",67
+"PA","Clinton","42035","4203500000","Governor","statewide",12476,"Libertarian","KRAWCHUK, KENNETH V",165
+"PA","Clinton","42035","4203500000","Governor","statewide",12476,"Republican","WAGNER, SCOTT R",6727
+"PA","Clinton","42035","4203500000","Governor","statewide",12476,"Democrat","WOLF, THOMAS W",5517
+"PA","Columbia","42037","4203700000","Governor","statewide",22638,"Green","GLOVER, PAUL",148
+"PA","Columbia","42037","4203700000","Governor","statewide",22638,"Libertarian","KRAWCHUK, KENNETH V",244
+"PA","Columbia","42037","4203700000","Governor","statewide",22638,"Republican","WAGNER, SCOTT R",12424
+"PA","Columbia","42037","4203700000","Governor","statewide",22638,"Democrat","WOLF, THOMAS W",9822
+"PA","Crawford","42039","4203900000","Governor","statewide",30544,"Green","GLOVER, PAUL",206
+"PA","Crawford","42039","4203900000","Governor","statewide",30544,"Libertarian","KRAWCHUK, KENNETH V",342
+"PA","Crawford","42039","4203900000","Governor","statewide",30544,"Republican","WAGNER, SCOTT R",17859
+"PA","Crawford","42039","4203900000","Governor","statewide",30544,"Democrat","WOLF, THOMAS W",12137
+"PA","Cumberland","42041","4204100000","Governor","statewide",104478,"Green","GLOVER, PAUL",671
+"PA","Cumberland","42041","4204100000","Governor","statewide",104478,"Libertarian","KRAWCHUK, KENNETH V",1504
+"PA","Cumberland","42041","4204100000","Governor","statewide",104478,"Republican","WAGNER, SCOTT R",49496
+"PA","Cumberland","42041","4204100000","Governor","statewide",104478,"Democrat","WOLF, THOMAS W",52807
+"PA","Dauphin","42043","4204300000","Governor","statewide",108549,"Green","GLOVER, PAUL",706
+"PA","Dauphin","42043","4204300000","Governor","statewide",108549,"Libertarian","KRAWCHUK, KENNETH V",1362
+"PA","Dauphin","42043","4204300000","Governor","statewide",108549,"Republican","WAGNER, SCOTT R",42436
+"PA","Dauphin","42043","4204300000","Governor","statewide",108549,"Democrat","WOLF, THOMAS W",64045
+"PA","Delaware","42045","4204500000","Governor","statewide",250643,"Green","GLOVER, PAUL",1076
+"PA","Delaware","42045","4204500000","Governor","statewide",250643,"Libertarian","KRAWCHUK, KENNETH V",1780
+"PA","Delaware","42045","4204500000","Governor","statewide",250643,"Republican","WAGNER, SCOTT R",80576
+"PA","Delaware","42045","4204500000","Governor","statewide",250643,"Democrat","WOLF, THOMAS W",167211
+"PA","Elk","42047","4204700000","Governor","statewide",11301,"Green","GLOVER, PAUL",76
+"PA","Elk","42047","4204700000","Governor","statewide",11301,"Libertarian","KRAWCHUK, KENNETH V",101
+"PA","Elk","42047","4204700000","Governor","statewide",11301,"Republican","WAGNER, SCOTT R",6918
+"PA","Elk","42047","4204700000","Governor","statewide",11301,"Democrat","WOLF, THOMAS W",4206
+"PA","Erie","42049","4204900000","Governor","statewide",101711,"Green","GLOVER, PAUL",605
+"PA","Erie","42049","4204900000","Governor","statewide",101711,"Libertarian","KRAWCHUK, KENNETH V",929
+"PA","Erie","42049","4204900000","Governor","statewide",101711,"Republican","WAGNER, SCOTT R",39387
+"PA","Erie","42049","4204900000","Governor","statewide",101711,"Democrat","WOLF, THOMAS W",60790
+"PA","Fayette","42051","4205100000","Governor","statewide",40909,"Green","GLOVER, PAUL",263
+"PA","Fayette","42051","4205100000","Governor","statewide",40909,"Libertarian","KRAWCHUK, KENNETH V",384
+"PA","Fayette","42051","4205100000","Governor","statewide",40909,"Republican","WAGNER, SCOTT R",20471
+"PA","Fayette","42051","4205100000","Governor","statewide",40909,"Democrat","WOLF, THOMAS W",19791
+"PA","Forest","42053","4205300000","Governor","statewide",1938,"Green","GLOVER, PAUL",14
+"PA","Forest","42053","4205300000","Governor","statewide",1938,"Libertarian","KRAWCHUK, KENNETH V",19
+"PA","Forest","42053","4205300000","Governor","statewide",1938,"Republican","WAGNER, SCOTT R",1159
+"PA","Forest","42053","4205300000","Governor","statewide",1938,"Democrat","WOLF, THOMAS W",746
+"PA","Franklin","42055","4205500000","Governor","statewide",54922,"Green","GLOVER, PAUL",316
+"PA","Franklin","42055","4205500000","Governor","statewide",54922,"Libertarian","KRAWCHUK, KENNETH V",525
+"PA","Franklin","42055","4205500000","Governor","statewide",54922,"Republican","WAGNER, SCOTT R",35634
+"PA","Franklin","42055","4205500000","Governor","statewide",54922,"Democrat","WOLF, THOMAS W",18447
+"PA","Fulton","42057","4205700000","Governor","statewide",5323,"Green","GLOVER, PAUL",18
+"PA","Fulton","42057","4205700000","Governor","statewide",5323,"Libertarian","KRAWCHUK, KENNETH V",39
+"PA","Fulton","42057","4205700000","Governor","statewide",5323,"Republican","WAGNER, SCOTT R",4219
+"PA","Fulton","42057","4205700000","Governor","statewide",5323,"Democrat","WOLF, THOMAS W",1047
+"PA","Greene","42059","4205900000","Governor","statewide",12448,"Green","GLOVER, PAUL",108
+"PA","Greene","42059","4205900000","Governor","statewide",12448,"Libertarian","KRAWCHUK, KENNETH V",115
+"PA","Greene","42059","4205900000","Governor","statewide",12448,"Republican","WAGNER, SCOTT R",6381
+"PA","Greene","42059","4205900000","Governor","statewide",12448,"Democrat","WOLF, THOMAS W",5844
+"PA","Huntingdon","42061","4206100000","Governor","statewide",15901,"Green","GLOVER, PAUL",101
+"PA","Huntingdon","42061","4206100000","Governor","statewide",15901,"Libertarian","KRAWCHUK, KENNETH V",177
+"PA","Huntingdon","42061","4206100000","Governor","statewide",15901,"Republican","WAGNER, SCOTT R",10586
+"PA","Huntingdon","42061","4206100000","Governor","statewide",15901,"Democrat","WOLF, THOMAS W",5037
+"PA","Indiana","42063","4206300000","Governor","statewide",29396,"Green","GLOVER, PAUL",213
+"PA","Indiana","42063","4206300000","Governor","statewide",29396,"Libertarian","KRAWCHUK, KENNETH V",289
+"PA","Indiana","42063","4206300000","Governor","statewide",29396,"Republican","WAGNER, SCOTT R",16179
+"PA","Indiana","42063","4206300000","Governor","statewide",29396,"Democrat","WOLF, THOMAS W",12715
+"PA","Jefferson","42065","4206500000","Governor","statewide",15574,"Green","GLOVER, PAUL",88
+"PA","Jefferson","42065","4206500000","Governor","statewide",15574,"Libertarian","KRAWCHUK, KENNETH V",173
+"PA","Jefferson","42065","4206500000","Governor","statewide",15574,"Republican","WAGNER, SCOTT R",11036
+"PA","Jefferson","42065","4206500000","Governor","statewide",15574,"Democrat","WOLF, THOMAS W",4277
+"PA","Juniata","42067","4206700000","Governor","statewide",8493,"Green","GLOVER, PAUL",62
+"PA","Juniata","42067","4206700000","Governor","statewide",8493,"Libertarian","KRAWCHUK, KENNETH V",101
+"PA","Juniata","42067","4206700000","Governor","statewide",8493,"Republican","WAGNER, SCOTT R",5780
+"PA","Juniata","42067","4206700000","Governor","statewide",8493,"Democrat","WOLF, THOMAS W",2550
+"PA","Lackawanna","42069","4206900000","Governor","statewide",83913,"Green","GLOVER, PAUL",436
+"PA","Lackawanna","42069","4206900000","Governor","statewide",83913,"Libertarian","KRAWCHUK, KENNETH V",624
+"PA","Lackawanna","42069","4206900000","Governor","statewide",83913,"Republican","WAGNER, SCOTT R",28616
+"PA","Lackawanna","42069","4206900000","Governor","statewide",83913,"Democrat","WOLF, THOMAS W",54237
+"PA","Lancaster","42071","4207100000","Governor","statewide",202224,"Green","GLOVER, PAUL",1118
+"PA","Lancaster","42071","4207100000","Governor","statewide",202224,"Libertarian","KRAWCHUK, KENNETH V",2837
+"PA","Lancaster","42071","4207100000","Governor","statewide",202224,"Republican","WAGNER, SCOTT R",102229
+"PA","Lancaster","42071","4207100000","Governor","statewide",202224,"Democrat","WOLF, THOMAS W",96040
+"PA","Lawrence","42073","4207300000","Governor","statewide",32241,"Green","GLOVER, PAUL",201
+"PA","Lawrence","42073","4207300000","Governor","statewide",32241,"Libertarian","KRAWCHUK, KENNETH V",291
+"PA","Lawrence","42073","4207300000","Governor","statewide",32241,"Republican","WAGNER, SCOTT R",16714
+"PA","Lawrence","42073","4207300000","Governor","statewide",32241,"Democrat","WOLF, THOMAS W",15035
+"PA","Lebanon","42075","4207500000","Governor","statewide",49108,"Green","GLOVER, PAUL",255
+"PA","Lebanon","42075","4207500000","Governor","statewide",49108,"Libertarian","KRAWCHUK, KENNETH V",598
+"PA","Lebanon","42075","4207500000","Governor","statewide",49108,"Republican","WAGNER, SCOTT R",28096
+"PA","Lebanon","42075","4207500000","Governor","statewide",49108,"Democrat","WOLF, THOMAS W",20159
+"PA","Lehigh","42077","4207700000","Governor","statewide",128606,"Green","GLOVER, PAUL",802
+"PA","Lehigh","42077","4207700000","Governor","statewide",128606,"Libertarian","KRAWCHUK, KENNETH V",1485
+"PA","Lehigh","42077","4207700000","Governor","statewide",128606,"Republican","WAGNER, SCOTT R",49071
+"PA","Lehigh","42077","4207700000","Governor","statewide",128606,"Democrat","WOLF, THOMAS W",77248
+"PA","Luzerne","42079","4207900000","Governor","statewide",107823,"Green","GLOVER, PAUL",562
+"PA","Luzerne","42079","4207900000","Governor","statewide",107823,"Libertarian","KRAWCHUK, KENNETH V",826
+"PA","Luzerne","42079","4207900000","Governor","statewide",107823,"Republican","WAGNER, SCOTT R",50701
+"PA","Luzerne","42079","4207900000","Governor","statewide",107823,"Democrat","WOLF, THOMAS W",55734
+"PA","Lycoming","42081","4208100000","Governor","statewide",41025,"Green","GLOVER, PAUL",275
+"PA","Lycoming","42081","4208100000","Governor","statewide",41025,"Libertarian","KRAWCHUK, KENNETH V",453
+"PA","Lycoming","42081","4208100000","Governor","statewide",41025,"Republican","WAGNER, SCOTT R",25570
+"PA","Lycoming","42081","4208100000","Governor","statewide",41025,"Democrat","WOLF, THOMAS W",14727
+"PA","McKean","42083","4208300000","Governor","statewide",12593,"Green","GLOVER, PAUL",78
+"PA","McKean","42083","4208300000","Governor","statewide",12593,"Libertarian","KRAWCHUK, KENNETH V",104
+"PA","McKean","42083","4208300000","Governor","statewide",12593,"Republican","WAGNER, SCOTT R",8512
+"PA","McKean","42083","4208300000","Governor","statewide",12593,"Democrat","WOLF, THOMAS W",3899
+"PA","Mercer","42085","4208500000","Governor","statewide",41100,"Green","GLOVER, PAUL",276
+"PA","Mercer","42085","4208500000","Governor","statewide",41100,"Libertarian","KRAWCHUK, KENNETH V",413
+"PA","Mercer","42085","4208500000","Governor","statewide",41100,"Republican","WAGNER, SCOTT R",22211
+"PA","Mercer","42085","4208500000","Governor","statewide",41100,"Democrat","WOLF, THOMAS W",18200
+"PA","Mifflin","42087","4208700000","Governor","statewide",13745,"Green","GLOVER, PAUL",80
+"PA","Mifflin","42087","4208700000","Governor","statewide",13745,"Libertarian","KRAWCHUK, KENNETH V",130
+"PA","Mifflin","42087","4208700000","Governor","statewide",13745,"Republican","WAGNER, SCOTT R",9408
+"PA","Mifflin","42087","4208700000","Governor","statewide",13745,"Democrat","WOLF, THOMAS W",4127
+"PA","Monroe","42089","4208900000","Governor","statewide",55437,"Green","GLOVER, PAUL",362
+"PA","Monroe","42089","4208900000","Governor","statewide",55437,"Libertarian","KRAWCHUK, KENNETH V",481
+"PA","Monroe","42089","4208900000","Governor","statewide",55437,"Republican","WAGNER, SCOTT R",22530
+"PA","Monroe","42089","4208900000","Governor","statewide",55437,"Democrat","WOLF, THOMAS W",32064
+"PA","Montgomery","42091","4209100000","Governor","statewide",381446,"Green","GLOVER, PAUL",1728
+"PA","Montgomery","42091","4209100000","Governor","statewide",381446,"Libertarian","KRAWCHUK, KENNETH V",3260
+"PA","Montgomery","42091","4209100000","Governor","statewide",381446,"Republican","WAGNER, SCOTT R",120206
+"PA","Montgomery","42091","4209100000","Governor","statewide",381446,"Democrat","WOLF, THOMAS W",256252
+"PA","Montour","42093","4209300000","Governor","statewide",7015,"Green","GLOVER, PAUL",48
+"PA","Montour","42093","4209300000","Governor","statewide",7015,"Libertarian","KRAWCHUK, KENNETH V",97
+"PA","Montour","42093","4209300000","Governor","statewide",7015,"Republican","WAGNER, SCOTT R",3642
+"PA","Montour","42093","4209300000","Governor","statewide",7015,"Democrat","WOLF, THOMAS W",3228
+"PA","Northampton","42095","4209500000","Governor","statewide",115122,"Green","GLOVER, PAUL",635
+"PA","Northampton","42095","4209500000","Governor","statewide",115122,"Libertarian","KRAWCHUK, KENNETH V",1211
+"PA","Northampton","42095","4209500000","Governor","statewide",115122,"Republican","WAGNER, SCOTT R",47527
+"PA","Northampton","42095","4209500000","Governor","statewide",115122,"Democrat","WOLF, THOMAS W",65749
+"PA","Northumberland","42097","4209700000","Governor","statewide",28821,"Green","GLOVER, PAUL",204
+"PA","Northumberland","42097","4209700000","Governor","statewide",28821,"Libertarian","KRAWCHUK, KENNETH V",360
+"PA","Northumberland","42097","4209700000","Governor","statewide",28821,"Republican","WAGNER, SCOTT R",16122
+"PA","Northumberland","42097","4209700000","Governor","statewide",28821,"Democrat","WOLF, THOMAS W",12135
+"PA","Perry","42099","4209900000","Governor","statewide",17196,"Green","GLOVER, PAUL",114
+"PA","Perry","42099","4209900000","Governor","statewide",17196,"Libertarian","KRAWCHUK, KENNETH V",262
+"PA","Perry","42099","4209900000","Governor","statewide",17196,"Republican","WAGNER, SCOTT R",10915
+"PA","Perry","42099","4209900000","Governor","statewide",17196,"Democrat","WOLF, THOMAS W",5905
+"PA","Philadelphia","42101","4210100000","Governor","statewide",554175,"Green","GLOVER, PAUL",2944
+"PA","Philadelphia","42101","4210100000","Governor","statewide",554175,"Libertarian","KRAWCHUK, KENNETH V",2593
+"PA","Philadelphia","42101","4210100000","Governor","statewide",554175,"Republican","WAGNER, SCOTT R",64514
+"PA","Philadelphia","42101","4210100000","Governor","statewide",554175,"Democrat","WOLF, THOMAS W",484124
+"PA","Pike","42103","4210300000","Governor","statewide",20800,"Green","GLOVER, PAUL",134
+"PA","Pike","42103","4210300000","Governor","statewide",20800,"Libertarian","KRAWCHUK, KENNETH V",184
+"PA","Pike","42103","4210300000","Governor","statewide",20800,"Republican","WAGNER, SCOTT R",11408
+"PA","Pike","42103","4210300000","Governor","statewide",20800,"Democrat","WOLF, THOMAS W",9074
+"PA","Potter","42105","4210500000","Governor","statewide",6248,"Green","GLOVER, PAUL",42
+"PA","Potter","42105","4210500000","Governor","statewide",6248,"Libertarian","KRAWCHUK, KENNETH V",67
+"PA","Potter","42105","4210500000","Governor","statewide",6248,"Republican","WAGNER, SCOTT R",4687
+"PA","Potter","42105","4210500000","Governor","statewide",6248,"Democrat","WOLF, THOMAS W",1452
+"PA","Schuylkill","42107","4210700000","Governor","statewide",48718,"Green","GLOVER, PAUL",329
+"PA","Schuylkill","42107","4210700000","Governor","statewide",48718,"Libertarian","KRAWCHUK, KENNETH V",570
+"PA","Schuylkill","42107","4210700000","Governor","statewide",48718,"Republican","WAGNER, SCOTT R",26640
+"PA","Schuylkill","42107","4210700000","Governor","statewide",48718,"Democrat","WOLF, THOMAS W",21179
+"PA","Snyder","42109","4210900000","Governor","statewide",13332,"Green","GLOVER, PAUL",67
+"PA","Snyder","42109","4210900000","Governor","statewide",13332,"Libertarian","KRAWCHUK, KENNETH V",149
+"PA","Snyder","42109","4210900000","Governor","statewide",13332,"Republican","WAGNER, SCOTT R",8283
+"PA","Snyder","42109","4210900000","Governor","statewide",13332,"Democrat","WOLF, THOMAS W",4833
+"PA","Somerset","42111","4211100000","Governor","statewide",28728,"Green","GLOVER, PAUL",204
+"PA","Somerset","42111","4211100000","Governor","statewide",28728,"Libertarian","KRAWCHUK, KENNETH V",366
+"PA","Somerset","42111","4211100000","Governor","statewide",28728,"Republican","WAGNER, SCOTT R",19020
+"PA","Somerset","42111","4211100000","Governor","statewide",28728,"Democrat","WOLF, THOMAS W",9138
+"PA","Sullivan","42113","4211300000","Governor","statewide",2699,"Green","GLOVER, PAUL",11
+"PA","Sullivan","42113","4211300000","Governor","statewide",2699,"Libertarian","KRAWCHUK, KENNETH V",50
+"PA","Sullivan","42113","4211300000","Governor","statewide",2699,"Republican","WAGNER, SCOTT R",1661
+"PA","Sullivan","42113","4211300000","Governor","statewide",2699,"Democrat","WOLF, THOMAS W",977
+"PA","Susquehanna","42115","4211500000","Governor","statewide",15719,"Green","GLOVER, PAUL",132
+"PA","Susquehanna","42115","4211500000","Governor","statewide",15719,"Libertarian","KRAWCHUK, KENNETH V",177
+"PA","Susquehanna","42115","4211500000","Governor","statewide",15719,"Republican","WAGNER, SCOTT R",10137
+"PA","Susquehanna","42115","4211500000","Governor","statewide",15719,"Democrat","WOLF, THOMAS W",5273
+"PA","Tioga","42117","4211700000","Governor","statewide",14778,"Green","GLOVER, PAUL",136
+"PA","Tioga","42117","4211700000","Governor","statewide",14778,"Libertarian","KRAWCHUK, KENNETH V",179
+"PA","Tioga","42117","4211700000","Governor","statewide",14778,"Republican","WAGNER, SCOTT R",10472
+"PA","Tioga","42117","4211700000","Governor","statewide",14778,"Democrat","WOLF, THOMAS W",3991
+"PA","Union","42119","4211900000","Governor","statewide",14396,"Green","GLOVER, PAUL",93
+"PA","Union","42119","4211900000","Governor","statewide",14396,"Libertarian","KRAWCHUK, KENNETH V",201
+"PA","Union","42119","4211900000","Governor","statewide",14396,"Republican","WAGNER, SCOTT R",7676
+"PA","Union","42119","4211900000","Governor","statewide",14396,"Democrat","WOLF, THOMAS W",6426
+"PA","Venango","42121","4212100000","Governor","statewide",18625,"Green","GLOVER, PAUL",96
+"PA","Venango","42121","4212100000","Governor","statewide",18625,"Libertarian","KRAWCHUK, KENNETH V",242
+"PA","Venango","42121","4212100000","Governor","statewide",18625,"Republican","WAGNER, SCOTT R",10856
+"PA","Venango","42121","4212100000","Governor","statewide",18625,"Democrat","WOLF, THOMAS W",7431
+"PA","Warren","42123","4212300000","Governor","statewide",14483,"Green","GLOVER, PAUL",108
+"PA","Warren","42123","4212300000","Governor","statewide",14483,"Libertarian","KRAWCHUK, KENNETH V",162
+"PA","Warren","42123","4212300000","Governor","statewide",14483,"Republican","WAGNER, SCOTT R",8766
+"PA","Warren","42123","4212300000","Governor","statewide",14483,"Democrat","WOLF, THOMAS W",5447
+"PA","Washington","42125","4212500000","Governor","statewide",82418,"Green","GLOVER, PAUL",576
+"PA","Washington","42125","4212500000","Governor","statewide",82418,"Libertarian","KRAWCHUK, KENNETH V",1282
+"PA","Washington","42125","4212500000","Governor","statewide",82418,"Republican","WAGNER, SCOTT R",40662
+"PA","Washington","42125","4212500000","Governor","statewide",82418,"Democrat","WOLF, THOMAS W",39898
+"PA","Wayne","42127","4212700000","Governor","statewide",20086,"Green","GLOVER, PAUL",134
+"PA","Wayne","42127","4212700000","Governor","statewide",20086,"Libertarian","KRAWCHUK, KENNETH V",178
+"PA","Wayne","42127","4212700000","Governor","statewide",20086,"Republican","WAGNER, SCOTT R",11751
+"PA","Wayne","42127","4212700000","Governor","statewide",20086,"Democrat","WOLF, THOMAS W",8023
+"PA","Westmoreland","42129","4212900000","Governor","statewide",146295,"Green","GLOVER, PAUL",690
+"PA","Westmoreland","42129","4212900000","Governor","statewide",146295,"Libertarian","KRAWCHUK, KENNETH V",1529
+"PA","Westmoreland","42129","4212900000","Governor","statewide",146295,"Republican","WAGNER, SCOTT R",76126
+"PA","Westmoreland","42129","4212900000","Governor","statewide",146295,"Democrat","WOLF, THOMAS W",67950
+"PA","Wyoming","42131","4213100000","Governor","statewide",10649,"Green","GLOVER, PAUL",104
+"PA","Wyoming","42131","4213100000","Governor","statewide",10649,"Libertarian","KRAWCHUK, KENNETH V",100
+"PA","Wyoming","42131","4213100000","Governor","statewide",10649,"Republican","WAGNER, SCOTT R",6344
+"PA","Wyoming","42131","4213100000","Governor","statewide",10649,"Democrat","WOLF, THOMAS W",4101
+"PA","York","42133","4213300000","Governor","statewide",168978,"Green","GLOVER, PAUL",910
+"PA","York","42133","4213300000","Governor","statewide",168978,"Libertarian","KRAWCHUK, KENNETH V",2165
+"PA","York","42133","4213300000","Governor","statewide",168978,"Republican","WAGNER, SCOTT R",90590
+"PA","York","42133","4213300000","Governor","statewide",168978,"Democrat","WOLF, THOMAS W",75313
+"PA","Bucks","42017","4201700000","Senate Senate","10",128373,"Republican","QUINN, MARGUERITE C",60935
+"PA","Bucks","42017","4201700000","Senate Senate","10",128373,"Democrat","SANTARSIERO, STEVEN J",67438
+"PA","Bucks","42017","4201700000","Senate Senate","12",34277,"Democrat","COLLETT, MARIA",16683
+"PA","Bucks","42017","4201700000","Senate Senate","12",34277,"Republican","GREENLEAF, STEWART JR",17594
+"PA","Montgomery","42091","4209100000","Senate Senate","12",83534,"Democrat","COLLETT, MARIA",45386
+"PA","Montgomery","42091","4209100000","Senate Senate","12",83534,"Republican","GREENLEAF, STEWART JR",38148
+"PA","Carbon","42025","4202500000","Senate Senate","14",11850,"Democrat","YUDICHAK, JOHN T",11850
+"PA","Luzerne","42079","4207900000","Senate Senate","14",39671,"Democrat","YUDICHAK, JOHN T",39671
+"PA","Lehigh","42077","4207700000","Senate Senate","16",95097,"Republican","BROWNE, PATRICK M",48897
+"PA","Lehigh","42077","4207700000","Senate Senate","16",95097,"Democrat","PINSLEY, MARK",46200
+"PA","Lehigh","42077","4207700000","Senate Senate","18",22665,"Democrat","BOSCOLA, LISA M",22665
+"PA","Northampton","42095","4209500000","Senate Senate","18",43040,"Democrat","BOSCOLA, LISA M",43040
+"PA","Philadelphia","42101","4210100000","Senate Senate","2",58717,"Democrat","TARTAGLIONE, CHRISTINE M",58717
+"PA","Luzerne","42079","4207900000","Senate Senate","20",27946,"Republican","BAKER, ELISABETH J",23170
+"PA","Luzerne","42079","4207900000","Senate Senate","20",27946,"Green","SWEENEY, JOHN J",4776
+"PA","Pike","42103","4210300000","Senate Senate","20",17527,"Republican","BAKER, ELISABETH J",13495
+"PA","Pike","42103","4210300000","Senate Senate","20",17527,"Green","SWEENEY, JOHN J",4032
+"PA","Susquehanna","42115","4211500000","Senate Senate","20",8791,"Republican","BAKER, ELISABETH J",7598
+"PA","Susquehanna","42115","4211500000","Senate Senate","20",8791,"Green","SWEENEY, JOHN J",1193
+"PA","Wayne","42127","4212700000","Senate Senate","20",17763,"Republican","BAKER, ELISABETH J",15009
+"PA","Wayne","42127","4212700000","Senate Senate","20",17763,"Green","SWEENEY, JOHN J",2754
+"PA","Wyoming","42131","4213100000","Senate Senate","20",9790,"Republican","BAKER, ELISABETH J",8078
+"PA","Wyoming","42131","4213100000","Senate Senate","20",9790,"Green","SWEENEY, JOHN J",1712
+"PA","Lackawanna","42069","4206900000","Senate Senate","22",83191,"Democrat","BLAKE, JOHN P",51472
+"PA","Lackawanna","42069","4206900000","Senate Senate","22",83191,"Republican","SCAVO, FRANK J III",31719
+"PA","Luzerne","42079","4207900000","Senate Senate","22",5501,"Democrat","BLAKE, JOHN P",2985
+"PA","Luzerne","42079","4207900000","Senate Senate","22",5501,"Republican","SCAVO, FRANK J III",2516
+"PA","Monroe","42089","4208900000","Senate Senate","22",7920,"Democrat","BLAKE, JOHN P",4792
+"PA","Monroe","42089","4208900000","Senate Senate","22",7920,"Republican","SCAVO, FRANK J III",3128
+"PA","Berks","42011","4201100000","Senate Senate","24",13110,"Democrat","FIELDS, LINDA",5005
+"PA","Berks","42011","4201100000","Senate Senate","24",13110,"Republican","MENSCH, ROBERT BRUCE",8105
+"PA","Bucks","42017","4201700000","Senate Senate","24",22264,"Democrat","FIELDS, LINDA",9840
+"PA","Bucks","42017","4201700000","Senate Senate","24",22264,"Republican","MENSCH, ROBERT BRUCE",12424
+"PA","Montgomery","42091","4209100000","Senate Senate","24",68770,"Democrat","FIELDS, LINDA",34713
+"PA","Montgomery","42091","4209100000","Senate Senate","24",68770,"Republican","MENSCH, ROBERT BRUCE",34057
+"PA","Chester","42029","4202900000","Senate Senate","26",12366,"Democrat","KEARNEY, TIMOTHY P",6478
+"PA","Chester","42029","4202900000","Senate Senate","26",12366,"Republican","MCGARRIGLE, THOMAS J SR",5888
+"PA","Delaware","42045","4204500000","Senate Senate","26",108581,"Democrat","KEARNEY, TIMOTHY P",59182
+"PA","Delaware","42045","4204500000","Senate Senate","26",108581,"Republican","MCGARRIGLE, THOMAS J SR",49399
+"PA","York","42133","4213300000","Senate Senate","28",99485,"Democrat","MCCORMICK HIGGINS, JUDITH  A",37105
+"PA","York","42133","4213300000","Senate Senate","28",99485,"Republican","PHILLIPS-HILL, KRISTIN LEE",62380
+"PA","Blair","42013","4201300000","Senate Senate","30",43481,"Democrat","GARBUNY BEST, EMILY",12523
+"PA","Blair","42013","4201300000","Senate Senate","30",43481,"Republican","WARD, JUDITH F",30958
+"PA","Cumberland","42041","4204100000","Senate Senate","30",12900,"Democrat","GARBUNY BEST, EMILY",4272
+"PA","Cumberland","42041","4204100000","Senate Senate","30",12900,"Republican","WARD, JUDITH F",8628
+"PA","Franklin","42055","4205500000","Senate Senate","30",15598,"Democrat","GARBUNY BEST, EMILY",3426
+"PA","Franklin","42055","4205500000","Senate Senate","30",15598,"Republican","WARD, JUDITH F",12172
+"PA","Fulton","42057","4205700000","Senate Senate","30",5291,"Democrat","GARBUNY BEST, EMILY",1034
+"PA","Fulton","42057","4205700000","Senate Senate","30",5291,"Republican","WARD, JUDITH F",4257
+"PA","Huntingdon","42061","4206100000","Senate Senate","30",10025,"Democrat","GARBUNY BEST, EMILY",2429
+"PA","Huntingdon","42061","4206100000","Senate Senate","30",10025,"Republican","WARD, JUDITH F",7596
+"PA","Fayette","42051","4205100000","Senate Senate","32",40802,"Democrat","GERARD, PAMELA",16177
+"PA","Fayette","42051","4205100000","Senate Senate","32",40802,"Republican","STEFANO, PATRICK J.",24625
+"PA","Somerset","42111","4211100000","Senate Senate","32",28613,"Democrat","GERARD, PAMELA",6532
+"PA","Somerset","42111","4211100000","Senate Senate","32",28613,"Republican","STEFANO, PATRICK J.",22081
+"PA","Westmoreland","42129","4212900000","Senate Senate","32",13373,"Democrat","GERARD, PAMELA",5662
+"PA","Westmoreland","42129","4212900000","Senate Senate","32",13373,"Republican","STEFANO, PATRICK J.",7711
+"PA","Centre","42027","4202700000","Senate Senate","34",60359,"Republican","CORMAN, JACOB D III",28592
+"PA","Centre","42027","4202700000","Senate Senate","34",60359,"Democrat","NANES, EZRA J",31767
+"PA","Huntingdon","42061","4206100000","Senate Senate","34",5804,"Republican","CORMAN, JACOB D III",3577
+"PA","Huntingdon","42061","4206100000","Senate Senate","34",5804,"Democrat","NANES, EZRA J",2227
+"PA","Juniata","42067","4206700000","Senate Senate","34",8450,"Republican","CORMAN, JACOB D III",6548
+"PA","Juniata","42067","4206700000","Senate Senate","34",8450,"Democrat","NANES, EZRA J",1902
+"PA","Mifflin","42087","4208700000","Senate Senate","34",13721,"Republican","CORMAN, JACOB D III",10542
+"PA","Mifflin","42087","4208700000","Senate Senate","34",13721,"Democrat","NANES, EZRA J",3179
+"PA","Lancaster","42071","4207100000","Senate Senate","36",105131,"Republican","AUMENT, RYAN  PATRICK",69851
+"PA","Lancaster","42071","4207100000","Senate Senate","36",105131,"Democrat","TROUTMAN, WILLIAM N JR",35280
+"PA","Allegheny","42003","4200300000","Senate Senate","38",123929,"Republican","SHAFFER, JEREMY KEVIN",61568
+"PA","Allegheny","42003","4200300000","Senate Senate","38",123929,"Democrat","WILLIAMS, LINDSEY MARIE",62361
+"PA","Montgomery","42091","4209100000","Senate Senate","4",62321,"Democrat","HAYWOOD, ARTHUR L III",47117
+"PA","Montgomery","42091","4209100000","Senate Senate","4",62321,"Republican","HOLT, RONALD F",15204
+"PA","Philadelphia","42101","4210100000","Senate Senate","4",64894,"Democrat","HAYWOOD, ARTHUR L III",63030
+"PA","Philadelphia","42101","4210100000","Senate Senate","4",64894,"Republican","HOLT, RONALD F",1864
+"PA","Monroe","42089","4208900000","Senate Senate","40",47331,"Democrat","PROBST, TARAH DOROTHEA",21963
+"PA","Monroe","42089","4208900000","Senate Senate","40",47331,"Libertarian","REINHARDT, ADAM",494
+"PA","Monroe","42089","4208900000","Senate Senate","40",47331,"Republican","SCAVELLO, MARIO M",24874
+"PA","Northampton","42095","4209500000","Senate Senate","40",51099,"Democrat","PROBST, TARAH DOROTHEA",20433
+"PA","Northampton","42095","4209500000","Senate Senate","40",51099,"Libertarian","REINHARDT, ADAM",757
+"PA","Northampton","42095","4209500000","Senate Senate","40",51099,"Republican","SCAVELLO, MARIO M",29909
+"PA","Allegheny","42003","4200300000","Senate Senate","42",86288,"Democrat","FONTANA, WAYNE D",86288
+"PA","Berks","42011","4201100000","Senate Senate","44",8263,"Democrat","MUTH, KATIE J",3494
+"PA","Berks","42011","4201100000","Senate Senate","44",8263,"Republican","RAFFERTY, JOHN C JR",4769
+"PA","Chester","42029","4202900000","Senate Senate","44",61114,"Democrat","MUTH, KATIE J",31698
+"PA","Chester","42029","4202900000","Senate Senate","44",61114,"Republican","RAFFERTY, JOHN C JR",29416
+"PA","Montgomery","42091","4209100000","Senate Senate","44",51258,"Democrat","MUTH, KATIE J",27500
+"PA","Montgomery","42091","4209100000","Senate Senate","44",51258,"Republican","RAFFERTY, JOHN C JR",23758
+"PA","Beaver","42007","4200700000","Senate Senate","46",11455,"Republican","BARTOLOTTA, CAMERA C",5382
+"PA","Beaver","42007","4200700000","Senate Senate","46",11455,"Democrat","CRAIG, JAMES R",6073
+"PA","Greene","42059","4205900000","Senate Senate","46",12323,"Republican","BARTOLOTTA, CAMERA C",7810
+"PA","Greene","42059","4205900000","Senate Senate","46",12323,"Democrat","CRAIG, JAMES R",4513
+"PA","Washington","42125","4212500000","Senate Senate","46",70657,"Republican","BARTOLOTTA, CAMERA C",42335
+"PA","Washington","42125","4212500000","Senate Senate","46",70657,"Democrat","CRAIG, JAMES R",28322
+"PA","Dauphin","42043","4204300000","Senate Senate","48",23119,"Republican","FOLMER, MICHAEL J",12009
+"PA","Dauphin","42043","4204300000","Senate Senate","48",23119,"Democrat","HERR, LOIS  K",11110
+"PA","Lebanon","42075","4207500000","Senate Senate","48",48972,"Republican","FOLMER, MICHAEL J",34146
+"PA","Lebanon","42075","4207500000","Senate Senate","48",48972,"Democrat","HERR, LOIS  K",14826
+"PA","York","42133","4213300000","Senate Senate","48",23811,"Republican","FOLMER, MICHAEL J",14202
+"PA","York","42133","4213300000","Senate Senate","48",23811,"Democrat","HERR, LOIS  K",9609
+"PA","Crawford","42039","4203900000","Senate Senate","50",30373,"Republican","BROOKS, MICHELE",21159
+"PA","Crawford","42039","4203900000","Senate Senate","50",30373,"Democrat","MULVEY, SUE ANN",9214
+"PA","Erie","42049","4204900000","Senate Senate","50",12098,"Republican","BROOKS, MICHELE",7557
+"PA","Erie","42049","4204900000","Senate Senate","50",12098,"Democrat","MULVEY, SUE ANN",4541
+"PA","Mercer","42085","4208500000","Senate Senate","50",41049,"Republican","BROOKS, MICHELE",25980
+"PA","Mercer","42085","4208500000","Senate Senate","50",41049,"Democrat","MULVEY, SUE ANN",15069
+"PA","Warren","42123","4212300000","Senate Senate","50",1253,"Republican","BROOKS, MICHELE",952
+"PA","Warren","42123","4212300000","Senate Senate","50",1253,"Democrat","MULVEY, SUE ANN",301
+"PA","Bucks","42017","4201700000","Senate Senate","6",108690,"Democrat","DAVIS, TINA",54308
+"PA","Bucks","42017","4201700000","Senate Senate","6",108690,"Republican","TOMLINSON, ROBERT M",54382
+"PA","Delaware","42045","4204500000","Senate Senate","8",22885,"Democrat","WILLIAMS, ANTHONY  H",22885
+"PA","Philadelphia","42101","4210100000","Senate Senate","8",63207,"Democrat","WILLIAMS, ANTHONY  H",63207
+"PA","Erie","42049","4204900000","State House","1",13019,"Democrat","HARKINS, PATRICK J",13019
+"PA","Beaver","42007","4200700000","State House","10",8696,"Republican","BERNSTINE, AARON JOSEPH",6427
+"PA","Beaver","42007","4200700000","State House","10",8696,"Green","SLAPPY, DARCELLE L",2269
+"PA","Butler","42019","4201900000","State House","10",2565,"Republican","BERNSTINE, AARON JOSEPH",1888
+"PA","Butler","42019","4201900000","State House","10",2565,"Green","SLAPPY, DARCELLE L",677
+"PA","Lawrence","42073","4207300000","State House","10",9316,"Republican","BERNSTINE, AARON JOSEPH",7775
+"PA","Lawrence","42073","4207300000","State House","10",9316,"Green","SLAPPY, DARCELLE L",1541
+"PA","Lancaster","42071","4207100000","State House","100",19586,"Republican","CUTLER, BRYAN D",14111
+"PA","Lancaster","42071","4207100000","State House","100",19586,"Democrat","HAMBY, DALE ALLEN",5475
+"PA","Lebanon","42075","4207500000","State House","101",24065,"Democrat","LIRIANO, CESAR F",8553
+"PA","Lebanon","42075","4207500000","State House","101",24065,"Republican","RYAN, FRANCIS X",15512
+"PA","Lebanon","42075","4207500000","State House","102",17966,"Republican","DIAMOND, RUSS",17966
+"PA","Dauphin","42043","4204300000","State House","103",18363,"Republican","HARRELL, ANTHONY THOMAS",2941
+"PA","Dauphin","42043","4204300000","State House","103",18363,"Democrat","KIM, PATTY H",15422
+"PA","Dauphin","42043","4204300000","State House","104",26094,"Republican","HELM, SUSAN C",13645
+"PA","Dauphin","42043","4204300000","State House","104",26094,"Democrat","SMITH, PATRICIA ANN",12449
+"PA","Lebanon","42075","4207500000","State House","104",2147,"Republican","HELM, SUSAN C",1740
+"PA","Lebanon","42075","4207500000","State House","104",2147,"Democrat","SMITH, PATRICIA ANN",407
+"PA","Dauphin","42043","4204300000","State House","105",31066,"Democrat","EPSTEIN, ERIC J",15277
+"PA","Dauphin","42043","4204300000","State House","105",31066,"Republican","LEWIS, ANDREW",15789
+"PA","Dauphin","42043","4204300000","State House","106",26592,"Democrat","LINTA, JILL",12079
+"PA","Dauphin","42043","4204300000","State House","106",26592,"Republican","MEHAFFIE, THOMAS L III",14513
+"PA","Columbia","42037","4203700000","State House","107",1473,"Democrat","DONNELLY, SARAH",416
+"PA","Columbia","42037","4203700000","State House","107",1473,"Republican","MASSER, KURT A",1057
+"PA","Montour","42093","4209300000","State House","107",6984,"Democrat","DONNELLY, SARAH",2421
+"PA","Montour","42093","4209300000","State House","107",6984,"Republican","MASSER, KURT A",4563
+"PA","Northumberland","42097","4209700000","State House","107",11802,"Democrat","DONNELLY, SARAH",3744
+"PA","Northumberland","42097","4209700000","State House","107",11802,"Republican","MASSER, KURT A",8058
+"PA","Northumberland","42097","4209700000","State House","108",14270,"Republican","SCHLEGEL CULVER, LYNDA J",14270
+"PA","Snyder","42109","4210900000","State House","108",3271,"Republican","SCHLEGEL CULVER, LYNDA J",3271
+"PA","Columbia","42037","4203700000","State House","109",21188,"Republican","MILLARD, DAVID R",14039
+"PA","Columbia","42037","4203700000","State House","109",21188,"Democrat","SANDERS, EDWARD THOMAS III",7149
+"PA","Butler","42019","4201900000","State House","11",21018,"Independent","DOCTOR, SAMUEL",4939
+"PA","Butler","42019","4201900000","State House","11",21018,"Republican","ELLIS, BRIAN L",16079
+"PA","Bradford","42015","4201500000","State House","110",14662,"Democrat","IANNONE, DONNA",4209
+"PA","Bradford","42015","4201500000","State House","110",14662,"Republican","PICKETT, TINA",10453
+"PA","Sullivan","42113","4211300000","State House","110",2738,"Democrat","IANNONE, DONNA",972
+"PA","Sullivan","42113","4211300000","State House","110",2738,"Republican","PICKETT, TINA",1766
+"PA","Susquehanna","42115","4211500000","State House","110",3177,"Democrat","IANNONE, DONNA",748
+"PA","Susquehanna","42115","4211500000","State House","110",3177,"Republican","PICKETT, TINA",2429
+"PA","Susquehanna","42115","4211500000","State House","111",12473,"Republican","FRITZ, JONATHAN A.",8842
+"PA","Susquehanna","42115","4211500000","State House","111",12473,"Democrat","KINNEY, REBECCA L",3631
+"PA","Wayne","42127","4212700000","State House","111",10183,"Republican","FRITZ, JONATHAN A.",7402
+"PA","Wayne","42127","4212700000","State House","111",10183,"Democrat","KINNEY, REBECCA L",2781
+"PA","Lackawanna","42069","4206900000","State House","112",24509,"Republican","LEMONCELLI, ERNEST DOMINIC",7428
+"PA","Lackawanna","42069","4206900000","State House","112",24509,"Democrat","MULLINS, KYLE J",17081
+"PA","Lackawanna","42069","4206900000","State House","113",16661,"Democrat","FLYNN, MARTIN B",16661
+"PA","Lackawanna","42069","4206900000","State House","114",15787,"Democrat","KAVULICH, MICHAEL G",15787
+"PA","Monroe","42089","4208900000","State House","115",18827,"Democrat","MADDEN, MAUREEN E",11316
+"PA","Monroe","42089","4208900000","State House","115",18827,"Republican","PARKER, DAVID C",7511
+"PA","Luzerne","42079","4207900000","State House","116",14996,"Republican","TOOHIL, TARAH C",14996
+"PA","Lackawanna","42069","4206900000","State House","117",1557,"Republican","BOBACK, KAREN",1192
+"PA","Lackawanna","42069","4206900000","State House","117",1557,"Libertarian","JASIKOFF, LOU",365
+"PA","Luzerne","42079","4207900000","State House","117",10651,"Republican","BOBACK, KAREN",9029
+"PA","Luzerne","42079","4207900000","State House","117",10651,"Libertarian","JASIKOFF, LOU",1622
+"PA","Wyoming","42131","4213100000","State House","117",10150,"Republican","BOBACK, KAREN",8139
+"PA","Wyoming","42131","4213100000","State House","117",10150,"Libertarian","JASIKOFF, LOU",2011
+"PA","Lackawanna","42069","4206900000","State House","118",4555,"Democrat","CARROLL, MICHAEL B",4555
+"PA","Luzerne","42079","4207900000","State House","118",11381,"Democrat","CARROLL, MICHAEL B",11381
+"PA","Luzerne","42079","4207900000","State House","119",20203,"Republican","BEHRENS, JUSTIN  V",9484
+"PA","Luzerne","42079","4207900000","State House","119",20203,"Democrat","MULLERY, GERALD J",10719
+"PA","Butler","42019","4201900000","State House","12",31008,"Republican","METCALFE, DARYL D",18086
+"PA","Butler","42019","4201900000","State House","12",31008,"Democrat","SMITH, DANIEL BURTON JR",12922
+"PA","Luzerne","42079","4207900000","State House","120",16677,"Republican","KAUFER, AARON D.",16677
+"PA","Luzerne","42079","4207900000","State House","121",16912,"Republican","HENRY, SUSAN",7222
+"PA","Luzerne","42079","4207900000","State House","121",16912,"Democrat","PASHINSKI, EDWIN A",9690
+"PA","Carbon","42025","4202500000","State House","122",21390,"Republican","HEFFLEY, DOYLE M",14355
+"PA","Carbon","42025","4202500000","State House","122",21390,"Democrat","SCOTT, KARA M",7035
+"PA","Schuylkill","42107","4210700000","State House","123",12020,"Democrat","GOODMAN, NEAL P",12020
+"PA","Berks","42011","4201100000","State House","124",5756,"Republican","KNOWLES, JEROME P",5756
+"PA","Carbon","42025","4202500000","State House","124",746,"Republican","KNOWLES, JEROME P",746
+"PA","Schuylkill","42107","4210700000","State House","124",11427,"Republican","KNOWLES, JEROME P",11427
+"PA","Dauphin","42043","4204300000","State House","125",3338,"Republican","TOBASH, MICHAEL G",3338
+"PA","Schuylkill","42107","4210700000","State House","125",14905,"Republican","TOBASH, MICHAEL G",14905
+"PA","Berks","42011","4201100000","State House","126",15291,"Democrat","ROZZI, MARK LUCIO",15291
+"PA","Berks","42011","4201100000","State House","127",10425,"Democrat","CALTAGIRONE, THOMAS R",8333
+"PA","Berks","42011","4201100000","State House","127",10425,"Republican","GAGLIARDO, VINCENT D JR",2092
+"PA","Berks","42011","4201100000","State House","128",25289,"Republican","GILLEN, MARK M",14805
+"PA","Berks","42011","4201100000","State House","128",25289,"Democrat","METCALFE, DOUGLAS B",10484
+"PA","Lancaster","42071","4207100000","State House","128",2373,"Republican","GILLEN, MARK M",1902
+"PA","Lancaster","42071","4207100000","State House","128",2373,"Democrat","METCALFE, DOUGLAS B",471
+"PA","Berks","42011","4201100000","State House","129",21954,"Republican","COX, JAMES A JR",11350
+"PA","Berks","42011","4201100000","State House","129",21954,"Democrat","WERTZ, TRICIA L",10604
+"PA","Lancaster","42071","4207100000","State House","129",4550,"Republican","COX, JAMES A JR",3214
+"PA","Lancaster","42071","4207100000","State House","129",4550,"Democrat","WERTZ, TRICIA L",1336
+"PA","Chester","42029","4202900000","State House","13",24220,"Republican","LAWRENCE, JOHN ADDA",13009
+"PA","Chester","42029","4202900000","State House","13",24220,"Libertarian","PIROCCHI, DOMINIC J",306
+"PA","Chester","42029","4202900000","State House","13",24220,"Democrat","WALKER, SUSANNAH L",10905
+"PA","Lancaster","42071","4207100000","State House","13",1139,"Republican","LAWRENCE, JOHN ADDA",787
+"PA","Lancaster","42071","4207100000","State House","13",1139,"Libertarian","PIROCCHI, DOMINIC J",7
+"PA","Lancaster","42071","4207100000","State House","13",1139,"Democrat","WALKER, SUSANNAH L",345
+"PA","Berks","42011","4201100000","State House","130",18369,"Republican","MALONEY, DAVID M SR",18369
+"PA","Lehigh","42077","4207700000","State House","131",19249,"Democrat","LEE, ANDREW SCOTT",9070
+"PA","Lehigh","42077","4207700000","State House","131",19249,"Republican","SIMMONS, JUSTIN J",10179
+"PA","Montgomery","42091","4209100000","State House","131",6328,"Democrat","LEE, ANDREW SCOTT",2762
+"PA","Montgomery","42091","4209100000","State House","131",6328,"Republican","SIMMONS, JUSTIN J",3566
+"PA","Northampton","42095","4209500000","State House","131",3917,"Democrat","LEE, ANDREW SCOTT",2083
+"PA","Northampton","42095","4209500000","State House","131",3917,"Republican","SIMMONS, JUSTIN J",1834
+"PA","Lehigh","42077","4207700000","State House","132",14025,"Democrat","SCHLOSSBERG, MICHAEL H",14025
+"PA","Lehigh","42077","4207700000","State House","133",15366,"Democrat","MCNEILL, JEANNE",15366
+"PA","Berks","42011","4201100000","State House","134",6700,"Democrat","APPLEBACH, THOMAS LEE",2489
+"PA","Berks","42011","4201100000","State House","134",6700,"Republican","MACKENZIE, RYAN E",4211
+"PA","Lehigh","42077","4207700000","State House","134",21644,"Democrat","APPLEBACH, THOMAS LEE",9618
+"PA","Lehigh","42077","4207700000","State House","134",21644,"Republican","MACKENZIE, RYAN E",12026
+"PA","Northampton","42095","4209500000","State House","135",15872,"Democrat","SAMUELSON, STEPHEN P",15872
+"PA","Northampton","42095","4209500000","State House","136",14516,"Democrat","FREEMAN, ROBERT",14516
+"PA","Northampton","42095","4209500000","State House","137",25696,"Democrat","COZZE, AMY",11203
+"PA","Northampton","42095","4209500000","State House","137",25696,"Republican","EMRICK, JOSEPH T",14200
+"PA","Northampton","42095","4209500000","State House","137",25696,"Libertarian","REAGAN, ED",293
+"PA","Northampton","42095","4209500000","State House","138",28920,"Democrat","DONAHER, DEAN",11741
+"PA","Northampton","42095","4209500000","State House","138",28920,"Republican","HAHN, MARCIA M",16705
+"PA","Northampton","42095","4209500000","State House","138",28920,"Libertarian","TOWNE, JAKE",474
+"PA","Pike","42103","4210300000","State House","139",15137,"Democrat","MARRERO, ORLANDO D",5179
+"PA","Pike","42103","4210300000","State House","139",15137,"Republican","PEIFER, MICHAEL T",9958
+"PA","Wayne","42127","4212700000","State House","139",9764,"Democrat","MARRERO, ORLANDO D",2674
+"PA","Wayne","42127","4212700000","State House","139",9764,"Republican","PEIFER, MICHAEL T",7090
+"PA","Beaver","42007","4200700000","State House","14",19534,"Democrat","FAZIO, AMY",7170
+"PA","Beaver","42007","4200700000","State House","14",19534,"Republican","MARSHALL, JAMES E",12364
+"PA","Butler","42019","4201900000","State House","14",6240,"Democrat","FAZIO, AMY",2344
+"PA","Butler","42019","4201900000","State House","14",6240,"Republican","MARSHALL, JAMES E",3896
+"PA","Bucks","42017","4201700000","State House","140",17490,"Democrat","GALLOWAY, JOHN T",17490
+"PA","Bucks","42017","4201700000","State House","141",21484,"Democrat","DAVIS, TINA",13347
+"PA","Bucks","42017","4201700000","State House","141",21484,"Republican","SPOSATO, ANTHONY",8137
+"PA","Bucks","42017","4201700000","State House","142",32418,"Republican","FARRY, FRANK ANTHONY III",18177
+"PA","Bucks","42017","4201700000","State House","142",32418,"Democrat","LAREAU, MALINDA LAUREN",14241
+"PA","Bucks","42017","4201700000","State House","143",34102,"Republican","FLOOD, JOSEPH PATRICK",16763
+"PA","Bucks","42017","4201700000","State House","143",34102,"Democrat","ULLMAN, WENDY",17339
+"PA","Bucks","42017","4201700000","State House","144",30324,"Democrat","BUCK, MEREDITH JEAN",14867
+"PA","Bucks","42017","4201700000","State House","144",30324,"Republican","POLINCHOCK, F TODD",15457
+"PA","Bucks","42017","4201700000","State House","145",27595,"Democrat","KLINE, BRIAN",11997
+"PA","Bucks","42017","4201700000","State House","145",27595,"Republican","STAATS, CRAIG  T",15598
+"PA","Montgomery","42091","4209100000","State House","146",25379,"Democrat","CIRESI, JOSEPH P",14093
+"PA","Montgomery","42091","4209100000","State House","146",25379,"Republican","QUIGLEY, THOMAS J",11286
+"PA","Montgomery","42091","4209100000","State House","147",27822,"Democrat","CAMSON, JOSHUA HARRIS",12056
+"PA","Montgomery","42091","4209100000","State House","147",27822,"Republican","TOEPEL, MARCY L",15766
+"PA","Montgomery","42091","4209100000","State House","148",26807,"Democrat","DALEY, MARY  JOSEPHINE",26807
+"PA","Montgomery","42091","4209100000","State House","149",23320,"Democrat","BRIGGS, TIMOTHY PATRICK",23320
+"PA","Beaver","42007","4200700000","State House","15",16204,"Republican","KAIL, JOSHUA DANIEL",9280
+"PA","Beaver","42007","4200700000","State House","15",16204,"Democrat","MITKO, TERRI",6924
+"PA","Washington","42125","4212500000","State House","15",8840,"Republican","KAIL, JOSHUA DANIEL",6113
+"PA","Washington","42125","4212500000","State House","15",8840,"Democrat","MITKO, TERRI",2727
+"PA","Montgomery","42091","4209100000","State House","150",27736,"Republican","FOUNTAIN, NICHOLAS",12201
+"PA","Montgomery","42091","4209100000","State House","150",27736,"Democrat","WEBSTER, JOSEPH G. PHD",15535
+"PA","Montgomery","42091","4209100000","State House","151",29791,"Democrat","JOHNSON ROTHMAN, SARA JOANNE",14451
+"PA","Montgomery","42091","4209100000","State House","151",29791,"Republican","STEPHENS, WILLIAM TODD",15340
+"PA","Montgomery","42091","4209100000","State House","152",27687,"Democrat","BOLING, DARYL KIRK",12532
+"PA","Montgomery","42091","4209100000","State House","152",27687,"Republican","MURT, THOMAS PAUL",15155
+"PA","Philadelphia","42101","4210100000","State House","152",2270,"Democrat","BOLING, DARYL KIRK",956
+"PA","Philadelphia","42101","4210100000","State House","152",2270,"Republican","MURT, THOMAS PAUL",1314
+"PA","Montgomery","42091","4209100000","State House","153",33484,"Republican","BEAVER, DOUGLAS M JR",9437
+"PA","Montgomery","42091","4209100000","State House","153",33484,"Libertarian","BOZZACCO, MARC",353
+"PA","Montgomery","42091","4209100000","State House","153",33484,"Democrat","SANCHEZ, BEN",23694
+"PA","Montgomery","42091","4209100000","State House","154",32639,"Republican","BOWERS, KATHLEEN E",6047
+"PA","Montgomery","42091","4209100000","State House","154",32639,"Democrat","MCCARTER, STEPHEN C",26592
+"PA","Chester","42029","4202900000","State House","155",33734,"Republican","CORBIN, REBECCA P",15300
+"PA","Chester","42029","4202900000","State House","155",33734,"Democrat","OTTEN, DANIELLE FRIEL",18434
+"PA","Chester","42029","4202900000","State House","156",31715,"Democrat","COMITTA, CAROLYN",17923
+"PA","Chester","42029","4202900000","State House","156",31715,"Republican","DEMINSKI, NICHOLAS",13792
+"PA","Chester","42029","4202900000","State House","157",25432,"Republican","KAMPF, WARREN E",10908
+"PA","Chester","42029","4202900000","State House","157",25432,"Democrat","SHUSTERMAN, MELISSA",14524
+"PA","Montgomery","42091","4209100000","State House","157",5816,"Republican","KAMPF, WARREN E",2659
+"PA","Montgomery","42091","4209100000","State House","157",5816,"Democrat","SHUSTERMAN, MELISSA",3157
+"PA","Chester","42029","4202900000","State House","158",29269,"Republican","ROE, ERIC MARK",13628
+"PA","Chester","42029","4202900000","State House","158",29269,"Democrat","SAPPEY, CHRISTINA  D",15641
+"PA","Delaware","42045","4204500000","State House","159",17701,"Democrat","KIRKLAND, BRIAN J",13532
+"PA","Delaware","42045","4204500000","State House","159",17701,"Republican","MOTON, RUTH",4169
+"PA","Allegheny","42003","4200300000","State House","16",937,"Democrat","MATZIE, ROBERT F",937
+"PA","Beaver","42007","4200700000","State House","16",17592,"Democrat","MATZIE, ROBERT F",17592
+"PA","Chester","42029","4202900000","State House","160",10285,"Democrat","ANDREW, ANTON",6005
+"PA","Chester","42029","4202900000","State House","160",10285,"Republican","BARRAR, STEPHEN E.",4280
+"PA","Delaware","42045","4204500000","State House","160",20647,"Democrat","ANDREW, ANTON",9047
+"PA","Delaware","42045","4204500000","State House","160",20647,"Republican","BARRAR, STEPHEN E.",11600
+"PA","Delaware","42045","4204500000","State House","161",31218,"Democrat","KRUEGER-BRANEKY, LEANNE T",18443
+"PA","Delaware","42045","4204500000","State House","161",31218,"Republican","RODGERS MORRISETTE, PATTI",12775
+"PA","Delaware","42045","4204500000","State House","162",25351,"Democrat","DELLOSO, DAVID M",13073
+"PA","Delaware","42045","4204500000","State House","162",25351,"Republican","HOPPER, MARY",12278
+"PA","Delaware","42045","4204500000","State House","163",28888,"Republican","SANTORA, JAMES",13471
+"PA","Delaware","42045","4204500000","State House","163",28888,"Democrat","ZABEL, MICHAEL PATRICK",15417
+"PA","Delaware","42045","4204500000","State House","164",21433,"Republican","BAINS, INDERJIT",3648
+"PA","Delaware","42045","4204500000","State House","164",21433,"Democrat","DAVIDSON, MARGO LOMAX",17785
+"PA","Delaware","42045","4204500000","State House","165",32723,"Republican","CHARLTON, ALEXANDER T",16096
+"PA","Delaware","42045","4204500000","State House","165",32723,"Democrat","OMARA, JENNIFER M",16627
+"PA","Delaware","42045","4204500000","State House","166",27192,"Republican","RUBIO, BALTAZAR EDSON",8021
+"PA","Delaware","42045","4204500000","State House","166",27192,"Democrat","VITALI, GREGORY S",19171
+"PA","Montgomery","42091","4209100000","State House","166",5476,"Republican","RUBIO, BALTAZAR EDSON",887
+"PA","Montgomery","42091","4209100000","State House","166",5476,"Democrat","VITALI, GREGORY S",4589
+"PA","Chester","42029","4202900000","State House","167",32809,"Democrat","HOWARD, KRISTINE C",17109
+"PA","Chester","42029","4202900000","State House","167",32809,"Republican","MILNE, DUANE D",15700
+"PA","Delaware","42045","4204500000","State House","168",34288,"Republican","QUINN, CHRISTOPHER B",17369
+"PA","Delaware","42045","4204500000","State House","168",34288,"Democrat","SEALE, KRISTIN",16919
+"PA","York","42133","4213300000","State House","169",25066,"Democrat","HAMMOND, SARAH ELIZABETH",7378
+"PA","York","42133","4213300000","State House","169",25066,"Republican","KLUNK, KATE ANNE",17688
+"PA","Crawford","42039","4203900000","State House","17",6376,"Republican","WENTLING, PARKE H",6376
+"PA","Erie","42049","4204900000","State House","17",4754,"Republican","WENTLING, PARKE H",4754
+"PA","Lawrence","42073","4207300000","State House","17",1353,"Republican","WENTLING, PARKE H",1353
+"PA","Mercer","42085","4208500000","State House","17",4951,"Republican","WENTLING, PARKE H",4951
+"PA","Philadelphia","42101","4210100000","State House","170",20404,"Democrat","DOYLE, MICHAEL FRANCIS JR",8650
+"PA","Philadelphia","42101","4210100000","State House","170",20404,"Republican","WHITE, MARTINA A",11754
+"PA","Centre","42027","4202700000","State House","171",25290,"Republican","BENNINGHOFF, KERRY ALBERT",13962
+"PA","Centre","42027","4202700000","State House","171",25290,"Democrat","MCCRACKEN, ERIN  CONDO",11328
+"PA","Mifflin","42087","4208700000","State House","171",4131,"Republican","BENNINGHOFF, KERRY ALBERT",3436
+"PA","Mifflin","42087","4208700000","State House","171",4131,"Democrat","MCCRACKEN, ERIN  CONDO",695
+"PA","Montgomery","42091","4209100000","State House","172",744,"Democrat","BOYLE, KEVIN J",744
+"PA","Philadelphia","42101","4210100000","State House","172",13854,"Democrat","BOYLE, KEVIN J",13854
+"PA","Philadelphia","42101","4210100000","State House","173",13757,"Democrat","DRISCOLL, MICHAEL J",13757
+"PA","Philadelphia","42101","4210100000","State House","174",14213,"Democrat","NEILSON, ED",14213
+"PA","Philadelphia","42101","4210100000","State House","175",24538,"Democrat","ISAACSON, MARYLOUISE",24538
+"PA","Monroe","42089","4208900000","State House","176",21256,"Republican","RADER, JACK B JR",11635
+"PA","Monroe","42089","4208900000","State House","176",21256,"Democrat","WILLIAMS, CLAUDETTE",9621
+"PA","Philadelphia","42101","4210100000","State House","177",19244,"Democrat","HOHENSTEIN, JOSEPH C",11436
+"PA","Philadelphia","42101","4210100000","State House","177",19244,"Republican","KOZLOWSKI, PATTY PAT",7808
+"PA","Bucks","42017","4201700000","State House","178",34644,"Democrat","TAI, HELEN D",17036
+"PA","Bucks","42017","4201700000","State House","178",34644,"Republican","THOMAS, WENDI",17608
+"PA","Philadelphia","42101","4210100000","State House","179",14735,"Democrat","DAWKINS, JASON T",14735
+"PA","Bucks","42017","4201700000","State House","18",22767,"Republican","DIGIROLAMO, GENE",12870
+"PA","Bucks","42017","4201700000","State House","18",22767,"Democrat","LAMB, JAMES JOHN III",9897
+"PA","Philadelphia","42101","4210100000","State House","180",10418,"Democrat","CRUZ, ANGEL",10418
+"PA","Philadelphia","42101","4210100000","State House","181",22432,"Democrat","KENYATTA, MALCOLM",21382
+"PA","Philadelphia","42101","4210100000","State House","181",22432,"Republican","STREET, THOMAS M",1050
+"PA","Philadelphia","42101","4210100000","State House","182",31177,"Independent","MCDEVITT, JAMES M",2943
+"PA","Philadelphia","42101","4210100000","State House","182",31177,"Democrat","SIMS, BRIAN K",28234
+"PA","Lehigh","42077","4207700000","State House","183",11186,"Republican","MAKO, ZACHARY",5974
+"PA","Lehigh","42077","4207700000","State House","183",11186,"Democrat","RUFF, JASON",5212
+"PA","Northampton","42095","4209500000","State House","183",13565,"Republican","MAKO, ZACHARY",8046
+"PA","Northampton","42095","4209500000","State House","183",13565,"Democrat","RUFF, JASON",5519
+"PA","Philadelphia","42101","4210100000","State House","184",17441,"Democrat","FIEDLER, ELIZABETH",17441
+"PA","Delaware","42045","4204500000","State House","185",4060,"Democrat","DONATUCCI, MARIA P",4060
+"PA","Philadelphia","42101","4210100000","State House","185",16072,"Democrat","DONATUCCI, MARIA P",16072
+"PA","Philadelphia","42101","4210100000","State House","186",25775,"Democrat","HARRIS, JORDAN A",25775
+"PA","Berks","42011","4201100000","State House","187",3468,"Democrat","BLICHAR, MICHAEL JR",1796
+"PA","Berks","42011","4201100000","State House","187",3468,"Republican","DAY, GARY  W",1672
+"PA","Lehigh","42077","4207700000","State House","187",23522,"Democrat","BLICHAR, MICHAEL JR",9176
+"PA","Lehigh","42077","4207700000","State House","187",23522,"Republican","DAY, GARY  W",14346
+"PA","Philadelphia","42101","4210100000","State House","188",22868,"Democrat","ROEBUCK, JAMES R",22868
+"PA","Monroe","42089","4208900000","State House","189",15062,"Republican","BROWN, ROSEMARY",8744
+"PA","Monroe","42089","4208900000","State House","189",15062,"Democrat","RODRIGUEZ, ADAM ANTHONY",6318
+"PA","Pike","42103","4210300000","State House","189",5580,"Republican","BROWN, ROSEMARY",3341
+"PA","Pike","42103","4210300000","State House","189",5580,"Democrat","RODRIGUEZ, ADAM ANTHONY",2239
+"PA","Allegheny","42003","4200300000","State House","19",17930,"Democrat","WHEATLEY, JAKE",17930
+"PA","Philadelphia","42101","4210100000","State House","190",22644,"Democrat","BROWN, VANESSA L",22644
+"PA","Delaware","42045","4204500000","State House","191",5705,"Democrat","MCCLINTON, JOANNA E",5705
+"PA","Philadelphia","42101","4210100000","State House","191",14742,"Democrat","MCCLINTON, JOANNA E",14742
+"PA","Philadelphia","42101","4210100000","State House","192",25070,"Democrat","CEPHAS, MORGAN",25070
+"PA","Adams","42001","4200100000","State House","193",13770,"Republican","ECKER, TORREN C",9632
+"PA","Adams","42001","4200100000","State House","193",13770,"Democrat","NELSON, MATTHEW P",4138
+"PA","Cumberland","42041","4204100000","State House","193",10365,"Republican","ECKER, TORREN C",6761
+"PA","Cumberland","42041","4204100000","State House","193",10365,"Democrat","NELSON, MATTHEW P",3604
+"PA","Montgomery","42091","4209100000","State House","194",5557,"Libertarian","BALTSAR, MATTHEW RYAN",45
+"PA","Montgomery","42091","4209100000","State House","194",5557,"Democrat","DELISSIO, PAMELA ANN",4405
+"PA","Montgomery","42091","4209100000","State House","194",5557,"Republican","STEVENS, SEAN PATRICK",1107
+"PA","Philadelphia","42101","4210100000","State House","194",23591,"Libertarian","BALTSAR, MATTHEW RYAN",710
+"PA","Philadelphia","42101","4210100000","State House","194",23591,"Democrat","DELISSIO, PAMELA ANN",18340
+"PA","Philadelphia","42101","4210100000","State House","194",23591,"Republican","STEVENS, SEAN PATRICK",4541
+"PA","Philadelphia","42101","4210100000","State House","195",25525,"Democrat","BULLOCK, DONNA",25525
+"PA","York","42133","4213300000","State House","196",19632,"Republican","GROVE, SETH MICHAEL",19632
+"PA","Philadelphia","42101","4210100000","State House","197",15473,"Democrat","BURGOS, DANILO  R.",15473
+"PA","Philadelphia","42101","4210100000","State House","198",22164,"Democrat","YOUNGBLOOD, ROSITA C",22164
+"PA","Cumberland","42041","4204100000","State House","199",25063,"Libertarian","BOUST, CHARLES M",433
+"PA","Cumberland","42041","4204100000","State House","199",25063,"Republican","GLEIM, BARBARA J",14747
+"PA","Cumberland","42041","4204100000","State House","199",25063,"Democrat","MCGINNIS, JOSEPH SHERWOOD JR",9883
+"PA","Erie","42049","4204900000","State House","2",21165,"Republican","KUZMA, TIMOTHY P",7429
+"PA","Erie","42049","4204900000","State House","2",21165,"Democrat","MERSKI, ROBERT E",13736
+"PA","Allegheny","42003","4200300000","State House","20",22011,"Democrat","RAVENSTAHL, ADAM J",22011
+"PA","Philadelphia","42101","4210100000","State House","200",32558,"Democrat","RABB, CHRISTOPHER",32558
+"PA","Philadelphia","42101","4210100000","State House","201",22903,"Democrat","KINSEY, STEPHEN",22903
+"PA","Philadelphia","42101","4210100000","State House","202",14153,"Democrat","SOLOMON, JARED G",14153
+"PA","Philadelphia","42101","4210100000","State House","203",22825,"Democrat","FITZGERALD, ISABELLA",22825
+"PA","Allegheny","42003","4200300000","State House","21",19985,"Democrat","INNAMORATO, SARA G",19985
+"PA","Lehigh","42077","4207700000","State House","22",9911,"Democrat","SCHWEYER, PETER GEORGE",9911
+"PA","Allegheny","42003","4200300000","State House","23",24988,"Democrat","FRANKEL, DAN B.",22626
+"PA","Allegheny","42003","4200300000","State House","23",24988,"Green","WALKER, JAY TING",2362
+"PA","Allegheny","42003","4200300000","State House","24",25322,"Democrat","GAINEY, EDWARD C",25322
+"PA","Allegheny","42003","4200300000","State House","25",24360,"Democrat","MARKOSEK, BRANDON J",14046
+"PA","Allegheny","42003","4200300000","State House","25",24360,"Republican","SCHLAUCH, STEPHEN DAVID",10314
+"PA","Chester","42029","4202900000","State House","26",24882,"Democrat","HACKER, PAMELA A",11099
+"PA","Chester","42029","4202900000","State House","26",24882,"Republican","HENNESSEY, TIMOTHY F",13783
+"PA","Montgomery","42091","4209100000","State House","26",2186,"Democrat","HACKER, PAMELA A",1679
+"PA","Montgomery","42091","4209100000","State House","26",2186,"Republican","HENNESSEY, TIMOTHY F",507
+"PA","Allegheny","42003","4200300000","State House","27",19540,"Democrat","DEASY, DANIEL J",19540
+"PA","Allegheny","42003","4200300000","State House","28",33652,"Democrat","SKOPOV, EMILY S",15330
+"PA","Allegheny","42003","4200300000","State House","28",33652,"Republican","TURZAI, MICHAEL C",18322
+"PA","Bucks","42017","4201700000","State House","29",31712,"Democrat","DIXON, ANDREW FRANKLIN",15157
+"PA","Bucks","42017","4201700000","State House","29",31712,"Republican","SCHROEDER, MEGHAN",16555
+"PA","Erie","42049","4204900000","State House","3",20265,"Democrat","BIZZARRO, RYAN A",20265
+"PA","Allegheny","42003","4200300000","State House","30",32980,"Republican","MIZGORSKI, LORI A",17244
+"PA","Allegheny","42003","4200300000","State House","30",32980,"Democrat","MONROE, ELIZABETH",15736
+"PA","Bucks","42017","4201700000","State House","31",34328,"Republican","GALLAGHER, RYAN W",13745
+"PA","Bucks","42017","4201700000","State House","31",34328,"Democrat","WARREN, PERRY S JR",20583
+"PA","Allegheny","42003","4200300000","State House","32",22864,"Democrat","DELUCA, ANTHONY M",22864
+"PA","Allegheny","42003","4200300000","State House","33",17453,"Democrat","DERMODY, FRANCIS J",9627
+"PA","Allegheny","42003","4200300000","State House","33",17453,"Republican","NULPH, JOSHUA RICHARD",7826
+"PA","Westmoreland","42129","4212900000","State House","33",5847,"Democrat","DERMODY, FRANCIS J",3352
+"PA","Westmoreland","42129","4212900000","State House","33",5847,"Republican","NULPH, JOSHUA RICHARD",2495
+"PA","Allegheny","42003","4200300000","State House","34",21240,"Democrat","LEE, SUMMER L",21240
+"PA","Allegheny","42003","4200300000","State House","35",15165,"Democrat","DAVIS, AUSTIN",15165
+"PA","Allegheny","42003","4200300000","State House","36",19173,"Democrat","READSHAW, HARRY A III",19173
+"PA","Lancaster","42071","4207100000","State House","37",25474,"Democrat","DELAHUNT, SUZANNE M",6964
+"PA","Lancaster","42071","4207100000","State House","37",25474,"Republican","FEE, MELINDA S",18510
+"PA","Allegheny","42003","4200300000","State House","38",20039,"Democrat","KORTZ, WILLIAM C II",20039
+"PA","Allegheny","42003","4200300000","State House","39",21435,"Republican","PUSKARIC, MICHAEL J",11688
+"PA","Allegheny","42003","4200300000","State House","39",21435,"Democrat","RHODERICK, ROBERT E JR",9747
+"PA","Washington","42125","4212500000","State House","39",5213,"Republican","PUSKARIC, MICHAEL J",3182
+"PA","Washington","42125","4212500000","State House","39",5213,"Democrat","RHODERICK, ROBERT E JR",2031
+"PA","Erie","42049","4204900000","State House","4",17389,"Republican","SONNEY, CURTIS G",17389
+"PA","Allegheny","42003","4200300000","State House","40",21932,"Democrat","GUIDI, SHARON  M.",10582
+"PA","Allegheny","42003","4200300000","State House","40",21932,"Republican","MIHALEK STUCK , NATALIE  NICOLE",11350
+"PA","Washington","42125","4212500000","State House","40",11472,"Democrat","GUIDI, SHARON  M.",4092
+"PA","Washington","42125","4212500000","State House","40",11472,"Republican","MIHALEK STUCK , NATALIE  NICOLE",7380
+"PA","Lancaster","42071","4207100000","State House","41",30124,"Republican","MILLER, BRETT R",16951
+"PA","Lancaster","42071","4207100000","State House","41",30124,"Democrat","WHERLEY, MICHELE D",13173
+"PA","Allegheny","42003","4200300000","State House","42",23947,"Democrat","MILLER, DANIEL L",23947
+"PA","Lancaster","42071","4207100000","State House","43",25140,"Republican","GREINER, KEITH JAMES",15692
+"PA","Lancaster","42071","4207100000","State House","43",25140,"Democrat","PORTER, JENNIE ELAINE",9448
+"PA","Allegheny","42003","4200300000","State House","44",29657,"Republican","GAYDOS, VALERIE S",15338
+"PA","Allegheny","42003","4200300000","State House","44",29657,"Democrat","KNOLL, MICHELE",14319
+"PA","Allegheny","42003","4200300000","State House","45",20981,"Democrat","KULIK, ANITA ASTORINO",20981
+"PA","Allegheny","42003","4200300000","State House","46",14479,"Republican","ORTITAY, JASON A",7517
+"PA","Allegheny","42003","4200300000","State House","46",14479,"Democrat","TIMMINS, BYRON FLAVIN",6962
+"PA","Washington","42125","4212500000","State House","46",13884,"Republican","ORTITAY, JASON A",8269
+"PA","Washington","42125","4212500000","State House","46",13884,"Democrat","TIMMINS, BYRON FLAVIN",5615
+"PA","York","42133","4213300000","State House","47",25330,"Republican","GILLESPIE, KEITH J",16286
+"PA","York","42133","4213300000","State House","47",25330,"Democrat","WASCOVICH, MICHAEL J",9044
+"PA","Washington","42125","4212500000","State House","48",24405,"Democrat","MITCHELL, CLARK ALEXANDER JR.",10808
+"PA","Washington","42125","4212500000","State House","48",24405,"Republican","O'NEAL, TIMOTHY JON",13597
+"PA","Fayette","42051","4205100000","State House","49",3614,"Republican","COOK, DONALD",2108
+"PA","Fayette","42051","4205100000","State House","49",3614,"Democrat","TOPRANI, STEVEN MATTHEW",1506
+"PA","Washington","42125","4212500000","State House","49",16265,"Republican","COOK, DONALD",7837
+"PA","Washington","42125","4212500000","State House","49",16265,"Democrat","TOPRANI, STEVEN MATTHEW",8428
+"PA","Berks","42011","4201100000","State House","5",18082,"Republican","JOZWIAK, BARRY J",18082
+"PA","Fayette","42051","4205100000","State House","50",4630,"Republican","ROHANNA MCCLURE, ELIZABETH L",1732
+"PA","Fayette","42051","4205100000","State House","50",4630,"Democrat","SNYDER, PAMELA",2898
+"PA","Greene","42059","4205900000","State House","50",12516,"Republican","ROHANNA MCCLURE, ELIZABETH L",5784
+"PA","Greene","42059","4205900000","State House","50",12516,"Democrat","SNYDER, PAMELA",6732
+"PA","Washington","42125","4212500000","State House","50",2078,"Republican","ROHANNA MCCLURE, ELIZABETH L",802
+"PA","Washington","42125","4212500000","State House","50",2078,"Democrat","SNYDER, PAMELA",1276
+"PA","Fayette","42051","4205100000","State House","51",15540,"Republican","DOWLING, MATTHEW DAVID",7955
+"PA","Fayette","42051","4205100000","State House","51",15540,"Democrat","MAHONEY, TIMOTHY S",7585
+"PA","Somerset","42111","4211100000","State House","51",3883,"Republican","DOWLING, MATTHEW DAVID",2818
+"PA","Somerset","42111","4211100000","State House","51",3883,"Democrat","MAHONEY, TIMOTHY S",1065
+"PA","Fayette","42051","4205100000","State House","52",17129,"Democrat","KEEDY, ETHAN EARL",6704
+"PA","Fayette","42051","4205100000","State House","52",17129,"Republican","WARNER, RYAN JAMES",10425
+"PA","Westmoreland","42129","4212900000","State House","52",2901,"Democrat","KEEDY, ETHAN EARL",1074
+"PA","Westmoreland","42129","4212900000","State House","52",2901,"Republican","WARNER, RYAN JAMES",1827
+"PA","Montgomery","42091","4209100000","State House","53",26697,"Democrat","MALAGARI, STEVEN RICHARD",13632
+"PA","Montgomery","42091","4209100000","State House","53",26697,"Republican","SZEKELY, GEORGE ANDREW II",12775
+"PA","Montgomery","42091","4209100000","State House","53",26697,"Libertarian","WALDENBERGER, JOHN M",290
+"PA","Allegheny","42003","4200300000","State House","54",6784,"Republican","BROOKS, ROBERT J",3842
+"PA","Allegheny","42003","4200300000","State House","54",6784,"Democrat","MCCABE, JONATHAN PAUL",2942
+"PA","Westmoreland","42129","4212900000","State House","54",20461,"Republican","BROOKS, ROBERT J",12459
+"PA","Westmoreland","42129","4212900000","State House","54",20461,"Democrat","MCCABE, JONATHAN PAUL",8002
+"PA","Armstrong","42005","4200500000","State House","55",1382,"Democrat","PETRARCA, JOSEPH A",1382
+"PA","Indiana","42063","4206300000","State House","55",182,"Democrat","PETRARCA, JOSEPH A",182
+"PA","Westmoreland","42129","4212900000","State House","55",13015,"Democrat","PETRARCA, JOSEPH A",13015
+"PA","Westmoreland","42129","4212900000","State House","56",28009,"Republican","DUNBAR, GEORGE  S",17638
+"PA","Westmoreland","42129","4212900000","State House","56",28009,"Democrat","HUNT, DOUGLAS D",10371
+"PA","Westmoreland","42129","4212900000","State House","57",25561,"Republican","NELSON, ERIC R",16057
+"PA","Westmoreland","42129","4212900000","State House","57",25561,"Democrat","WARREN, COLLIN",9504
+"PA","Westmoreland","42129","4212900000","State House","58",22991,"Democrat","POPOVICH, MARY E",8802
+"PA","Westmoreland","42129","4212900000","State House","58",22991,"Republican","WALSH, JUSTIN  M.",14189
+"PA","Somerset","42111","4211100000","State House","59",5424,"Democrat","DOOLEY, CLARE HELEN",1566
+"PA","Somerset","42111","4211100000","State House","59",5424,"Republican","REESE, MICHAEL P",3858
+"PA","Westmoreland","42129","4212900000","State House","59",20869,"Democrat","DOOLEY, CLARE HELEN",6237
+"PA","Westmoreland","42129","4212900000","State House","59",20869,"Republican","REESE, MICHAEL P",14632
+"PA","Crawford","42039","4203900000","State House","6",13086,"Republican","ROAE, BRADLEY T",13086
+"PA","Erie","42049","4204900000","State House","6",4649,"Republican","ROAE, BRADLEY T",4649
+"PA","Armstrong","42005","4200500000","State House","60",13679,"Republican","PYLE, JEFFREY PAUL",13679
+"PA","Butler","42019","4201900000","State House","60",3928,"Republican","PYLE, JEFFREY PAUL",3928
+"PA","Indiana","42063","4206300000","State House","60",1472,"Republican","PYLE, JEFFREY PAUL",1472
+"PA","Montgomery","42091","4209100000","State House","61",32903,"Democrat","HANBIDGE, LAURA  ELIZABETH FRANCES",17689
+"PA","Montgomery","42091","4209100000","State House","61",32903,"Republican","HARPER, CATHERINE M",15214
+"PA","Indiana","42063","4206300000","State House","62",21179,"Democrat","DELLAFIORA, LOGAN SHERIFF",8858
+"PA","Indiana","42063","4206300000","State House","62",21179,"Republican","STRUZZI, JAMES  BRUNO II",12321
+"PA","Armstrong","42005","4200500000","State House","63",5971,"Republican","OBERLANDER, DONNA R",4830
+"PA","Armstrong","42005","4200500000","State House","63",5971,"Democrat","WARNER, CONRAD",1141
+"PA","Clarion","42031","4203100000","State House","63",14092,"Republican","OBERLANDER, DONNA R",9814
+"PA","Clarion","42031","4203100000","State House","63",14092,"Democrat","WARNER, CONRAD",4278
+"PA","Forest","42053","4205300000","State House","63",685,"Republican","OBERLANDER, DONNA R",519
+"PA","Forest","42053","4205300000","State House","63",685,"Democrat","WARNER, CONRAD",166
+"PA","Butler","42019","4201900000","State House","64",1914,"Republican","JAMES, R LEE",1475
+"PA","Butler","42019","4201900000","State House","64",1914,"Democrat","KLUCK, JOHN",439
+"PA","Venango","42121","4212100000","State House","64",18577,"Republican","JAMES, R LEE",12364
+"PA","Venango","42121","4212100000","State House","64",18577,"Democrat","KLUCK, JOHN",6213
+"PA","Crawford","42039","4203900000","State House","65",4170,"Republican","RAPP, KATHY L",4170
+"PA","Forest","42053","4205300000","State House","65",985,"Republican","RAPP, KATHY L",985
+"PA","Warren","42123","4212300000","State House","65",11104,"Republican","RAPP, KATHY L",11104
+"PA","Indiana","42063","4206300000","State House","66",5821,"Republican","DUSH, CRIS  E",4640
+"PA","Indiana","42063","4206300000","State House","66",5821,"Democrat","TAYLOR, KERITH STRANO",1181
+"PA","Jefferson","42065","4206500000","State House","66",15555,"Republican","DUSH, CRIS  E",12367
+"PA","Jefferson","42065","4206500000","State House","66",15555,"Democrat","TAYLOR, KERITH STRANO",3188
+"PA","Cameron","42023","4202300000","State House","67",1769,"Republican","CAUSER, MARTIN T",1329
+"PA","Cameron","42023","4202300000","State House","67",1769,"Democrat","COLE, MARYANNE",440
+"PA","McKean","42083","4208300000","State House","67",12537,"Republican","CAUSER, MARTIN T",9673
+"PA","McKean","42083","4208300000","State House","67",12537,"Democrat","COLE, MARYANNE",2864
+"PA","Potter","42105","4210500000","State House","67",5787,"Republican","CAUSER, MARTIN T",4821
+"PA","Potter","42105","4210500000","State House","67",5787,"Democrat","COLE, MARYANNE",966
+"PA","Bradford","42015","4201500000","State House","68",5701,"Democrat","HEATH, CARRIE L",1146
+"PA","Bradford","42015","4201500000","State House","68",5701,"Republican","OWLETT, CLINTON DENNIS",4555
+"PA","Potter","42105","4210500000","State House","68",454,"Democrat","HEATH, CARRIE L",122
+"PA","Potter","42105","4210500000","State House","68",454,"Republican","OWLETT, CLINTON DENNIS",332
+"PA","Tioga","42117","4211700000","State House","68",14788,"Democrat","HEATH, CARRIE L",3566
+"PA","Tioga","42117","4211700000","State House","68",14788,"Republican","OWLETT, CLINTON DENNIS",11222
+"PA","Bedford","42009","4200900000","State House","69",5001,"Democrat","COLE, JEFF",780
+"PA","Bedford","42009","4200900000","State House","69",5001,"Republican","METZGAR, CARL WALKER",4221
+"PA","Somerset","42111","4211100000","State House","69",19035,"Democrat","COLE, JEFF",4228
+"PA","Somerset","42111","4211100000","State House","69",19035,"Republican","METZGAR, CARL WALKER",14807
+"PA","Mercer","42085","4208500000","State House","7",21573,"Democrat","LONGIETTI, MARK ALFRED",21573
+"PA","Montgomery","42091","4209100000","State House","70",23167,"Democrat","BRADFORD, MATTHEW D",16055
+"PA","Montgomery","42091","4209100000","State House","70",23167,"Republican","MUNDIATH, CHRISTOPHER",7112
+"PA","Cambria","42021","4202100000","State House","71",21945,"Democrat","BARBIN, BRYAN E",10531
+"PA","Cambria","42021","4202100000","State House","71",21945,"Republican","RIGBY, JAMES PATRICK",11414
+"PA","Somerset","42111","4211100000","State House","71",331,"Democrat","BARBIN, BRYAN E",130
+"PA","Somerset","42111","4211100000","State House","71",331,"Republican","RIGBY, JAMES PATRICK",201
+"PA","Cambria","42021","4202100000","State House","72",22545,"Democrat","BURNS, FRANK",11819
+"PA","Cambria","42021","4202100000","State House","72",22545,"Republican","CARNICELLA, GERALD S",10726
+"PA","Cambria","42021","4202100000","State House","73",4927,"Republican","SANKEY, THOMAS R III",4927
+"PA","Clearfield","42033","4203300000","State House","73",14680,"Republican","SANKEY, THOMAS R III",14680
+"PA","Chester","42029","4202900000","State House","74",24120,"Republican","TURNER, AMBER LITTLE",9294
+"PA","Chester","42029","4202900000","State House","74",24120,"Democrat","WILLIAMS, DAN K",14826
+"PA","Clearfield","42033","4203300000","State House","75",11008,"Republican","GABLER, MATTHEW M",11008
+"PA","Elk","42047","4204700000","State House","75",10717,"Republican","GABLER, MATTHEW M",10717
+"PA","Centre","42027","4202700000","State House","76",8420,"Republican","BOROWICZ, STEPHANIE PAIGE",4675
+"PA","Centre","42027","4202700000","State House","76",8420,"Democrat","HANNA, MICHAEL  KELLY JR",3745
+"PA","Clinton","42035","4203500000","State House","76",12473,"Republican","BOROWICZ, STEPHANIE PAIGE",6549
+"PA","Clinton","42035","4203500000","State House","76",12473,"Democrat","HANNA, MICHAEL  KELLY JR",5924
+"PA","Centre","42027","4202700000","State House","77",14996,"Democrat","CONKLIN, H SCOTT",14996
+"PA","Bedford","42009","4200900000","State House","78",13909,"Democrat","BAUGHMAN, DEBORAH TURNER",3045
+"PA","Bedford","42009","4200900000","State House","78",13909,"Republican","TOPPER, JESSE WILLS",10864
+"PA","Franklin","42055","4205500000","State House","78",4693,"Democrat","BAUGHMAN, DEBORAH TURNER",1047
+"PA","Franklin","42055","4205500000","State House","78",4693,"Republican","TOPPER, JESSE WILLS",3646
+"PA","Fulton","42057","4205700000","State House","78",5306,"Democrat","BAUGHMAN, DEBORAH TURNER",879
+"PA","Fulton","42057","4205700000","State House","78",5306,"Republican","TOPPER, JESSE WILLS",4427
+"PA","Blair","42013","4201300000","State House","79",15106,"Republican","SCHMITT, LOUIS C. JR",15106
+"PA","Butler","42019","4201900000","State House","8",9927,"Democrat","BOEVING-LEARNED, LISA K",2988
+"PA","Butler","42019","4201900000","State House","8",9927,"Republican","NESBIT, TEDD",6939
+"PA","Mercer","42085","4208500000","State House","8",12990,"Democrat","BOEVING-LEARNED, LISA K",3708
+"PA","Mercer","42085","4208500000","State House","8",12990,"Republican","NESBIT, TEDD",9282
+"PA","Blair","42013","4201300000","State House","80",24053,"Democrat","BURKE, LAURA",6164
+"PA","Blair","42013","4201300000","State House","80",24053,"Republican","GREGORY, JAMES V",17889
+"PA","Centre","42027","4202700000","State House","81",8128,"Republican","IRVIN, RICHARD S.",3659
+"PA","Centre","42027","4202700000","State House","81",8128,"Democrat","ROGERS, RICHARD JAMES SR",4125
+"PA","Centre","42027","4202700000","State House","81",8128,"Libertarian","SOLOSKI, JOSEPH P",344
+"PA","Huntingdon","42061","4206100000","State House","81",15863,"Republican","IRVIN, RICHARD S.",11195
+"PA","Huntingdon","42061","4206100000","State House","81",15863,"Democrat","ROGERS, RICHARD JAMES SR",4307
+"PA","Huntingdon","42061","4206100000","State House","81",15863,"Libertarian","SOLOSKI, JOSEPH P",361
+"PA","Mifflin","42087","4208700000","State House","81",928,"Republican","IRVIN, RICHARD S.",725
+"PA","Mifflin","42087","4208700000","State House","81",928,"Democrat","ROGERS, RICHARD JAMES SR",187
+"PA","Mifflin","42087","4208700000","State House","81",928,"Libertarian","SOLOSKI, JOSEPH P",16
+"PA","Franklin","42055","4205500000","State House","82",3059,"No Affiliation","BOOK, ELIZABETH S",426
+"PA","Franklin","42055","4205500000","State House","82",3059,"Republican","HERSHEY, JOHNATHAN DEAN",2633
+"PA","Juniata","42067","4206700000","State House","82",7877,"No Affiliation","BOOK, ELIZABETH S",1485
+"PA","Juniata","42067","4206700000","State House","82",7877,"Republican","HERSHEY, JOHNATHAN DEAN",6392
+"PA","Mifflin","42087","4208700000","State House","82",7728,"No Affiliation","BOOK, ELIZABETH S",1347
+"PA","Mifflin","42087","4208700000","State House","82",7728,"Republican","HERSHEY, JOHNATHAN DEAN",6381
+"PA","Lycoming","42081","4208100000","State House","83",19879,"Democrat","PAGE-DELAHAYE, AIRNEEZER J",6771
+"PA","Lycoming","42081","4208100000","State House","83",19879,"Republican","WHEELAND, JEFF C",13108
+"PA","Lycoming","42081","4208100000","State House","84",21070,"Republican","EVERETT, GARTH DAVID",16698
+"PA","Lycoming","42081","4208100000","State House","84",21070,"Democrat","SOSNIAK, LINDA KAY",4372
+"PA","Union","42119","4211900000","State House","84",1977,"Republican","EVERETT, GARTH DAVID",1494
+"PA","Union","42119","4211900000","State House","84",1977,"Democrat","SOSNIAK, LINDA KAY",483
+"PA","Snyder","42109","4210900000","State House","85",9411,"Republican","KELLER, FREDERICK B",7059
+"PA","Snyder","42109","4210900000","State House","85",9411,"Democrat","RAGER-KAY, JENNIFER RENEE",2352
+"PA","Union","42119","4211900000","State House","85",12315,"Republican","KELLER, FREDERICK B",7655
+"PA","Union","42119","4211900000","State House","85",12315,"Democrat","RAGER-KAY, JENNIFER RENEE",4660
+"PA","Cumberland","42041","4204100000","State House","86",5265,"Democrat","ANDERSON, KAREN ANN",2052
+"PA","Cumberland","42041","4204100000","State House","86",5265,"Republican","KELLER, MARK K",3213
+"PA","Perry","42099","4209900000","State House","86",17207,"Democrat","ANDERSON, KAREN ANN",4267
+"PA","Perry","42099","4209900000","State House","86",17207,"Republican","KELLER, MARK K",12940
+"PA","Cumberland","42041","4204100000","State House","87",32760,"Democrat","QUINLAN, SEAN PATRICK",14214
+"PA","Cumberland","42041","4204100000","State House","87",32760,"Republican","ROTHMAN, WILLIAM GREGORY",18546
+"PA","Cumberland","42041","4204100000","State House","88",27800,"Republican","DELOZIER, SHERYL M",16149
+"PA","Cumberland","42041","4204100000","State House","88",27800,"Democrat","FOSCHI, JEAN  MARIE VARGAS",11651
+"PA","Franklin","42055","4205500000","State House","89",18087,"Republican","KAUFFMAN, ROBERT W",18087
+"PA","Lawrence","42073","4207300000","State House","9",21027,"Republican","MICHALEK, GREGORY E",9068
+"PA","Lawrence","42073","4207300000","State House","9",21027,"Democrat","SAINATO, CHRISTOPHER",11959
+"PA","Franklin","42055","4205500000","State House","90",19096,"Republican","SCHEMEL, PAUL THOMAS",19096
+"PA","Adams","42001","4200100000","State House","91",25244,"Republican","MOUL, DANIEL P",15920
+"PA","Adams","42001","4200100000","State House","91",25244,"Democrat","QUALLY, MARTY",9324
+"PA","Cumberland","42041","4204100000","State House","92",2960,"Democrat","DANIELSON, SHANNA LEIGH",969
+"PA","Cumberland","42041","4204100000","State House","92",2960,"Republican","KEEFER, DAWN WETZEL",1991
+"PA","York","42133","4213300000","State House","92",25249,"Democrat","DANIELSON, SHANNA LEIGH",7711
+"PA","York","42133","4213300000","State House","92",25249,"Republican","KEEFER, DAWN WETZEL",17538
+"PA","York","42133","4213300000","State House","93",27377,"Republican","JONES, PAUL MICHAEL",18036
+"PA","York","42133","4213300000","State House","93",27377,"Democrat","RIVERA-LYTLE, DELMA",9341
+"PA","York","42133","4213300000","State House","94",23826,"Republican","SAYLOR, STANLEY E",15799
+"PA","York","42133","4213300000","State House","94",23826,"Democrat","SNELL, STEPHEN RICHARD",8027
+"PA","York","42133","4213300000","State House","95",12297,"Democrat","HILL-EVANS, CAROL DELORES",12297
+"PA","Lancaster","42071","4207100000","State House","96",15318,"Democrat","STURLA, PETER MICHAEL",15318
+"PA","Lancaster","42071","4207100000","State House","97",32606,"Democrat","GULICK, DANA HAMP",14137
+"PA","Lancaster","42071","4207100000","State House","97",32606,"Republican","MENTZER, STEVEN CURTIS",18469
+"PA","Dauphin","42043","4204300000","State House","98",2101,"Democrat","AUKER-ENDRES, MARY",516
+"PA","Dauphin","42043","4204300000","State House","98",2101,"Republican","HICKERNELL, DAVID S",1540
+"PA","Dauphin","42043","4204300000","State House","98",2101,"Libertarian","MILLER, JAMES M",45
+"PA","Lancaster","42071","4207100000","State House","98",22053,"Democrat","AUKER-ENDRES, MARY",7477
+"PA","Lancaster","42071","4207100000","State House","98",22053,"Republican","HICKERNELL, DAVID S",14037
+"PA","Lancaster","42071","4207100000","State House","98",22053,"Libertarian","MILLER, JAMES M",539
+"PA","Lancaster","42071","4207100000","State House","99",20059,"Democrat","MALARKEY, ELIZABETH",5731
+"PA","Lancaster","42071","4207100000","State House","99",20059,"Republican","ZIMMERMAN, DAVID H",14328
+"PA","Bucks","42017","4201700000","US House","1",294038,"Republican","FITZPATRICK, BRIAN K",152461
+"PA","Bucks","42017","4201700000","US House","1",294038,"Democrat","WALLACE, HENRY SCOTT",141577
+"PA","Montgomery","42091","4209100000","US House","1",35760,"Republican","FITZPATRICK, BRIAN K",16592
+"PA","Montgomery","42091","4209100000","US House","1",35760,"Democrat","WALLACE, HENRY SCOTT",19168
+"PA","Cumberland","42041","4204100000","US House","10",88402,"Republican","PERRY, SCOTT G",46840
+"PA","Cumberland","42041","4204100000","US House","10",88402,"Democrat","SCOTT, GEORGE B",41562
+"PA","Dauphin","42043","4204300000","US House","10",108372,"Republican","PERRY, SCOTT G",49767
+"PA","Dauphin","42043","4204300000","US House","10",108372,"Democrat","SCOTT, GEORGE B",58605
+"PA","York","42133","4213300000","US House","10",94259,"Republican","PERRY, SCOTT G",52758
+"PA","York","42133","4213300000","US House","10",94259,"Democrat","SCOTT, GEORGE B",41501
+"PA","Lancaster","42071","4207100000","US House","11",202955,"Democrat","KING, JESSICA",89167
+"PA","Lancaster","42071","4207100000","US House","11",202955,"Republican","SMUCKER, LLOYD K",113788
+"PA","York","42133","4213300000","US House","11",74629,"Democrat","KING, JESSICA",24709
+"PA","York","42133","4213300000","US House","11",74629,"Republican","SMUCKER, LLOYD K",49920
+"PA","Bradford","42015","4201500000","US House","12",20040,"Democrat","FRIEDENBERG, MARC",5735
+"PA","Bradford","42015","4201500000","US House","12",20040,"Republican","MARINO, THOMAS A",14305
+"PA","Centre","42027","4202700000","US House","12",34615,"Democrat","FRIEDENBERG, MARC",21958
+"PA","Centre","42027","4202700000","US House","12",34615,"Republican","MARINO, THOMAS A",12657
+"PA","Clinton","42035","4203500000","US House","12",12363,"Democrat","FRIEDENBERG, MARC",4631
+"PA","Clinton","42035","4203500000","US House","12",12363,"Republican","MARINO, THOMAS A",7732
+"PA","Juniata","42067","4206700000","US House","12",8437,"Democrat","FRIEDENBERG, MARC",1814
+"PA","Juniata","42067","4206700000","US House","12",8437,"Republican","MARINO, THOMAS A",6623
+"PA","Lycoming","42081","4208100000","US House","12",40929,"Democrat","FRIEDENBERG, MARC",12063
+"PA","Lycoming","42081","4208100000","US House","12",40929,"Republican","MARINO, THOMAS A",28866
+"PA","Mifflin","42087","4208700000","US House","12",13667,"Democrat","FRIEDENBERG, MARC",3130
+"PA","Mifflin","42087","4208700000","US House","12",13667,"Republican","MARINO, THOMAS A",10537
+"PA","Northumberland","42097","4209700000","US House","12",19141,"Democrat","FRIEDENBERG, MARC",5637
+"PA","Northumberland","42097","4209700000","US House","12",19141,"Republican","MARINO, THOMAS A",13504
+"PA","Perry","42099","4209900000","US House","12",17069,"Democrat","FRIEDENBERG, MARC",4493
+"PA","Perry","42099","4209900000","US House","12",17069,"Republican","MARINO, THOMAS A",12576
+"PA","Potter","42105","4210500000","US House","12",6227,"Democrat","FRIEDENBERG, MARC",1418
+"PA","Potter","42105","4210500000","US House","12",6227,"Republican","MARINO, THOMAS A",4809
+"PA","Snyder","42109","4210900000","US House","12",13279,"Democrat","FRIEDENBERG, MARC",3583
+"PA","Snyder","42109","4210900000","US House","12",13279,"Republican","MARINO, THOMAS A",9696
+"PA","Sullivan","42113","4211300000","US House","12",2703,"Democrat","FRIEDENBERG, MARC",825
+"PA","Sullivan","42113","4211300000","US House","12",2703,"Republican","MARINO, THOMAS A",1878
+"PA","Susquehanna","42115","4211500000","US House","12",15797,"Democrat","FRIEDENBERG, MARC",4814
+"PA","Susquehanna","42115","4211500000","US House","12",15797,"Republican","MARINO, THOMAS A",10983
+"PA","Tioga","42117","4211700000","US House","12",14682,"Democrat","FRIEDENBERG, MARC",3733
+"PA","Tioga","42117","4211700000","US House","12",14682,"Republican","MARINO, THOMAS A",10949
+"PA","Union","42119","4211900000","US House","12",14376,"Democrat","FRIEDENBERG, MARC",5424
+"PA","Union","42119","4211900000","US House","12",14376,"Republican","MARINO, THOMAS A",8952
+"PA","Wyoming","42131","4213100000","US House","12",10547,"Democrat","FRIEDENBERG, MARC",3567
+"PA","Wyoming","42131","4213100000","US House","12",10547,"Republican","MARINO, THOMAS A",6980
+"PA","Adams","42001","4200100000","US House","13",38887,"Republican","JOYCE, JOHN",25596
+"PA","Adams","42001","4200100000","US House","13",38887,"Democrat","OTTAWAY, BRENT M",13291
+"PA","Bedford","42009","4200900000","US House","13",18800,"Republican","JOYCE, JOHN",15311
+"PA","Bedford","42009","4200900000","US House","13",18800,"Democrat","OTTAWAY, BRENT M",3489
+"PA","Blair","42013","4201300000","US House","13",43348,"Republican","JOYCE, JOHN",30851
+"PA","Blair","42013","4201300000","US House","13",43348,"Democrat","OTTAWAY, BRENT M",12497
+"PA","Cambria","42021","4202100000","US House","13",16270,"Republican","JOYCE, JOHN",9172
+"PA","Cambria","42021","4202100000","US House","13",16270,"Democrat","OTTAWAY, BRENT M",7098
+"PA","Cumberland","42041","4204100000","US House","13",16141,"Republican","JOYCE, JOHN",10977
+"PA","Cumberland","42041","4204100000","US House","13",16141,"Democrat","OTTAWAY, BRENT M",5164
+"PA","Franklin","42055","4205500000","US House","13",54750,"Republican","JOYCE, JOHN",39116
+"PA","Franklin","42055","4205500000","US House","13",54750,"Democrat","OTTAWAY, BRENT M",15634
+"PA","Fulton","42057","4205700000","US House","13",5275,"Republican","JOYCE, JOHN",4387
+"PA","Fulton","42057","4205700000","US House","13",5275,"Democrat","OTTAWAY, BRENT M",888
+"PA","Huntingdon","42061","4206100000","US House","13",15816,"Republican","JOYCE, JOHN",11570
+"PA","Huntingdon","42061","4206100000","US House","13",15816,"Democrat","OTTAWAY, BRENT M",4246
+"PA","Somerset","42111","4211100000","US House","13",28535,"Republican","JOYCE, JOHN",21572
+"PA","Somerset","42111","4211100000","US House","13",28535,"Democrat","OTTAWAY, BRENT M",6963
+"PA","Westmoreland","42129","4212900000","US House","13",15444,"Republican","JOYCE, JOHN",9981
+"PA","Westmoreland","42129","4212900000","US House","13",15444,"Democrat","OTTAWAY, BRENT M",5463
+"PA","Fayette","42051","4205100000","US House","14",40297,"Democrat","BOERIO, BIBIANA",17115
+"PA","Fayette","42051","4205100000","US House","14",40297,"Republican","RESCHENTHALER, GUY L",23182
+"PA","Greene","42059","4205900000","US House","14",12224,"Democrat","BOERIO, BIBIANA",4957
+"PA","Greene","42059","4205900000","US House","14",12224,"Republican","RESCHENTHALER, GUY L",7267
+"PA","Washington","42125","4212500000","US House","14",78914,"Democrat","BOERIO, BIBIANA",33601
+"PA","Washington","42125","4212500000","US House","14",78914,"Republican","RESCHENTHALER, GUY L",45313
+"PA","Westmoreland","42129","4212900000","US House","14",130002,"Democrat","BOERIO, BIBIANA",54378
+"PA","Westmoreland","42129","4212900000","US House","14",130002,"Republican","RESCHENTHALER, GUY L",75624
+"PA","Armstrong","42005","4200500000","US House","15",24281,"Democrat","BOSER, SUSAN",7521
+"PA","Armstrong","42005","4200500000","US House","15",24281,"Republican","THOMPSON, GLENN WILLIAM JR",16760
+"PA","Butler","42019","4201900000","US House","15",14227,"Democrat","BOSER, SUSAN",3996
+"PA","Butler","42019","4201900000","US House","15",14227,"Republican","THOMPSON, GLENN WILLIAM JR",10231
+"PA","Cambria","42021","4202100000","US House","15",33164,"Democrat","BOSER, SUSAN",11481
+"PA","Cambria","42021","4202100000","US House","15",33164,"Republican","THOMPSON, GLENN WILLIAM JR",21683
+"PA","Cameron","42023","4202300000","US House","15",1769,"Democrat","BOSER, SUSAN",527
+"PA","Cameron","42023","4202300000","US House","15",1769,"Republican","THOMPSON, GLENN WILLIAM JR",1242
+"PA","Centre","42027","4202700000","US House","15",25961,"Democrat","BOSER, SUSAN",10677
+"PA","Centre","42027","4202700000","US House","15",25961,"Republican","THOMPSON, GLENN WILLIAM JR",15284
+"PA","Clarion","42031","4203100000","US House","15",13805,"Democrat","BOSER, SUSAN",3847
+"PA","Clarion","42031","4203100000","US House","15",13805,"Republican","THOMPSON, GLENN WILLIAM JR",9958
+"PA","Clearfield","42033","4203300000","US House","15",26843,"Democrat","BOSER, SUSAN",7367
+"PA","Clearfield","42033","4203300000","US House","15",26843,"Republican","THOMPSON, GLENN WILLIAM JR",19476
+"PA","Elk","42047","4204700000","US House","15",11296,"Democrat","BOSER, SUSAN",3584
+"PA","Elk","42047","4204700000","US House","15",11296,"Republican","THOMPSON, GLENN WILLIAM JR",7712
+"PA","Forest","42053","4205300000","US House","15",1928,"Democrat","BOSER, SUSAN",564
+"PA","Forest","42053","4205300000","US House","15",1928,"Republican","THOMPSON, GLENN WILLIAM JR",1364
+"PA","Indiana","42063","4206300000","US House","15",29264,"Democrat","BOSER, SUSAN",11211
+"PA","Indiana","42063","4206300000","US House","15",29264,"Republican","THOMPSON, GLENN WILLIAM JR",18053
+"PA","Jefferson","42065","4206500000","US House","15",15572,"Democrat","BOSER, SUSAN",3358
+"PA","Jefferson","42065","4206500000","US House","15",15572,"Republican","THOMPSON, GLENN WILLIAM JR",12214
+"PA","McKean","42083","4208300000","US House","15",12553,"Democrat","BOSER, SUSAN",3489
+"PA","McKean","42083","4208300000","US House","15",12553,"Republican","THOMPSON, GLENN WILLIAM JR",9064
+"PA","Venango","42121","4212100000","US House","15",18479,"Democrat","BOSER, SUSAN",5935
+"PA","Venango","42121","4212100000","US House","15",18479,"Republican","THOMPSON, GLENN WILLIAM JR",12544
+"PA","Warren","42123","4212300000","US House","15",14430,"Democrat","BOSER, SUSAN",4770
+"PA","Warren","42123","4212300000","US House","15",14430,"Republican","THOMPSON, GLENN WILLIAM JR",9660
+"PA","Butler","42019","4201900000","US House","16",56779,"Libertarian","BEEMAN, EBERT G BILL",774
+"PA","Butler","42019","4201900000","US House","16",56779,"Democrat","DINICOLA, RONALD A",20472
+"PA","Butler","42019","4201900000","US House","16",56779,"Republican","KELLY, GEORGE J JR",35533
+"PA","Crawford","42039","4203900000","US House","16",30493,"Libertarian","BEEMAN, EBERT G BILL",342
+"PA","Crawford","42039","4203900000","US House","16",30493,"Democrat","DINICOLA, RONALD A",11850
+"PA","Crawford","42039","4203900000","US House","16",30493,"Republican","KELLY, GEORGE J JR",18301
+"PA","Erie","42049","4204900000","US House","16",101802,"Libertarian","BEEMAN, EBERT G BILL",940
+"PA","Erie","42049","4204900000","US House","16",101802,"Democrat","DINICOLA, RONALD A",60392
+"PA","Erie","42049","4204900000","US House","16",101802,"Republican","KELLY, GEORGE J JR",40470
+"PA","Lawrence","42073","4207300000","US House","16",32160,"Libertarian","BEEMAN, EBERT G BILL",362
+"PA","Lawrence","42073","4207300000","US House","16",32160,"Democrat","DINICOLA, RONALD A",13553
+"PA","Lawrence","42073","4207300000","US House","16",32160,"Republican","KELLY, GEORGE J JR",18245
+"PA","Mercer","42085","4208500000","US House","16",41162,"Libertarian","BEEMAN, EBERT G BILL",521
+"PA","Mercer","42085","4208500000","US House","16",41162,"Democrat","DINICOLA, RONALD A",17842
+"PA","Mercer","42085","4208500000","US House","16",41162,"Republican","KELLY, GEORGE J JR",22799
+"PA","Allegheny","42003","4200300000","US House","17",249007,"Democrat","LAMB, CONOR JAMES",146310
+"PA","Allegheny","42003","4200300000","US House","17",249007,"Republican","ROTHFUS, KEITH",102697
+"PA","Beaver","42007","4200700000","US House","17",67929,"Democrat","LAMB, CONOR JAMES",32821
+"PA","Beaver","42007","4200700000","US House","17",67929,"Republican","ROTHFUS, KEITH",35108
+"PA","Butler","42019","4201900000","US House","17",8643,"Democrat","LAMB, CONOR JAMES",4031
+"PA","Butler","42019","4201900000","US House","17",8643,"Republican","ROTHFUS, KEITH",4612
+"PA","Allegheny","42003","4200300000","US House","18",231472,"Democrat","DOYLE, MICHAEL F JR",231472
+"PA","Philadelphia","42101","4210100000","US House","2",201982,"Democrat","BOYLE, BRENDAN F",159600
+"PA","Philadelphia","42101","4210100000","US House","2",201982,"Republican","TORRES, DAVID",42382
+"PA","Philadelphia","42101","4210100000","US House","3",307997,"Democrat","EVANS, DWIGHT",287610
+"PA","Philadelphia","42101","4210100000","US House","3",307997,"Republican","LEIB, BRYAN E",20387
+"PA","Berks","42011","4201100000","US House","4",7177,"Republican","DAVID, DANIEL",4258
+"PA","Berks","42011","4201100000","US House","4",7177,"Democrat","DEAN CUNNANE , MADELEINE",2919
+"PA","Montgomery","42091","4209100000","US House","4",325814,"Republican","DAVID, DANIEL",117209
+"PA","Montgomery","42091","4209100000","US House","4",325814,"Democrat","DEAN CUNNANE , MADELEINE",208605
+"PA","Chester","42029","4202900000","US House","5",44728,"Republican","KIM, PEARL",22662
+"PA","Chester","42029","4202900000","US House","5",44728,"Democrat","SCANLON, MARY GAY",22066
+"PA","Delaware","42045","4204500000","US House","5",249294,"Republican","KIM, PEARL",94817
+"PA","Delaware","42045","4204500000","US House","5",249294,"Democrat","SCANLON, MARY GAY",154477
+"PA","Montgomery","42091","4209100000","US House","5",18189,"Republican","KIM, PEARL",3935
+"PA","Montgomery","42091","4209100000","US House","5",18189,"Democrat","SCANLON, MARY GAY",14254
+"PA","Philadelphia","42101","4210100000","US House","5",37231,"Republican","KIM, PEARL",7323
+"PA","Philadelphia","42101","4210100000","US House","5",37231,"Democrat","SCANLON, MARY GAY",29908
+"PA","Berks","42011","4201100000","US House","6",64970,"Democrat","HOULAHAN, CHRISTINA JAMPOLER",37900
+"PA","Berks","42011","4201100000","US House","6",64970,"Republican","MCCAULEY, GREGORY MICHAEL SENIOR",27070
+"PA","Chester","42029","4202900000","US House","6",236858,"Democrat","HOULAHAN, CHRISTINA JAMPOLER",139804
+"PA","Chester","42029","4202900000","US House","6",236858,"Republican","MCCAULEY, GREGORY MICHAEL SENIOR",97054
+"PA","Lehigh","42077","4207700000","US House","7",128547,"Republican","NOTHSTEIN, MARTIN W",54354
+"PA","Lehigh","42077","4207700000","US House","7",128547,"Libertarian","SILFIES, TIM",4193
+"PA","Lehigh","42077","4207700000","US House","7",128547,"Democrat","WILD, SUSAN ELLIS",70000
+"PA","Monroe","42089","4208900000","US House","7",19983,"Republican","NOTHSTEIN, MARTIN W",8195
+"PA","Monroe","42089","4208900000","US House","7",19983,"Libertarian","SILFIES, TIM",368
+"PA","Monroe","42089","4208900000","US House","7",19983,"Democrat","WILD, SUSAN ELLIS",11420
+"PA","Northampton","42095","4209500000","US House","7",114731,"Republican","NOTHSTEIN, MARTIN W",51888
+"PA","Northampton","42095","4209500000","US House","7",114731,"Libertarian","SILFIES, TIM",3450
+"PA","Northampton","42095","4209500000","US House","7",114731,"Democrat","WILD, SUSAN ELLIS",59393
+"PA","Lackawanna","42069","4206900000","US House","8",83828,"Democrat","CARTWRIGHT, MATTHEW ALTON",53467
+"PA","Lackawanna","42069","4206900000","US House","8",83828,"Republican","CHRIN, JOHN ROBERT",30361
+"PA","Luzerne","42079","4207900000","US House","8",88636,"Democrat","CARTWRIGHT, MATTHEW ALTON",46780
+"PA","Luzerne","42079","4207900000","US House","8",88636,"Republican","CHRIN, JOHN ROBERT",41856
+"PA","Monroe","42089","4208900000","US House","8",34871,"Democrat","CARTWRIGHT, MATTHEW ALTON",19095
+"PA","Monroe","42089","4208900000","US House","8",34871,"Republican","CHRIN, JOHN ROBERT",15776
+"PA","Pike","42103","4210300000","US House","8",20741,"Democrat","CARTWRIGHT, MATTHEW ALTON",8711
+"PA","Pike","42103","4210300000","US House","8",20741,"Republican","CHRIN, JOHN ROBERT",12030
+"PA","Wayne","42127","4212700000","US House","8",20090,"Democrat","CARTWRIGHT, MATTHEW ALTON",7550
+"PA","Wayne","42127","4212700000","US House","8",20090,"Republican","CHRIN, JOHN ROBERT",12540
+"PA","Berks","42011","4201100000","US House","9",71589,"Republican","MEUSER, DANIEL",39853
+"PA","Berks","42011","4201100000","US House","9",71589,"Democrat","WOLFF, DENNIS",31736
+"PA","Carbon","42025","4202500000","US House","9",22350,"Republican","MEUSER, DANIEL",13448
+"PA","Carbon","42025","4202500000","US House","9",22350,"Democrat","WOLFF, DENNIS",8902
+"PA","Columbia","42037","4203700000","US House","9",22515,"Republican","MEUSER, DANIEL",12690
+"PA","Columbia","42037","4203700000","US House","9",22515,"Democrat","WOLFF, DENNIS",9825
+"PA","Lebanon","42075","4207500000","US House","9",48940,"Republican","MEUSER, DANIEL",31414
+"PA","Lebanon","42075","4207500000","US House","9",48940,"Democrat","WOLFF, DENNIS",17526
+"PA","Luzerne","42079","4207900000","US House","9",18839,"Republican","MEUSER, DANIEL",12065
+"PA","Luzerne","42079","4207900000","US House","9",18839,"Democrat","WOLFF, DENNIS",6774
+"PA","Montour","42093","4209300000","US House","9",6991,"Republican","MEUSER, DANIEL",3915
+"PA","Montour","42093","4209300000","US House","9",6991,"Democrat","WOLFF, DENNIS",3076
+"PA","Northumberland","42097","4209700000","US House","9",9247,"Republican","MEUSER, DANIEL",5392
+"PA","Northumberland","42097","4209700000","US House","9",9247,"Democrat","WOLFF, DENNIS",3855
+"PA","Schuylkill","42107","4210700000","US House","9",48456,"Republican","MEUSER, DANIEL",29946
+"PA","Schuylkill","42107","4210700000","US House","9",48456,"Democrat","WOLFF, DENNIS",18510
+"PA","Adams","42001","4200100000","US Senate","statewide",39102,"Republican","BARLETTA, LOUIS J.",23419
+"PA","Adams","42001","4200100000","US Senate","statewide",39102,"Democrat","CASEY, ROBERT P JR",14880
+"PA","Adams","42001","4200100000","US Senate","statewide",39102,"Green","GALE, NEAL TAYLOR",292
+"PA","Adams","42001","4200100000","US Senate","statewide",39102,"Libertarian","KERNS, DALE R JR",511
+"PA","Allegheny","42003","4200300000","US Senate","statewide",541703,"Republican","BARLETTA, LOUIS J.",176351
+"PA","Allegheny","42003","4200300000","US Senate","statewide",541703,"Democrat","CASEY, ROBERT P JR",355907
+"PA","Allegheny","42003","4200300000","US Senate","statewide",541703,"Green","GALE, NEAL TAYLOR",3240
+"PA","Allegheny","42003","4200300000","US Senate","statewide",541703,"Libertarian","KERNS, DALE R JR",6205
+"PA","Armstrong","42005","4200500000","US Senate","statewide",24488,"Republican","BARLETTA, LOUIS J.",15449
+"PA","Armstrong","42005","4200500000","US Senate","statewide",24488,"Democrat","CASEY, ROBERT P JR",8570
+"PA","Armstrong","42005","4200500000","US Senate","statewide",24488,"Green","GALE, NEAL TAYLOR",159
+"PA","Armstrong","42005","4200500000","US Senate","statewide",24488,"Libertarian","KERNS, DALE R JR",310
+"PA","Beaver","42007","4200700000","US Senate","statewide",67642,"Republican","BARLETTA, LOUIS J.",31916
+"PA","Beaver","42007","4200700000","US Senate","statewide",67642,"Democrat","CASEY, ROBERT P JR",34442
+"PA","Beaver","42007","4200700000","US Senate","statewide",67642,"Green","GALE, NEAL TAYLOR",437
+"PA","Beaver","42007","4200700000","US Senate","statewide",67642,"Libertarian","KERNS, DALE R JR",847
+"PA","Bedford","42009","4200900000","US Senate","statewide",18823,"Republican","BARLETTA, LOUIS J.",14044
+"PA","Bedford","42009","4200900000","US Senate","statewide",18823,"Democrat","CASEY, ROBERT P JR",4567
+"PA","Bedford","42009","4200900000","US Senate","statewide",18823,"Green","GALE, NEAL TAYLOR",83
+"PA","Bedford","42009","4200900000","US Senate","statewide",18823,"Libertarian","KERNS, DALE R JR",129
+"PA","Berks","42011","4201100000","US Senate","statewide",144533,"Republican","BARLETTA, LOUIS J.",68159
+"PA","Berks","42011","4201100000","US Senate","statewide",144533,"Democrat","CASEY, ROBERT P JR",73714
+"PA","Berks","42011","4201100000","US Senate","statewide",144533,"Green","GALE, NEAL TAYLOR",977
+"PA","Berks","42011","4201100000","US Senate","statewide",144533,"Libertarian","KERNS, DALE R JR",1683
+"PA","Blair","42013","4201300000","US Senate","statewide",43165,"Republican","BARLETTA, LOUIS J.",27826
+"PA","Blair","42013","4201300000","US Senate","statewide",43165,"Democrat","CASEY, ROBERT P JR",14599
+"PA","Blair","42013","4201300000","US Senate","statewide",43165,"Green","GALE, NEAL TAYLOR",258
+"PA","Blair","42013","4201300000","US Senate","statewide",43165,"Libertarian","KERNS, DALE R JR",482
+"PA","Bradford","42015","4201500000","US Senate","statewide",20328,"Republican","BARLETTA, LOUIS J.",13032
+"PA","Bradford","42015","4201500000","US Senate","statewide",20328,"Democrat","CASEY, ROBERT P JR",6926
+"PA","Bradford","42015","4201500000","US Senate","statewide",20328,"Green","GALE, NEAL TAYLOR",143
+"PA","Bradford","42015","4201500000","US Senate","statewide",20328,"Libertarian","KERNS, DALE R JR",227
+"PA","Bucks","42017","4201700000","US Senate","statewide",294317,"Republican","BARLETTA, LOUIS J.",124133
+"PA","Bucks","42017","4201700000","US Senate","statewide",294317,"Democrat","CASEY, ROBERT P JR",165408
+"PA","Bucks","42017","4201700000","US Senate","statewide",294317,"Green","GALE, NEAL TAYLOR",1903
+"PA","Bucks","42017","4201700000","US Senate","statewide",294317,"Libertarian","KERNS, DALE R JR",2873
+"PA","Butler","42019","4201900000","US Senate","statewide",79495,"Republican","BARLETTA, LOUIS J.",46875
+"PA","Butler","42019","4201900000","US Senate","statewide",79495,"Democrat","CASEY, ROBERT P JR",31010
+"PA","Butler","42019","4201900000","US Senate","statewide",79495,"Green","GALE, NEAL TAYLOR",488
+"PA","Butler","42019","4201900000","US Senate","statewide",79495,"Libertarian","KERNS, DALE R JR",1122
+"PA","Cambria","42021","4202100000","US Senate","statewide",49607,"Republican","BARLETTA, LOUIS J.",27367
+"PA","Cambria","42021","4202100000","US Senate","statewide",49607,"Democrat","CASEY, ROBERT P JR",21590
+"PA","Cambria","42021","4202100000","US Senate","statewide",49607,"Green","GALE, NEAL TAYLOR",247
+"PA","Cambria","42021","4202100000","US Senate","statewide",49607,"Libertarian","KERNS, DALE R JR",403
+"PA","Cameron","42023","4202300000","US Senate","statewide",1765,"Republican","BARLETTA, LOUIS J.",1080
+"PA","Cameron","42023","4202300000","US Senate","statewide",1765,"Democrat","CASEY, ROBERT P JR",653
+"PA","Cameron","42023","4202300000","US Senate","statewide",1765,"Green","GALE, NEAL TAYLOR",10
+"PA","Cameron","42023","4202300000","US Senate","statewide",1765,"Libertarian","KERNS, DALE R JR",22
+"PA","Carbon","42025","4202500000","US Senate","statewide",22574,"Republican","BARLETTA, LOUIS J.",13519
+"PA","Carbon","42025","4202500000","US Senate","statewide",22574,"Democrat","CASEY, ROBERT P JR",8739
+"PA","Carbon","42025","4202500000","US Senate","statewide",22574,"Green","GALE, NEAL TAYLOR",119
+"PA","Carbon","42025","4202500000","US Senate","statewide",22574,"Libertarian","KERNS, DALE R JR",197
+"PA","Centre","42027","4202700000","US Senate","statewide",60664,"Republican","BARLETTA, LOUIS J.",24332
+"PA","Centre","42027","4202700000","US Senate","statewide",60664,"Democrat","CASEY, ROBERT P JR",34778
+"PA","Centre","42027","4202700000","US Senate","statewide",60664,"Green","GALE, NEAL TAYLOR",632
+"PA","Centre","42027","4202700000","US Senate","statewide",60664,"Libertarian","KERNS, DALE R JR",922
+"PA","Chester","42029","4202900000","US Senate","statewide",236718,"Republican","BARLETTA, LOUIS J.",92380
+"PA","Chester","42029","4202900000","US Senate","statewide",236718,"Democrat","CASEY, ROBERT P JR",140138
+"PA","Chester","42029","4202900000","US Senate","statewide",236718,"Green","GALE, NEAL TAYLOR",1587
+"PA","Chester","42029","4202900000","US Senate","statewide",236718,"Libertarian","KERNS, DALE R JR",2613
+"PA","Clarion","42031","4203100000","US Senate","statewide",14031,"Republican","BARLETTA, LOUIS J.",8838
+"PA","Clarion","42031","4203100000","US Senate","statewide",14031,"Democrat","CASEY, ROBERT P JR",4924
+"PA","Clarion","42031","4203100000","US Senate","statewide",14031,"Green","GALE, NEAL TAYLOR",87
+"PA","Clarion","42031","4203100000","US Senate","statewide",14031,"Libertarian","KERNS, DALE R JR",182
+"PA","Clearfield","42033","4203300000","US Senate","statewide",26803,"Republican","BARLETTA, LOUIS J.",16852
+"PA","Clearfield","42033","4203300000","US Senate","statewide",26803,"Democrat","CASEY, ROBERT P JR",9540
+"PA","Clearfield","42033","4203300000","US Senate","statewide",26803,"Green","GALE, NEAL TAYLOR",145
+"PA","Clearfield","42033","4203300000","US Senate","statewide",26803,"Libertarian","KERNS, DALE R JR",266
+"PA","Clinton","42035","4203500000","US Senate","statewide",12378,"Republican","BARLETTA, LOUIS J.",6869
+"PA","Clinton","42035","4203500000","US Senate","statewide",12378,"Democrat","CASEY, ROBERT P JR",5289
+"PA","Clinton","42035","4203500000","US Senate","statewide",12378,"Green","GALE, NEAL TAYLOR",82
+"PA","Clinton","42035","4203500000","US Senate","statewide",12378,"Libertarian","KERNS, DALE R JR",138
+"PA","Columbia","42037","4203700000","US Senate","statewide",22638,"Republican","BARLETTA, LOUIS J.",13437
+"PA","Columbia","42037","4203700000","US Senate","statewide",22638,"Democrat","CASEY, ROBERT P JR",8837
+"PA","Columbia","42037","4203700000","US Senate","statewide",22638,"Green","GALE, NEAL TAYLOR",140
+"PA","Columbia","42037","4203700000","US Senate","statewide",22638,"Libertarian","KERNS, DALE R JR",224
+"PA","Crawford","42039","4203900000","US Senate","statewide",30035,"Republican","BARLETTA, LOUIS J.",17813
+"PA","Crawford","42039","4203900000","US Senate","statewide",30035,"Democrat","CASEY, ROBERT P JR",11720
+"PA","Crawford","42039","4203900000","US Senate","statewide",30035,"Green","GALE, NEAL TAYLOR",192
+"PA","Crawford","42039","4203900000","US Senate","statewide",30035,"Libertarian","KERNS, DALE R JR",310
+"PA","Cumberland","42041","4204100000","US Senate","statewide",104400,"Republican","BARLETTA, LOUIS J.",54525
+"PA","Cumberland","42041","4204100000","US Senate","statewide",104400,"Democrat","CASEY, ROBERT P JR",47738
+"PA","Cumberland","42041","4204100000","US Senate","statewide",104400,"Green","GALE, NEAL TAYLOR",738
+"PA","Cumberland","42041","4204100000","US Senate","statewide",104400,"Libertarian","KERNS, DALE R JR",1399
+"PA","Dauphin","42043","4204300000","US Senate","statewide",108708,"Republican","BARLETTA, LOUIS J.",47152
+"PA","Dauphin","42043","4204300000","US Senate","statewide",108708,"Democrat","CASEY, ROBERT P JR",59533
+"PA","Dauphin","42043","4204300000","US Senate","statewide",108708,"Green","GALE, NEAL TAYLOR",783
+"PA","Dauphin","42043","4204300000","US Senate","statewide",108708,"Libertarian","KERNS, DALE R JR",1240
+"PA","Delaware","42045","4204500000","US Senate","statewide",251002,"Republican","BARLETTA, LOUIS J.",84423
+"PA","Delaware","42045","4204500000","US Senate","statewide",251002,"Democrat","CASEY, ROBERT P JR",163216
+"PA","Delaware","42045","4204500000","US Senate","statewide",251002,"Green","GALE, NEAL TAYLOR",1313
+"PA","Delaware","42045","4204500000","US Senate","statewide",251002,"Libertarian","KERNS, DALE R JR",2050
+"PA","Elk","42047","4204700000","US Senate","statewide",11282,"Republican","BARLETTA, LOUIS J.",6610
+"PA","Elk","42047","4204700000","US Senate","statewide",11282,"Democrat","CASEY, ROBERT P JR",4498
+"PA","Elk","42047","4204700000","US Senate","statewide",11282,"Green","GALE, NEAL TAYLOR",63
+"PA","Elk","42047","4204700000","US Senate","statewide",11282,"Libertarian","KERNS, DALE R JR",111
+"PA","Erie","42049","4204900000","US Senate","statewide",100889,"Republican","BARLETTA, LOUIS J.",40348
+"PA","Erie","42049","4204900000","US Senate","statewide",100889,"Democrat","CASEY, ROBERT P JR",58906
+"PA","Erie","42049","4204900000","US Senate","statewide",100889,"Green","GALE, NEAL TAYLOR",611
+"PA","Erie","42049","4204900000","US Senate","statewide",100889,"Libertarian","KERNS, DALE R JR",1024
+"PA","Fayette","42051","4205100000","US Senate","statewide",40705,"Republican","BARLETTA, LOUIS J.",20514
+"PA","Fayette","42051","4205100000","US Senate","statewide",40705,"Democrat","CASEY, ROBERT P JR",19563
+"PA","Fayette","42051","4205100000","US Senate","statewide",40705,"Green","GALE, NEAL TAYLOR",201
+"PA","Fayette","42051","4205100000","US Senate","statewide",40705,"Libertarian","KERNS, DALE R JR",427
+"PA","Forest","42053","4205300000","US Senate","statewide",1932,"Republican","BARLETTA, LOUIS J.",1201
+"PA","Forest","42053","4205300000","US Senate","statewide",1932,"Democrat","CASEY, ROBERT P JR",693
+"PA","Forest","42053","4205300000","US Senate","statewide",1932,"Green","GALE, NEAL TAYLOR",14
+"PA","Forest","42053","4205300000","US Senate","statewide",1932,"Libertarian","KERNS, DALE R JR",24
+"PA","Franklin","42055","4205500000","US Senate","statewide",55027,"Republican","BARLETTA, LOUIS J.",36735
+"PA","Franklin","42055","4205500000","US Senate","statewide",55027,"Democrat","CASEY, ROBERT P JR",17385
+"PA","Franklin","42055","4205500000","US Senate","statewide",55027,"Green","GALE, NEAL TAYLOR",335
+"PA","Franklin","42055","4205500000","US Senate","statewide",55027,"Libertarian","KERNS, DALE R JR",572
+"PA","Fulton","42057","4205700000","US Senate","statewide",5304,"Republican","BARLETTA, LOUIS J.",4173
+"PA","Fulton","42057","4205700000","US Senate","statewide",5304,"Democrat","CASEY, ROBERT P JR",1061
+"PA","Fulton","42057","4205700000","US Senate","statewide",5304,"Green","GALE, NEAL TAYLOR",27
+"PA","Fulton","42057","4205700000","US Senate","statewide",5304,"Libertarian","KERNS, DALE R JR",43
+"PA","Greene","42059","4205900000","US Senate","statewide",12428,"Republican","BARLETTA, LOUIS J.",6422
+"PA","Greene","42059","4205900000","US Senate","statewide",12428,"Democrat","CASEY, ROBERT P JR",5819
+"PA","Greene","42059","4205900000","US Senate","statewide",12428,"Green","GALE, NEAL TAYLOR",72
+"PA","Greene","42059","4205900000","US Senate","statewide",12428,"Libertarian","KERNS, DALE R JR",115
+"PA","Huntingdon","42061","4206100000","US Senate","statewide",15911,"Republican","BARLETTA, LOUIS J.",10491
+"PA","Huntingdon","42061","4206100000","US Senate","statewide",15911,"Democrat","CASEY, ROBERT P JR",5126
+"PA","Huntingdon","42061","4206100000","US Senate","statewide",15911,"Green","GALE, NEAL TAYLOR",108
+"PA","Huntingdon","42061","4206100000","US Senate","statewide",15911,"Libertarian","KERNS, DALE R JR",186
+"PA","Indiana","42063","4206300000","US Senate","statewide",29543,"Republican","BARLETTA, LOUIS J.",16314
+"PA","Indiana","42063","4206300000","US Senate","statewide",29543,"Democrat","CASEY, ROBERT P JR",12702
+"PA","Indiana","42063","4206300000","US Senate","statewide",29543,"Green","GALE, NEAL TAYLOR",189
+"PA","Indiana","42063","4206300000","US Senate","statewide",29543,"Libertarian","KERNS, DALE R JR",338
+"PA","Jefferson","42065","4206500000","US Senate","statewide",15576,"Republican","BARLETTA, LOUIS J.",10872
+"PA","Jefferson","42065","4206500000","US Senate","statewide",15576,"Democrat","CASEY, ROBERT P JR",4437
+"PA","Jefferson","42065","4206500000","US Senate","statewide",15576,"Green","GALE, NEAL TAYLOR",100
+"PA","Jefferson","42065","4206500000","US Senate","statewide",15576,"Libertarian","KERNS, DALE R JR",167
+"PA","Juniata","42067","4206700000","US Senate","statewide",8468,"Republican","BARLETTA, LOUIS J.",5853
+"PA","Juniata","42067","4206700000","US Senate","statewide",8468,"Democrat","CASEY, ROBERT P JR",2412
+"PA","Juniata","42067","4206700000","US Senate","statewide",8468,"Green","GALE, NEAL TAYLOR",87
+"PA","Juniata","42067","4206700000","US Senate","statewide",8468,"Libertarian","KERNS, DALE R JR",116
+"PA","Lackawanna","42069","4206900000","US Senate","statewide",84256,"Republican","BARLETTA, LOUIS J.",31922
+"PA","Lackawanna","42069","4206900000","US Senate","statewide",84256,"Democrat","CASEY, ROBERT P JR",51444
+"PA","Lackawanna","42069","4206900000","US Senate","statewide",84256,"Green","GALE, NEAL TAYLOR",402
+"PA","Lackawanna","42069","4206900000","US Senate","statewide",84256,"Libertarian","KERNS, DALE R JR",488
+"PA","Lancaster","42071","4207100000","US Senate","statewide",202364,"Republican","BARLETTA, LOUIS J.",107454
+"PA","Lancaster","42071","4207100000","US Senate","statewide",202364,"Democrat","CASEY, ROBERT P JR",90521
+"PA","Lancaster","42071","4207100000","US Senate","statewide",202364,"Green","GALE, NEAL TAYLOR",1406
+"PA","Lancaster","42071","4207100000","US Senate","statewide",202364,"Libertarian","KERNS, DALE R JR",2983
+"PA","Lawrence","42073","4207300000","US Senate","statewide",32147,"Republican","BARLETTA, LOUIS J.",17375
+"PA","Lawrence","42073","4207300000","US Senate","statewide",32147,"Democrat","CASEY, ROBERT P JR",14324
+"PA","Lawrence","42073","4207300000","US Senate","statewide",32147,"Green","GALE, NEAL TAYLOR",150
+"PA","Lawrence","42073","4207300000","US Senate","statewide",32147,"Libertarian","KERNS, DALE R JR",298
+"PA","Lebanon","42075","4207500000","US Senate","statewide",49149,"Republican","BARLETTA, LOUIS J.",29836
+"PA","Lebanon","42075","4207500000","US Senate","statewide",49149,"Democrat","CASEY, ROBERT P JR",18368
+"PA","Lebanon","42075","4207500000","US Senate","statewide",49149,"Green","GALE, NEAL TAYLOR",343
+"PA","Lebanon","42075","4207500000","US Senate","statewide",49149,"Libertarian","KERNS, DALE R JR",602
+"PA","Lehigh","42077","4207700000","US Senate","statewide",128438,"Republican","BARLETTA, LOUIS J.",52576
+"PA","Lehigh","42077","4207700000","US Senate","statewide",128438,"Democrat","CASEY, ROBERT P JR",73632
+"PA","Lehigh","42077","4207700000","US Senate","statewide",128438,"Green","GALE, NEAL TAYLOR",818
+"PA","Lehigh","42077","4207700000","US Senate","statewide",128438,"Libertarian","KERNS, DALE R JR",1412
+"PA","Luzerne","42079","4207900000","US Senate","statewide",108296,"Republican","BARLETTA, LOUIS J.",58040
+"PA","Luzerne","42079","4207900000","US Senate","statewide",108296,"Democrat","CASEY, ROBERT P JR",49200
+"PA","Luzerne","42079","4207900000","US Senate","statewide",108296,"Green","GALE, NEAL TAYLOR",497
+"PA","Luzerne","42079","4207900000","US Senate","statewide",108296,"Libertarian","KERNS, DALE R JR",559
+"PA","Lycoming","42081","4208100000","US Senate","statewide",41080,"Republican","BARLETTA, LOUIS J.",26488
+"PA","Lycoming","42081","4208100000","US Senate","statewide",41080,"Democrat","CASEY, ROBERT P JR",13893
+"PA","Lycoming","42081","4208100000","US Senate","statewide",41080,"Green","GALE, NEAL TAYLOR",252
+"PA","Lycoming","42081","4208100000","US Senate","statewide",41080,"Libertarian","KERNS, DALE R JR",447
+"PA","McKean","42083","4208300000","US Senate","statewide",12454,"Republican","BARLETTA, LOUIS J.",8285
+"PA","McKean","42083","4208300000","US Senate","statewide",12454,"Democrat","CASEY, ROBERT P JR",3972
+"PA","McKean","42083","4208300000","US Senate","statewide",12454,"Green","GALE, NEAL TAYLOR",64
+"PA","McKean","42083","4208300000","US Senate","statewide",12454,"Libertarian","KERNS, DALE R JR",133
+"PA","Mercer","42085","4208500000","US Senate","statewide",41097,"Republican","BARLETTA, LOUIS J.",22290
+"PA","Mercer","42085","4208500000","US Senate","statewide",41097,"Democrat","CASEY, ROBERT P JR",18136
+"PA","Mercer","42085","4208500000","US Senate","statewide",41097,"Green","GALE, NEAL TAYLOR",232
+"PA","Mercer","42085","4208500000","US Senate","statewide",41097,"Libertarian","KERNS, DALE R JR",439
+"PA","Mifflin","42087","4208700000","US Senate","statewide",13752,"Republican","BARLETTA, LOUIS J.",9564
+"PA","Mifflin","42087","4208700000","US Senate","statewide",13752,"Democrat","CASEY, ROBERT P JR",3934
+"PA","Mifflin","42087","4208700000","US Senate","statewide",13752,"Green","GALE, NEAL TAYLOR",81
+"PA","Mifflin","42087","4208700000","US Senate","statewide",13752,"Libertarian","KERNS, DALE R JR",173
+"PA","Monroe","42089","4208900000","US Senate","statewide",55412,"Republican","BARLETTA, LOUIS J.",23968
+"PA","Monroe","42089","4208900000","US Senate","statewide",55412,"Democrat","CASEY, ROBERT P JR",30626
+"PA","Monroe","42089","4208900000","US Senate","statewide",55412,"Green","GALE, NEAL TAYLOR",360
+"PA","Monroe","42089","4208900000","US Senate","statewide",55412,"Libertarian","KERNS, DALE R JR",458
+"PA","Montgomery","42091","4209100000","US Senate","statewide",380865,"Republican","BARLETTA, LOUIS J.",126666
+"PA","Montgomery","42091","4209100000","US Senate","statewide",380865,"Democrat","CASEY, ROBERT P JR",248454
+"PA","Montgomery","42091","4209100000","US Senate","statewide",380865,"Green","GALE, NEAL TAYLOR",2304
+"PA","Montgomery","42091","4209100000","US Senate","statewide",380865,"Libertarian","KERNS, DALE R JR",3441
+"PA","Montour","42093","4209300000","US Senate","statewide",7034,"Republican","BARLETTA, LOUIS J.",3943
+"PA","Montour","42093","4209300000","US Senate","statewide",7034,"Democrat","CASEY, ROBERT P JR",2966
+"PA","Montour","42093","4209300000","US Senate","statewide",7034,"Green","GALE, NEAL TAYLOR",52
+"PA","Montour","42093","4209300000","US Senate","statewide",7034,"Libertarian","KERNS, DALE R JR",73
+"PA","Northampton","42095","4209500000","US Senate","statewide",114616,"Republican","BARLETTA, LOUIS J.",50385
+"PA","Northampton","42095","4209500000","US Senate","statewide",114616,"Democrat","CASEY, ROBERT P JR",62275
+"PA","Northampton","42095","4209500000","US Senate","statewide",114616,"Green","GALE, NEAL TAYLOR",714
+"PA","Northampton","42095","4209500000","US Senate","statewide",114616,"Libertarian","KERNS, DALE R JR",1242
+"PA","Northumberland","42097","4209700000","US Senate","statewide",28875,"Republican","BARLETTA, LOUIS J.",17926
+"PA","Northumberland","42097","4209700000","US Senate","statewide",28875,"Democrat","CASEY, ROBERT P JR",10524
+"PA","Northumberland","42097","4209700000","US Senate","statewide",28875,"Green","GALE, NEAL TAYLOR",144
+"PA","Northumberland","42097","4209700000","US Senate","statewide",28875,"Libertarian","KERNS, DALE R JR",281
+"PA","Perry","42099","4209900000","US Senate","statewide",17178,"Republican","BARLETTA, LOUIS J.",11607
+"PA","Perry","42099","4209900000","US Senate","statewide",17178,"Democrat","CASEY, ROBERT P JR",5186
+"PA","Perry","42099","4209900000","US Senate","statewide",17178,"Green","GALE, NEAL TAYLOR",136
+"PA","Perry","42099","4209900000","US Senate","statewide",17178,"Libertarian","KERNS, DALE R JR",249
+"PA","Philadelphia","42101","4210100000","US Senate","statewide",554507,"Republican","BARLETTA, LOUIS J.",66653
+"PA","Philadelphia","42101","4210100000","US Senate","statewide",554507,"Democrat","CASEY, ROBERT P JR",481467
+"PA","Philadelphia","42101","4210100000","US Senate","statewide",554507,"Green","GALE, NEAL TAYLOR",3582
+"PA","Philadelphia","42101","4210100000","US Senate","statewide",554507,"Libertarian","KERNS, DALE R JR",2805
+"PA","Pike","42103","4210300000","US Senate","statewide",20794,"Republican","BARLETTA, LOUIS J.",11772
+"PA","Pike","42103","4210300000","US Senate","statewide",20794,"Democrat","CASEY, ROBERT P JR",8696
+"PA","Pike","42103","4210300000","US Senate","statewide",20794,"Green","GALE, NEAL TAYLOR",151
+"PA","Pike","42103","4210300000","US Senate","statewide",20794,"Libertarian","KERNS, DALE R JR",175
+"PA","Potter","42105","4210500000","US Senate","statewide",6202,"Republican","BARLETTA, LOUIS J.",4564
+"PA","Potter","42105","4210500000","US Senate","statewide",6202,"Democrat","CASEY, ROBERT P JR",1537
+"PA","Potter","42105","4210500000","US Senate","statewide",6202,"Green","GALE, NEAL TAYLOR",38
+"PA","Potter","42105","4210500000","US Senate","statewide",6202,"Libertarian","KERNS, DALE R JR",63
+"PA","Schuylkill","42107","4210700000","US Senate","statewide",48842,"Republican","BARLETTA, LOUIS J.",30452
+"PA","Schuylkill","42107","4210700000","US Senate","statewide",48842,"Democrat","CASEY, ROBERT P JR",17691
+"PA","Schuylkill","42107","4210700000","US Senate","statewide",48842,"Green","GALE, NEAL TAYLOR",278
+"PA","Schuylkill","42107","4210700000","US Senate","statewide",48842,"Libertarian","KERNS, DALE R JR",421
+"PA","Snyder","42109","4210900000","US Senate","statewide",13393,"Republican","BARLETTA, LOUIS J.",8826
+"PA","Snyder","42109","4210900000","US Senate","statewide",13393,"Democrat","CASEY, ROBERT P JR",4322
+"PA","Snyder","42109","4210900000","US Senate","statewide",13393,"Green","GALE, NEAL TAYLOR",87
+"PA","Snyder","42109","4210900000","US Senate","statewide",13393,"Libertarian","KERNS, DALE R JR",158
+"PA","Somerset","42111","4211100000","US Senate","statewide",28637,"Republican","BARLETTA, LOUIS J.",18896
+"PA","Somerset","42111","4211100000","US Senate","statewide",28637,"Democrat","CASEY, ROBERT P JR",9322
+"PA","Somerset","42111","4211100000","US Senate","statewide",28637,"Green","GALE, NEAL TAYLOR",129
+"PA","Somerset","42111","4211100000","US Senate","statewide",28637,"Libertarian","KERNS, DALE R JR",290
+"PA","Sullivan","42113","4211300000","US Senate","statewide",2730,"Republican","BARLETTA, LOUIS J.",1720
+"PA","Sullivan","42113","4211300000","US Senate","statewide",2730,"Democrat","CASEY, ROBERT P JR",962
+"PA","Sullivan","42113","4211300000","US Senate","statewide",2730,"Green","GALE, NEAL TAYLOR",11
+"PA","Sullivan","42113","4211300000","US Senate","statewide",2730,"Libertarian","KERNS, DALE R JR",37
+"PA","Susquehanna","42115","4211500000","US Senate","statewide",15916,"Republican","BARLETTA, LOUIS J.",10112
+"PA","Susquehanna","42115","4211500000","US Senate","statewide",15916,"Democrat","CASEY, ROBERT P JR",5521
+"PA","Susquehanna","42115","4211500000","US Senate","statewide",15916,"Green","GALE, NEAL TAYLOR",120
+"PA","Susquehanna","42115","4211500000","US Senate","statewide",15916,"Libertarian","KERNS, DALE R JR",163
+"PA","Tioga","42117","4211700000","US Senate","statewide",14704,"Republican","BARLETTA, LOUIS J.",10242
+"PA","Tioga","42117","4211700000","US Senate","statewide",14704,"Democrat","CASEY, ROBERT P JR",4145
+"PA","Tioga","42117","4211700000","US Senate","statewide",14704,"Green","GALE, NEAL TAYLOR",123
+"PA","Tioga","42117","4211700000","US Senate","statewide",14704,"Libertarian","KERNS, DALE R JR",194
+"PA","Union","42119","4211900000","US Senate","statewide",14441,"Republican","BARLETTA, LOUIS J.",8317
+"PA","Union","42119","4211900000","US Senate","statewide",14441,"Democrat","CASEY, ROBERT P JR",5901
+"PA","Union","42119","4211900000","US Senate","statewide",14441,"Green","GALE, NEAL TAYLOR",79
+"PA","Union","42119","4211900000","US Senate","statewide",14441,"Libertarian","KERNS, DALE R JR",144
+"PA","Venango","42121","4212100000","US Senate","statewide",18512,"Republican","BARLETTA, LOUIS J.",11210
+"PA","Venango","42121","4212100000","US Senate","statewide",18512,"Democrat","CASEY, ROBERT P JR",6945
+"PA","Venango","42121","4212100000","US Senate","statewide",18512,"Green","GALE, NEAL TAYLOR",122
+"PA","Venango","42121","4212100000","US Senate","statewide",18512,"Libertarian","KERNS, DALE R JR",235
+"PA","Warren","42123","4212300000","US Senate","statewide",14369,"Republican","BARLETTA, LOUIS J.",8734
+"PA","Warren","42123","4212300000","US Senate","statewide",14369,"Democrat","CASEY, ROBERT P JR",5390
+"PA","Warren","42123","4212300000","US Senate","statewide",14369,"Green","GALE, NEAL TAYLOR",92
+"PA","Warren","42123","4212300000","US Senate","statewide",14369,"Libertarian","KERNS, DALE R JR",153
+"PA","Washington","42125","4212500000","US Senate","statewide",82496,"Republican","BARLETTA, LOUIS J.",41958
+"PA","Washington","42125","4212500000","US Senate","statewide",82496,"Democrat","CASEY, ROBERT P JR",39220
+"PA","Washington","42125","4212500000","US Senate","statewide",82496,"Green","GALE, NEAL TAYLOR",379
+"PA","Washington","42125","4212500000","US Senate","statewide",82496,"Libertarian","KERNS, DALE R JR",939
+"PA","Wayne","42127","4212700000","US Senate","statewide",20162,"Republican","BARLETTA, LOUIS J.",12269
+"PA","Wayne","42127","4212700000","US Senate","statewide",20162,"Democrat","CASEY, ROBERT P JR",7625
+"PA","Wayne","42127","4212700000","US Senate","statewide",20162,"Green","GALE, NEAL TAYLOR",119
+"PA","Wayne","42127","4212700000","US Senate","statewide",20162,"Libertarian","KERNS, DALE R JR",149
+"PA","Westmoreland","42129","4212900000","US Senate","statewide",145258,"Republican","BARLETTA, LOUIS J.",79078
+"PA","Westmoreland","42129","4212900000","US Senate","statewide",145258,"Democrat","CASEY, ROBERT P JR",63778
+"PA","Westmoreland","42129","4212900000","US Senate","statewide",145258,"Green","GALE, NEAL TAYLOR",704
+"PA","Westmoreland","42129","4212900000","US Senate","statewide",145258,"Libertarian","KERNS, DALE R JR",1698
+"PA","Wyoming","42131","4213100000","US Senate","statewide",10628,"Republican","BARLETTA, LOUIS J.",6582
+"PA","Wyoming","42131","4213100000","US Senate","statewide",10628,"Democrat","CASEY, ROBERT P JR",3868
+"PA","Wyoming","42131","4213100000","US Senate","statewide",10628,"Green","GALE, NEAL TAYLOR",86
+"PA","Wyoming","42131","4213100000","US Senate","statewide",10628,"Libertarian","KERNS, DALE R JR",92
+"PA","York","42133","4213300000","US Senate","statewide",168812,"Republican","BARLETTA, LOUIS J.",95814
+"PA","York","42133","4213300000","US Senate","statewide",168812,"Democrat","CASEY, ROBERT P JR",69272
+"PA","York","42133","4213300000","US Senate","statewide",168812,"Green","GALE, NEAL TAYLOR",1291
+"PA","York","42133","4213300000","US Senate","statewide",168812,"Libertarian","KERNS, DALE R JR",2435

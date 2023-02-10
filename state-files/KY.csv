@@ -1,0 +1,402 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"KY","Adair","21001","2100100000","US House","1",6897,"Republican","Comer, James R.",5624
+"KY","Adair","21001","2100100000","US House","1",6897,"Democrat","Walker, Paul",1273
+"KY","Allen","21003","2100300000","US House","1",6238,"Republican","Comer, James R.",4943
+"KY","Allen","21003","2100300000","US House","1",6238,"Democrat","Walker, Paul",1295
+"KY","Ballard","21007","2100700000","US House","1",3441,"Republican","Comer, James R.",2414
+"KY","Ballard","21007","2100700000","US House","1",3441,"Democrat","Walker, Paul",1027
+"KY","Caldwell","21033","2103300000","US House","1",4950,"Republican","Comer, James R.",3476
+"KY","Caldwell","21033","2103300000","US House","1",4950,"Democrat","Walker, Paul",1474
+"KY","Calloway","21035","2103500000","US House","1",12627,"Republican","Comer, James R.",7818
+"KY","Calloway","21035","2103500000","US House","1",12627,"Democrat","Walker, Paul",4809
+"KY","Carlisle","21039","2103900000","US House","1",2306,"Republican","Comer, James R.",1703
+"KY","Carlisle","21039","2103900000","US House","1",2306,"Democrat","Walker, Paul",603
+"KY","Casey","21045","2104500000","US House","1",4771,"Republican","Comer, James R.",4141
+"KY","Casey","21045","2104500000","US House","1",4771,"Democrat","Walker, Paul",630
+"KY","Christian","21047","2104700000","US House","1",16883,"Republican","Comer, James R.",10261
+"KY","Christian","21047","2104700000","US House","1",16883,"Democrat","Walker, Paul",6622
+"KY","Clinton","21053","2105300000","US House","1",3827,"Republican","Comer, James R.",3311
+"KY","Clinton","21053","2105300000","US House","1",3827,"Democrat","Walker, Paul",516
+"KY","Crittenden","21055","2105500000","US House","1",3356,"Republican","Comer, James R.",2548
+"KY","Crittenden","21055","2105500000","US House","1",3356,"Democrat","Walker, Paul",808
+"KY","Cumberland","21057","2105700000","US House","1",2786,"Republican","Comer, James R.",2364
+"KY","Cumberland","21057","2105700000","US House","1",2786,"Democrat","Walker, Paul",422
+"KY","Fulton","21075","2107500000","US House","1",1889,"Republican","Comer, James R.",1193
+"KY","Fulton","21075","2107500000","US House","1",1889,"Democrat","Walker, Paul",696
+"KY","Graves","21083","2108300000","US House","1",13384,"Republican","Comer, James R.",9683
+"KY","Graves","21083","2108300000","US House","1",13384,"Democrat","Walker, Paul",3701
+"KY","Henderson","21101","2110100000","US House","1",14993,"Republican","Comer, James R.",8746
+"KY","Henderson","21101","2110100000","US House","1",14993,"Democrat","Walker, Paul",6247
+"KY","Hickman","21105","2110500000","US House","1",1756,"Republican","Comer, James R.",1235
+"KY","Hickman","21105","2110500000","US House","1",1756,"Democrat","Walker, Paul",521
+"KY","Hopkins","21107","2110700000","US House","1",16089,"Republican","Comer, James R.",11034
+"KY","Hopkins","21107","2110700000","US House","1",16089,"Democrat","Walker, Paul",5055
+"KY","Livingston","21139","2113900000","US House","1",3823,"Republican","Comer, James R.",2687
+"KY","Livingston","21139","2113900000","US House","1",3823,"Democrat","Walker, Paul",1136
+"KY","Logan","21141","2114100000","US House","1",8646,"Republican","Comer, James R.",5753
+"KY","Logan","21141","2114100000","US House","1",8646,"Democrat","Walker, Paul",2893
+"KY","Lyon","21143","2114300000","US House","1",3452,"Republican","Comer, James R.",2283
+"KY","Lyon","21143","2114300000","US House","1",3452,"Democrat","Walker, Paul",1169
+"KY","Marion","21155","2115500000","US House","1",6077,"Republican","Comer, James R.",3327
+"KY","Marion","21155","2115500000","US House","1",6077,"Democrat","Walker, Paul",2750
+"KY","Marshall","21157","2115700000","US House","1",14356,"Republican","Comer, James R.",9780
+"KY","Marshall","21157","2115700000","US House","1",14356,"Democrat","Walker, Paul",4576
+"KY","McCracken","21145","2114500000","US House","1",24339,"Republican","Comer, James R.",15638
+"KY","McCracken","21145","2114500000","US House","1",24339,"Democrat","Walker, Paul",8701
+"KY","McLean","21149","2114900000","US House","1",3929,"Republican","Comer, James R.",2663
+"KY","McLean","21149","2114900000","US House","1",3929,"Democrat","Walker, Paul",1266
+"KY","Metcalfe","21169","2116900000","US House","1",4317,"Republican","Comer, James R.",3300
+"KY","Metcalfe","21169","2116900000","US House","1",4317,"Democrat","Walker, Paul",1017
+"KY","Monroe","21171","2117100000","US House","1",4229,"Republican","Comer, James R.",3843
+"KY","Monroe","21171","2117100000","US House","1",4229,"Democrat","Walker, Paul",386
+"KY","Muhlenberg","21177","2117700000","US House","1",10988,"Republican","Comer, James R.",6249
+"KY","Muhlenberg","21177","2117700000","US House","1",10988,"Democrat","Walker, Paul",4739
+"KY","Ohio","21183","2118300000","US House","1",7960,"Republican","Comer, James R.",5889
+"KY","Ohio","21183","2118300000","US House","1",7960,"Democrat","Walker, Paul",2071
+"KY","Russell","21207","2120700000","US House","1",7131,"Republican","Comer, James R.",6013
+"KY","Russell","21207","2120700000","US House","1",7131,"Democrat","Walker, Paul",1118
+"KY","Simpson","21213","2121300000","US House","1",6236,"Republican","Comer, James R.",3904
+"KY","Simpson","21213","2121300000","US House","1",6236,"Democrat","Walker, Paul",2332
+"KY","Taylor","21217","2121700000","US House","1",9518,"Republican","Comer, James R.",7062
+"KY","Taylor","21217","2121700000","US House","1",9518,"Democrat","Walker, Paul",2456
+"KY","Todd","21219","2121900000","US House","1",3920,"Republican","Comer, James R.",2640
+"KY","Todd","21219","2121900000","US House","1",3920,"Democrat","Walker, Paul",1280
+"KY","Trigg","21221","2122100000","US House","1",5776,"Republican","Comer, James R.",3910
+"KY","Trigg","21221","2122100000","US House","1",5776,"Democrat","Walker, Paul",1866
+"KY","Union","21225","2122500000","US House","1",5534,"Republican","Comer, James R.",3570
+"KY","Union","21225","2122500000","US House","1",5534,"Democrat","Walker, Paul",1964
+"KY","Washington","21229","2122900000","US House","1",197,"Republican","Comer, James R.",128
+"KY","Washington","21229","2122900000","US House","1",197,"Democrat","Walker, Paul",69
+"KY","Webster","21233","2123300000","US House","1",4395,"Republican","Comer, James R.",3034
+"KY","Webster","21233","2123300000","US House","1",4395,"Democrat","Walker, Paul",1361
+"KY","Barren","21009","2100900000","US House","2",14856,"Republican","Guthrie, S. Brett",10812
+"KY","Barren","21009","2100900000","US House","2",14856,"Democrat","Linderman, Hank",3744
+"KY","Barren","21009","2100900000","US House","2",14856,"Independent","Loecken, Thomas A.",300
+"KY","Boyle","21021","2102100000","US House","2",10530,"Republican","Guthrie, S. Brett",6479
+"KY","Boyle","21021","2102100000","US House","2",10530,"Democrat","Linderman, Hank",3828
+"KY","Boyle","21021","2102100000","US House","2",10530,"Independent","Loecken, Thomas A.",223
+"KY","Breckinridge","21027","2102700000","US House","2",7667,"Republican","Guthrie, S. Brett",5573
+"KY","Breckinridge","21027","2102700000","US House","2",7667,"Democrat","Linderman, Hank",1945
+"KY","Breckinridge","21027","2102700000","US House","2",7667,"Independent","Loecken, Thomas A.",149
+"KY","Bullitt","21029","2102900000","US House","2",26711,"Republican","Guthrie, S. Brett",18205
+"KY","Bullitt","21029","2102900000","US House","2",26711,"Democrat","Linderman, Hank",7810
+"KY","Bullitt","21029","2102900000","US House","2",26711,"Independent","Loecken, Thomas A.",696
+"KY","Butler","21031","2103100000","US House","2",4658,"Republican","Guthrie, S. Brett",3839
+"KY","Butler","21031","2103100000","US House","2",4658,"Democrat","Linderman, Hank",749
+"KY","Butler","21031","2103100000","US House","2",4658,"Independent","Loecken, Thomas A.",70
+"KY","Daviess","21059","2105900000","US House","2",35117,"Republican","Guthrie, S. Brett",21709
+"KY","Daviess","21059","2105900000","US House","2",35117,"Democrat","Linderman, Hank",12611
+"KY","Daviess","21059","2105900000","US House","2",35117,"Independent","Loecken, Thomas A.",797
+"KY","Edmonson","21061","2106100000","US House","2",4407,"Republican","Guthrie, S. Brett",3429
+"KY","Edmonson","21061","2106100000","US House","2",4407,"Democrat","Linderman, Hank",911
+"KY","Edmonson","21061","2106100000","US House","2",4407,"Independent","Loecken, Thomas A.",67
+"KY","Garrard","21079","2107900000","US House","2",5787,"Republican","Guthrie, S. Brett",4416
+"KY","Garrard","21079","2107900000","US House","2",5787,"Democrat","Linderman, Hank",1258
+"KY","Garrard","21079","2107900000","US House","2",5787,"Independent","Loecken, Thomas A.",113
+"KY","Grayson","21085","2108500000","US House","2",8343,"Republican","Guthrie, S. Brett",6439
+"KY","Grayson","21085","2108500000","US House","2",8343,"Democrat","Linderman, Hank",1713
+"KY","Grayson","21085","2108500000","US House","2",8343,"Independent","Loecken, Thomas A.",191
+"KY","Green","21087","2108700000","US House","2",4198,"Republican","Guthrie, S. Brett",3462
+"KY","Green","21087","2108700000","US House","2",4198,"Democrat","Linderman, Hank",669
+"KY","Green","21087","2108700000","US House","2",4198,"Independent","Loecken, Thomas A.",67
+"KY","Hancock","21091","2109100000","US House","2",3615,"Republican","Guthrie, S. Brett",2240
+"KY","Hancock","21091","2109100000","US House","2",3615,"Democrat","Linderman, Hank",1282
+"KY","Hancock","21091","2109100000","US House","2",3615,"Independent","Loecken, Thomas A.",93
+"KY","Hardin","21093","2109300000","US House","2",32980,"Republican","Guthrie, S. Brett",20258
+"KY","Hardin","21093","2109300000","US House","2",32980,"Democrat","Linderman, Hank",11887
+"KY","Hardin","21093","2109300000","US House","2",32980,"Independent","Loecken, Thomas A.",835
+"KY","Hart","21099","2109900000","US House","2",6361,"Republican","Guthrie, S. Brett",4444
+"KY","Hart","21099","2109900000","US House","2",6361,"Democrat","Linderman, Hank",1745
+"KY","Hart","21099","2109900000","US House","2",6361,"Independent","Loecken, Thomas A.",172
+"KY","Jessamine","21113","2111300000","US House","2",5989,"Republican","Guthrie, S. Brett",4323
+"KY","Jessamine","21113","2111300000","US House","2",5989,"Democrat","Linderman, Hank",1529
+"KY","Jessamine","21113","2111300000","US House","2",5989,"Independent","Loecken, Thomas A.",137
+"KY","LaRue","21123","2112300000","US House","2",4793,"Republican","Guthrie, S. Brett",3511
+"KY","LaRue","21123","2112300000","US House","2",4793,"Democrat","Linderman, Hank",1178
+"KY","LaRue","21123","2112300000","US House","2",4793,"Independent","Loecken, Thomas A.",104
+"KY","Meade","21163","2116300000","US House","2",10051,"Republican","Guthrie, S. Brett",6589
+"KY","Meade","21163","2116300000","US House","2",10051,"Democrat","Linderman, Hank",3189
+"KY","Meade","21163","2116300000","US House","2",10051,"Independent","Loecken, Thomas A.",273
+"KY","Mercer","21167","2116700000","US House","2",8693,"Republican","Guthrie, S. Brett",6090
+"KY","Mercer","21167","2116700000","US House","2",8693,"Democrat","Linderman, Hank",2413
+"KY","Mercer","21167","2116700000","US House","2",8693,"Independent","Loecken, Thomas A.",190
+"KY","Nelson","21179","2117900000","US House","2",16127,"Republican","Guthrie, S. Brett",10150
+"KY","Nelson","21179","2117900000","US House","2",16127,"Democrat","Linderman, Hank",5617
+"KY","Nelson","21179","2117900000","US House","2",16127,"Independent","Loecken, Thomas A.",360
+"KY","Spencer","21215","2121500000","US House","2",2219,"Republican","Guthrie, S. Brett",1627
+"KY","Spencer","21215","2121500000","US House","2",2219,"Democrat","Linderman, Hank",540
+"KY","Spencer","21215","2121500000","US House","2",2219,"Independent","Loecken, Thomas A.",52
+"KY","Warren","21227","2122700000","US House","2",39651,"Republican","Guthrie, S. Brett",25029
+"KY","Warren","21227","2122700000","US House","2",39651,"Democrat","Linderman, Hank",13935
+"KY","Warren","21227","2122700000","US House","2",39651,"Independent","Loecken, Thomas A.",687
+"KY","Washington","21229","2122900000","US House","2",4592,"Republican","Guthrie, S. Brett",3076
+"KY","Washington","21229","2122900000","US House","2",4592,"Democrat","Linderman, Hank",1411
+"KY","Washington","21229","2122900000","US House","2",4592,"Independent","Loecken, Thomas A.",105
+"KY","Jefferson","21111","2111100000","US House","3",278720,"Libertarian","Boles, Gregory",3788
+"KY","Jefferson","21111","2111100000","US House","3",278720,"Republican","Glisson, Vickie Yates B",101930
+"KY","Jefferson","21111","2111100000","US House","3",278720,"Democrat","Yarmuth, John A",173002
+"KY","Boone","21015","2101500000","US House","4",41900,"","Goodwin, David (write-in)",3
+"KY","Boone","21015","2101500000","US House","4",41900,"Democrat","Hall, Seth",12548
+"KY","Boone","21015","2101500000","US House","4",41900,"Republican","Massie, Thomas",27912
+"KY","Boone","21015","2101500000","US House","4",41900,"Independent","Moffett, Mike",1437
+"KY","Boyd","21019","2101900000","US House","4",11896,"","Goodwin, David (write-in)",0
+"KY","Boyd","21019","2101900000","US House","4",11896,"Democrat","Hall, Seth",4746
+"KY","Boyd","21019","2101900000","US House","4",11896,"Republican","Massie, Thomas",6824
+"KY","Boyd","21019","2101900000","US House","4",11896,"Independent","Moffett, Mike",326
+"KY","Bracken","21023","2102300000","US House","4",2818,"","Goodwin, David (write-in)",0
+"KY","Bracken","21023","2102300000","US House","4",2818,"Democrat","Hall, Seth",790
+"KY","Bracken","21023","2102300000","US House","4",2818,"Republican","Massie, Thomas",1947
+"KY","Bracken","21023","2102300000","US House","4",2818,"Independent","Moffett, Mike",81
+"KY","Campbell","21037","2103700000","US House","4",33916,"","Goodwin, David (write-in)",5
+"KY","Campbell","21037","2103700000","US House","4",33916,"Democrat","Hall, Seth",13111
+"KY","Campbell","21037","2103700000","US House","4",33916,"Republican","Massie, Thomas",19605
+"KY","Campbell","21037","2103700000","US House","4",33916,"Independent","Moffett, Mike",1195
+"KY","Carroll","21041","2104100000","US House","4",3353,"","Goodwin, David (write-in)",0
+"KY","Carroll","21041","2104100000","US House","4",3353,"Democrat","Hall, Seth",1350
+"KY","Carroll","21041","2104100000","US House","4",3353,"Republican","Massie, Thomas",1904
+"KY","Carroll","21041","2104100000","US House","4",3353,"Independent","Moffett, Mike",99
+"KY","Gallatin","21077","2107700000","US House","4",2913,"","Goodwin, David (write-in)",0
+"KY","Gallatin","21077","2107700000","US House","4",2913,"Democrat","Hall, Seth",898
+"KY","Gallatin","21077","2107700000","US House","4",2913,"Republican","Massie, Thomas",1876
+"KY","Gallatin","21077","2107700000","US House","4",2913,"Independent","Moffett, Mike",139
+"KY","Grant","21081","2108100000","US House","4",7253,"","Goodwin, David (write-in)",0
+"KY","Grant","21081","2108100000","US House","4",7253,"Democrat","Hall, Seth",1816
+"KY","Grant","21081","2108100000","US House","4",7253,"Republican","Massie, Thomas",5205
+"KY","Grant","21081","2108100000","US House","4",7253,"Independent","Moffett, Mike",232
+"KY","Greenup","21089","2108900000","US House","4",12877,"","Goodwin, David (write-in)",0
+"KY","Greenup","21089","2108900000","US House","4",12877,"Democrat","Hall, Seth",4468
+"KY","Greenup","21089","2108900000","US House","4",12877,"Republican","Massie, Thomas",8101
+"KY","Greenup","21089","2108900000","US House","4",12877,"Independent","Moffett, Mike",308
+"KY","Harrison","21097","2109700000","US House","4",3854,"","Goodwin, David (write-in)",0
+"KY","Harrison","21097","2109700000","US House","4",3854,"Democrat","Hall, Seth",1259
+"KY","Harrison","21097","2109700000","US House","4",3854,"Republican","Massie, Thomas",2512
+"KY","Harrison","21097","2109700000","US House","4",3854,"Independent","Moffett, Mike",83
+"KY","Henry","21103","2110300000","US House","4",6165,"","Goodwin, David (write-in)",0
+"KY","Henry","21103","2110300000","US House","4",6165,"Democrat","Hall, Seth",2230
+"KY","Henry","21103","2110300000","US House","4",6165,"Republican","Massie, Thomas",3735
+"KY","Henry","21103","2110300000","US House","4",6165,"Independent","Moffett, Mike",200
+"KY","Jefferson","21111","2111100000","US House","4",11356,"","Goodwin, David (write-in)",0
+"KY","Jefferson","21111","2111100000","US House","4",11356,"Democrat","Hall, Seth",4172
+"KY","Jefferson","21111","2111100000","US House","4",11356,"Republican","Massie, Thomas",7082
+"KY","Jefferson","21111","2111100000","US House","4",11356,"Independent","Moffett, Mike",102
+"KY","Kenton","21117","2111700000","US House","4",53225,"","Goodwin, David (write-in)",3
+"KY","Kenton","21117","2111700000","US House","4",53225,"Democrat","Hall, Seth",20196
+"KY","Kenton","21117","2111700000","US House","4",53225,"Republican","Massie, Thomas",30878
+"KY","Kenton","21117","2111700000","US House","4",53225,"Independent","Moffett, Mike",2148
+"KY","Lewis","21135","2113500000","US House","4",3211,"","Goodwin, David (write-in)",0
+"KY","Lewis","21135","2113500000","US House","4",3211,"Democrat","Hall, Seth",516
+"KY","Lewis","21135","2113500000","US House","4",3211,"Republican","Massie, Thomas",2620
+"KY","Lewis","21135","2113500000","US House","4",3211,"Independent","Moffett, Mike",75
+"KY","Mason","21161","2116100000","US House","4",5536,"","Goodwin, David (write-in)",0
+"KY","Mason","21161","2116100000","US House","4",5536,"Democrat","Hall, Seth",1779
+"KY","Mason","21161","2116100000","US House","4",5536,"Republican","Massie, Thomas",3666
+"KY","Mason","21161","2116100000","US House","4",5536,"Independent","Moffett, Mike",91
+"KY","Oldham","21185","2118500000","US House","4",27026,"","Goodwin, David (write-in)",1
+"KY","Oldham","21185","2118500000","US House","4",27026,"Democrat","Hall, Seth",9824
+"KY","Oldham","21185","2118500000","US House","4",27026,"Republican","Massie, Thomas",16495
+"KY","Oldham","21185","2118500000","US House","4",27026,"Independent","Moffett, Mike",706
+"KY","Owen","21187","2118700000","US House","4",4084,"","Goodwin, David (write-in)",0
+"KY","Owen","21187","2118700000","US House","4",4084,"Democrat","Hall, Seth",1168
+"KY","Owen","21187","2118700000","US House","4",4084,"Republican","Massie, Thomas",2784
+"KY","Owen","21187","2118700000","US House","4",4084,"Independent","Moffett, Mike",132
+"KY","Pendleton","21191","2119100000","US House","4",4575,"","Goodwin, David (write-in)",0
+"KY","Pendleton","21191","2119100000","US House","4",4575,"Democrat","Hall, Seth",1193
+"KY","Pendleton","21191","2119100000","US House","4",4575,"Republican","Massie, Thomas",3242
+"KY","Pendleton","21191","2119100000","US House","4",4575,"Independent","Moffett, Mike",140
+"KY","Shelby","21211","2121100000","US House","4",17120,"","Goodwin, David (write-in)",0
+"KY","Shelby","21211","2121100000","US House","4",17120,"Democrat","Hall, Seth",5982
+"KY","Shelby","21211","2121100000","US House","4",17120,"Republican","Massie, Thomas",10567
+"KY","Shelby","21211","2121100000","US House","4",17120,"Independent","Moffett, Mike",571
+"KY","Spencer","21215","2121500000","US House","4",5767,"","Goodwin, David (write-in)",0
+"KY","Spencer","21215","2121500000","US House","4",5767,"Democrat","Hall, Seth",1460
+"KY","Spencer","21215","2121500000","US House","4",5767,"Republican","Massie, Thomas",4133
+"KY","Spencer","21215","2121500000","US House","4",5767,"Independent","Moffett, Mike",174
+"KY","Trimble","21223","2122300000","US House","4",2967,"","Goodwin, David (write-in)",0
+"KY","Trimble","21223","2122300000","US House","4",2967,"Democrat","Hall, Seth",1030
+"KY","Trimble","21223","2122300000","US House","4",2967,"Republican","Massie, Thomas",1858
+"KY","Trimble","21223","2122300000","US House","4",2967,"Independent","Moffett, Mike",79
+"KY","Bell","21013","2101300000","US House","5",7475,"Republican","Rogers, Harold 'Hal'",6155
+"KY","Bell","21013","2101300000","US House","5",7475,"Democrat","Stepp, Kenneth S.",1320
+"KY","Bell","21013","2101300000","US House","5",7475,"","Wilson, Billy Ray (write-in)",0
+"KY","Boyd","21019","2101900000","US House","5",3131,"Republican","Rogers, Harold 'Hal'",2089
+"KY","Boyd","21019","2101900000","US House","5",3131,"Democrat","Stepp, Kenneth S.",1042
+"KY","Boyd","21019","2101900000","US House","5",3131,"","Wilson, Billy Ray (write-in)",0
+"KY","Breathitt","21025","2102500000","US House","5",4507,"Republican","Rogers, Harold 'Hal'",3140
+"KY","Breathitt","21025","2102500000","US House","5",4507,"Democrat","Stepp, Kenneth S.",1367
+"KY","Breathitt","21025","2102500000","US House","5",4507,"","Wilson, Billy Ray (write-in)",0
+"KY","Carter","21043","2104300000","US House","5",8409,"Republican","Rogers, Harold 'Hal'",5621
+"KY","Carter","21043","2104300000","US House","5",8409,"Democrat","Stepp, Kenneth S.",2787
+"KY","Carter","21043","2104300000","US House","5",8409,"","Wilson, Billy Ray (write-in)",1
+"KY","Clay","21051","2105100000","US House","5",4972,"Republican","Rogers, Harold 'Hal'",4175
+"KY","Clay","21051","2105100000","US House","5",4972,"Democrat","Stepp, Kenneth S.",796
+"KY","Clay","21051","2105100000","US House","5",4972,"","Wilson, Billy Ray (write-in)",1
+"KY","Elliott","21063","2106300000","US House","5",1770,"Republican","Rogers, Harold 'Hal'",964
+"KY","Elliott","21063","2106300000","US House","5",1770,"Democrat","Stepp, Kenneth S.",803
+"KY","Elliott","21063","2106300000","US House","5",1770,"","Wilson, Billy Ray (write-in)",3
+"KY","Floyd","21071","2107100000","US House","5",12263,"Republican","Rogers, Harold 'Hal'",8763
+"KY","Floyd","21071","2107100000","US House","5",12263,"Democrat","Stepp, Kenneth S.",3499
+"KY","Floyd","21071","2107100000","US House","5",12263,"","Wilson, Billy Ray (write-in)",1
+"KY","Harlan","21095","2109500000","US House","5",8244,"Republican","Rogers, Harold 'Hal'",6849
+"KY","Harlan","21095","2109500000","US House","5",8244,"Democrat","Stepp, Kenneth S.",1395
+"KY","Harlan","21095","2109500000","US House","5",8244,"","Wilson, Billy Ray (write-in)",0
+"KY","Jackson","21109","2110900000","US House","5",3951,"Republican","Rogers, Harold 'Hal'",3579
+"KY","Jackson","21109","2110900000","US House","5",3951,"Democrat","Stepp, Kenneth S.",372
+"KY","Jackson","21109","2110900000","US House","5",3951,"","Wilson, Billy Ray (write-in)",0
+"KY","Johnson","21115","2111500000","US House","5",7779,"Republican","Rogers, Harold 'Hal'",6518
+"KY","Johnson","21115","2111500000","US House","5",7779,"Democrat","Stepp, Kenneth S.",1261
+"KY","Johnson","21115","2111500000","US House","5",7779,"","Wilson, Billy Ray (write-in)",0
+"KY","Knott","21119","2111900000","US House","5",5132,"Republican","Rogers, Harold 'Hal'",3484
+"KY","Knott","21119","2111900000","US House","5",5132,"Democrat","Stepp, Kenneth S.",1648
+"KY","Knott","21119","2111900000","US House","5",5132,"","Wilson, Billy Ray (write-in)",0
+"KY","Knox","21121","2112100000","US House","5",9075,"Republican","Rogers, Harold 'Hal'",7630
+"KY","Knox","21121","2112100000","US House","5",9075,"Democrat","Stepp, Kenneth S.",1445
+"KY","Knox","21121","2112100000","US House","5",9075,"","Wilson, Billy Ray (write-in)",0
+"KY","Laurel","21125","2112500000","US House","5",16412,"Republican","Rogers, Harold 'Hal'",13811
+"KY","Laurel","21125","2112500000","US House","5",16412,"Democrat","Stepp, Kenneth S.",2598
+"KY","Laurel","21125","2112500000","US House","5",16412,"","Wilson, Billy Ray (write-in)",3
+"KY","Lawrence","21127","2112700000","US House","5",5143,"Republican","Rogers, Harold 'Hal'",3903
+"KY","Lawrence","21127","2112700000","US House","5",5143,"Democrat","Stepp, Kenneth S.",1240
+"KY","Lawrence","21127","2112700000","US House","5",5143,"","Wilson, Billy Ray (write-in)",0
+"KY","Lee","21129","2112900000","US House","5",2358,"Republican","Rogers, Harold 'Hal'",1935
+"KY","Lee","21129","2112900000","US House","5",2358,"Democrat","Stepp, Kenneth S.",423
+"KY","Lee","21129","2112900000","US House","5",2358,"","Wilson, Billy Ray (write-in)",0
+"KY","Leslie","21131","2113100000","US House","5",3705,"Republican","Rogers, Harold 'Hal'",3321
+"KY","Leslie","21131","2113100000","US House","5",3705,"Democrat","Stepp, Kenneth S.",384
+"KY","Leslie","21131","2113100000","US House","5",3705,"","Wilson, Billy Ray (write-in)",0
+"KY","Letcher","21133","2113300000","US House","5",7668,"Republican","Rogers, Harold 'Hal'",5917
+"KY","Letcher","21133","2113300000","US House","5",7668,"Democrat","Stepp, Kenneth S.",1749
+"KY","Letcher","21133","2113300000","US House","5",7668,"","Wilson, Billy Ray (write-in)",2
+"KY","Lincoln","21137","2113700000","US House","5",7569,"Republican","Rogers, Harold 'Hal'",5919
+"KY","Lincoln","21137","2113700000","US House","5",7569,"Democrat","Stepp, Kenneth S.",1648
+"KY","Lincoln","21137","2113700000","US House","5",7569,"","Wilson, Billy Ray (write-in)",2
+"KY","Magoffin","21153","2115300000","US House","5",5281,"Republican","Rogers, Harold 'Hal'",3859
+"KY","Magoffin","21153","2115300000","US House","5",5281,"Democrat","Stepp, Kenneth S.",1422
+"KY","Magoffin","21153","2115300000","US House","5",5281,"","Wilson, Billy Ray (write-in)",0
+"KY","Martin","21159","2115900000","US House","5",3237,"Republican","Rogers, Harold 'Hal'",2836
+"KY","Martin","21159","2115900000","US House","5",3237,"Democrat","Stepp, Kenneth S.",401
+"KY","Martin","21159","2115900000","US House","5",3237,"","Wilson, Billy Ray (write-in)",0
+"KY","McCreary","21147","2114700000","US House","5",4960,"Republican","Rogers, Harold 'Hal'",4323
+"KY","McCreary","21147","2114700000","US House","5",4960,"Democrat","Stepp, Kenneth S.",637
+"KY","McCreary","21147","2114700000","US House","5",4960,"","Wilson, Billy Ray (write-in)",0
+"KY","Morgan","21175","2117500000","US House","5",4229,"Republican","Rogers, Harold 'Hal'",3077
+"KY","Morgan","21175","2117500000","US House","5",4229,"Democrat","Stepp, Kenneth S.",1152
+"KY","Morgan","21175","2117500000","US House","5",4229,"","Wilson, Billy Ray (write-in)",0
+"KY","Owsley","21189","2118900000","US House","5",1821,"Republican","Rogers, Harold 'Hal'",1533
+"KY","Owsley","21189","2118900000","US House","5",1821,"Democrat","Stepp, Kenneth S.",288
+"KY","Owsley","21189","2118900000","US House","5",1821,"","Wilson, Billy Ray (write-in)",0
+"KY","Perry","21193","2119300000","US House","5",9581,"Republican","Rogers, Harold 'Hal'",7248
+"KY","Perry","21193","2119300000","US House","5",9581,"Democrat","Stepp, Kenneth S.",2332
+"KY","Perry","21193","2119300000","US House","5",9581,"","Wilson, Billy Ray (write-in)",1
+"KY","Pike","21195","2119500000","US House","5",18996,"Republican","Rogers, Harold 'Hal'",14667
+"KY","Pike","21195","2119500000","US House","5",18996,"Democrat","Stepp, Kenneth S.",4328
+"KY","Pike","21195","2119500000","US House","5",18996,"","Wilson, Billy Ray (write-in)",1
+"KY","Pulaski","21199","2119900000","US House","5",21463,"Republican","Rogers, Harold 'Hal'",18076
+"KY","Pulaski","21199","2119900000","US House","5",21463,"Democrat","Stepp, Kenneth S.",3384
+"KY","Pulaski","21199","2119900000","US House","5",21463,"","Wilson, Billy Ray (write-in)",3
+"KY","Rockcastle","21203","2120300000","US House","5",5355,"Republican","Rogers, Harold 'Hal'",4688
+"KY","Rockcastle","21203","2120300000","US House","5",5355,"Democrat","Stepp, Kenneth S.",666
+"KY","Rockcastle","21203","2120300000","US House","5",5355,"","Wilson, Billy Ray (write-in)",1
+"KY","Rowan","21205","2120500000","US House","5",7450,"Republican","Rogers, Harold 'Hal'",4603
+"KY","Rowan","21205","2120500000","US House","5",7450,"Democrat","Stepp, Kenneth S.",2837
+"KY","Rowan","21205","2120500000","US House","5",7450,"","Wilson, Billy Ray (write-in)",10
+"KY","Wayne","21231","2123100000","US House","5",6613,"Republican","Rogers, Harold 'Hal'",5381
+"KY","Wayne","21231","2123100000","US House","5",6613,"Democrat","Stepp, Kenneth S.",1232
+"KY","Wayne","21231","2123100000","US House","5",6613,"","Wilson, Billy Ray (write-in)",0
+"KY","Whitley","21235","2123500000","US House","5",9468,"Republican","Rogers, Harold 'Hal'",8029
+"KY","Whitley","21235","2123500000","US House","5",9468,"Democrat","Stepp, Kenneth S.",1434
+"KY","Whitley","21235","2123500000","US House","5",9468,"","Wilson, Billy Ray (write-in)",5
+"KY","Anderson","21005","2100500000","US House","6",10369,"Republican","Barr, Andy",6864
+"KY","Anderson","21005","2100500000","US House","6",10369,"Independent","Germalic, James",21
+"KY","Anderson","21005","2100500000","US House","6",10369,"Libertarian","Harris, Frank",65
+"KY","Anderson","21005","2100500000","US House","6",10369,"Democrat","McGrath, Amy",3386
+"KY","Anderson","21005","2100500000","US House","6",10369,"Independent","Wallin, Rikka L.",33
+"KY","Bath","21011","2101100000","US House","6",4604,"Republican","Barr, Andy",2768
+"KY","Bath","21011","2101100000","US House","6",4604,"Independent","Germalic, James",12
+"KY","Bath","21011","2101100000","US House","6",4604,"Libertarian","Harris, Frank",32
+"KY","Bath","21011","2101100000","US House","6",4604,"Democrat","McGrath, Amy",1776
+"KY","Bath","21011","2101100000","US House","6",4604,"Independent","Wallin, Rikka L.",16
+"KY","Bourbon","21017","2101700000","US House","6",8163,"Republican","Barr, Andy",4922
+"KY","Bourbon","21017","2101700000","US House","6",8163,"Independent","Germalic, James",21
+"KY","Bourbon","21017","2101700000","US House","6",8163,"Libertarian","Harris, Frank",71
+"KY","Bourbon","21017","2101700000","US House","6",8163,"Democrat","McGrath, Amy",3123
+"KY","Bourbon","21017","2101700000","US House","6",8163,"Independent","Wallin, Rikka L.",26
+"KY","Clark","21049","2104900000","US House","6",14716,"Republican","Barr, Andy",9119
+"KY","Clark","21049","2104900000","US House","6",14716,"Independent","Germalic, James",25
+"KY","Clark","21049","2104900000","US House","6",14716,"Libertarian","Harris, Frank",112
+"KY","Clark","21049","2104900000","US House","6",14716,"Democrat","McGrath, Amy",5418
+"KY","Clark","21049","2104900000","US House","6",14716,"Independent","Wallin, Rikka L.",42
+"KY","Estill","21065","2106500000","US House","6",5473,"Republican","Barr, Andy",3948
+"KY","Estill","21065","2106500000","US House","6",5473,"Independent","Germalic, James",7
+"KY","Estill","21065","2106500000","US House","6",5473,"Libertarian","Harris, Frank",35
+"KY","Estill","21065","2106500000","US House","6",5473,"Democrat","McGrath, Amy",1471
+"KY","Estill","21065","2106500000","US House","6",5473,"Independent","Wallin, Rikka L.",12
+"KY","Fayette","21067","2106700000","US House","6",121612,"Republican","Barr, Andy",47735
+"KY","Fayette","21067","2106700000","US House","6",121612,"Independent","Germalic, James",151
+"KY","Fayette","21067","2106700000","US House","6",121612,"Libertarian","Harris, Frank",790
+"KY","Fayette","21067","2106700000","US House","6",121612,"Democrat","McGrath, Amy",72536
+"KY","Fayette","21067","2106700000","US House","6",121612,"Independent","Wallin, Rikka L.",400
+"KY","Fleming","21069","2106900000","US House","6",5618,"Republican","Barr, Andy",3926
+"KY","Fleming","21069","2106900000","US House","6",5618,"Independent","Germalic, James",11
+"KY","Fleming","21069","2106900000","US House","6",5618,"Libertarian","Harris, Frank",31
+"KY","Fleming","21069","2106900000","US House","6",5618,"Democrat","McGrath, Amy",1638
+"KY","Fleming","21069","2106900000","US House","6",5618,"Independent","Wallin, Rikka L.",12
+"KY","Franklin","21073","2107300000","US House","6",21921,"Republican","Barr, Andy",9860
+"KY","Franklin","21073","2107300000","US House","6",21921,"Independent","Germalic, James",61
+"KY","Franklin","21073","2107300000","US House","6",21921,"Libertarian","Harris, Frank",184
+"KY","Franklin","21073","2107300000","US House","6",21921,"Democrat","McGrath, Amy",11702
+"KY","Franklin","21073","2107300000","US House","6",21921,"Independent","Wallin, Rikka L.",114
+"KY","Harrison","21097","2109700000","US House","6",2631,"Republican","Barr, Andy",1582
+"KY","Harrison","21097","2109700000","US House","6",2631,"Independent","Germalic, James",4
+"KY","Harrison","21097","2109700000","US House","6",2631,"Libertarian","Harris, Frank",30
+"KY","Harrison","21097","2109700000","US House","6",2631,"Democrat","McGrath, Amy",1001
+"KY","Harrison","21097","2109700000","US House","6",2631,"Independent","Wallin, Rikka L.",14
+"KY","Jessamine","21113","2111300000","US House","6",14541,"Republican","Barr, Andy",8876
+"KY","Jessamine","21113","2111300000","US House","6",14541,"Independent","Germalic, James",32
+"KY","Jessamine","21113","2111300000","US House","6",14541,"Libertarian","Harris, Frank",112
+"KY","Jessamine","21113","2111300000","US House","6",14541,"Democrat","McGrath, Amy",5471
+"KY","Jessamine","21113","2111300000","US House","6",14541,"Independent","Wallin, Rikka L.",50
+"KY","Madison","21151","2115100000","US House","6",34311,"Republican","Barr, Andy",20367
+"KY","Madison","21151","2115100000","US House","6",34311,"Independent","Germalic, James",60
+"KY","Madison","21151","2115100000","US House","6",34311,"Libertarian","Harris, Frank",259
+"KY","Madison","21151","2115100000","US House","6",34311,"Democrat","McGrath, Amy",13523
+"KY","Madison","21151","2115100000","US House","6",34311,"Independent","Wallin, Rikka L.",102
+"KY","Menifee","21165","2116500000","US House","6",2820,"Republican","Barr, Andy",1800
+"KY","Menifee","21165","2116500000","US House","6",2820,"Independent","Germalic, James",13
+"KY","Menifee","21165","2116500000","US House","6",2820,"Libertarian","Harris, Frank",17
+"KY","Menifee","21165","2116500000","US House","6",2820,"Democrat","McGrath, Amy",976
+"KY","Menifee","21165","2116500000","US House","6",2820,"Independent","Wallin, Rikka L.",14
+"KY","Montgomery","21173","2117300000","US House","6",10282,"Republican","Barr, Andy",6484
+"KY","Montgomery","21173","2117300000","US House","6",10282,"Independent","Germalic, James",34
+"KY","Montgomery","21173","2117300000","US House","6",10282,"Libertarian","Harris, Frank",74
+"KY","Montgomery","21173","2117300000","US House","6",10282,"Democrat","McGrath, Amy",3662
+"KY","Montgomery","21173","2117300000","US House","6",10282,"Independent","Wallin, Rikka L.",28
+"KY","Nicholas","21181","2118100000","US House","6",2551,"Republican","Barr, Andy",1603
+"KY","Nicholas","21181","2118100000","US House","6",2551,"Independent","Germalic, James",2
+"KY","Nicholas","21181","2118100000","US House","6",2551,"Libertarian","Harris, Frank",11
+"KY","Nicholas","21181","2118100000","US House","6",2551,"Democrat","McGrath, Amy",924
+"KY","Nicholas","21181","2118100000","US House","6",2551,"Independent","Wallin, Rikka L.",11
+"KY","Powell","21197","2119700000","US House","6",4940,"Republican","Barr, Andy",3179
+"KY","Powell","21197","2119700000","US House","6",4940,"Independent","Germalic, James",16
+"KY","Powell","21197","2119700000","US House","6",4940,"Libertarian","Harris, Frank",52
+"KY","Powell","21197","2119700000","US House","6",4940,"Democrat","McGrath, Amy",1671
+"KY","Powell","21197","2119700000","US House","6",4940,"Independent","Wallin, Rikka L.",22
+"KY","Robertson","21201","2120100000","US House","6",834,"Republican","Barr, Andy",531
+"KY","Robertson","21201","2120100000","US House","6",834,"Independent","Germalic, James",1
+"KY","Robertson","21201","2120100000","US House","6",834,"Libertarian","Harris, Frank",4
+"KY","Robertson","21201","2120100000","US House","6",834,"Democrat","McGrath, Amy",296
+"KY","Robertson","21201","2120100000","US House","6",834,"Independent","Wallin, Rikka L.",2
+"KY","Scott","21209","2120900000","US House","6",21969,"Republican","Barr, Andy",12522
+"KY","Scott","21209","2120900000","US House","6",21969,"Independent","Germalic, James",32
+"KY","Scott","21209","2120900000","US House","6",21969,"Libertarian","Harris, Frank",171
+"KY","Scott","21209","2120900000","US House","6",21969,"Democrat","McGrath, Amy",9159
+"KY","Scott","21209","2120900000","US House","6",21969,"Independent","Wallin, Rikka L.",85
+"KY","Wolfe","21237","2123700000","US House","6",2611,"Republican","Barr, Andy",1450
+"KY","Wolfe","21237","2123700000","US House","6",2611,"Independent","Germalic, James",6
+"KY","Wolfe","21237","2123700000","US House","6",2611,"Libertarian","Harris, Frank",22
+"KY","Wolfe","21237","2123700000","US House","6",2611,"Democrat","McGrath, Amy",1125
+"KY","Wolfe","21237","2123700000","US House","6",2611,"Independent","Wallin, Rikka L.",8
+"KY","Woodford","21239","2123900000","US House","6",12922,"Republican","Barr, Andy",6932
+"KY","Woodford","21239","2123900000","US House","6",12922,"Independent","Germalic, James",14
+"KY","Woodford","21239","2123900000","US House","6",12922,"Libertarian","Harris, Frank",78
+"KY","Woodford","21239","2123900000","US House","6",12922,"Democrat","McGrath, Amy",5878
+"KY","Woodford","21239","2123900000","US House","6",12922,"Independent","Wallin, Rikka L.",20

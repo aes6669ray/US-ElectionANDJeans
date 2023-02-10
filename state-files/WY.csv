@@ -1,0 +1,942 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"WY","Converse","56009","5600900000","Circuit Court Judge","Eighth Judicial District",4318,"","No - Randal R. Arp",654
+"WY","Converse","56009","5600900000","Circuit Court Judge","Eighth Judicial District",4318,"","Yes - Randal R. Arp",3664
+"WY","Goshen","56015","5601500000","Circuit Court Judge","Eighth Judicial District",4493,"","No - Randal R. Arp",692
+"WY","Goshen","56015","5601500000","Circuit Court Judge","Eighth Judicial District",4493,"","Yes - Randal R. Arp",3801
+"WY","Niobrara","56027","5602700000","Circuit Court Judge","Eighth Judicial District",988,"","No - Randal R. Arp",191
+"WY","Niobrara","56027","5602700000","Circuit Court Judge","Eighth Judicial District",988,"","Yes - Randal R. Arp",797
+"WY","Platte","56031","5603100000","Circuit Court Judge","Eighth Judicial District",3351,"","No - Randal R. Arp",668
+"WY","Platte","56031","5603100000","Circuit Court Judge","Eighth Judicial District",3351,"","Yes - Randal R. Arp",2683
+"WY","Big Horn","56003","5600300000","Circuit Court Judge","Fifth Judicial District",3861,"","No - Bruce B. Waters",539
+"WY","Big Horn","56003","5600300000","Circuit Court Judge","Fifth Judicial District",3861,"","Yes - Bruce B. Waters",3322
+"WY","Hot Springs","56017","5601700000","Circuit Court Judge","Fifth Judicial District",1913,"","No - Bruce B. Waters",319
+"WY","Hot Springs","56017","5601700000","Circuit Court Judge","Fifth Judicial District",1913,"","Yes - Bruce B. Waters",1594
+"WY","Park","56029","5602900000","Circuit Court Judge","Fifth Judicial District",10616,"","No - Bruce B. Waters",1625
+"WY","Park","56029","5602900000","Circuit Court Judge","Fifth Judicial District",10616,"","Yes - Bruce B. Waters",8991
+"WY","Washakie","56043","5604300000","Circuit Court Judge","Fifth Judicial District",2675,"","No - Bruce B. Waters",368
+"WY","Washakie","56043","5604300000","Circuit Court Judge","Fifth Judicial District",2675,"","Yes - Bruce B. Waters",2307
+"WY","Laramie","56021","5602100000","Circuit Court Judge","First Judicial District",29806,"","No - Denise Nau",11081
+"WY","Laramie","56021","5602100000","Circuit Court Judge","First Judicial District",29806,"","Yes - Denise Nau",18725
+"WY","Johnson","56019","5601900000","Circuit Court Judge","Fourth Judicial District",3528,"","No - Shelley A. Cundiff",1952
+"WY","Johnson","56019","5601900000","Circuit Court Judge","Fourth Judicial District",3528,"","Yes - Shelley A. Cundiff",1576
+"WY","Sheridan","56033","5603300000","Circuit Court Judge","Fourth Judicial District",10260,"","No - Shelley A. Cundiff",2558
+"WY","Sheridan","56033","5603300000","Circuit Court Judge","Fourth Judicial District",10260,"","Yes - Shelley A. Cundiff",7702
+"WY","Fremont","56013","5601300000","Circuit Court Judge","Ninth Judicial District",12432,"","No - Wesley A. Roberts",2435
+"WY","Fremont","56013","5601300000","Circuit Court Judge","Ninth Judicial District",12432,"","Yes - Wesley A. Roberts",9997
+"WY","Sublette","56035","5603500000","Circuit Court Judge","Ninth Judicial District",2824,"","No - Wesley A. Roberts",443
+"WY","Sublette","56035","5603500000","Circuit Court Judge","Ninth Judicial District",2824,"","Yes - Wesley A. Roberts",2381
+"WY","Teton","56039","5603900000","Circuit Court Judge","Ninth Judicial District",8475,"","No - Wesley A. Roberts",1184
+"WY","Teton","56039","5603900000","Circuit Court Judge","Ninth Judicial District",8475,"","Yes - Wesley A. Roberts",7291
+"WY","Albany","56001","5600100000","Circuit Court Judge","Second Judicial District",12240,"","No - Robert A. Castor",2150
+"WY","Albany","56001","5600100000","Circuit Court Judge","Second Judicial District",12240,"","Yes - Robert A. Castor",10090
+"WY","Carbon","56007","5600700000","Circuit Court Judge","Second Judicial District",4484,"","No - Robert A. Castor",778
+"WY","Carbon","56007","5600700000","Circuit Court Judge","Second Judicial District",4484,"","Yes - Robert A. Castor",3706
+"WY","Natrona","56025","5602500000","Circuit Court Judge","Seventh Judicial District",21258,"","No - Michael N. Patchen",3645
+"WY","Natrona","56025","5602500000","Circuit Court Judge","Seventh Judicial District",21258,"","Yes - Michael N. Patchen",17613
+"WY","Campbell","56005","5600500000","Circuit Court Judge","Sixth Judicial District",11540,"","No - Paul S. Phillips",1856
+"WY","Campbell","56005","5600500000","Circuit Court Judge","Sixth Judicial District",11540,"","Yes - Paul S. Phillips",9684
+"WY","Crook","56011","5601100000","Circuit Court Judge","Sixth Judicial District",2530,"","No - Paul S. Phillips",424
+"WY","Crook","56011","5601100000","Circuit Court Judge","Sixth Judicial District",2530,"","Yes - Paul S. Phillips",2106
+"WY","Weston","56045","5604500000","Circuit Court Judge","Sixth Judicial District",2334,"","No - Paul S. Phillips",530
+"WY","Weston","56045","5604500000","Circuit Court Judge","Sixth Judicial District",2334,"","Yes - Paul S. Phillips",1804
+"WY","Lincoln","56023","5602300000","Circuit Court Judge","Third Judicial District",18390,"","No - Craig L. Jones",1011
+"WY","Lincoln","56023","5602300000","Circuit Court Judge","Third Judicial District",18390,"","No - Frank J. Zebre",1125
+"WY","Lincoln","56023","5602300000","Circuit Court Judge","Third Judicial District",18390,"","No - John R. Prokos",1061
+"WY","Lincoln","56023","5602300000","Circuit Court Judge","Third Judicial District",18390,"","Yes - Craig L. Jones",5043
+"WY","Lincoln","56023","5602300000","Circuit Court Judge","Third Judicial District",18390,"","Yes - Frank J. Zebre",5199
+"WY","Lincoln","56023","5602300000","Circuit Court Judge","Third Judicial District",18390,"","Yes - John R. Prokos",4951
+"WY","Sweetwater","56037","5603700000","Circuit Court Judge","Third Judicial District",33100,"","No - Craig L. Jones",2607
+"WY","Sweetwater","56037","5603700000","Circuit Court Judge","Third Judicial District",33100,"","No - Frank J. Zebre",2520
+"WY","Sweetwater","56037","5603700000","Circuit Court Judge","Third Judicial District",33100,"","No - John R. Prokos",2448
+"WY","Sweetwater","56037","5603700000","Circuit Court Judge","Third Judicial District",33100,"","Yes - Craig L. Jones",8453
+"WY","Sweetwater","56037","5603700000","Circuit Court Judge","Third Judicial District",33100,"","Yes - Frank J. Zebre",8479
+"WY","Sweetwater","56037","5603700000","Circuit Court Judge","Third Judicial District",33100,"","Yes - John R. Prokos",8593
+"WY","Uinta","56041","5604100000","Circuit Court Judge","Third Judicial District",16010,"","No - Craig L. Jones",1091
+"WY","Uinta","56041","5604100000","Circuit Court Judge","Third Judicial District",16010,"","No - Frank J. Zebre",1070
+"WY","Uinta","56041","5604100000","Circuit Court Judge","Third Judicial District",16010,"","No - John R. Prokos",1121
+"WY","Uinta","56041","5604100000","Circuit Court Judge","Third Judicial District",16010,"","Yes - Craig L. Jones",4290
+"WY","Uinta","56041","5604100000","Circuit Court Judge","Third Judicial District",16010,"","Yes - Frank J. Zebre",4252
+"WY","Uinta","56041","5604100000","Circuit Court Judge","Third Judicial District",16010,"","Yes - John R. Prokos",4186
+"WY","Converse","56009","5600900000","District Court Judge","Eighth Judicial District",4622,"","No - F. Scott Peasley",555
+"WY","Converse","56009","5600900000","District Court Judge","Eighth Judicial District",4622,"","Yes - F. Scott Peasley",4067
+"WY","Goshen","56015","5601500000","District Court Judge","Eighth Judicial District",4328,"","No - F. Scott Peasley",702
+"WY","Goshen","56015","5601500000","District Court Judge","Eighth Judicial District",4328,"","Yes - F. Scott Peasley",3626
+"WY","Niobrara","56027","5602700000","District Court Judge","Eighth Judicial District",992,"","No - F. Scott Peasley",176
+"WY","Niobrara","56027","5602700000","District Court Judge","Eighth Judicial District",992,"","Yes - F. Scott Peasley",816
+"WY","Platte","56031","5603100000","District Court Judge","Eighth Judicial District",3501,"","No - F. Scott Peasley",580
+"WY","Platte","56031","5603100000","District Court Judge","Eighth Judicial District",3501,"","Yes - F. Scott Peasley",2921
+"WY","Big Horn","56003","5600300000","District Court Judge","Fifth Judicial District",3971,"","No - Bill Simpson",586
+"WY","Big Horn","56003","5600300000","District Court Judge","Fifth Judicial District",3971,"","Yes - Bill Simpson",3385
+"WY","Hot Springs","56017","5601700000","District Court Judge","Fifth Judicial District",1942,"","No - Bill Simpson",345
+"WY","Hot Springs","56017","5601700000","District Court Judge","Fifth Judicial District",1942,"","Yes - Bill Simpson",1597
+"WY","Park","56029","5602900000","District Court Judge","Fifth Judicial District",10933,"","No - Bill Simpson",1569
+"WY","Park","56029","5602900000","District Court Judge","Fifth Judicial District",10933,"","Yes - Bill Simpson",9364
+"WY","Washakie","56043","5604300000","District Court Judge","Fifth Judicial District",2726,"","No - Bill Simpson",402
+"WY","Washakie","56043","5604300000","District Court Judge","Fifth Judicial District",2726,"","Yes - Bill Simpson",2324
+"WY","Fremont","56013","5601300000","District Court Judge","Ninth Judicial District",12164,"","No - Timothy C. Day",2359
+"WY","Fremont","56013","5601300000","District Court Judge","Ninth Judicial District",12164,"","Yes - Timothy C. Day",9805
+"WY","Sublette","56035","5603500000","District Court Judge","Ninth Judicial District",2919,"","No - Timothy C. Day",469
+"WY","Sublette","56035","5603500000","District Court Judge","Ninth Judicial District",2919,"","Yes - Timothy C. Day",2450
+"WY","Teton","56039","5603900000","District Court Judge","Ninth Judicial District",9668,"","No - Timothy C. Day",1304
+"WY","Teton","56039","5603900000","District Court Judge","Ninth Judicial District",9668,"","Yes - Timothy C. Day",8364
+"WY","Albany","56001","5600100000","District Court Judge","Second Judicial District",23233,"","No - Dawnessa Snyder",1789
+"WY","Albany","56001","5600100000","District Court Judge","Second Judicial District",23233,"","No - Tori R.A. Kricken",1583
+"WY","Albany","56001","5600100000","District Court Judge","Second Judicial District",23233,"","Yes - Dawnessa Snyder",9509
+"WY","Albany","56001","5600100000","District Court Judge","Second Judicial District",23233,"","Yes - Tori R.A. Kricken",10352
+"WY","Carbon","56007","5600700000","District Court Judge","Second Judicial District",9250,"","No - Dawnessa Snyder",839
+"WY","Carbon","56007","5600700000","District Court Judge","Second Judicial District",9250,"","No - Tori R.A. Kricken",810
+"WY","Carbon","56007","5600700000","District Court Judge","Second Judicial District",9250,"","Yes - Dawnessa Snyder",3915
+"WY","Carbon","56007","5600700000","District Court Judge","Second Judicial District",9250,"","Yes - Tori R.A. Kricken",3686
+"WY","Natrona","56025","5602500000","District Court Judge","Seventh Judicial District",21716,"","No - Catherine E. Wilking",3723
+"WY","Natrona","56025","5602500000","District Court Judge","Seventh Judicial District",21716,"","Yes - Catherine E. Wilking",17993
+"WY","Campbell","56005","5600500000","District Court Judge","Sixth Judicial District",11948,"","No - Michael N. 'Nick' Deegan",1897
+"WY","Campbell","56005","5600500000","District Court Judge","Sixth Judicial District",11948,"","Yes - Michael N. 'Nick' Deegan",10051
+"WY","Crook","56011","5601100000","District Court Judge","Sixth Judicial District",2613,"","No - Michael N. 'Nick' Deegan",453
+"WY","Crook","56011","5601100000","District Court Judge","Sixth Judicial District",2613,"","Yes - Michael N. 'Nick' Deegan",2160
+"WY","Weston","56045","5604500000","District Court Judge","Sixth Judicial District",2376,"","No - Michael N. 'Nick' Deegan",553
+"WY","Weston","56045","5604500000","District Court Judge","Sixth Judicial District",2376,"","Yes - Michael N. 'Nick' Deegan",1823
+"WY","Albany","56001","5600100000","Governor","statewide",14411,"Libertarian","Lawrence Gerard Struempf",379
+"WY","Albany","56001","5600100000","Governor","statewide",14411,"Republican","Mark Gordon",6494
+"WY","Albany","56001","5600100000","Governor","statewide",14411,"Democrat","Mary A. Throne",7137
+"WY","Albany","56001","5600100000","Governor","statewide",14411,"Constitution","Rex 'T-Rex' Rammell",326
+"WY","Albany","56001","5600100000","Governor","statewide",14411,"","Write-Ins",75
+"WY","Big Horn","56003","5600300000","Governor","statewide",4314,"Libertarian","Lawrence Gerard Struempf",57
+"WY","Big Horn","56003","5600300000","Governor","statewide",4314,"Republican","Mark Gordon",3391
+"WY","Big Horn","56003","5600300000","Governor","statewide",4314,"Democrat","Mary A. Throne",608
+"WY","Big Horn","56003","5600300000","Governor","statewide",4314,"Constitution","Rex 'T-Rex' Rammell",233
+"WY","Big Horn","56003","5600300000","Governor","statewide",4314,"","Write-Ins",25
+"WY","Campbell","56005","5600500000","Governor","statewide",13010,"Libertarian","Lawrence Gerard Struempf",158
+"WY","Campbell","56005","5600500000","Governor","statewide",13010,"Republican","Mark Gordon",10398
+"WY","Campbell","56005","5600500000","Governor","statewide",13010,"Democrat","Mary A. Throne",1856
+"WY","Campbell","56005","5600500000","Governor","statewide",13010,"Constitution","Rex 'T-Rex' Rammell",531
+"WY","Campbell","56005","5600500000","Governor","statewide",13010,"","Write-Ins",67
+"WY","Carbon","56007","5600700000","Governor","statewide",5166,"Libertarian","Lawrence Gerard Struempf",86
+"WY","Carbon","56007","5600700000","Governor","statewide",5166,"Republican","Mark Gordon",3560
+"WY","Carbon","56007","5600700000","Governor","statewide",5166,"Democrat","Mary A. Throne",1314
+"WY","Carbon","56007","5600700000","Governor","statewide",5166,"Constitution","Rex 'T-Rex' Rammell",185
+"WY","Carbon","56007","5600700000","Governor","statewide",5166,"","Write-Ins",21
+"WY","Converse","56009","5600900000","Governor","statewide",4939,"Libertarian","Lawrence Gerard Struempf",80
+"WY","Converse","56009","5600900000","Governor","statewide",4939,"Republican","Mark Gordon",3872
+"WY","Converse","56009","5600900000","Governor","statewide",4939,"Democrat","Mary A. Throne",757
+"WY","Converse","56009","5600900000","Governor","statewide",4939,"Constitution","Rex 'T-Rex' Rammell",195
+"WY","Converse","56009","5600900000","Governor","statewide",4939,"","Write-Ins",35
+"WY","Crook","56011","5601100000","Governor","statewide",3088,"Libertarian","Lawrence Gerard Struempf",37
+"WY","Crook","56011","5601100000","Governor","statewide",3088,"Republican","Mark Gordon",2575
+"WY","Crook","56011","5601100000","Governor","statewide",3088,"Democrat","Mary A. Throne",358
+"WY","Crook","56011","5601100000","Governor","statewide",3088,"Constitution","Rex 'T-Rex' Rammell",89
+"WY","Crook","56011","5601100000","Governor","statewide",3088,"","Write-Ins",29
+"WY","Fremont","56013","5601300000","Governor","statewide",14358,"Libertarian","Lawrence Gerard Struempf",243
+"WY","Fremont","56013","5601300000","Governor","statewide",14358,"Republican","Mark Gordon",9251
+"WY","Fremont","56013","5601300000","Governor","statewide",14358,"Democrat","Mary A. Throne",4299
+"WY","Fremont","56013","5601300000","Governor","statewide",14358,"Constitution","Rex 'T-Rex' Rammell",495
+"WY","Fremont","56013","5601300000","Governor","statewide",14358,"","Write-Ins",70
+"WY","Goshen","56015","5601500000","Governor","statewide",4805,"Libertarian","Lawrence Gerard Struempf",53
+"WY","Goshen","56015","5601500000","Governor","statewide",4805,"Republican","Mark Gordon",3568
+"WY","Goshen","56015","5601500000","Governor","statewide",4805,"Democrat","Mary A. Throne",957
+"WY","Goshen","56015","5601500000","Governor","statewide",4805,"Constitution","Rex 'T-Rex' Rammell",172
+"WY","Goshen","56015","5601500000","Governor","statewide",4805,"","Write-Ins",55
+"WY","Hot Springs","56017","5601700000","Governor","statewide",2251,"Libertarian","Lawrence Gerard Struempf",41
+"WY","Hot Springs","56017","5601700000","Governor","statewide",2251,"Republican","Mark Gordon",1682
+"WY","Hot Springs","56017","5601700000","Governor","statewide",2251,"Democrat","Mary A. Throne",443
+"WY","Hot Springs","56017","5601700000","Governor","statewide",2251,"Constitution","Rex 'T-Rex' Rammell",79
+"WY","Hot Springs","56017","5601700000","Governor","statewide",2251,"","Write-Ins",6
+"WY","Johnson","56019","5601900000","Governor","statewide",3881,"Libertarian","Lawrence Gerard Struempf",38
+"WY","Johnson","56019","5601900000","Governor","statewide",3881,"Republican","Mark Gordon",3245
+"WY","Johnson","56019","5601900000","Governor","statewide",3881,"Democrat","Mary A. Throne",478
+"WY","Johnson","56019","5601900000","Governor","statewide",3881,"Constitution","Rex 'T-Rex' Rammell",93
+"WY","Johnson","56019","5601900000","Governor","statewide",3881,"","Write-Ins",27
+"WY","Laramie","56021","5602100000","Governor","statewide",32702,"Libertarian","Lawrence Gerard Struempf",381
+"WY","Laramie","56021","5602100000","Governor","statewide",32702,"Republican","Mark Gordon",20052
+"WY","Laramie","56021","5602100000","Governor","statewide",32702,"Democrat","Mary A. Throne",11196
+"WY","Laramie","56021","5602100000","Governor","statewide",32702,"Constitution","Rex 'T-Rex' Rammell",928
+"WY","Laramie","56021","5602100000","Governor","statewide",32702,"","Write-Ins",145
+"WY","Lincoln","56023","5602300000","Governor","statewide",7172,"Libertarian","Lawrence Gerard Struempf",125
+"WY","Lincoln","56023","5602300000","Governor","statewide",7172,"Republican","Mark Gordon",5511
+"WY","Lincoln","56023","5602300000","Governor","statewide",7172,"Democrat","Mary A. Throne",1155
+"WY","Lincoln","56023","5602300000","Governor","statewide",7172,"Constitution","Rex 'T-Rex' Rammell",348
+"WY","Lincoln","56023","5602300000","Governor","statewide",7172,"","Write-Ins",33
+"WY","Natrona","56025","5602500000","Governor","statewide",24480,"Libertarian","Lawrence Gerard Struempf",344
+"WY","Natrona","56025","5602500000","Governor","statewide",24480,"Republican","Mark Gordon",16866
+"WY","Natrona","56025","5602500000","Governor","statewide",24480,"Democrat","Mary A. Throne",6352
+"WY","Natrona","56025","5602500000","Governor","statewide",24480,"Constitution","Rex 'T-Rex' Rammell",754
+"WY","Natrona","56025","5602500000","Governor","statewide",24480,"","Write-Ins",164
+"WY","Niobrara","56027","5602700000","Governor","statewide",1160,"Libertarian","Lawrence Gerard Struempf",18
+"WY","Niobrara","56027","5602700000","Governor","statewide",1160,"Republican","Mark Gordon",918
+"WY","Niobrara","56027","5602700000","Governor","statewide",1160,"Democrat","Mary A. Throne",153
+"WY","Niobrara","56027","5602700000","Governor","statewide",1160,"Constitution","Rex 'T-Rex' Rammell",61
+"WY","Niobrara","56027","5602700000","Governor","statewide",1160,"","Write-Ins",10
+"WY","Park","56029","5602900000","Governor","statewide",11809,"Libertarian","Lawrence Gerard Struempf",161
+"WY","Park","56029","5602900000","Governor","statewide",11809,"Republican","Mark Gordon",8815
+"WY","Park","56029","5602900000","Governor","statewide",11809,"Democrat","Mary A. Throne",2277
+"WY","Park","56029","5602900000","Governor","statewide",11809,"Constitution","Rex 'T-Rex' Rammell",433
+"WY","Park","56029","5602900000","Governor","statewide",11809,"","Write-Ins",123
+"WY","Platte","56031","5603100000","Governor","statewide",3776,"Libertarian","Lawrence Gerard Struempf",59
+"WY","Platte","56031","5603100000","Governor","statewide",3776,"Republican","Mark Gordon",2644
+"WY","Platte","56031","5603100000","Governor","statewide",3776,"Democrat","Mary A. Throne",845
+"WY","Platte","56031","5603100000","Governor","statewide",3776,"Constitution","Rex 'T-Rex' Rammell",206
+"WY","Platte","56031","5603100000","Governor","statewide",3776,"","Write-Ins",22
+"WY","Sheridan","56033","5603300000","Governor","statewide",11814,"Libertarian","Lawrence Gerard Struempf",121
+"WY","Sheridan","56033","5603300000","Governor","statewide",11814,"Republican","Mark Gordon",8727
+"WY","Sheridan","56033","5603300000","Governor","statewide",11814,"Democrat","Mary A. Throne",2667
+"WY","Sheridan","56033","5603300000","Governor","statewide",11814,"Constitution","Rex 'T-Rex' Rammell",243
+"WY","Sheridan","56033","5603300000","Governor","statewide",11814,"","Write-Ins",56
+"WY","Sublette","56035","5603500000","Governor","statewide",3402,"Libertarian","Lawrence Gerard Struempf",42
+"WY","Sublette","56035","5603500000","Governor","statewide",3402,"Republican","Mark Gordon",2664
+"WY","Sublette","56035","5603500000","Governor","statewide",3402,"Democrat","Mary A. Throne",602
+"WY","Sublette","56035","5603500000","Governor","statewide",3402,"Constitution","Rex 'T-Rex' Rammell",81
+"WY","Sublette","56035","5603500000","Governor","statewide",3402,"","Write-Ins",13
+"WY","Sweetwater","56037","5603700000","Governor","statewide",12933,"Libertarian","Lawrence Gerard Struempf",232
+"WY","Sweetwater","56037","5603700000","Governor","statewide",12933,"Republican","Mark Gordon",8375
+"WY","Sweetwater","56037","5603700000","Governor","statewide",12933,"Democrat","Mary A. Throne",3758
+"WY","Sweetwater","56037","5603700000","Governor","statewide",12933,"Constitution","Rex 'T-Rex' Rammell",539
+"WY","Sweetwater","56037","5603700000","Governor","statewide",12933,"","Write-Ins",29
+"WY","Teton","56039","5603900000","Governor","statewide",11688,"Libertarian","Lawrence Gerard Struempf",185
+"WY","Teton","56039","5603900000","Governor","statewide",11688,"Republican","Mark Gordon",4736
+"WY","Teton","56039","5603900000","Governor","statewide",11688,"Democrat","Mary A. Throne",6541
+"WY","Teton","56039","5603900000","Governor","statewide",11688,"Constitution","Rex 'T-Rex' Rammell",207
+"WY","Teton","56039","5603900000","Governor","statewide",11688,"","Write-Ins",19
+"WY","Uinta","56041","5604100000","Governor","statewide",6263,"Libertarian","Lawrence Gerard Struempf",101
+"WY","Uinta","56041","5604100000","Governor","statewide",6263,"Republican","Mark Gordon",4547
+"WY","Uinta","56041","5604100000","Governor","statewide",6263,"Democrat","Mary A. Throne",1296
+"WY","Uinta","56041","5604100000","Governor","statewide",6263,"Constitution","Rex 'T-Rex' Rammell",278
+"WY","Uinta","56041","5604100000","Governor","statewide",6263,"","Write-Ins",41
+"WY","Washakie","56043","5604300000","Governor","statewide",3112,"Libertarian","Lawrence Gerard Struempf",46
+"WY","Washakie","56043","5604300000","Governor","statewide",3112,"Republican","Mark Gordon",2396
+"WY","Washakie","56043","5604300000","Governor","statewide",3112,"Democrat","Mary A. Throne",568
+"WY","Washakie","56043","5604300000","Governor","statewide",3112,"Constitution","Rex 'T-Rex' Rammell",89
+"WY","Washakie","56043","5604300000","Governor","statewide",3112,"","Write-Ins",13
+"WY","Weston","56045","5604500000","Governor","statewide",2704,"Libertarian","Lawrence Gerard Struempf",23
+"WY","Weston","56045","5604500000","Governor","statewide",2704,"Republican","Mark Gordon",2125
+"WY","Weston","56045","5604500000","Governor","statewide",2704,"Democrat","Mary A. Throne",348
+"WY","Weston","56045","5604500000","Governor","statewide",2704,"Constitution","Rex 'T-Rex' Rammell",186
+"WY","Weston","56045","5604500000","Governor","statewide",2704,"","Write-Ins",22
+"WY","Albany","56001","5600100000","Secretary of State","statewide",13995,"Republican","Edward Buchanan",6666
+"WY","Albany","56001","5600100000","Secretary of State","statewide",13995,"Democrat","James W. Byrd",6641
+"WY","Albany","56001","5600100000","Secretary of State","statewide",13995,"Libertarian","Kit Carson III",674
+"WY","Albany","56001","5600100000","Secretary of State","statewide",13995,"","Write-Ins",14
+"WY","Big Horn","56003","5600300000","Secretary of State","statewide",4249,"Republican","Edward Buchanan",3510
+"WY","Big Horn","56003","5600300000","Secretary of State","statewide",4249,"Democrat","James W. Byrd",569
+"WY","Big Horn","56003","5600300000","Secretary of State","statewide",4249,"Libertarian","Kit Carson III",166
+"WY","Big Horn","56003","5600300000","Secretary of State","statewide",4249,"","Write-Ins",4
+"WY","Campbell","56005","5600500000","Secretary of State","statewide",12728,"Republican","Edward Buchanan",10846
+"WY","Campbell","56005","5600500000","Secretary of State","statewide",12728,"Democrat","James W. Byrd",1372
+"WY","Campbell","56005","5600500000","Secretary of State","statewide",12728,"Libertarian","Kit Carson III",504
+"WY","Campbell","56005","5600500000","Secretary of State","statewide",12728,"","Write-Ins",6
+"WY","Carbon","56007","5600700000","Secretary of State","statewide",5080,"Republican","Edward Buchanan",3543
+"WY","Carbon","56007","5600700000","Secretary of State","statewide",5080,"Democrat","James W. Byrd",1260
+"WY","Carbon","56007","5600700000","Secretary of State","statewide",5080,"Libertarian","Kit Carson III",276
+"WY","Carbon","56007","5600700000","Secretary of State","statewide",5080,"","Write-Ins",1
+"WY","Converse","56009","5600900000","Secretary of State","statewide",4858,"Republican","Edward Buchanan",4001
+"WY","Converse","56009","5600900000","Secretary of State","statewide",4858,"Democrat","James W. Byrd",659
+"WY","Converse","56009","5600900000","Secretary of State","statewide",4858,"Libertarian","Kit Carson III",194
+"WY","Converse","56009","5600900000","Secretary of State","statewide",4858,"","Write-Ins",4
+"WY","Crook","56011","5601100000","Secretary of State","statewide",3044,"Republican","Edward Buchanan",2627
+"WY","Crook","56011","5601100000","Secretary of State","statewide",3044,"Democrat","James W. Byrd",323
+"WY","Crook","56011","5601100000","Secretary of State","statewide",3044,"Libertarian","Kit Carson III",94
+"WY","Crook","56011","5601100000","Secretary of State","statewide",3044,"","Write-Ins",0
+"WY","Fremont","56013","5601300000","Secretary of State","statewide",14029,"Republican","Edward Buchanan",9166
+"WY","Fremont","56013","5601300000","Secretary of State","statewide",14029,"Democrat","James W. Byrd",4151
+"WY","Fremont","56013","5601300000","Secretary of State","statewide",14029,"Libertarian","Kit Carson III",703
+"WY","Fremont","56013","5601300000","Secretary of State","statewide",14029,"","Write-Ins",9
+"WY","Goshen","56015","5601500000","Secretary of State","statewide",4793,"Republican","Edward Buchanan",3940
+"WY","Goshen","56015","5601500000","Secretary of State","statewide",4793,"Democrat","James W. Byrd",740
+"WY","Goshen","56015","5601500000","Secretary of State","statewide",4793,"Libertarian","Kit Carson III",113
+"WY","Goshen","56015","5601500000","Secretary of State","statewide",4793,"","Write-Ins",0
+"WY","Hot Springs","56017","5601700000","Secretary of State","statewide",2216,"Republican","Edward Buchanan",1729
+"WY","Hot Springs","56017","5601700000","Secretary of State","statewide",2216,"Democrat","James W. Byrd",386
+"WY","Hot Springs","56017","5601700000","Secretary of State","statewide",2216,"Libertarian","Kit Carson III",99
+"WY","Hot Springs","56017","5601700000","Secretary of State","statewide",2216,"","Write-Ins",2
+"WY","Johnson","56019","5601900000","Secretary of State","statewide",3779,"Republican","Edward Buchanan",3122
+"WY","Johnson","56019","5601900000","Secretary of State","statewide",3779,"Democrat","James W. Byrd",543
+"WY","Johnson","56019","5601900000","Secretary of State","statewide",3779,"Libertarian","Kit Carson III",114
+"WY","Johnson","56019","5601900000","Secretary of State","statewide",3779,"","Write-Ins",0
+"WY","Laramie","56021","5602100000","Secretary of State","statewide",32261,"Republican","Edward Buchanan",19853
+"WY","Laramie","56021","5602100000","Secretary of State","statewide",32261,"Democrat","James W. Byrd",11178
+"WY","Laramie","56021","5602100000","Secretary of State","statewide",32261,"Libertarian","Kit Carson III",1170
+"WY","Laramie","56021","5602100000","Secretary of State","statewide",32261,"","Write-Ins",60
+"WY","Lincoln","56023","5602300000","Secretary of State","statewide",7083,"Republican","Edward Buchanan",5768
+"WY","Lincoln","56023","5602300000","Secretary of State","statewide",7083,"Democrat","James W. Byrd",1008
+"WY","Lincoln","56023","5602300000","Secretary of State","statewide",7083,"Libertarian","Kit Carson III",307
+"WY","Lincoln","56023","5602300000","Secretary of State","statewide",7083,"","Write-Ins",0
+"WY","Natrona","56025","5602500000","Secretary of State","statewide",23943,"Republican","Edward Buchanan",16762
+"WY","Natrona","56025","5602500000","Secretary of State","statewide",23943,"Democrat","James W. Byrd",6006
+"WY","Natrona","56025","5602500000","Secretary of State","statewide",23943,"Libertarian","Kit Carson III",1156
+"WY","Natrona","56025","5602500000","Secretary of State","statewide",23943,"","Write-Ins",19
+"WY","Niobrara","56027","5602700000","Secretary of State","statewide",1132,"Republican","Edward Buchanan",934
+"WY","Niobrara","56027","5602700000","Secretary of State","statewide",1132,"Democrat","James W. Byrd",130
+"WY","Niobrara","56027","5602700000","Secretary of State","statewide",1132,"Libertarian","Kit Carson III",61
+"WY","Niobrara","56027","5602700000","Secretary of State","statewide",1132,"","Write-Ins",7
+"WY","Park","56029","5602900000","Secretary of State","statewide",11592,"Republican","Edward Buchanan",8868
+"WY","Park","56029","5602900000","Secretary of State","statewide",11592,"Democrat","James W. Byrd",2236
+"WY","Park","56029","5602900000","Secretary of State","statewide",11592,"Libertarian","Kit Carson III",482
+"WY","Park","56029","5602900000","Secretary of State","statewide",11592,"","Write-Ins",6
+"WY","Platte","56031","5603100000","Secretary of State","statewide",3719,"Republican","Edward Buchanan",2857
+"WY","Platte","56031","5603100000","Secretary of State","statewide",3719,"Democrat","James W. Byrd",681
+"WY","Platte","56031","5603100000","Secretary of State","statewide",3719,"Libertarian","Kit Carson III",181
+"WY","Platte","56031","5603100000","Secretary of State","statewide",3719,"","Write-Ins",0
+"WY","Sheridan","56033","5603300000","Secretary of State","statewide",11568,"Republican","Edward Buchanan",8420
+"WY","Sheridan","56033","5603300000","Secretary of State","statewide",11568,"Democrat","James W. Byrd",2702
+"WY","Sheridan","56033","5603300000","Secretary of State","statewide",11568,"Libertarian","Kit Carson III",440
+"WY","Sheridan","56033","5603300000","Secretary of State","statewide",11568,"","Write-Ins",6
+"WY","Sublette","56035","5603500000","Secretary of State","statewide",3307,"Republican","Edward Buchanan",2591
+"WY","Sublette","56035","5603500000","Secretary of State","statewide",3307,"Democrat","James W. Byrd",575
+"WY","Sublette","56035","5603500000","Secretary of State","statewide",3307,"Libertarian","Kit Carson III",141
+"WY","Sublette","56035","5603500000","Secretary of State","statewide",3307,"","Write-Ins",0
+"WY","Sweetwater","56037","5603700000","Secretary of State","statewide",12583,"Republican","Edward Buchanan",8439
+"WY","Sweetwater","56037","5603700000","Secretary of State","statewide",12583,"Democrat","James W. Byrd",3493
+"WY","Sweetwater","56037","5603700000","Secretary of State","statewide",12583,"Libertarian","Kit Carson III",644
+"WY","Sweetwater","56037","5603700000","Secretary of State","statewide",12583,"","Write-Ins",7
+"WY","Teton","56039","5603900000","Secretary of State","statewide",11287,"Republican","Edward Buchanan",4055
+"WY","Teton","56039","5603900000","Secretary of State","statewide",11287,"Democrat","James W. Byrd",6731
+"WY","Teton","56039","5603900000","Secretary of State","statewide",11287,"Libertarian","Kit Carson III",498
+"WY","Teton","56039","5603900000","Secretary of State","statewide",11287,"","Write-Ins",3
+"WY","Uinta","56041","5604100000","Secretary of State","statewide",6142,"Republican","Edward Buchanan",4646
+"WY","Uinta","56041","5604100000","Secretary of State","statewide",6142,"Democrat","James W. Byrd",1179
+"WY","Uinta","56041","5604100000","Secretary of State","statewide",6142,"Libertarian","Kit Carson III",312
+"WY","Uinta","56041","5604100000","Secretary of State","statewide",6142,"","Write-Ins",5
+"WY","Washakie","56043","5604300000","Secretary of State","statewide",3060,"Republican","Edward Buchanan",2425
+"WY","Washakie","56043","5604300000","Secretary of State","statewide",3060,"Democrat","James W. Byrd",511
+"WY","Washakie","56043","5604300000","Secretary of State","statewide",3060,"Libertarian","Kit Carson III",121
+"WY","Washakie","56043","5604300000","Secretary of State","statewide",3060,"","Write-Ins",3
+"WY","Weston","56045","5604500000","Secretary of State","statewide",2650,"Republican","Edward Buchanan",2258
+"WY","Weston","56045","5604500000","Secretary of State","statewide",2650,"Democrat","James W. Byrd",281
+"WY","Weston","56045","5604500000","Secretary of State","statewide",2650,"Libertarian","Kit Carson III",111
+"WY","Weston","56045","5604500000","Secretary of State","statewide",2650,"","Write-Ins",0
+"WY","Albany","56001","5600100000","State Auditor","statewide",13740,"Democrat","Jeff Dockter",6397
+"WY","Albany","56001","5600100000","State Auditor","statewide",13740,"Republican","Kristi Racines",7329
+"WY","Albany","56001","5600100000","State Auditor","statewide",13740,"","Write-Ins",14
+"WY","Big Horn","56003","5600300000","State Auditor","statewide",4208,"Democrat","Jeff Dockter",543
+"WY","Big Horn","56003","5600300000","State Auditor","statewide",4208,"Republican","Kristi Racines",3660
+"WY","Big Horn","56003","5600300000","State Auditor","statewide",4208,"","Write-Ins",5
+"WY","Campbell","56005","5600500000","State Auditor","statewide",12601,"Democrat","Jeff Dockter",1453
+"WY","Campbell","56005","5600500000","State Auditor","statewide",12601,"Republican","Kristi Racines",11135
+"WY","Campbell","56005","5600500000","State Auditor","statewide",12601,"","Write-Ins",13
+"WY","Carbon","56007","5600700000","State Auditor","statewide",4999,"Democrat","Jeff Dockter",1264
+"WY","Carbon","56007","5600700000","State Auditor","statewide",4999,"Republican","Kristi Racines",3731
+"WY","Carbon","56007","5600700000","State Auditor","statewide",4999,"","Write-Ins",4
+"WY","Converse","56009","5600900000","State Auditor","statewide",4834,"Democrat","Jeff Dockter",672
+"WY","Converse","56009","5600900000","State Auditor","statewide",4834,"Republican","Kristi Racines",4161
+"WY","Converse","56009","5600900000","State Auditor","statewide",4834,"","Write-Ins",1
+"WY","Crook","56011","5601100000","State Auditor","statewide",3017,"Democrat","Jeff Dockter",334
+"WY","Crook","56011","5601100000","State Auditor","statewide",3017,"Republican","Kristi Racines",2682
+"WY","Crook","56011","5601100000","State Auditor","statewide",3017,"","Write-Ins",1
+"WY","Fremont","56013","5601300000","State Auditor","statewide",13969,"Democrat","Jeff Dockter",3926
+"WY","Fremont","56013","5601300000","State Auditor","statewide",13969,"Republican","Kristi Racines",10029
+"WY","Fremont","56013","5601300000","State Auditor","statewide",13969,"","Write-Ins",14
+"WY","Goshen","56015","5601500000","State Auditor","statewide",4658,"Democrat","Jeff Dockter",1027
+"WY","Goshen","56015","5601500000","State Auditor","statewide",4658,"Republican","Kristi Racines",3626
+"WY","Goshen","56015","5601500000","State Auditor","statewide",4658,"","Write-Ins",5
+"WY","Hot Springs","56017","5601700000","State Auditor","statewide",2212,"Democrat","Jeff Dockter",343
+"WY","Hot Springs","56017","5601700000","State Auditor","statewide",2212,"Republican","Kristi Racines",1853
+"WY","Hot Springs","56017","5601700000","State Auditor","statewide",2212,"","Write-Ins",16
+"WY","Johnson","56019","5601900000","State Auditor","statewide",3758,"Democrat","Jeff Dockter",536
+"WY","Johnson","56019","5601900000","State Auditor","statewide",3758,"Republican","Kristi Racines",3218
+"WY","Johnson","56019","5601900000","State Auditor","statewide",3758,"","Write-Ins",4
+"WY","Laramie","56021","5602100000","State Auditor","statewide",31797,"Democrat","Jeff Dockter",10441
+"WY","Laramie","56021","5602100000","State Auditor","statewide",31797,"Republican","Kristi Racines",21328
+"WY","Laramie","56021","5602100000","State Auditor","statewide",31797,"","Write-Ins",28
+"WY","Lincoln","56023","5602300000","State Auditor","statewide",6999,"Democrat","Jeff Dockter",1084
+"WY","Lincoln","56023","5602300000","State Auditor","statewide",6999,"Republican","Kristi Racines",5914
+"WY","Lincoln","56023","5602300000","State Auditor","statewide",6999,"","Write-Ins",1
+"WY","Natrona","56025","5602500000","State Auditor","statewide",23583,"Democrat","Jeff Dockter",5993
+"WY","Natrona","56025","5602500000","State Auditor","statewide",23583,"Republican","Kristi Racines",17549
+"WY","Natrona","56025","5602500000","State Auditor","statewide",23583,"","Write-Ins",41
+"WY","Niobrara","56027","5602700000","State Auditor","statewide",1129,"Democrat","Jeff Dockter",135
+"WY","Niobrara","56027","5602700000","State Auditor","statewide",1129,"Republican","Kristi Racines",993
+"WY","Niobrara","56027","5602700000","State Auditor","statewide",1129,"","Write-Ins",1
+"WY","Park","56029","5602900000","State Auditor","statewide",11505,"Democrat","Jeff Dockter",2130
+"WY","Park","56029","5602900000","State Auditor","statewide",11505,"Republican","Kristi Racines",9361
+"WY","Park","56029","5602900000","State Auditor","statewide",11505,"","Write-Ins",14
+"WY","Platte","56031","5603100000","State Auditor","statewide",3685,"Democrat","Jeff Dockter",749
+"WY","Platte","56031","5603100000","State Auditor","statewide",3685,"Republican","Kristi Racines",2936
+"WY","Platte","56031","5603100000","State Auditor","statewide",3685,"","Write-Ins",0
+"WY","Sheridan","56033","5603300000","State Auditor","statewide",11455,"Democrat","Jeff Dockter",2569
+"WY","Sheridan","56033","5603300000","State Auditor","statewide",11455,"Republican","Kristi Racines",8867
+"WY","Sheridan","56033","5603300000","State Auditor","statewide",11455,"","Write-Ins",19
+"WY","Sublette","56035","5603500000","State Auditor","statewide",3296,"Democrat","Jeff Dockter",560
+"WY","Sublette","56035","5603500000","State Auditor","statewide",3296,"Republican","Kristi Racines",2734
+"WY","Sublette","56035","5603500000","State Auditor","statewide",3296,"","Write-Ins",2
+"WY","Sweetwater","56037","5603700000","State Auditor","statewide",12413,"Democrat","Jeff Dockter",3880
+"WY","Sweetwater","56037","5603700000","State Auditor","statewide",12413,"Republican","Kristi Racines",8519
+"WY","Sweetwater","56037","5603700000","State Auditor","statewide",12413,"","Write-Ins",14
+"WY","Teton","56039","5603900000","State Auditor","statewide",11054,"Democrat","Jeff Dockter",6392
+"WY","Teton","56039","5603900000","State Auditor","statewide",11054,"Republican","Kristi Racines",4653
+"WY","Teton","56039","5603900000","State Auditor","statewide",11054,"","Write-Ins",9
+"WY","Uinta","56041","5604100000","State Auditor","statewide",6103,"Democrat","Jeff Dockter",1198
+"WY","Uinta","56041","5604100000","State Auditor","statewide",6103,"Republican","Kristi Racines",4895
+"WY","Uinta","56041","5604100000","State Auditor","statewide",6103,"","Write-Ins",10
+"WY","Washakie","56043","5604300000","State Auditor","statewide",3033,"Democrat","Jeff Dockter",527
+"WY","Washakie","56043","5604300000","State Auditor","statewide",3033,"Republican","Kristi Racines",2500
+"WY","Washakie","56043","5604300000","State Auditor","statewide",3033,"","Write-Ins",6
+"WY","Weston","56045","5604500000","State Auditor","statewide",2615,"Democrat","Jeff Dockter",308
+"WY","Weston","56045","5604500000","State Auditor","statewide",2615,"Republican","Kristi Racines",2307
+"WY","Weston","56045","5604500000","State Auditor","statewide",2615,"","Write-Ins",0
+"WY","Crook","56011","5601100000","State House","1",2729,"Republican","Tyler Lindholm",2674
+"WY","Crook","56011","5601100000","State House","1",2729,"","Write-Ins",55
+"WY","Weston","56045","5604500000","State House","1",1024,"Republican","Tyler Lindholm",1014
+"WY","Weston","56045","5604500000","State House","1",1024,"","Write-Ins",10
+"WY","Goshen","56015","5601500000","State House","10",158,"Democrat","Jenefer Pasqua",11
+"WY","Goshen","56015","5601500000","State House","10",158,"Republican","John Eklund",145
+"WY","Goshen","56015","5601500000","State House","10",158,"","Write-Ins",2
+"WY","Laramie","56021","5602100000","State House","10",4013,"Democrat","Jenefer Pasqua",814
+"WY","Laramie","56021","5602100000","State House","10",4013,"Republican","John Eklund",3187
+"WY","Laramie","56021","5602100000","State House","10",4013,"","Write-Ins",12
+"WY","Laramie","56021","5602100000","State House","11",2378,"Democrat","Calob Taylor",1098
+"WY","Laramie","56021","5602100000","State House","11",2378,"Republican","Jared Olsen",1275
+"WY","Laramie","56021","5602100000","State House","11",2378,"","Write-Ins",5
+"WY","Laramie","56021","5602100000","State House","12",2429,"Republican","Clarence L. Styvar",1359
+"WY","Laramie","56021","5602100000","State House","12",2429,"Democrat","Ryan Lindsey",1063
+"WY","Laramie","56021","5602100000","State House","12",2429,"","Write-Ins",7
+"WY","Albany","56001","5600100000","State House","13",2576,"Democrat","Cathy Connolly",2477
+"WY","Albany","56001","5600100000","State House","13",2576,"","Write-Ins",99
+"WY","Albany","56001","5600100000","State House","14",3345,"Republican","Daniel Furphy",1714
+"WY","Albany","56001","5600100000","State House","14",3345,"Democrat","Lorraine Saulino-Klein",1628
+"WY","Albany","56001","5600100000","State House","14",3345,"","Write-Ins",3
+"WY","Carbon","56007","5600700000","State House","15",2047,"Republican","Donald Burkhart",1997
+"WY","Carbon","56007","5600700000","State House","15",2047,"","Write-Ins",50
+"WY","Teton","56039","5603900000","State House","16",4246,"Republican","Barbara Allen",1712
+"WY","Teton","56039","5603900000","State House","16",4246,"Democrat","Mike Yin",2530
+"WY","Teton","56039","5603900000","State House","16",4246,"","Write-Ins",4
+"WY","Sweetwater","56037","5603700000","State House","17",2092,"Democrat","JoAnn Dayton",1240
+"WY","Sweetwater","56037","5603700000","State House","17",2092,"Republican","Traci Ciepiela*",841
+"WY","Sweetwater","56037","5603700000","State House","17",2092,"","Write-Ins",11
+"WY","Lincoln","56023","5602300000","State House","18",1379,"Republican","Thomas D. Crank",1356
+"WY","Lincoln","56023","5602300000","State House","18",1379,"","Write-Ins",23
+"WY","Sweetwater","56037","5603700000","State House","18",1255,"Republican","Thomas D. Crank",1241
+"WY","Sweetwater","56037","5603700000","State House","18",1255,"","Write-Ins",14
+"WY","Uinta","56041","5604100000","State House","18",506,"Republican","Thomas D. Crank",491
+"WY","Uinta","56041","5604100000","State House","18",506,"","Write-Ins",15
+"WY","Uinta","56041","5604100000","State House","19",2668,"Republican","Danny Eyre",2617
+"WY","Uinta","56041","5604100000","State House","19",2668,"","Write-Ins",51
+"WY","Goshen","56015","5601500000","State House","2",857,"Republican","Hans Hunt",846
+"WY","Goshen","56015","5601500000","State House","2",857,"","Write-Ins",11
+"WY","Niobrara","56027","5602700000","State House","2",1113,"Republican","Hans Hunt",1101
+"WY","Niobrara","56027","5602700000","State House","2",1113,"","Write-Ins",12
+"WY","Weston","56045","5604500000","State House","2",1348,"Republican","Hans Hunt",1314
+"WY","Weston","56045","5604500000","State House","2",1348,"","Write-Ins",34
+"WY","Sublette","56035","5603500000","State House","20",2778,"Republican","Albert Sommers",2749
+"WY","Sublette","56035","5603500000","State House","20",2778,"","Write-Ins",29
+"WY","Lincoln","56023","5602300000","State House","21",3201,"Republican","Evan J. Simpson",3184
+"WY","Lincoln","56023","5602300000","State House","21",3201,"","Write-Ins",17
+"WY","Lincoln","56023","5602300000","State House","22",2209,"Independent","Jim Roscoe",935
+"WY","Lincoln","56023","5602300000","State House","22",2209,"Republican","Marti Halverson",1269
+"WY","Lincoln","56023","5602300000","State House","22",2209,"","Write-Ins",5
+"WY","Sublette","56035","5603500000","State House","22",383,"Independent","Jim Roscoe",179
+"WY","Sublette","56035","5603500000","State House","22",383,"Republican","Marti Halverson",204
+"WY","Sublette","56035","5603500000","State House","22",383,"","Write-Ins",0
+"WY","Teton","56039","5603900000","State House","22",1898,"Independent","Jim Roscoe",1381
+"WY","Teton","56039","5603900000","State House","22",1898,"Republican","Marti Halverson",510
+"WY","Teton","56039","5603900000","State House","22",1898,"","Write-Ins",7
+"WY","Teton","56039","5603900000","State House","23",5340,"Republican","Alex Muromcew",1979
+"WY","Teton","56039","5603900000","State House","23",5340,"Democrat","Andy Schwartz",3358
+"WY","Teton","56039","5603900000","State House","23",5340,"","Write-Ins",3
+"WY","Park","56029","5602900000","State House","24",3828,"Democrat","Paul Fees",1047
+"WY","Park","56029","5602900000","State House","24",3828,"Republican","Sandy Newsome",2759
+"WY","Park","56029","5602900000","State House","24",3828,"","Write-Ins",22
+"WY","Park","56029","5602900000","State House","25",2693,"Republican","Dan Laursen",2586
+"WY","Park","56029","5602900000","State House","25",2693,"","Write-Ins",107
+"WY","Big Horn","56003","5600300000","State House","26",2746,"Republican","Jamie Flitner",2714
+"WY","Big Horn","56003","5600300000","State House","26",2746,"","Write-Ins",32
+"WY","Park","56029","5602900000","State House","26",119,"Republican","Jamie Flitner",118
+"WY","Park","56029","5602900000","State House","26",119,"","Write-Ins",1
+"WY","Big Horn","56003","5600300000","State House","27",179,"Republican","Mike Greear",179
+"WY","Big Horn","56003","5600300000","State House","27",179,"","Write-Ins",0
+"WY","Washakie","56043","5604300000","State House","27",2762,"Republican","Mike Greear",2713
+"WY","Washakie","56043","5604300000","State House","27",2762,"","Write-Ins",49
+"WY","Big Horn","56003","5600300000","State House","28",958,"Democrat","Howie Samelson",110
+"WY","Big Horn","56003","5600300000","State House","28",958,"Republican","John R. Winter",846
+"WY","Big Horn","56003","5600300000","State House","28",958,"","Write-Ins",2
+"WY","Fremont","56013","5601300000","State House","28",317,"Democrat","Howie Samelson",39
+"WY","Fremont","56013","5601300000","State House","28",317,"Republican","John R. Winter",278
+"WY","Fremont","56013","5601300000","State House","28",317,"","Write-Ins",0
+"WY","Hot Springs","56017","5601700000","State House","28",2222,"Democrat","Howie Samelson",743
+"WY","Hot Springs","56017","5601700000","State House","28",2222,"Republican","John R. Winter",1471
+"WY","Hot Springs","56017","5601700000","State House","28",2222,"","Write-Ins",8
+"WY","Park","56029","5602900000","State House","28",373,"Democrat","Howie Samelson",62
+"WY","Park","56029","5602900000","State House","28",373,"Republican","John R. Winter",311
+"WY","Park","56029","5602900000","State House","28",373,"","Write-Ins",0
+"WY","Sheridan","56033","5603300000","State House","29",2593,"Republican","Mark S. Kinner",2550
+"WY","Sheridan","56033","5603300000","State House","29",2593,"","Write-Ins",43
+"WY","Campbell","56005","5600500000","State House","3",2008,"Republican","Eric Barlow",1987
+"WY","Campbell","56005","5600500000","State House","3",2008,"","Write-Ins",21
+"WY","Converse","56009","5600900000","State House","3",826,"Republican","Eric Barlow",824
+"WY","Converse","56009","5600900000","State House","3",826,"","Write-Ins",2
+"WY","Sheridan","56033","5603300000","State House","30",2980,"Republican","Mark Jennings",2870
+"WY","Sheridan","56033","5603300000","State House","30",2980,"","Write-Ins",110
+"WY","Campbell","56005","5600500000","State House","31",2647,"Independent","Dave Hardesty",814
+"WY","Campbell","56005","5600500000","State House","31",2647,"Republican","Scott Clem",1826
+"WY","Campbell","56005","5600500000","State House","31",2647,"","Write-Ins",7
+"WY","Campbell","56005","5600500000","State House","32",3300,"Independent","Chad M Trebby",1070
+"WY","Campbell","56005","5600500000","State House","32",3300,"Republican","Timothy P. Hallinan",2223
+"WY","Campbell","56005","5600500000","State House","32",3300,"","Write-Ins",7
+"WY","Fremont","56013","5601300000","State House","33",2579,"Democrat","Andrea Clifford",1317
+"WY","Fremont","56013","5601300000","State House","33",2579,"Republican","Jim Allen",1259
+"WY","Fremont","56013","5601300000","State House","33",2579,"","Write-Ins",3
+"WY","Fremont","56013","5601300000","State House","34",3143,"Republican","Tim Salazar",3105
+"WY","Fremont","56013","5601300000","State House","34",3143,"","Write-Ins",38
+"WY","Natrona","56025","5602500000","State House","35",3477,"Republican","Joe MacGuire",3411
+"WY","Natrona","56025","5602500000","State House","35",3477,"","Write-Ins",66
+"WY","Natrona","56025","5602500000","State House","36",2515,"Republican","Art Washut",1407
+"WY","Natrona","56025","5602500000","State House","36",2515,"Democrat","Debbie Bovee",1106
+"WY","Natrona","56025","5602500000","State House","36",2515,"","Write-Ins",2
+"WY","Natrona","56025","5602500000","State House","37",3325,"Republican","Steve Harshman",3215
+"WY","Natrona","56025","5602500000","State House","37",3325,"","Write-Ins",110
+"WY","Natrona","56025","5602500000","State House","38",2719,"Republican","Tom Walters",2656
+"WY","Natrona","56025","5602500000","State House","38",2719,"","Write-Ins",63
+"WY","Sweetwater","56037","5603700000","State House","39",1917,"Democrat","Stan Blake",1823
+"WY","Sweetwater","56037","5603700000","State House","39",1917,"","Write-Ins",94
+"WY","Converse","56009","5600900000","State House","4",389,"Republican","Dan R. Kirkbride",386
+"WY","Converse","56009","5600900000","State House","4",389,"","Write-Ins",3
+"WY","Platte","56031","5603100000","State House","4",3331,"Republican","Dan R. Kirkbride",3259
+"WY","Platte","56031","5603100000","State House","4",3331,"","Write-Ins",72
+"WY","Johnson","56019","5601900000","State House","40",3737,"Independent","Chris Schock",1444
+"WY","Johnson","56019","5601900000","State House","40",3737,"Republican","Richard L. Tass",2284
+"WY","Johnson","56019","5601900000","State House","40",3737,"","Write-Ins",9
+"WY","Sheridan","56033","5603300000","State House","40",179,"Independent","Chris Schock",108
+"WY","Sheridan","56033","5603300000","State House","40",179,"Republican","Richard L. Tass",71
+"WY","Sheridan","56033","5603300000","State House","40",179,"","Write-Ins",0
+"WY","Laramie","56021","5602100000","State House","41",3063,"Republican","Bill Henderson",1552
+"WY","Laramie","56021","5602100000","State House","41",3063,"Democrat","Sean Castaneda",1507
+"WY","Laramie","56021","5602100000","State House","41",3063,"","Write-Ins",4
+"WY","Laramie","56021","5602100000","State House","42",3322,"Republican","Jim Blackburn",2187
+"WY","Laramie","56021","5602100000","State House","42",3322,"Democrat","Juliet Daniels",1130
+"WY","Laramie","56021","5602100000","State House","42",3322,"","Write-Ins",5
+"WY","Laramie","56021","5602100000","State House","43",1957,"Republican","Dan Zwonitzer",1901
+"WY","Laramie","56021","5602100000","State House","43",1957,"","Write-Ins",56
+"WY","Laramie","56021","5602100000","State House","44",2050,"Republican","Paul E. Johnson",989
+"WY","Laramie","56021","5602100000","State House","44",2050,"Democrat","Sara Burlingame",1058
+"WY","Laramie","56021","5602100000","State House","44",2050,"","Write-Ins",3
+"WY","Albany","56001","5600100000","State House","45",2975,"Democrat","Charles F. Pelkey",1784
+"WY","Albany","56001","5600100000","State House","45",2975,"Republican","Roxie Jackson Hensley",1185
+"WY","Albany","56001","5600100000","State House","45",2975,"","Write-Ins",6
+"WY","Albany","56001","5600100000","State House","46",4271,"Republican","Bill Haley",2317
+"WY","Albany","56001","5600100000","State House","46",4271,"Democrat","Jackie Grimes",1944
+"WY","Albany","56001","5600100000","State House","46",4271,"","Write-Ins",10
+"WY","Albany","56001","5600100000","State House","47",106,"Republican","Jerry Paxton",102
+"WY","Albany","56001","5600100000","State House","47",106,"","Write-Ins",4
+"WY","Carbon","56007","5600700000","State House","47",2305,"Republican","Jerry Paxton",2269
+"WY","Carbon","56007","5600700000","State House","47",2305,"","Write-Ins",36
+"WY","Sweetwater","56037","5603700000","State House","47",541,"Republican","Jerry Paxton",541
+"WY","Sweetwater","56037","5603700000","State House","47",541,"","Write-Ins",0
+"WY","Sweetwater","56037","5603700000","State House","48",1948,"Republican","Clark Stith",1882
+"WY","Sweetwater","56037","5603700000","State House","48",1948,"","Write-Ins",66
+"WY","Uinta","56041","5604100000","State House","49",2243,"Republican","Garry Piiparinen",2166
+"WY","Uinta","56041","5604100000","State House","49",2243,"","Write-Ins",77
+"WY","Goshen","56015","5601500000","State House","5",3599,"Democrat","Joan Brinkley",798
+"WY","Goshen","56015","5601500000","State House","5",3599,"Republican","Shelly Duncan",2760
+"WY","Goshen","56015","5601500000","State House","5",3599,"","Write-Ins",41
+"WY","Park","56029","5602900000","State House","50",4073,"Republican","David Northrup",3288
+"WY","Park","56029","5602900000","State House","50",4073,"Democrat","Mike Specht",763
+"WY","Park","56029","5602900000","State House","50",4073,"","Write-Ins",22
+"WY","Sheridan","56033","5603300000","State House","51",4216,"Republican","Cyrus Western",4140
+"WY","Sheridan","56033","5603300000","State House","51",4216,"","Write-Ins",76
+"WY","Campbell","56005","5600500000","State House","52",2146,"Republican","William 'Bill' Pownall",2060
+"WY","Campbell","56005","5600500000","State House","52",2146,"","Write-Ins",86
+"WY","Campbell","56005","5600500000","State House","53",1841,"Republican","Roy Edwards",1793
+"WY","Campbell","56005","5600500000","State House","53",1841,"","Write-Ins",48
+"WY","Fremont","56013","5601300000","State House","54",4383,"Republican","Lloyd Charles Larsen",2305
+"WY","Fremont","56013","5601300000","State House","54",4383,"Democrat","Mark Calhoun",2073
+"WY","Fremont","56013","5601300000","State House","54",4383,"","Write-Ins",5
+"WY","Fremont","56013","5601300000","State House","55",3248,"Libertarian","Bethany Baldes",1592
+"WY","Fremont","56013","5601300000","State House","55",3248,"Republican","David R Miller",1645
+"WY","Fremont","56013","5601300000","State House","55",3248,"","Write-Ins",11
+"WY","Natrona","56025","5602500000","State House","56",2329,"Republican","Jerry Obermueller",2240
+"WY","Natrona","56025","5602500000","State House","56",2329,"","Write-Ins",89
+"WY","Natrona","56025","5602500000","State House","57",2543,"Republican","Chuck Gray",1542
+"WY","Natrona","56025","5602500000","State House","57",2543,"Democrat","Jane Ifland",989
+"WY","Natrona","56025","5602500000","State House","57",2543,"","Write-Ins",12
+"WY","Natrona","56025","5602500000","State House","58",1958,"Republican","Patrick 'Pat' Sweeney",1883
+"WY","Natrona","56025","5602500000","State House","58",1958,"","Write-Ins",75
+"WY","Natrona","56025","5602500000","State House","59",2551,"Republican","Bunky Loucks",1700
+"WY","Natrona","56025","5602500000","State House","59",2551,"Democrat","Laurie L Longtine",843
+"WY","Natrona","56025","5602500000","State House","59",2551,"","Write-Ins",8
+"WY","Converse","56009","5600900000","State House","6",2965,"Republican","Aaron Clausen",2942
+"WY","Converse","56009","5600900000","State House","6",2965,"","Write-Ins",23
+"WY","Sweetwater","56037","5603700000","State House","60",2312,"Democrat","John L. Freeman",2208
+"WY","Sweetwater","56037","5603700000","State House","60",2312,"","Write-Ins",104
+"WY","Laramie","56021","5602100000","State House","7",4350,"Republican","Sue Wilson",4283
+"WY","Laramie","56021","5602100000","State House","7",4350,"","Write-Ins",67
+"WY","Laramie","56021","5602100000","State House","8",3831,"Republican","Bob Nicholas",2212
+"WY","Laramie","56021","5602100000","State House","8",3831,"Democrat","Mitch Guthrie",1609
+"WY","Laramie","56021","5602100000","State House","8",3831,"","Write-Ins",10
+"WY","Laramie","56021","5602100000","State House","9",2628,"Republican","Landon J. Brown",2594
+"WY","Laramie","56021","5602100000","State House","9",2628,"","Write-Ins",34
+"WY","Campbell","56005","5600500000","State Senate","1",2193,"Republican","Ogden Driskill",2140
+"WY","Campbell","56005","5600500000","State Senate","1",2193,"","Write-Ins",53
+"WY","Crook","56011","5601100000","State Senate","1",2610,"Republican","Ogden Driskill",2498
+"WY","Crook","56011","5601100000","State Senate","1",2610,"","Write-Ins",112
+"WY","Weston","56045","5604500000","State Senate","1",941,"Republican","Ogden Driskill",919
+"WY","Weston","56045","5604500000","State Senate","1",941,"","Write-Ins",22
+"WY","Albany","56001","5600100000","State Senate","11",114,"Republican","Larry Hicks",95
+"WY","Albany","56001","5600100000","State Senate","11",114,"Democrat","Lee Ann Stephenson",19
+"WY","Albany","56001","5600100000","State Senate","11",114,"","Write-Ins",0
+"WY","Carbon","56007","5600700000","State Senate","11",5042,"Republican","Larry Hicks",3167
+"WY","Carbon","56007","5600700000","State Senate","11",5042,"Democrat","Lee Ann Stephenson",1865
+"WY","Carbon","56007","5600700000","State Senate","11",5042,"","Write-Ins",10
+"WY","Sweetwater","56037","5603700000","State Senate","11",551,"Republican","Larry Hicks",495
+"WY","Sweetwater","56037","5603700000","State Senate","11",551,"Democrat","Lee Ann Stephenson",55
+"WY","Sweetwater","56037","5603700000","State Senate","11",551,"","Write-Ins",1
+"WY","Sweetwater","56037","5603700000","State Senate","13",5628,"Democrat","John M. Hastert",2108
+"WY","Sweetwater","56037","5603700000","State Senate","13",5628,"Independent","Ted L. Barney",889
+"WY","Sweetwater","56037","5603700000","State Senate","13",5628,"Republican","Tom James",2625
+"WY","Sweetwater","56037","5603700000","State Senate","13",5628,"","Write-Ins",6
+"WY","Uinta","56041","5604100000","State Senate","15",5021,"Republican","Wendy Davis Schuler",4903
+"WY","Uinta","56041","5604100000","State Senate","15",5021,"","Write-Ins",118
+"WY","Teton","56039","5603900000","State Senate","17",9648,"Republican","Kate Mead",3631
+"WY","Teton","56039","5603900000","State Senate","17",9648,"Democrat","Mike Gierau",6008
+"WY","Teton","56039","5603900000","State Senate","17",9648,"","Write-Ins",9
+"WY","Big Horn","56003","5600300000","State Senate","19",2799,"Republican","R J Kost",2710
+"WY","Big Horn","56003","5600300000","State Senate","19",2799,"","Write-Ins",89
+"WY","Park","56029","5602900000","State Senate","19",2920,"Republican","R J Kost",2859
+"WY","Park","56029","5602900000","State Senate","19",2920,"","Write-Ins",61
+"WY","Sheridan","56033","5603300000","State Senate","21",7951,"Republican","Bo Biteman",5125
+"WY","Sheridan","56033","5603300000","State Senate","21",7951,"Democrat","Hollis Hackman",2810
+"WY","Sheridan","56033","5603300000","State Senate","21",7951,"","Write-Ins",16
+"WY","Campbell","56005","5600500000","State Senate","23",4416,"Republican","Jeff Wasserburger",4324
+"WY","Campbell","56005","5600500000","State Senate","23",4416,"","Write-Ins",92
+"WY","Converse","56009","5600900000","State Senate","23",793,"Republican","Jeff Wasserburger",792
+"WY","Converse","56009","5600900000","State Senate","23",793,"","Write-Ins",1
+"WY","Fremont","56013","5601300000","State Senate","25",6907,"Republican","Cale Case",4012
+"WY","Fremont","56013","5601300000","State Senate","25",6907,"Democrat","Sergio A. Maldonado, Sr.",2872
+"WY","Fremont","56013","5601300000","State Senate","25",6907,"","Write-Ins",23
+"WY","Natrona","56025","5602500000","State Senate","27",5576,"Republican","Bill Landen",5451
+"WY","Natrona","56025","5602500000","State Senate","27",5576,"","Write-Ins",125
+"WY","Natrona","56025","5602500000","State Senate","29",5411,"Republican","Drew Perkins",5282
+"WY","Natrona","56025","5602500000","State Senate","29",5411,"","Write-Ins",129
+"WY","Goshen","56015","5601500000","State Senate","3",4546,"Republican","Cheri E. Steinmetz",3447
+"WY","Goshen","56015","5601500000","State Senate","3",4546,"Democrat","Marci Shaver",1086
+"WY","Goshen","56015","5601500000","State Senate","3",4546,"","Write-Ins",13
+"WY","Niobrara","56027","5602700000","State Senate","3",1131,"Republican","Cheri E. Steinmetz",1001
+"WY","Niobrara","56027","5602700000","State Senate","3",1131,"Democrat","Marci Shaver",129
+"WY","Niobrara","56027","5602700000","State Senate","3",1131,"","Write-Ins",1
+"WY","Weston","56045","5604500000","State Senate","3",1508,"Republican","Cheri E. Steinmetz",1273
+"WY","Weston","56045","5604500000","State Senate","3",1508,"Democrat","Marci Shaver",234
+"WY","Weston","56045","5604500000","State Senate","3",1508,"","Write-Ins",1
+"WY","Laramie","56021","5602100000","State Senate","5",5686,"Republican","Lynn Hutchings",5382
+"WY","Laramie","56021","5602100000","State Senate","5",5686,"","Write-Ins",304
+"WY","Laramie","56021","5602100000","State Senate","7",3809,"Republican","Stephan A. Pappas",3723
+"WY","Laramie","56021","5602100000","State Senate","7",3809,"","Write-Ins",86
+"WY","Albany","56001","5600100000","State Senate","9",4834,"Democrat","Chris Rothfuss",4669
+"WY","Albany","56001","5600100000","State Senate","9",4834,"","Write-Ins",165
+"WY","Albany","56001","5600100000","State Treasurer","statewide",13945,"Democrat","Chris Lowry",6707
+"WY","Albany","56001","5600100000","State Treasurer","statewide",13945,"Republican","Curt Meier",7222
+"WY","Albany","56001","5600100000","State Treasurer","statewide",13945,"","Write-Ins",16
+"WY","Big Horn","56003","5600300000","State Treasurer","statewide",4210,"Democrat","Chris Lowry",589
+"WY","Big Horn","56003","5600300000","State Treasurer","statewide",4210,"Republican","Curt Meier",3617
+"WY","Big Horn","56003","5600300000","State Treasurer","statewide",4210,"","Write-Ins",4
+"WY","Campbell","56005","5600500000","State Treasurer","statewide",12586,"Democrat","Chris Lowry",1549
+"WY","Campbell","56005","5600500000","State Treasurer","statewide",12586,"Republican","Curt Meier",11024
+"WY","Campbell","56005","5600500000","State Treasurer","statewide",12586,"","Write-Ins",13
+"WY","Carbon","56007","5600700000","State Treasurer","statewide",5026,"Democrat","Chris Lowry",1348
+"WY","Carbon","56007","5600700000","State Treasurer","statewide",5026,"Republican","Curt Meier",3677
+"WY","Carbon","56007","5600700000","State Treasurer","statewide",5026,"","Write-Ins",1
+"WY","Converse","56009","5600900000","State Treasurer","statewide",4827,"Democrat","Chris Lowry",691
+"WY","Converse","56009","5600900000","State Treasurer","statewide",4827,"Republican","Curt Meier",4135
+"WY","Converse","56009","5600900000","State Treasurer","statewide",4827,"","Write-Ins",1
+"WY","Crook","56011","5601100000","State Treasurer","statewide",3019,"Democrat","Chris Lowry",330
+"WY","Crook","56011","5601100000","State Treasurer","statewide",3019,"Republican","Curt Meier",2687
+"WY","Crook","56011","5601100000","State Treasurer","statewide",3019,"","Write-Ins",2
+"WY","Fremont","56013","5601300000","State Treasurer","statewide",13906,"Democrat","Chris Lowry",4217
+"WY","Fremont","56013","5601300000","State Treasurer","statewide",13906,"Republican","Curt Meier",9680
+"WY","Fremont","56013","5601300000","State Treasurer","statewide",13906,"","Write-Ins",9
+"WY","Goshen","56015","5601500000","State Treasurer","statewide",4768,"Democrat","Chris Lowry",971
+"WY","Goshen","56015","5601500000","State Treasurer","statewide",4768,"Republican","Curt Meier",3784
+"WY","Goshen","56015","5601500000","State Treasurer","statewide",4768,"","Write-Ins",13
+"WY","Hot Springs","56017","5601700000","State Treasurer","statewide",2193,"Democrat","Chris Lowry",393
+"WY","Hot Springs","56017","5601700000","State Treasurer","statewide",2193,"Republican","Curt Meier",1798
+"WY","Hot Springs","56017","5601700000","State Treasurer","statewide",2193,"","Write-Ins",2
+"WY","Johnson","56019","5601900000","State Treasurer","statewide",3759,"Democrat","Chris Lowry",573
+"WY","Johnson","56019","5601900000","State Treasurer","statewide",3759,"Republican","Curt Meier",3183
+"WY","Johnson","56019","5601900000","State Treasurer","statewide",3759,"","Write-Ins",3
+"WY","Laramie","56021","5602100000","State Treasurer","statewide",31720,"Democrat","Chris Lowry",10999
+"WY","Laramie","56021","5602100000","State Treasurer","statewide",31720,"Republican","Curt Meier",20650
+"WY","Laramie","56021","5602100000","State Treasurer","statewide",31720,"","Write-Ins",71
+"WY","Lincoln","56023","5602300000","State Treasurer","statewide",6992,"Democrat","Chris Lowry",1116
+"WY","Lincoln","56023","5602300000","State Treasurer","statewide",6992,"Republican","Curt Meier",5872
+"WY","Lincoln","56023","5602300000","State Treasurer","statewide",6992,"","Write-Ins",4
+"WY","Natrona","56025","5602500000","State Treasurer","statewide",23631,"Democrat","Chris Lowry",6310
+"WY","Natrona","56025","5602500000","State Treasurer","statewide",23631,"Republican","Curt Meier",17287
+"WY","Natrona","56025","5602500000","State Treasurer","statewide",23631,"","Write-Ins",34
+"WY","Niobrara","56027","5602700000","State Treasurer","statewide",1142,"Democrat","Chris Lowry",127
+"WY","Niobrara","56027","5602700000","State Treasurer","statewide",1142,"Republican","Curt Meier",1012
+"WY","Niobrara","56027","5602700000","State Treasurer","statewide",1142,"","Write-Ins",3
+"WY","Park","56029","5602900000","State Treasurer","statewide",11504,"Democrat","Chris Lowry",2294
+"WY","Park","56029","5602900000","State Treasurer","statewide",11504,"Republican","Curt Meier",9195
+"WY","Park","56029","5602900000","State Treasurer","statewide",11504,"","Write-Ins",15
+"WY","Platte","56031","5603100000","State Treasurer","statewide",3701,"Democrat","Chris Lowry",747
+"WY","Platte","56031","5603100000","State Treasurer","statewide",3701,"Republican","Curt Meier",2954
+"WY","Platte","56031","5603100000","State Treasurer","statewide",3701,"","Write-Ins",0
+"WY","Sheridan","56033","5603300000","State Treasurer","statewide",11450,"Democrat","Chris Lowry",2772
+"WY","Sheridan","56033","5603300000","State Treasurer","statewide",11450,"Republican","Curt Meier",8663
+"WY","Sheridan","56033","5603300000","State Treasurer","statewide",11450,"","Write-Ins",15
+"WY","Sublette","56035","5603500000","State Treasurer","statewide",3286,"Democrat","Chris Lowry",583
+"WY","Sublette","56035","5603500000","State Treasurer","statewide",3286,"Republican","Curt Meier",2702
+"WY","Sublette","56035","5603500000","State Treasurer","statewide",3286,"","Write-Ins",1
+"WY","Sweetwater","56037","5603700000","State Treasurer","statewide",12494,"Democrat","Chris Lowry",3837
+"WY","Sweetwater","56037","5603700000","State Treasurer","statewide",12494,"Republican","Curt Meier",8641
+"WY","Sweetwater","56037","5603700000","State Treasurer","statewide",12494,"","Write-Ins",16
+"WY","Teton","56039","5603900000","State Treasurer","statewide",11006,"Democrat","Chris Lowry",6651
+"WY","Teton","56039","5603900000","State Treasurer","statewide",11006,"Republican","Curt Meier",4340
+"WY","Teton","56039","5603900000","State Treasurer","statewide",11006,"","Write-Ins",15
+"WY","Uinta","56041","5604100000","State Treasurer","statewide",6104,"Democrat","Chris Lowry",1250
+"WY","Uinta","56041","5604100000","State Treasurer","statewide",6104,"Republican","Curt Meier",4849
+"WY","Uinta","56041","5604100000","State Treasurer","statewide",6104,"","Write-Ins",5
+"WY","Washakie","56043","5604300000","State Treasurer","statewide",3047,"Democrat","Chris Lowry",492
+"WY","Washakie","56043","5604300000","State Treasurer","statewide",3047,"Republican","Curt Meier",2552
+"WY","Washakie","56043","5604300000","State Treasurer","statewide",3047,"","Write-Ins",3
+"WY","Weston","56045","5604500000","State Treasurer","statewide",2621,"Democrat","Chris Lowry",319
+"WY","Weston","56045","5604500000","State Treasurer","statewide",2621,"Republican","Curt Meier",2302
+"WY","Weston","56045","5604500000","State Treasurer","statewide",2621,"","Write-Ins",0
+"WY","Albany","56001","5600100000","Superintendent of Public Instruction","statewide",10875,"Republican","Jillian Balow",10290
+"WY","Albany","56001","5600100000","Superintendent of Public Instruction","statewide",10875,"","Write-Ins",585
+"WY","Big Horn","56003","5600300000","Superintendent of Public Instruction","statewide",3889,"Republican","Jillian Balow",3870
+"WY","Big Horn","56003","5600300000","Superintendent of Public Instruction","statewide",3889,"","Write-Ins",19
+"WY","Campbell","56005","5600500000","Superintendent of Public Instruction","statewide",11672,"Republican","Jillian Balow",11586
+"WY","Campbell","56005","5600500000","Superintendent of Public Instruction","statewide",11672,"","Write-Ins",86
+"WY","Carbon","56007","5600700000","Superintendent of Public Instruction","statewide",4397,"Republican","Jillian Balow",4328
+"WY","Carbon","56007","5600700000","Superintendent of Public Instruction","statewide",4397,"","Write-Ins",69
+"WY","Converse","56009","5600900000","Superintendent of Public Instruction","statewide",4410,"Republican","Jillian Balow",4371
+"WY","Converse","56009","5600900000","Superintendent of Public Instruction","statewide",4410,"","Write-Ins",39
+"WY","Crook","56011","5601100000","Superintendent of Public Instruction","statewide",2710,"Republican","Jillian Balow",2689
+"WY","Crook","56011","5601100000","Superintendent of Public Instruction","statewide",2710,"","Write-Ins",21
+"WY","Fremont","56013","5601300000","Superintendent of Public Instruction","statewide",11139,"Republican","Jillian Balow",10974
+"WY","Fremont","56013","5601300000","Superintendent of Public Instruction","statewide",11139,"","Write-Ins",165
+"WY","Goshen","56015","5601500000","Superintendent of Public Instruction","statewide",4227,"Republican","Jillian Balow",4188
+"WY","Goshen","56015","5601500000","Superintendent of Public Instruction","statewide",4227,"","Write-Ins",39
+"WY","Hot Springs","56017","5601700000","Superintendent of Public Instruction","statewide",1950,"Republican","Jillian Balow",1925
+"WY","Hot Springs","56017","5601700000","Superintendent of Public Instruction","statewide",1950,"","Write-Ins",25
+"WY","Johnson","56019","5601900000","Superintendent of Public Instruction","statewide",3348,"Republican","Jillian Balow",3312
+"WY","Johnson","56019","5601900000","Superintendent of Public Instruction","statewide",3348,"","Write-Ins",36
+"WY","Laramie","56021","5602100000","Superintendent of Public Instruction","statewide",26598,"Republican","Jillian Balow",26011
+"WY","Laramie","56021","5602100000","Superintendent of Public Instruction","statewide",26598,"","Write-Ins",587
+"WY","Lincoln","56023","5602300000","Superintendent of Public Instruction","statewide",6309,"Republican","Jillian Balow",6233
+"WY","Lincoln","56023","5602300000","Superintendent of Public Instruction","statewide",6309,"","Write-Ins",76
+"WY","Natrona","56025","5602500000","Superintendent of Public Instruction","statewide",20062,"Republican","Jillian Balow",19549
+"WY","Natrona","56025","5602500000","Superintendent of Public Instruction","statewide",20062,"","Write-Ins",513
+"WY","Niobrara","56027","5602700000","Superintendent of Public Instruction","statewide",1030,"Republican","Jillian Balow",1025
+"WY","Niobrara","56027","5602700000","Superintendent of Public Instruction","statewide",1030,"","Write-Ins",5
+"WY","Park","56029","5602900000","Superintendent of Public Instruction","statewide",10072,"Republican","Jillian Balow",9938
+"WY","Park","56029","5602900000","Superintendent of Public Instruction","statewide",10072,"","Write-Ins",134
+"WY","Platte","56031","5603100000","Superintendent of Public Instruction","statewide",3298,"Republican","Jillian Balow",3250
+"WY","Platte","56031","5603100000","Superintendent of Public Instruction","statewide",3298,"","Write-Ins",48
+"WY","Sheridan","56033","5603300000","Superintendent of Public Instruction","statewide",9749,"Republican","Jillian Balow",9590
+"WY","Sheridan","56033","5603300000","Superintendent of Public Instruction","statewide",9749,"","Write-Ins",159
+"WY","Sublette","56035","5603500000","Superintendent of Public Instruction","statewide",2929,"Republican","Jillian Balow",2898
+"WY","Sublette","56035","5603500000","Superintendent of Public Instruction","statewide",2929,"","Write-Ins",31
+"WY","Sweetwater","56037","5603700000","Superintendent of Public Instruction","statewide",10504,"Republican","Jillian Balow",10325
+"WY","Sweetwater","56037","5603700000","Superintendent of Public Instruction","statewide",10504,"","Write-Ins",179
+"WY","Teton","56039","5603900000","Superintendent of Public Instruction","statewide",7385,"Republican","Jillian Balow",7101
+"WY","Teton","56039","5603900000","Superintendent of Public Instruction","statewide",7385,"","Write-Ins",284
+"WY","Uinta","56041","5604100000","Superintendent of Public Instruction","statewide",5285,"Republican","Jillian Balow",5205
+"WY","Uinta","56041","5604100000","Superintendent of Public Instruction","statewide",5285,"","Write-Ins",80
+"WY","Washakie","56043","5604300000","Superintendent of Public Instruction","statewide",2769,"Republican","Jillian Balow",2747
+"WY","Washakie","56043","5604300000","Superintendent of Public Instruction","statewide",2769,"","Write-Ins",22
+"WY","Weston","56045","5604500000","Superintendent of Public Instruction","statewide",2412,"Republican","Jillian Balow",2385
+"WY","Weston","56045","5604500000","Superintendent of Public Instruction","statewide",2412,"","Write-Ins",27
+"WY","Albany","56001","5600100000","US House","1",14321,"Constitution","Daniel Clyde Cummings",295
+"WY","Albany","56001","5600100000","US House","1",14321,"Democrat","Greg Hunter",7509
+"WY","Albany","56001","5600100000","US House","1",14321,"Republican","Liz Cheney",5868
+"WY","Albany","56001","5600100000","US House","1",14321,"Libertarian","Richard Brubaker",600
+"WY","Albany","56001","5600100000","US House","1",14321,"","Write-Ins",49
+"WY","Big Horn","56003","5600300000","US House","1",4287,"Constitution","Daniel Clyde Cummings",166
+"WY","Big Horn","56003","5600300000","US House","1",4287,"Democrat","Greg Hunter",649
+"WY","Big Horn","56003","5600300000","US House","1",4287,"Republican","Liz Cheney",3359
+"WY","Big Horn","56003","5600300000","US House","1",4287,"Libertarian","Richard Brubaker",112
+"WY","Big Horn","56003","5600300000","US House","1",4287,"","Write-Ins",1
+"WY","Campbell","56005","5600500000","US House","1",12891,"Constitution","Daniel Clyde Cummings",485
+"WY","Campbell","56005","5600500000","US House","1",12891,"Democrat","Greg Hunter",1680
+"WY","Campbell","56005","5600500000","US House","1",12891,"Republican","Liz Cheney",10291
+"WY","Campbell","56005","5600500000","US House","1",12891,"Libertarian","Richard Brubaker",409
+"WY","Campbell","56005","5600500000","US House","1",12891,"","Write-Ins",26
+"WY","Carbon","56007","5600700000","US House","1",5103,"Constitution","Daniel Clyde Cummings",216
+"WY","Carbon","56007","5600700000","US House","1",5103,"Democrat","Greg Hunter",1410
+"WY","Carbon","56007","5600700000","US House","1",5103,"Republican","Liz Cheney",3234
+"WY","Carbon","56007","5600700000","US House","1",5103,"Libertarian","Richard Brubaker",233
+"WY","Carbon","56007","5600700000","US House","1",5103,"","Write-Ins",10
+"WY","Converse","56009","5600900000","US House","1",4894,"Constitution","Daniel Clyde Cummings",183
+"WY","Converse","56009","5600900000","US House","1",4894,"Democrat","Greg Hunter",806
+"WY","Converse","56009","5600900000","US House","1",4894,"Republican","Liz Cheney",3715
+"WY","Converse","56009","5600900000","US House","1",4894,"Libertarian","Richard Brubaker",184
+"WY","Converse","56009","5600900000","US House","1",4894,"","Write-Ins",6
+"WY","Crook","56011","5601100000","US House","1",3056,"Constitution","Daniel Clyde Cummings",99
+"WY","Crook","56011","5601100000","US House","1",3056,"Democrat","Greg Hunter",346
+"WY","Crook","56011","5601100000","US House","1",3056,"Republican","Liz Cheney",2525
+"WY","Crook","56011","5601100000","US House","1",3056,"Libertarian","Richard Brubaker",85
+"WY","Crook","56011","5601100000","US House","1",3056,"","Write-Ins",1
+"WY","Fremont","56013","5601300000","US House","1",14225,"Constitution","Daniel Clyde Cummings",421
+"WY","Fremont","56013","5601300000","US House","1",14225,"Democrat","Greg Hunter",4534
+"WY","Fremont","56013","5601300000","US House","1",14225,"Republican","Liz Cheney",8562
+"WY","Fremont","56013","5601300000","US House","1",14225,"Libertarian","Richard Brubaker",687
+"WY","Fremont","56013","5601300000","US House","1",14225,"","Write-Ins",21
+"WY","Goshen","56015","5601500000","US House","1",4756,"Constitution","Daniel Clyde Cummings",126
+"WY","Goshen","56015","5601500000","US House","1",4756,"Democrat","Greg Hunter",1014
+"WY","Goshen","56015","5601500000","US House","1",4756,"Republican","Liz Cheney",3513
+"WY","Goshen","56015","5601500000","US House","1",4756,"Libertarian","Richard Brubaker",97
+"WY","Goshen","56015","5601500000","US House","1",4756,"","Write-Ins",6
+"WY","Hot Springs","56017","5601700000","US House","1",2226,"Constitution","Daniel Clyde Cummings",95
+"WY","Hot Springs","56017","5601700000","US House","1",2226,"Democrat","Greg Hunter",451
+"WY","Hot Springs","56017","5601700000","US House","1",2226,"Republican","Liz Cheney",1584
+"WY","Hot Springs","56017","5601700000","US House","1",2226,"Libertarian","Richard Brubaker",92
+"WY","Hot Springs","56017","5601700000","US House","1",2226,"","Write-Ins",4
+"WY","Johnson","56019","5601900000","US House","1",3834,"Constitution","Daniel Clyde Cummings",92
+"WY","Johnson","56019","5601900000","US House","1",3834,"Democrat","Greg Hunter",686
+"WY","Johnson","56019","5601900000","US House","1",3834,"Republican","Liz Cheney",2935
+"WY","Johnson","56019","5601900000","US House","1",3834,"Libertarian","Richard Brubaker",114
+"WY","Johnson","56019","5601900000","US House","1",3834,"","Write-Ins",7
+"WY","Laramie","56021","5602100000","US House","1",32336,"Constitution","Daniel Clyde Cummings",841
+"WY","Laramie","56021","5602100000","US House","1",32336,"Democrat","Greg Hunter",11871
+"WY","Laramie","56021","5602100000","US House","1",32336,"Republican","Liz Cheney",18474
+"WY","Laramie","56021","5602100000","US House","1",32336,"Libertarian","Richard Brubaker",1071
+"WY","Laramie","56021","5602100000","US House","1",32336,"","Write-Ins",79
+"WY","Lincoln","56023","5602300000","US House","1",7156,"Constitution","Daniel Clyde Cummings",207
+"WY","Lincoln","56023","5602300000","US House","1",7156,"Democrat","Greg Hunter",1132
+"WY","Lincoln","56023","5602300000","US House","1",7156,"Republican","Liz Cheney",5617
+"WY","Lincoln","56023","5602300000","US House","1",7156,"Libertarian","Richard Brubaker",192
+"WY","Lincoln","56023","5602300000","US House","1",7156,"","Write-Ins",8
+"WY","Natrona","56025","5602500000","US House","1",24223,"Constitution","Daniel Clyde Cummings",811
+"WY","Natrona","56025","5602500000","US House","1",24223,"Democrat","Greg Hunter",6808
+"WY","Natrona","56025","5602500000","US House","1",24223,"Republican","Liz Cheney",15665
+"WY","Natrona","56025","5602500000","US House","1",24223,"Libertarian","Richard Brubaker",890
+"WY","Natrona","56025","5602500000","US House","1",24223,"","Write-Ins",49
+"WY","Niobrara","56027","5602700000","US House","1",1148,"Constitution","Daniel Clyde Cummings",42
+"WY","Niobrara","56027","5602700000","US House","1",1148,"Democrat","Greg Hunter",136
+"WY","Niobrara","56027","5602700000","US House","1",1148,"Republican","Liz Cheney",929
+"WY","Niobrara","56027","5602700000","US House","1",1148,"Libertarian","Richard Brubaker",40
+"WY","Niobrara","56027","5602700000","US House","1",1148,"","Write-Ins",1
+"WY","Park","56029","5602900000","US House","1",11703,"Constitution","Daniel Clyde Cummings",402
+"WY","Park","56029","5602900000","US House","1",11703,"Democrat","Greg Hunter",2578
+"WY","Park","56029","5602900000","US House","1",11703,"Republican","Liz Cheney",8380
+"WY","Park","56029","5602900000","US House","1",11703,"Libertarian","Richard Brubaker",319
+"WY","Park","56029","5602900000","US House","1",11703,"","Write-Ins",24
+"WY","Platte","56031","5603100000","US House","1",3730,"Constitution","Daniel Clyde Cummings",187
+"WY","Platte","56031","5603100000","US House","1",3730,"Democrat","Greg Hunter",808
+"WY","Platte","56031","5603100000","US House","1",3730,"Republican","Liz Cheney",2618
+"WY","Platte","56031","5603100000","US House","1",3730,"Libertarian","Richard Brubaker",113
+"WY","Platte","56031","5603100000","US House","1",3730,"","Write-Ins",4
+"WY","Sheridan","56033","5603300000","US House","1",11658,"Constitution","Daniel Clyde Cummings",297
+"WY","Sheridan","56033","5603300000","US House","1",11658,"Democrat","Greg Hunter",3270
+"WY","Sheridan","56033","5603300000","US House","1",11658,"Republican","Liz Cheney",7749
+"WY","Sheridan","56033","5603300000","US House","1",11658,"Libertarian","Richard Brubaker",325
+"WY","Sheridan","56033","5603300000","US House","1",11658,"","Write-Ins",17
+"WY","Sublette","56035","5603500000","US House","1",3372,"Constitution","Daniel Clyde Cummings",85
+"WY","Sublette","56035","5603500000","US House","1",3372,"Democrat","Greg Hunter",663
+"WY","Sublette","56035","5603500000","US House","1",3372,"Republican","Liz Cheney",2522
+"WY","Sublette","56035","5603500000","US House","1",3372,"Libertarian","Richard Brubaker",100
+"WY","Sublette","56035","5603500000","US House","1",3372,"","Write-Ins",2
+"WY","Sweetwater","56037","5603700000","US House","1",12753,"Constitution","Daniel Clyde Cummings",478
+"WY","Sweetwater","56037","5603700000","US House","1",12753,"Democrat","Greg Hunter",3959
+"WY","Sweetwater","56037","5603700000","US House","1",12753,"Republican","Liz Cheney",7700
+"WY","Sweetwater","56037","5603700000","US House","1",12753,"Libertarian","Richard Brubaker",584
+"WY","Sweetwater","56037","5603700000","US House","1",12753,"","Write-Ins",32
+"WY","Teton","56039","5603900000","US House","1",11622,"Constitution","Daniel Clyde Cummings",88
+"WY","Teton","56039","5603900000","US House","1",11622,"Democrat","Greg Hunter",7373
+"WY","Teton","56039","5603900000","US House","1",11622,"Republican","Liz Cheney",3843
+"WY","Teton","56039","5603900000","US House","1",11622,"Libertarian","Richard Brubaker",298
+"WY","Teton","56039","5603900000","US House","1",11622,"","Write-Ins",20
+"WY","Uinta","56041","5604100000","US House","1",6203,"Constitution","Daniel Clyde Cummings",242
+"WY","Uinta","56041","5604100000","US House","1",6203,"Democrat","Greg Hunter",1256
+"WY","Uinta","56041","5604100000","US House","1",6203,"Republican","Liz Cheney",4517
+"WY","Uinta","56041","5604100000","US House","1",6203,"Libertarian","Richard Brubaker",177
+"WY","Uinta","56041","5604100000","US House","1",6203,"","Write-Ins",11
+"WY","Washakie","56043","5604300000","US House","1",3083,"Constitution","Daniel Clyde Cummings",98
+"WY","Washakie","56043","5604300000","US House","1",3083,"Democrat","Greg Hunter",592
+"WY","Washakie","56043","5604300000","US House","1",3083,"Republican","Liz Cheney",2263
+"WY","Washakie","56043","5604300000","US House","1",3083,"Libertarian","Richard Brubaker",119
+"WY","Washakie","56043","5604300000","US House","1",3083,"","Write-Ins",11
+"WY","Weston","56045","5604500000","US House","1",2665,"Constitution","Daniel Clyde Cummings",114
+"WY","Weston","56045","5604500000","US House","1",2665,"Democrat","Greg Hunter",372
+"WY","Weston","56045","5604500000","US House","1",2665,"Republican","Liz Cheney",2100
+"WY","Weston","56045","5604500000","US House","1",2665,"Libertarian","Richard Brubaker",77
+"WY","Weston","56045","5604500000","US House","1",2665,"","Write-Ins",2
+"WY","Albany","56001","5600100000","US Senate","statewide",14419,"Democrat","Gary Trauner",7576
+"WY","Albany","56001","5600100000","US Senate","statewide",14419,"Republican","John Barrasso",6366
+"WY","Albany","56001","5600100000","US Senate","statewide",14419,"Libertarian","Joseph Porambo",442
+"WY","Albany","56001","5600100000","US Senate","statewide",14419,"","Write-Ins",35
+"WY","Big Horn","56003","5600300000","US Senate","statewide",4317,"Democrat","Gary Trauner",639
+"WY","Big Horn","56003","5600300000","US Senate","statewide",4317,"Republican","John Barrasso",3564
+"WY","Big Horn","56003","5600300000","US Senate","statewide",4317,"Libertarian","Joseph Porambo",102
+"WY","Big Horn","56003","5600300000","US Senate","statewide",4317,"","Write-Ins",12
+"WY","Campbell","56005","5600500000","US Senate","statewide",13051,"Democrat","Gary Trauner",1628
+"WY","Campbell","56005","5600500000","US Senate","statewide",13051,"Republican","John Barrasso",11020
+"WY","Campbell","56005","5600500000","US Senate","statewide",13051,"Libertarian","Joseph Porambo",387
+"WY","Campbell","56005","5600500000","US Senate","statewide",13051,"","Write-Ins",16
+"WY","Carbon","56007","5600700000","US Senate","statewide",5194,"Democrat","Gary Trauner",1359
+"WY","Carbon","56007","5600700000","US Senate","statewide",5194,"Republican","John Barrasso",3673
+"WY","Carbon","56007","5600700000","US Senate","statewide",5194,"Libertarian","Joseph Porambo",156
+"WY","Carbon","56007","5600700000","US Senate","statewide",5194,"","Write-Ins",6
+"WY","Converse","56009","5600900000","US Senate","statewide",4957,"Democrat","Gary Trauner",834
+"WY","Converse","56009","5600900000","US Senate","statewide",4957,"Republican","John Barrasso",3959
+"WY","Converse","56009","5600900000","US Senate","statewide",4957,"Libertarian","Joseph Porambo",153
+"WY","Converse","56009","5600900000","US Senate","statewide",4957,"","Write-Ins",11
+"WY","Crook","56011","5601100000","US Senate","statewide",3089,"Democrat","Gary Trauner",335
+"WY","Crook","56011","5601100000","US Senate","statewide",3089,"Republican","John Barrasso",2643
+"WY","Crook","56011","5601100000","US Senate","statewide",3089,"Libertarian","Joseph Porambo",110
+"WY","Crook","56011","5601100000","US Senate","statewide",3089,"","Write-Ins",1
+"WY","Fremont","56013","5601300000","US Senate","statewide",14395,"Democrat","Gary Trauner",4734
+"WY","Fremont","56013","5601300000","US Senate","statewide",14395,"Republican","John Barrasso",9262
+"WY","Fremont","56013","5601300000","US Senate","statewide",14395,"Libertarian","Joseph Porambo",380
+"WY","Fremont","56013","5601300000","US Senate","statewide",14395,"","Write-Ins",19
+"WY","Goshen","56015","5601500000","US Senate","statewide",4798,"Democrat","Gary Trauner",1020
+"WY","Goshen","56015","5601500000","US Senate","statewide",4798,"Republican","John Barrasso",3658
+"WY","Goshen","56015","5601500000","US Senate","statewide",4798,"Libertarian","Joseph Porambo",115
+"WY","Goshen","56015","5601500000","US Senate","statewide",4798,"","Write-Ins",5
+"WY","Hot Springs","56017","5601700000","US Senate","statewide",2258,"Democrat","Gary Trauner",455
+"WY","Hot Springs","56017","5601700000","US Senate","statewide",2258,"Republican","John Barrasso",1742
+"WY","Hot Springs","56017","5601700000","US Senate","statewide",2258,"Libertarian","Joseph Porambo",58
+"WY","Hot Springs","56017","5601700000","US Senate","statewide",2258,"","Write-Ins",3
+"WY","Johnson","56019","5601900000","US Senate","statewide",3889,"Democrat","Gary Trauner",722
+"WY","Johnson","56019","5601900000","US Senate","statewide",3889,"Republican","John Barrasso",3085
+"WY","Johnson","56019","5601900000","US Senate","statewide",3889,"Libertarian","Joseph Porambo",79
+"WY","Johnson","56019","5601900000","US Senate","statewide",3889,"","Write-Ins",3
+"WY","Laramie","56021","5602100000","US Senate","statewide",32608,"Democrat","Gary Trauner",12167
+"WY","Laramie","56021","5602100000","US Senate","statewide",32608,"Republican","John Barrasso",19473
+"WY","Laramie","56021","5602100000","US Senate","statewide",32608,"Libertarian","Joseph Porambo",907
+"WY","Laramie","56021","5602100000","US Senate","statewide",32608,"","Write-Ins",61
+"WY","Lincoln","56023","5602300000","US Senate","statewide",7197,"Democrat","Gary Trauner",1152
+"WY","Lincoln","56023","5602300000","US Senate","statewide",7197,"Republican","John Barrasso",5846
+"WY","Lincoln","56023","5602300000","US Senate","statewide",7197,"Libertarian","Joseph Porambo",187
+"WY","Lincoln","56023","5602300000","US Senate","statewide",7197,"","Write-Ins",12
+"WY","Natrona","56025","5602500000","US Senate","statewide",24464,"Democrat","Gary Trauner",7285
+"WY","Natrona","56025","5602500000","US Senate","statewide",24464,"Republican","John Barrasso",16359
+"WY","Natrona","56025","5602500000","US Senate","statewide",24464,"Libertarian","Joseph Porambo",778
+"WY","Natrona","56025","5602500000","US Senate","statewide",24464,"","Write-Ins",42
+"WY","Niobrara","56027","5602700000","US Senate","statewide",1159,"Democrat","Gary Trauner",144
+"WY","Niobrara","56027","5602700000","US Senate","statewide",1159,"Republican","John Barrasso",980
+"WY","Niobrara","56027","5602700000","US Senate","statewide",1159,"Libertarian","Joseph Porambo",32
+"WY","Niobrara","56027","5602700000","US Senate","statewide",1159,"","Write-Ins",3
+"WY","Park","56029","5602900000","US Senate","statewide",11827,"Democrat","Gary Trauner",2589
+"WY","Park","56029","5602900000","US Senate","statewide",11827,"Republican","John Barrasso",8938
+"WY","Park","56029","5602900000","US Senate","statewide",11827,"Libertarian","Joseph Porambo",276
+"WY","Park","56029","5602900000","US Senate","statewide",11827,"","Write-Ins",24
+"WY","Platte","56031","5603100000","US Senate","statewide",3785,"Democrat","Gary Trauner",801
+"WY","Platte","56031","5603100000","US Senate","statewide",3785,"Republican","John Barrasso",2850
+"WY","Platte","56031","5603100000","US Senate","statewide",3785,"Libertarian","Joseph Porambo",131
+"WY","Platte","56031","5603100000","US Senate","statewide",3785,"","Write-Ins",3
+"WY","Sheridan","56033","5603300000","US Senate","statewide",11805,"Democrat","Gary Trauner",3205
+"WY","Sheridan","56033","5603300000","US Senate","statewide",11805,"Republican","John Barrasso",8318
+"WY","Sheridan","56033","5603300000","US Senate","statewide",11805,"Libertarian","Joseph Porambo",261
+"WY","Sheridan","56033","5603300000","US Senate","statewide",11805,"","Write-Ins",21
+"WY","Sublette","56035","5603500000","US Senate","statewide",3407,"Democrat","Gary Trauner",668
+"WY","Sublette","56035","5603500000","US Senate","statewide",3407,"Republican","John Barrasso",2653
+"WY","Sublette","56035","5603500000","US Senate","statewide",3407,"Libertarian","Joseph Porambo",84
+"WY","Sublette","56035","5603500000","US Senate","statewide",3407,"","Write-Ins",2
+"WY","Sweetwater","56037","5603700000","US Senate","statewide",12973,"Democrat","Gary Trauner",3943
+"WY","Sweetwater","56037","5603700000","US Senate","statewide",12973,"Republican","John Barrasso",8577
+"WY","Sweetwater","56037","5603700000","US Senate","statewide",12973,"Libertarian","Joseph Porambo",430
+"WY","Sweetwater","56037","5603700000","US Senate","statewide",12973,"","Write-Ins",23
+"WY","Teton","56039","5603900000","US Senate","statewide",11750,"Democrat","Gary Trauner",7691
+"WY","Teton","56039","5603900000","US Senate","statewide",11750,"Republican","John Barrasso",3833
+"WY","Teton","56039","5603900000","US Senate","statewide",11750,"Libertarian","Joseph Porambo",220
+"WY","Teton","56039","5603900000","US Senate","statewide",11750,"","Write-Ins",6
+"WY","Uinta","56041","5604100000","US Senate","statewide",6280,"Democrat","Gary Trauner",1371
+"WY","Uinta","56041","5604100000","US Senate","statewide",6280,"Republican","John Barrasso",4713
+"WY","Uinta","56041","5604100000","US Senate","statewide",6280,"Libertarian","Joseph Porambo",188
+"WY","Uinta","56041","5604100000","US Senate","statewide",6280,"","Write-Ins",8
+"WY","Washakie","56043","5604300000","US Senate","statewide",3110,"Democrat","Gary Trauner",588
+"WY","Washakie","56043","5604300000","US Senate","statewide",3110,"Republican","John Barrasso",2423
+"WY","Washakie","56043","5604300000","US Senate","statewide",3110,"Libertarian","Joseph Porambo",93
+"WY","Washakie","56043","5604300000","US Senate","statewide",3110,"","Write-Ins",6
+"WY","Weston","56045","5604500000","US Senate","statewide",2688,"Democrat","Gary Trauner",321
+"WY","Weston","56045","5604500000","US Senate","statewide",2688,"Republican","John Barrasso",2275
+"WY","Weston","56045","5604500000","US Senate","statewide",2688,"Libertarian","Joseph Porambo",89
+"WY","Weston","56045","5604500000","US Senate","statewide",2688,"","Write-Ins",3

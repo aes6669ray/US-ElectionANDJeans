@@ -1,0 +1,915 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"MS","Alcorn","28003","2800300000","US House","1",10201,"Republican","Kelly, Trent",8233
+"MS","Alcorn","28003","2800300000","US House","1",10201,"Reform","O'Hara Hill, Tracella Lou",60
+"MS","Alcorn","28003","2800300000","US House","1",10201,"Democrat","Wadkins, Randy",1908
+"MS","Benton","28009","2800900000","US House","1",2797,"Republican","Kelly, Trent",1618
+"MS","Benton","28009","2800900000","US House","1",2797,"Reform","O'Hara Hill, Tracella Lou",19
+"MS","Benton","28009","2800900000","US House","1",2797,"Democrat","Wadkins, Randy",1160
+"MS","Calhoun","28013","2801300000","US House","1",4669,"Republican","Kelly, Trent",3332
+"MS","Calhoun","28013","2801300000","US House","1",4669,"Reform","O'Hara Hill, Tracella Lou",34
+"MS","Calhoun","28013","2801300000","US House","1",4669,"Democrat","Wadkins, Randy",1303
+"MS","Chickasaw","28017","2801700000","US House","1",5973,"Republican","Kelly, Trent",3372
+"MS","Chickasaw","28017","2801700000","US House","1",5973,"Reform","O'Hara Hill, Tracella Lou",56
+"MS","Chickasaw","28017","2801700000","US House","1",5973,"Democrat","Wadkins, Randy",2545
+"MS","Choctaw","28019","2801900000","US House","1",3021,"Republican","Kelly, Trent",2171
+"MS","Choctaw","28019","2801900000","US House","1",3021,"Reform","O'Hara Hill, Tracella Lou",23
+"MS","Choctaw","28019","2801900000","US House","1",3021,"Democrat","Wadkins, Randy",827
+"MS","Clay","28025","2802500000","US House","1",7710,"Republican","Kelly, Trent",3508
+"MS","Clay","28025","2802500000","US House","1",7710,"Reform","O'Hara Hill, Tracella Lou",53
+"MS","Clay","28025","2802500000","US House","1",7710,"Democrat","Wadkins, Randy",4149
+"MS","DeSoto","28033","2803300000","US House","1",50777,"Republican","Kelly, Trent",33118
+"MS","DeSoto","28033","2803300000","US House","1",50777,"Reform","O'Hara Hill, Tracella Lou",401
+"MS","DeSoto","28033","2803300000","US House","1",50777,"Democrat","Wadkins, Randy",17258
+"MS","Itawamba","28057","2805700000","US House","1",6891,"Republican","Kelly, Trent",6094
+"MS","Itawamba","28057","2805700000","US House","1",6891,"Reform","O'Hara Hill, Tracella Lou",41
+"MS","Itawamba","28057","2805700000","US House","1",6891,"Democrat","Wadkins, Randy",756
+"MS","Lafayette","28071","2807100000","US House","1",16472,"Republican","Kelly, Trent",9357
+"MS","Lafayette","28071","2807100000","US House","1",16472,"Reform","O'Hara Hill, Tracella Lou",97
+"MS","Lafayette","28071","2807100000","US House","1",16472,"Democrat","Wadkins, Randy",7018
+"MS","Lee","28081","2808100000","US House","1",25603,"Republican","Kelly, Trent",18188
+"MS","Lee","28081","2808100000","US House","1",25603,"Reform","O'Hara Hill, Tracella Lou",161
+"MS","Lee","28081","2808100000","US House","1",25603,"Democrat","Wadkins, Randy",7254
+"MS","Lowndes","28087","2808700000","US House","1",19842,"Republican","Kelly, Trent",10832
+"MS","Lowndes","28087","2808700000","US House","1",19842,"Reform","O'Hara Hill, Tracella Lou",158
+"MS","Lowndes","28087","2808700000","US House","1",19842,"Democrat","Wadkins, Randy",8852
+"MS","Marshall","28093","2809300000","US House","1",11368,"Republican","Kelly, Trent",5388
+"MS","Marshall","28093","2809300000","US House","1",11368,"Reform","O'Hara Hill, Tracella Lou",100
+"MS","Marshall","28093","2809300000","US House","1",11368,"Democrat","Wadkins, Randy",5880
+"MS","Monroe","28095","2809500000","US House","1",11842,"Republican","Kelly, Trent",7894
+"MS","Monroe","28095","2809500000","US House","1",11842,"Reform","O'Hara Hill, Tracella Lou",83
+"MS","Monroe","28095","2809500000","US House","1",11842,"Democrat","Wadkins, Randy",3865
+"MS","Oktibbeha","28105","2810500000","US House","1",1309,"Republican","Kelly, Trent",792
+"MS","Oktibbeha","28105","2810500000","US House","1",1309,"Reform","O'Hara Hill, Tracella Lou",8
+"MS","Oktibbeha","28105","2810500000","US House","1",1309,"Democrat","Wadkins, Randy",509
+"MS","Pontotoc","28115","2811500000","US House","1",9703,"Republican","Kelly, Trent",8019
+"MS","Pontotoc","28115","2811500000","US House","1",9703,"Reform","O'Hara Hill, Tracella Lou",55
+"MS","Pontotoc","28115","2811500000","US House","1",9703,"Democrat","Wadkins, Randy",1629
+"MS","Prentiss","28117","2811700000","US House","1",7246,"Republican","Kelly, Trent",5765
+"MS","Prentiss","28117","2811700000","US House","1",7246,"Reform","O'Hara Hill, Tracella Lou",48
+"MS","Prentiss","28117","2811700000","US House","1",7246,"Democrat","Wadkins, Randy",1433
+"MS","Tate","28137","2813700000","US House","1",8684,"Republican","Kelly, Trent",5781
+"MS","Tate","28137","2813700000","US House","1",8684,"Reform","O'Hara Hill, Tracella Lou",56
+"MS","Tate","28137","2813700000","US House","1",8684,"Democrat","Wadkins, Randy",2847
+"MS","Tippah","28139","2813900000","US House","1",6958,"Republican","Kelly, Trent",5579
+"MS","Tippah","28139","2813900000","US House","1",6958,"Reform","O'Hara Hill, Tracella Lou",57
+"MS","Tippah","28139","2813900000","US House","1",6958,"Democrat","Wadkins, Randy",1322
+"MS","Tishomingo","28141","2814100000","US House","1",6141,"Republican","Kelly, Trent",4982
+"MS","Tishomingo","28141","2814100000","US House","1",6141,"Reform","O'Hara Hill, Tracella Lou",42
+"MS","Tishomingo","28141","2814100000","US House","1",6141,"Democrat","Wadkins, Randy",1117
+"MS","Union","28145","2814500000","US House","1",8339,"Republican","Kelly, Trent",6974
+"MS","Union","28145","2814500000","US House","1",8339,"Reform","O'Hara Hill, Tracella Lou",61
+"MS","Union","28145","2814500000","US House","1",8339,"Democrat","Wadkins, Randy",1304
+"MS","Webster","28155","2815500000","US House","1",3940,"Republican","Kelly, Trent",3197
+"MS","Webster","28155","2815500000","US House","1",3940,"Reform","O'Hara Hill, Tracella Lou",19
+"MS","Webster","28155","2815500000","US House","1",3940,"Democrat","Wadkins, Randy",724
+"MS","Winston","28159","2815900000","US House","1",7035,"Republican","Kelly, Trent",4051
+"MS","Winston","28159","2815900000","US House","1",7035,"Reform","O'Hara Hill, Tracella Lou",43
+"MS","Winston","28159","2815900000","US House","1",7035,"Democrat","Wadkins, Randy",2941
+"MS","Attala","28007","2800700000","US House","2",5899,"Reform","Harris, Irving",574
+"MS","Attala","28007","2800700000","US House","2",5899,"Independent","Ray, Troy",2406
+"MS","Attala","28007","2800700000","US House","2",5899,"Democrat","Thompson, Bennie",2919
+"MS","Bolivar","28011","2801100000","US House","2",10472,"Reform","Harris, Irving",457
+"MS","Bolivar","28011","2801100000","US House","2",10472,"Independent","Ray, Troy",2117
+"MS","Bolivar","28011","2801100000","US House","2",10472,"Democrat","Thompson, Bennie",7898
+"MS","Carroll","28015","2801500000","US House","2",4000,"Reform","Harris, Irving",420
+"MS","Carroll","28015","2801500000","US House","2",4000,"Independent","Ray, Troy",1842
+"MS","Carroll","28015","2801500000","US House","2",4000,"Democrat","Thompson, Bennie",1738
+"MS","Claiborne","28021","2802100000","US House","2",3364,"Reform","Harris, Irving",194
+"MS","Claiborne","28021","2802100000","US House","2",3364,"Independent","Ray, Troy",275
+"MS","Claiborne","28021","2802100000","US House","2",3364,"Democrat","Thompson, Bennie",2895
+"MS","Coahoma","28027","2802700000","US House","2",6224,"Reform","Harris, Irving",298
+"MS","Coahoma","28027","2802700000","US House","2",6224,"Independent","Ray, Troy",939
+"MS","Coahoma","28027","2802700000","US House","2",6224,"Democrat","Thompson, Bennie",4987
+"MS","Copiah","28029","2802900000","US House","2",10109,"Reform","Harris, Irving",1235
+"MS","Copiah","28029","2802900000","US House","2",10109,"Independent","Ray, Troy",2710
+"MS","Copiah","28029","2802900000","US House","2",10109,"Democrat","Thompson, Bennie",6164
+"MS","Grenada","28043","2804300000","US House","2",7158,"Reform","Harris, Irving",580
+"MS","Grenada","28043","2804300000","US House","2",7158,"Independent","Ray, Troy",2412
+"MS","Grenada","28043","2804300000","US House","2",7158,"Democrat","Thompson, Bennie",4166
+"MS","Hinds","28049","2804900000","US House","2",66011,"Reform","Harris, Irving",3198
+"MS","Hinds","28049","2804900000","US House","2",66011,"Independent","Ray, Troy",10110
+"MS","Hinds","28049","2804900000","US House","2",66011,"Democrat","Thompson, Bennie",52703
+"MS","Holmes","28051","2805100000","US House","2",5582,"Reform","Harris, Irving",163
+"MS","Holmes","28051","2805100000","US House","2",5582,"Independent","Ray, Troy",590
+"MS","Holmes","28051","2805100000","US House","2",5582,"Democrat","Thompson, Bennie",4829
+"MS","Humphreys","28053","2805300000","US House","2",3150,"Reform","Harris, Irving",184
+"MS","Humphreys","28053","2805300000","US House","2",3150,"Independent","Ray, Troy",414
+"MS","Humphreys","28053","2805300000","US House","2",3150,"Democrat","Thompson, Bennie",2552
+"MS","Issaquena","28055","2805500000","US House","2",523,"Reform","Harris, Irving",44
+"MS","Issaquena","28055","2805500000","US House","2",523,"Independent","Ray, Troy",135
+"MS","Issaquena","28055","2805500000","US House","2",523,"Democrat","Thompson, Bennie",344
+"MS","Jefferson","28063","2806300000","US House","2",3202,"Reform","Harris, Irving",282
+"MS","Jefferson","28063","2806300000","US House","2",3202,"Independent","Ray, Troy",203
+"MS","Jefferson","28063","2806300000","US House","2",3202,"Democrat","Thompson, Bennie",2717
+"MS","Leake","28079","2807900000","US House","2",6094,"Reform","Harris, Irving",668
+"MS","Leake","28079","2807900000","US House","2",6094,"Independent","Ray, Troy",2113
+"MS","Leake","28079","2807900000","US House","2",6094,"Democrat","Thompson, Bennie",3313
+"MS","Leflore","28083","2808300000","US House","2",8404,"Reform","Harris, Irving",448
+"MS","Leflore","28083","2808300000","US House","2",8404,"Independent","Ray, Troy",1599
+"MS","Leflore","28083","2808300000","US House","2",8404,"Democrat","Thompson, Bennie",6357
+"MS","Madison","28089","2808900000","US House","2",9181,"Reform","Harris, Irving",401
+"MS","Madison","28089","2808900000","US House","2",9181,"Independent","Ray, Troy",1289
+"MS","Madison","28089","2808900000","US House","2",9181,"Democrat","Thompson, Bennie",7491
+"MS","Montgomery","28097","2809700000","US House","2",3620,"Reform","Harris, Irving",331
+"MS","Montgomery","28097","2809700000","US House","2",3620,"Independent","Ray, Troy",1327
+"MS","Montgomery","28097","2809700000","US House","2",3620,"Democrat","Thompson, Bennie",1962
+"MS","Panola","28107","2810700000","US House","2",10664,"Reform","Harris, Irving",821
+"MS","Panola","28107","2810700000","US House","2",10664,"Independent","Ray, Troy",3329
+"MS","Panola","28107","2810700000","US House","2",10664,"Democrat","Thompson, Bennie",6514
+"MS","Quitman","28119","2811900000","US House","2",2365,"Reform","Harris, Irving",169
+"MS","Quitman","28119","2811900000","US House","2",2365,"Independent","Ray, Troy",393
+"MS","Quitman","28119","2811900000","US House","2",2365,"Democrat","Thompson, Bennie",1803
+"MS","Sharkey","28125","2812500000","US House","2",1697,"Reform","Harris, Irving",86
+"MS","Sharkey","28125","2812500000","US House","2",1697,"Independent","Ray, Troy",246
+"MS","Sharkey","28125","2812500000","US House","2",1697,"Democrat","Thompson, Bennie",1365
+"MS","Sunflower","28133","2813300000","US House","2",7288,"Reform","Harris, Irving",332
+"MS","Sunflower","28133","2813300000","US House","2",7288,"Independent","Ray, Troy",1180
+"MS","Sunflower","28133","2813300000","US House","2",7288,"Democrat","Thompson, Bennie",5776
+"MS","Tallahatchie","28135","2813500000","US House","2",4170,"Reform","Harris, Irving",287
+"MS","Tallahatchie","28135","2813500000","US House","2",4170,"Independent","Ray, Troy",1044
+"MS","Tallahatchie","28135","2813500000","US House","2",4170,"Democrat","Thompson, Bennie",2839
+"MS","Tunica","28143","2814300000","US House","2",2454,"Reform","Harris, Irving",129
+"MS","Tunica","28143","2814300000","US House","2",2454,"Independent","Ray, Troy",345
+"MS","Tunica","28143","2814300000","US House","2",2454,"Democrat","Thompson, Bennie",1980
+"MS","Warren","28149","2814900000","US House","2",14860,"Reform","Harris, Irving",1401
+"MS","Warren","28149","2814900000","US House","2",14860,"Independent","Ray, Troy",5171
+"MS","Warren","28149","2814900000","US House","2",14860,"Democrat","Thompson, Bennie",8288
+"MS","Washington","28151","2815100000","US House","2",13553,"Reform","Harris, Irving",609
+"MS","Washington","28151","2815100000","US House","2",13553,"Independent","Ray, Troy",2483
+"MS","Washington","28151","2815100000","US House","2",13553,"Democrat","Thompson, Bennie",10461
+"MS","Yalobusha","28161","2816100000","US House","2",4315,"Reform","Harris, Irving",300
+"MS","Yalobusha","28161","2816100000","US House","2",4315,"Independent","Ray, Troy",1520
+"MS","Yalobusha","28161","2816100000","US House","2",4315,"Democrat","Thompson, Bennie",2495
+"MS","Yazoo","28163","2816300000","US House","2",7020,"Reform","Harris, Irving",743
+"MS","Yazoo","28163","2816300000","US House","2",7020,"Independent","Ray, Troy",1912
+"MS","Yazoo","28163","2816300000","US House","2",7020,"Democrat","Thompson, Bennie",4365
+"MS","Adams","28001","2800100000","US House","3",10800,"Democrat","Evans, Michael",6156
+"MS","Adams","28001","2800100000","US House","3",10800,"Republican","Guest, Michael",4535
+"MS","Adams","28001","2800100000","US House","3",10800,"Reform","Holland, Matthew",109
+"MS","Amite","28005","2800500000","US House","3",5377,"Democrat","Evans, Michael",2000
+"MS","Amite","28005","2800500000","US House","3",5377,"Republican","Guest, Michael",3318
+"MS","Amite","28005","2800500000","US House","3",5377,"Reform","Holland, Matthew",59
+"MS","Clarke","28023","2802300000","US House","3",5299,"Democrat","Evans, Michael",1640
+"MS","Clarke","28023","2802300000","US House","3",5299,"Republican","Guest, Michael",3625
+"MS","Clarke","28023","2802300000","US House","3",5299,"Reform","Holland, Matthew",34
+"MS","Covington","28031","2803100000","US House","3",6878,"Democrat","Evans, Michael",2674
+"MS","Covington","28031","2803100000","US House","3",6878,"Republican","Guest, Michael",4098
+"MS","Covington","28031","2803100000","US House","3",6878,"Reform","Holland, Matthew",106
+"MS","Franklin","28037","2803700000","US House","3",3182,"Democrat","Evans, Michael",1097
+"MS","Franklin","28037","2803700000","US House","3",3182,"Republican","Guest, Michael",2038
+"MS","Franklin","28037","2803700000","US House","3",3182,"Reform","Holland, Matthew",47
+"MS","Hinds","28049","2804900000","US House","3",11572,"Democrat","Evans, Michael",5440
+"MS","Hinds","28049","2804900000","US House","3",11572,"Republican","Guest, Michael",6009
+"MS","Hinds","28049","2804900000","US House","3",11572,"Reform","Holland, Matthew",123
+"MS","Jasper","28061","2806100000","US House","3",6429,"Democrat","Evans, Michael",3416
+"MS","Jasper","28061","2806100000","US House","3",6429,"Republican","Guest, Michael",2931
+"MS","Jasper","28061","2806100000","US House","3",6429,"Reform","Holland, Matthew",82
+"MS","Jeff Davis","28065","2806500000","US House","3",4851,"Democrat","Evans, Michael",2872
+"MS","Jeff Davis","28065","2806500000","US House","3",4851,"Republican","Guest, Michael",1921
+"MS","Jeff Davis","28065","2806500000","US House","3",4851,"Reform","Holland, Matthew",58
+"MS","Kemper","28069","2806900000","US House","3",3534,"Democrat","Evans, Michael",2541
+"MS","Kemper","28069","2806900000","US House","3",3534,"Republican","Guest, Michael",979
+"MS","Kemper","28069","2806900000","US House","3",3534,"Reform","Holland, Matthew",14
+"MS","Lauderdale","28075","2807500000","US House","3",23140,"Democrat","Evans, Michael",8952
+"MS","Lauderdale","28075","2807500000","US House","3",23140,"Republican","Guest, Michael",14046
+"MS","Lauderdale","28075","2807500000","US House","3",23140,"Reform","Holland, Matthew",142
+"MS","Lawrence","28077","2807700000","US House","3",5094,"Democrat","Evans, Michael",1810
+"MS","Lawrence","28077","2807700000","US House","3",5094,"Republican","Guest, Michael",3233
+"MS","Lawrence","28077","2807700000","US House","3",5094,"Reform","Holland, Matthew",51
+"MS","Lincoln","28085","2808500000","US House","3",12484,"Democrat","Evans, Michael",3664
+"MS","Lincoln","28085","2808500000","US House","3",12484,"Republican","Guest, Michael",8705
+"MS","Lincoln","28085","2808500000","US House","3",12484,"Reform","Holland, Matthew",115
+"MS","Madison","28089","2808900000","US House","3",31167,"Democrat","Evans, Michael",8692
+"MS","Madison","28089","2808900000","US House","3",31167,"Republican","Guest, Michael",22221
+"MS","Madison","28089","2808900000","US House","3",31167,"Reform","Holland, Matthew",254
+"MS","Neshoba","28099","2809900000","US House","3",8034,"Democrat","Evans, Michael",2860
+"MS","Neshoba","28099","2809900000","US House","3",8034,"Republican","Guest, Michael",5085
+"MS","Neshoba","28099","2809900000","US House","3",8034,"Reform","Holland, Matthew",89
+"MS","Newton","28101","2810100000","US House","3",7266,"Democrat","Evans, Michael",2212
+"MS","Newton","28101","2810100000","US House","3",7266,"Republican","Guest, Michael",4994
+"MS","Newton","28101","2810100000","US House","3",7266,"Reform","Holland, Matthew",60
+"MS","Noxubee","28103","2810300000","US House","3",3950,"Democrat","Evans, Michael",3026
+"MS","Noxubee","28103","2810300000","US House","3",3950,"Republican","Guest, Michael",889
+"MS","Noxubee","28103","2810300000","US House","3",3950,"Reform","Holland, Matthew",35
+"MS","Oktibbeha","28105","2810500000","US House","3",12971,"Democrat","Evans, Michael",6544
+"MS","Oktibbeha","28105","2810500000","US House","3",12971,"Republican","Guest, Michael",6292
+"MS","Oktibbeha","28105","2810500000","US House","3",12971,"Reform","Holland, Matthew",135
+"MS","Pike","28113","2811300000","US House","3",12760,"Democrat","Evans, Michael",6051
+"MS","Pike","28113","2811300000","US House","3",12760,"Republican","Guest, Michael",6559
+"MS","Pike","28113","2811300000","US House","3",12760,"Reform","Holland, Matthew",150
+"MS","Rankin","28121","2812100000","US House","3",51661,"Democrat","Evans, Michael",11346
+"MS","Rankin","28121","2812100000","US House","3",51661,"Republican","Guest, Michael",39779
+"MS","Rankin","28121","2812100000","US House","3",51661,"Reform","Holland, Matthew",536
+"MS","Scott","28123","2812300000","US House","3",7900,"Democrat","Evans, Michael",3148
+"MS","Scott","28123","2812300000","US House","3",7900,"Republican","Guest, Michael",4683
+"MS","Scott","28123","2812300000","US House","3",7900,"Reform","Holland, Matthew",69
+"MS","Simpson","28127","2812700000","US House","3",8957,"Democrat","Evans, Michael",3009
+"MS","Simpson","28127","2812700000","US House","3",8957,"Republican","Guest, Michael",5861
+"MS","Simpson","28127","2812700000","US House","3",8957,"Reform","Holland, Matthew",87
+"MS","Smith","28129","2812900000","US House","3",5995,"Democrat","Evans, Michael",1383
+"MS","Smith","28129","2812900000","US House","3",5995,"Republican","Guest, Michael",4527
+"MS","Smith","28129","2812900000","US House","3",5995,"Reform","Holland, Matthew",85
+"MS","Walthall","28147","2814700000","US House","3",5122,"Democrat","Evans, Michael",2069
+"MS","Walthall","28147","2814700000","US House","3",5122,"Republican","Guest, Michael",2994
+"MS","Walthall","28147","2814700000","US House","3",5122,"Reform","Holland, Matthew",59
+"MS","Wilkinson","28157","2815700000","US House","3",2848,"Democrat","Evans, Michael",1859
+"MS","Wilkinson","28157","2815700000","US House","3",2848,"Republican","Guest, Michael",962
+"MS","Wilkinson","28157","2815700000","US House","3",2848,"Reform","Holland, Matthew",27
+"MS","Clarke","28023","2802300000","US House","4",795,"Democrat","Anderson, Jeramey",430
+"MS","Clarke","28023","2802300000","US House","4",795,"Republican","Palazzo, Steven",355
+"MS","Clarke","28023","2802300000","US House","4",795,"Reform","Sheets, Lajena",10
+"MS","Forrest","28035","2803500000","US House","4",22730,"Democrat","Anderson, Jeramey",9598
+"MS","Forrest","28035","2803500000","US House","4",22730,"Republican","Palazzo, Steven",12932
+"MS","Forrest","28035","2803500000","US House","4",22730,"Reform","Sheets, Lajena",200
+"MS","George","28039","2803900000","US House","4",7230,"Democrat","Anderson, Jeramey",881
+"MS","George","28039","2803900000","US House","4",7230,"Republican","Palazzo, Steven",6290
+"MS","George","28039","2803900000","US House","4",7230,"Reform","Sheets, Lajena",59
+"MS","Greene","28041","2804100000","US House","4",3783,"Democrat","Anderson, Jeramey",710
+"MS","Greene","28041","2804100000","US House","4",3783,"Republican","Palazzo, Steven",3047
+"MS","Greene","28041","2804100000","US House","4",3783,"Reform","Sheets, Lajena",26
+"MS","Hancock","28045","2804500000","US House","4",13916,"Democrat","Anderson, Jeramey",3402
+"MS","Hancock","28045","2804500000","US House","4",13916,"Republican","Palazzo, Steven",10355
+"MS","Hancock","28045","2804500000","US House","4",13916,"Reform","Sheets, Lajena",159
+"MS","Harrison","28047","2804700000","US House","4",51479,"Democrat","Anderson, Jeramey",19059
+"MS","Harrison","28047","2804700000","US House","4",51479,"Republican","Palazzo, Steven",31729
+"MS","Harrison","28047","2804700000","US House","4",51479,"Reform","Sheets, Lajena",691
+"MS","Jackson","28059","2805900000","US House","4",39930,"Democrat","Anderson, Jeramey",12985
+"MS","Jackson","28059","2805900000","US House","4",39930,"Republican","Palazzo, Steven",26490
+"MS","Jackson","28059","2805900000","US House","4",39930,"Reform","Sheets, Lajena",455
+"MS","Jones","28067","2806700000","US House","4",22241,"Democrat","Anderson, Jeramey",6385
+"MS","Jones","28067","2806700000","US House","4",22241,"Republican","Palazzo, Steven",15658
+"MS","Jones","28067","2806700000","US House","4",22241,"Reform","Sheets, Lajena",198
+"MS","Lamar","28073","2807300000","US House","4",19953,"Democrat","Anderson, Jeramey",4601
+"MS","Lamar","28073","2807300000","US House","4",19953,"Republican","Palazzo, Steven",15171
+"MS","Lamar","28073","2807300000","US House","4",19953,"Reform","Sheets, Lajena",181
+"MS","Marion","28091","2809100000","US House","4",8970,"Democrat","Anderson, Jeramey",2804
+"MS","Marion","28091","2809100000","US House","4",8970,"Republican","Palazzo, Steven",6114
+"MS","Marion","28091","2809100000","US House","4",8970,"Reform","Sheets, Lajena",52
+"MS","Pearl River","28109","2810900000","US House","4",15942,"Democrat","Anderson, Jeramey",2967
+"MS","Pearl River","28109","2810900000","US House","4",15942,"Republican","Palazzo, Steven",12833
+"MS","Pearl River","28109","2810900000","US House","4",15942,"Reform","Sheets, Lajena",142
+"MS","Perry","28111","2811100000","US House","4",3992,"Democrat","Anderson, Jeramey",947
+"MS","Perry","28111","2811100000","US House","4",3992,"Republican","Palazzo, Steven",3003
+"MS","Perry","28111","2811100000","US House","4",3992,"Reform","Sheets, Lajena",42
+"MS","Stone","28131","2813100000","US House","4",5387,"Democrat","Anderson, Jeramey",1272
+"MS","Stone","28131","2813100000","US House","4",5387,"Republican","Palazzo, Steven",4067
+"MS","Stone","28131","2813100000","US House","4",5387,"Reform","Sheets, Lajena",48
+"MS","Wayne","28153","2815300000","US House","4",7384,"Democrat","Anderson, Jeramey",2746
+"MS","Wayne","28153","2815300000","US House","4",7384,"Republican","Palazzo, Steven",4589
+"MS","Wayne","28153","2815300000","US House","4",7384,"Reform","Sheets, Lajena",49
+"MS","Adams","28001","2800100000","US Senate","statewide",10760,"Democrat","Baria, David",6097
+"MS","Adams","28001","2800100000","US Senate","statewide",10760,"Libertarian","Bedwell, Danny",136
+"MS","Adams","28001","2800100000","US Senate","statewide",10760,"Reform","O'Hara, Shawn",40
+"MS","Adams","28001","2800100000","US Senate","statewide",10760,"Republican","Wicker, Roger",4487
+"MS","Alcorn","28003","2800300000","US Senate","statewide",10166,"Democrat","Baria, David",1780
+"MS","Alcorn","28003","2800300000","US Senate","statewide",10166,"Libertarian","Bedwell, Danny",168
+"MS","Alcorn","28003","2800300000","US Senate","statewide",10166,"Reform","O'Hara, Shawn",51
+"MS","Alcorn","28003","2800300000","US Senate","statewide",10166,"Republican","Wicker, Roger",8167
+"MS","Amite","28005","2800500000","US Senate","statewide",5363,"Democrat","Baria, David",1966
+"MS","Amite","28005","2800500000","US Senate","statewide",5363,"Libertarian","Bedwell, Danny",123
+"MS","Amite","28005","2800500000","US Senate","statewide",5363,"Reform","O'Hara, Shawn",28
+"MS","Amite","28005","2800500000","US Senate","statewide",5363,"Republican","Wicker, Roger",3246
+"MS","Attala","28007","2800700000","US Senate","statewide",6130,"Democrat","Baria, David",2291
+"MS","Attala","28007","2800700000","US Senate","statewide",6130,"Libertarian","Bedwell, Danny",72
+"MS","Attala","28007","2800700000","US Senate","statewide",6130,"Reform","O'Hara, Shawn",39
+"MS","Attala","28007","2800700000","US Senate","statewide",6130,"Republican","Wicker, Roger",3728
+"MS","Benton","28009","2800900000","US Senate","statewide",2784,"Democrat","Baria, David",1091
+"MS","Benton","28009","2800900000","US Senate","statewide",2784,"Libertarian","Bedwell, Danny",28
+"MS","Benton","28009","2800900000","US Senate","statewide",2784,"Reform","O'Hara, Shawn",20
+"MS","Benton","28009","2800900000","US Senate","statewide",2784,"Republican","Wicker, Roger",1645
+"MS","Bolivar","28011","2801100000","US Senate","statewide",10612,"Democrat","Baria, David",6469
+"MS","Bolivar","28011","2801100000","US Senate","statewide",10612,"Libertarian","Bedwell, Danny",112
+"MS","Bolivar","28011","2801100000","US Senate","statewide",10612,"Reform","O'Hara, Shawn",93
+"MS","Bolivar","28011","2801100000","US Senate","statewide",10612,"Republican","Wicker, Roger",3938
+"MS","Calhoun","28013","2801300000","US Senate","statewide",4599,"Democrat","Baria, David",1230
+"MS","Calhoun","28013","2801300000","US Senate","statewide",4599,"Libertarian","Bedwell, Danny",52
+"MS","Calhoun","28013","2801300000","US Senate","statewide",4599,"Reform","O'Hara, Shawn",21
+"MS","Calhoun","28013","2801300000","US Senate","statewide",4599,"Republican","Wicker, Roger",3296
+"MS","Carroll","28015","2801500000","US Senate","statewide",4268,"Democrat","Baria, David",1212
+"MS","Carroll","28015","2801500000","US Senate","statewide",4268,"Libertarian","Bedwell, Danny",72
+"MS","Carroll","28015","2801500000","US Senate","statewide",4268,"Reform","O'Hara, Shawn",48
+"MS","Carroll","28015","2801500000","US Senate","statewide",4268,"Republican","Wicker, Roger",2936
+"MS","Chickasaw","28017","2801700000","US Senate","statewide",5926,"Democrat","Baria, David",2512
+"MS","Chickasaw","28017","2801700000","US Senate","statewide",5926,"Libertarian","Bedwell, Danny",61
+"MS","Chickasaw","28017","2801700000","US Senate","statewide",5926,"Reform","O'Hara, Shawn",36
+"MS","Chickasaw","28017","2801700000","US Senate","statewide",5926,"Republican","Wicker, Roger",3317
+"MS","Choctaw","28019","2801900000","US Senate","statewide",2953,"Democrat","Baria, David",791
+"MS","Choctaw","28019","2801900000","US Senate","statewide",2953,"Libertarian","Bedwell, Danny",40
+"MS","Choctaw","28019","2801900000","US Senate","statewide",2953,"Reform","O'Hara, Shawn",21
+"MS","Choctaw","28019","2801900000","US Senate","statewide",2953,"Republican","Wicker, Roger",2101
+"MS","Claiborne","28021","2802100000","US Senate","statewide",3239,"Democrat","Baria, David",2468
+"MS","Claiborne","28021","2802100000","US Senate","statewide",3239,"Libertarian","Bedwell, Danny",36
+"MS","Claiborne","28021","2802100000","US Senate","statewide",3239,"Reform","O'Hara, Shawn",82
+"MS","Claiborne","28021","2802100000","US Senate","statewide",3239,"Republican","Wicker, Roger",653
+"MS","Clarke","28023","2802300000","US Senate","statewide",5990,"Democrat","Baria, David",1933
+"MS","Clarke","28023","2802300000","US Senate","statewide",5990,"Libertarian","Bedwell, Danny",62
+"MS","Clarke","28023","2802300000","US Senate","statewide",5990,"Reform","O'Hara, Shawn",51
+"MS","Clarke","28023","2802300000","US Senate","statewide",5990,"Republican","Wicker, Roger",3944
+"MS","Clay","28025","2802500000","US Senate","statewide",7610,"Democrat","Baria, David",4091
+"MS","Clay","28025","2802500000","US Senate","statewide",7610,"Libertarian","Bedwell, Danny",57
+"MS","Clay","28025","2802500000","US Senate","statewide",7610,"Reform","O'Hara, Shawn",51
+"MS","Clay","28025","2802500000","US Senate","statewide",7610,"Republican","Wicker, Roger",3411
+"MS","Coahoma","28027","2802700000","US Senate","statewide",6214,"Democrat","Baria, David",3858
+"MS","Coahoma","28027","2802700000","US Senate","statewide",6214,"Libertarian","Bedwell, Danny",77
+"MS","Coahoma","28027","2802700000","US Senate","statewide",6214,"Reform","O'Hara, Shawn",101
+"MS","Coahoma","28027","2802700000","US Senate","statewide",6214,"Republican","Wicker, Roger",2178
+"MS","Copiah","28029","2802900000","US Senate","statewide",10180,"Democrat","Baria, David",4867
+"MS","Copiah","28029","2802900000","US Senate","statewide",10180,"Libertarian","Bedwell, Danny",144
+"MS","Copiah","28029","2802900000","US Senate","statewide",10180,"Reform","O'Hara, Shawn",117
+"MS","Copiah","28029","2802900000","US Senate","statewide",10180,"Republican","Wicker, Roger",5052
+"MS","Covington","28031","2803100000","US Senate","statewide",6788,"Democrat","Baria, David",2382
+"MS","Covington","28031","2803100000","US Senate","statewide",6788,"Libertarian","Bedwell, Danny",104
+"MS","Covington","28031","2803100000","US Senate","statewide",6788,"Reform","O'Hara, Shawn",60
+"MS","Covington","28031","2803100000","US Senate","statewide",6788,"Republican","Wicker, Roger",4242
+"MS","DeSoto","28033","2803300000","US Senate","statewide",50879,"Democrat","Baria, David",16858
+"MS","DeSoto","28033","2803300000","US Senate","statewide",50879,"Libertarian","Bedwell, Danny",1034
+"MS","DeSoto","28033","2803300000","US Senate","statewide",50879,"Reform","O'Hara, Shawn",237
+"MS","DeSoto","28033","2803300000","US Senate","statewide",50879,"Republican","Wicker, Roger",32750
+"MS","Forrest","28035","2803500000","US Senate","statewide",22303,"Democrat","Baria, David",9134
+"MS","Forrest","28035","2803500000","US Senate","statewide",22303,"Libertarian","Bedwell, Danny",407
+"MS","Forrest","28035","2803500000","US Senate","statewide",22303,"Reform","O'Hara, Shawn",223
+"MS","Forrest","28035","2803500000","US Senate","statewide",22303,"Republican","Wicker, Roger",12539
+"MS","Franklin","28037","2803700000","US Senate","statewide",3145,"Democrat","Baria, David",1050
+"MS","Franklin","28037","2803700000","US Senate","statewide",3145,"Libertarian","Bedwell, Danny",73
+"MS","Franklin","28037","2803700000","US Senate","statewide",3145,"Reform","O'Hara, Shawn",23
+"MS","Franklin","28037","2803700000","US Senate","statewide",3145,"Republican","Wicker, Roger",1999
+"MS","George","28039","2803900000","US Senate","statewide",7141,"Democrat","Baria, David",866
+"MS","George","28039","2803900000","US Senate","statewide",7141,"Libertarian","Bedwell, Danny",127
+"MS","George","28039","2803900000","US Senate","statewide",7141,"Reform","O'Hara, Shawn",88
+"MS","George","28039","2803900000","US Senate","statewide",7141,"Republican","Wicker, Roger",6060
+"MS","Greene","28041","2804100000","US Senate","statewide",3733,"Democrat","Baria, David",703
+"MS","Greene","28041","2804100000","US Senate","statewide",3733,"Libertarian","Bedwell, Danny",60
+"MS","Greene","28041","2804100000","US Senate","statewide",3733,"Reform","O'Hara, Shawn",47
+"MS","Greene","28041","2804100000","US Senate","statewide",3733,"Republican","Wicker, Roger",2923
+"MS","Grenada","28043","2804300000","US Senate","statewide",7645,"Democrat","Baria, David",3176
+"MS","Grenada","28043","2804300000","US Senate","statewide",7645,"Libertarian","Bedwell, Danny",79
+"MS","Grenada","28043","2804300000","US Senate","statewide",7645,"Reform","O'Hara, Shawn",42
+"MS","Grenada","28043","2804300000","US Senate","statewide",7645,"Republican","Wicker, Roger",4348
+"MS","Hancock","28045","2804500000","US Senate","statewide",13899,"Democrat","Baria, David",3692
+"MS","Hancock","28045","2804500000","US Senate","statewide",13899,"Libertarian","Bedwell, Danny",159
+"MS","Hancock","28045","2804500000","US Senate","statewide",13899,"Reform","O'Hara, Shawn",59
+"MS","Hancock","28045","2804500000","US Senate","statewide",13899,"Republican","Wicker, Roger",9989
+"MS","Harrison","28047","2804700000","US Senate","statewide",51723,"Democrat","Baria, David",18391
+"MS","Harrison","28047","2804700000","US Senate","statewide",51723,"Libertarian","Bedwell, Danny",698
+"MS","Harrison","28047","2804700000","US Senate","statewide",51723,"Reform","O'Hara, Shawn",220
+"MS","Harrison","28047","2804700000","US Senate","statewide",51723,"Republican","Wicker, Roger",32414
+"MS","Hinds","28049","2804900000","US Senate","statewide",78706,"Democrat","Baria, David",55780
+"MS","Hinds","28049","2804900000","US Senate","statewide",78706,"Libertarian","Bedwell, Danny",732
+"MS","Hinds","28049","2804900000","US Senate","statewide",78706,"Reform","O'Hara, Shawn",550
+"MS","Hinds","28049","2804900000","US Senate","statewide",78706,"Republican","Wicker, Roger",21644
+"MS","Holmes","28051","2805100000","US Senate","statewide",5375,"Democrat","Baria, David",4222
+"MS","Holmes","28051","2805100000","US Senate","statewide",5375,"Libertarian","Bedwell, Danny",44
+"MS","Holmes","28051","2805100000","US Senate","statewide",5375,"Reform","O'Hara, Shawn",41
+"MS","Holmes","28051","2805100000","US Senate","statewide",5375,"Republican","Wicker, Roger",1068
+"MS","Humphreys","28053","2805300000","US Senate","statewide",3144,"Democrat","Baria, David",2082
+"MS","Humphreys","28053","2805300000","US Senate","statewide",3144,"Libertarian","Bedwell, Danny",42
+"MS","Humphreys","28053","2805300000","US Senate","statewide",3144,"Reform","O'Hara, Shawn",59
+"MS","Humphreys","28053","2805300000","US Senate","statewide",3144,"Republican","Wicker, Roger",961
+"MS","Issaquena","28055","2805500000","US Senate","statewide",532,"Democrat","Baria, David",261
+"MS","Issaquena","28055","2805500000","US Senate","statewide",532,"Libertarian","Bedwell, Danny",6
+"MS","Issaquena","28055","2805500000","US Senate","statewide",532,"Reform","O'Hara, Shawn",7
+"MS","Issaquena","28055","2805500000","US Senate","statewide",532,"Republican","Wicker, Roger",258
+"MS","Itawamba","28057","2805700000","US Senate","statewide",6794,"Democrat","Baria, David",783
+"MS","Itawamba","28057","2805700000","US Senate","statewide",6794,"Libertarian","Bedwell, Danny",119
+"MS","Itawamba","28057","2805700000","US Senate","statewide",6794,"Reform","O'Hara, Shawn",34
+"MS","Itawamba","28057","2805700000","US Senate","statewide",6794,"Republican","Wicker, Roger",5858
+"MS","Jackson","28059","2805900000","US Senate","statewide",39507,"Democrat","Baria, David",12179
+"MS","Jackson","28059","2805900000","US Senate","statewide",39507,"Libertarian","Bedwell, Danny",548
+"MS","Jackson","28059","2805900000","US Senate","statewide",39507,"Reform","O'Hara, Shawn",236
+"MS","Jackson","28059","2805900000","US Senate","statewide",39507,"Republican","Wicker, Roger",26544
+"MS","Jasper","28061","2806100000","US Senate","statewide",6267,"Democrat","Baria, David",3149
+"MS","Jasper","28061","2806100000","US Senate","statewide",6267,"Libertarian","Bedwell, Danny",58
+"MS","Jasper","28061","2806100000","US Senate","statewide",6267,"Reform","O'Hara, Shawn",72
+"MS","Jasper","28061","2806100000","US Senate","statewide",6267,"Republican","Wicker, Roger",2988
+"MS","Jeff Davis","28065","2806500000","US Senate","statewide",4701,"Democrat","Baria, David",2640
+"MS","Jeff Davis","28065","2806500000","US Senate","statewide",4701,"Libertarian","Bedwell, Danny",55
+"MS","Jeff Davis","28065","2806500000","US Senate","statewide",4701,"Reform","O'Hara, Shawn",48
+"MS","Jeff Davis","28065","2806500000","US Senate","statewide",4701,"Republican","Wicker, Roger",1958
+"MS","Jefferson","28063","2806300000","US Senate","statewide",3060,"Democrat","Baria, David",2398
+"MS","Jefferson","28063","2806300000","US Senate","statewide",3060,"Libertarian","Bedwell, Danny",39
+"MS","Jefferson","28063","2806300000","US Senate","statewide",3060,"Reform","O'Hara, Shawn",61
+"MS","Jefferson","28063","2806300000","US Senate","statewide",3060,"Republican","Wicker, Roger",562
+"MS","Jones","28067","2806700000","US Senate","statewide",21687,"Democrat","Baria, David",6143
+"MS","Jones","28067","2806700000","US Senate","statewide",21687,"Libertarian","Bedwell, Danny",498
+"MS","Jones","28067","2806700000","US Senate","statewide",21687,"Reform","O'Hara, Shawn",194
+"MS","Jones","28067","2806700000","US Senate","statewide",21687,"Republican","Wicker, Roger",14852
+"MS","Kemper","28069","2806900000","US Senate","statewide",3431,"Democrat","Baria, David",1955
+"MS","Kemper","28069","2806900000","US Senate","statewide",3431,"Libertarian","Bedwell, Danny",24
+"MS","Kemper","28069","2806900000","US Senate","statewide",3431,"Reform","O'Hara, Shawn",20
+"MS","Kemper","28069","2806900000","US Senate","statewide",3431,"Republican","Wicker, Roger",1432
+"MS","Lafayette","28071","2807100000","US Senate","statewide",16490,"Democrat","Baria, David",6981
+"MS","Lafayette","28071","2807100000","US Senate","statewide",16490,"Libertarian","Bedwell, Danny",198
+"MS","Lafayette","28071","2807100000","US Senate","statewide",16490,"Reform","O'Hara, Shawn",55
+"MS","Lafayette","28071","2807100000","US Senate","statewide",16490,"Republican","Wicker, Roger",9256
+"MS","Lamar","28073","2807300000","US Senate","statewide",19711,"Democrat","Baria, David",4437
+"MS","Lamar","28073","2807300000","US Senate","statewide",19711,"Libertarian","Bedwell, Danny",373
+"MS","Lamar","28073","2807300000","US Senate","statewide",19711,"Reform","O'Hara, Shawn",124
+"MS","Lamar","28073","2807300000","US Senate","statewide",19711,"Republican","Wicker, Roger",14777
+"MS","Lauderdale","28075","2807500000","US Senate","statewide",23136,"Democrat","Baria, David",8610
+"MS","Lauderdale","28075","2807500000","US Senate","statewide",23136,"Libertarian","Bedwell, Danny",219
+"MS","Lauderdale","28075","2807500000","US Senate","statewide",23136,"Reform","O'Hara, Shawn",90
+"MS","Lauderdale","28075","2807500000","US Senate","statewide",23136,"Republican","Wicker, Roger",14217
+"MS","Lawrence","28077","2807700000","US Senate","statewide",4861,"Democrat","Baria, David",1558
+"MS","Lawrence","28077","2807700000","US Senate","statewide",4861,"Libertarian","Bedwell, Danny",66
+"MS","Lawrence","28077","2807700000","US Senate","statewide",4861,"Reform","O'Hara, Shawn",41
+"MS","Lawrence","28077","2807700000","US Senate","statewide",4861,"Republican","Wicker, Roger",3196
+"MS","Leake","28079","2807900000","US Senate","statewide",6268,"Democrat","Baria, David",2470
+"MS","Leake","28079","2807900000","US Senate","statewide",6268,"Libertarian","Bedwell, Danny",67
+"MS","Leake","28079","2807900000","US Senate","statewide",6268,"Reform","O'Hara, Shawn",65
+"MS","Leake","28079","2807900000","US Senate","statewide",6268,"Republican","Wicker, Roger",3666
+"MS","Lee","28081","2808100000","US Senate","statewide",25661,"Democrat","Baria, David",7654
+"MS","Lee","28081","2808100000","US Senate","statewide",25661,"Libertarian","Bedwell, Danny",447
+"MS","Lee","28081","2808100000","US Senate","statewide",25661,"Reform","O'Hara, Shawn",147
+"MS","Lee","28081","2808100000","US Senate","statewide",25661,"Republican","Wicker, Roger",17413
+"MS","Leflore","28083","2808300000","US Senate","statewide",8364,"Democrat","Baria, David",5352
+"MS","Leflore","28083","2808300000","US Senate","statewide",8364,"Libertarian","Bedwell, Danny",105
+"MS","Leflore","28083","2808300000","US Senate","statewide",8364,"Reform","O'Hara, Shawn",57
+"MS","Leflore","28083","2808300000","US Senate","statewide",8364,"Republican","Wicker, Roger",2850
+"MS","Lincoln","28085","2808500000","US Senate","statewide",12223,"Democrat","Baria, David",3453
+"MS","Lincoln","28085","2808500000","US Senate","statewide",12223,"Libertarian","Bedwell, Danny",138
+"MS","Lincoln","28085","2808500000","US Senate","statewide",12223,"Reform","O'Hara, Shawn",56
+"MS","Lincoln","28085","2808500000","US Senate","statewide",12223,"Republican","Wicker, Roger",8576
+"MS","Lowndes","28087","2808700000","US Senate","statewide",19646,"Democrat","Baria, David",8638
+"MS","Lowndes","28087","2808700000","US Senate","statewide",19646,"Libertarian","Bedwell, Danny",213
+"MS","Lowndes","28087","2808700000","US Senate","statewide",19646,"Reform","O'Hara, Shawn",75
+"MS","Lowndes","28087","2808700000","US Senate","statewide",19646,"Republican","Wicker, Roger",10720
+"MS","Madison","28089","2808900000","US Senate","statewide",40553,"Democrat","Baria, David",16283
+"MS","Madison","28089","2808900000","US Senate","statewide",40553,"Libertarian","Bedwell, Danny",469
+"MS","Madison","28089","2808900000","US Senate","statewide",40553,"Reform","O'Hara, Shawn",169
+"MS","Madison","28089","2808900000","US Senate","statewide",40553,"Republican","Wicker, Roger",23632
+"MS","Marion","28091","2809100000","US Senate","statewide",8801,"Democrat","Baria, David",2734
+"MS","Marion","28091","2809100000","US Senate","statewide",8801,"Libertarian","Bedwell, Danny",132
+"MS","Marion","28091","2809100000","US Senate","statewide",8801,"Reform","O'Hara, Shawn",68
+"MS","Marion","28091","2809100000","US Senate","statewide",8801,"Republican","Wicker, Roger",5867
+"MS","Marshall","28093","2809300000","US Senate","statewide",11313,"Democrat","Baria, David",5692
+"MS","Marshall","28093","2809300000","US Senate","statewide",11313,"Libertarian","Bedwell, Danny",134
+"MS","Marshall","28093","2809300000","US Senate","statewide",11313,"Reform","O'Hara, Shawn",72
+"MS","Marshall","28093","2809300000","US Senate","statewide",11313,"Republican","Wicker, Roger",5415
+"MS","Monroe","28095","2809500000","US Senate","statewide",11695,"Democrat","Baria, David",3802
+"MS","Monroe","28095","2809500000","US Senate","statewide",11695,"Libertarian","Bedwell, Danny",112
+"MS","Monroe","28095","2809500000","US Senate","statewide",11695,"Reform","O'Hara, Shawn",42
+"MS","Monroe","28095","2809500000","US Senate","statewide",11695,"Republican","Wicker, Roger",7739
+"MS","Montgomery","28097","2809700000","US Senate","statewide",3840,"Democrat","Baria, David",1526
+"MS","Montgomery","28097","2809700000","US Senate","statewide",3840,"Libertarian","Bedwell, Danny",39
+"MS","Montgomery","28097","2809700000","US Senate","statewide",3840,"Reform","O'Hara, Shawn",21
+"MS","Montgomery","28097","2809700000","US Senate","statewide",3840,"Republican","Wicker, Roger",2254
+"MS","Neshoba","28099","2809900000","US Senate","statewide",7946,"Democrat","Baria, David",1961
+"MS","Neshoba","28099","2809900000","US Senate","statewide",7946,"Libertarian","Bedwell, Danny",82
+"MS","Neshoba","28099","2809900000","US Senate","statewide",7946,"Reform","O'Hara, Shawn",42
+"MS","Neshoba","28099","2809900000","US Senate","statewide",7946,"Republican","Wicker, Roger",5861
+"MS","Newton","28101","2810100000","US Senate","statewide",7104,"Democrat","Baria, David",1986
+"MS","Newton","28101","2810100000","US Senate","statewide",7104,"Libertarian","Bedwell, Danny",116
+"MS","Newton","28101","2810100000","US Senate","statewide",7104,"Reform","O'Hara, Shawn",37
+"MS","Newton","28101","2810100000","US Senate","statewide",7104,"Republican","Wicker, Roger",4965
+"MS","Noxubee","28103","2810300000","US Senate","statewide",3919,"Democrat","Baria, David",2788
+"MS","Noxubee","28103","2810300000","US Senate","statewide",3919,"Libertarian","Bedwell, Danny",22
+"MS","Noxubee","28103","2810300000","US Senate","statewide",3919,"Reform","O'Hara, Shawn",24
+"MS","Noxubee","28103","2810300000","US Senate","statewide",3919,"Republican","Wicker, Roger",1085
+"MS","Oktibbeha","28105","2810500000","US Senate","statewide",14219,"Democrat","Baria, David",6798
+"MS","Oktibbeha","28105","2810500000","US Senate","statewide",14219,"Libertarian","Bedwell, Danny",212
+"MS","Oktibbeha","28105","2810500000","US Senate","statewide",14219,"Reform","O'Hara, Shawn",75
+"MS","Oktibbeha","28105","2810500000","US Senate","statewide",14219,"Republican","Wicker, Roger",7134
+"MS","Panola","28107","2810700000","US Senate","statewide",11205,"Democrat","Baria, David",5212
+"MS","Panola","28107","2810700000","US Senate","statewide",11205,"Libertarian","Bedwell, Danny",124
+"MS","Panola","28107","2810700000","US Senate","statewide",11205,"Reform","O'Hara, Shawn",65
+"MS","Panola","28107","2810700000","US Senate","statewide",11205,"Republican","Wicker, Roger",5804
+"MS","Pearl River","28109","2810900000","US Senate","statewide",15704,"Democrat","Baria, David",2899
+"MS","Pearl River","28109","2810900000","US Senate","statewide",15704,"Libertarian","Bedwell, Danny",315
+"MS","Pearl River","28109","2810900000","US Senate","statewide",15704,"Reform","O'Hara, Shawn",117
+"MS","Pearl River","28109","2810900000","US Senate","statewide",15704,"Republican","Wicker, Roger",12373
+"MS","Perry","28111","2811100000","US Senate","statewide",3864,"Democrat","Baria, David",853
+"MS","Perry","28111","2811100000","US Senate","statewide",3864,"Libertarian","Bedwell, Danny",62
+"MS","Perry","28111","2811100000","US Senate","statewide",3864,"Reform","O'Hara, Shawn",36
+"MS","Perry","28111","2811100000","US Senate","statewide",3864,"Republican","Wicker, Roger",2913
+"MS","Pike","28113","2811300000","US Senate","statewide",12598,"Democrat","Baria, David",5857
+"MS","Pike","28113","2811300000","US Senate","statewide",12598,"Libertarian","Bedwell, Danny",179
+"MS","Pike","28113","2811300000","US Senate","statewide",12598,"Reform","O'Hara, Shawn",60
+"MS","Pike","28113","2811300000","US Senate","statewide",12598,"Republican","Wicker, Roger",6502
+"MS","Pontotoc","28115","2811500000","US Senate","statewide",9593,"Democrat","Baria, David",1693
+"MS","Pontotoc","28115","2811500000","US Senate","statewide",9593,"Libertarian","Bedwell, Danny",230
+"MS","Pontotoc","28115","2811500000","US Senate","statewide",9593,"Reform","O'Hara, Shawn",82
+"MS","Pontotoc","28115","2811500000","US Senate","statewide",9593,"Republican","Wicker, Roger",7588
+"MS","Prentiss","28117","2811700000","US Senate","statewide",7173,"Democrat","Baria, David",1450
+"MS","Prentiss","28117","2811700000","US Senate","statewide",7173,"Libertarian","Bedwell, Danny",90
+"MS","Prentiss","28117","2811700000","US Senate","statewide",7173,"Reform","O'Hara, Shawn",36
+"MS","Prentiss","28117","2811700000","US Senate","statewide",7173,"Republican","Wicker, Roger",5597
+"MS","Quitman","28119","2811900000","US Senate","statewide",2389,"Democrat","Baria, David",1460
+"MS","Quitman","28119","2811900000","US Senate","statewide",2389,"Libertarian","Bedwell, Danny",29
+"MS","Quitman","28119","2811900000","US Senate","statewide",2389,"Reform","O'Hara, Shawn",28
+"MS","Quitman","28119","2811900000","US Senate","statewide",2389,"Republican","Wicker, Roger",872
+"MS","Rankin","28121","2812100000","US Senate","statewide",51630,"Democrat","Baria, David",12523
+"MS","Rankin","28121","2812100000","US Senate","statewide",51630,"Libertarian","Bedwell, Danny",956
+"MS","Rankin","28121","2812100000","US Senate","statewide",51630,"Reform","O'Hara, Shawn",238
+"MS","Rankin","28121","2812100000","US Senate","statewide",51630,"Republican","Wicker, Roger",37913
+"MS","Scott","28123","2812300000","US Senate","statewide",7642,"Democrat","Baria, David",2926
+"MS","Scott","28123","2812300000","US Senate","statewide",7642,"Libertarian","Bedwell, Danny",64
+"MS","Scott","28123","2812300000","US Senate","statewide",7642,"Reform","O'Hara, Shawn",52
+"MS","Scott","28123","2812300000","US Senate","statewide",7642,"Republican","Wicker, Roger",4600
+"MS","Sharkey","28125","2812500000","US Senate","statewide",1678,"Democrat","Baria, David",1046
+"MS","Sharkey","28125","2812500000","US Senate","statewide",1678,"Libertarian","Bedwell, Danny",11
+"MS","Sharkey","28125","2812500000","US Senate","statewide",1678,"Reform","O'Hara, Shawn",25
+"MS","Sharkey","28125","2812500000","US Senate","statewide",1678,"Republican","Wicker, Roger",596
+"MS","Simpson","28127","2812700000","US Senate","statewide",8733,"Democrat","Baria, David",2855
+"MS","Simpson","28127","2812700000","US Senate","statewide",8733,"Libertarian","Bedwell, Danny",117
+"MS","Simpson","28127","2812700000","US Senate","statewide",8733,"Reform","O'Hara, Shawn",64
+"MS","Simpson","28127","2812700000","US Senate","statewide",8733,"Republican","Wicker, Roger",5697
+"MS","Smith","28129","2812900000","US Senate","statewide",5844,"Democrat","Baria, David",1298
+"MS","Smith","28129","2812900000","US Senate","statewide",5844,"Libertarian","Bedwell, Danny",93
+"MS","Smith","28129","2812900000","US Senate","statewide",5844,"Reform","O'Hara, Shawn",59
+"MS","Smith","28129","2812900000","US Senate","statewide",5844,"Republican","Wicker, Roger",4394
+"MS","Stone","28131","2813100000","US Senate","statewide",5309,"Democrat","Baria, David",1142
+"MS","Stone","28131","2813100000","US Senate","statewide",5309,"Libertarian","Bedwell, Danny",70
+"MS","Stone","28131","2813100000","US Senate","statewide",5309,"Reform","O'Hara, Shawn",45
+"MS","Stone","28131","2813100000","US Senate","statewide",5309,"Republican","Wicker, Roger",4052
+"MS","Sunflower","28133","2813300000","US Senate","statewide",7189,"Democrat","Baria, David",4579
+"MS","Sunflower","28133","2813300000","US Senate","statewide",7189,"Libertarian","Bedwell, Danny",77
+"MS","Sunflower","28133","2813300000","US Senate","statewide",7189,"Reform","O'Hara, Shawn",76
+"MS","Sunflower","28133","2813300000","US Senate","statewide",7189,"Republican","Wicker, Roger",2457
+"MS","Tallahatchie","28135","2813500000","US Senate","statewide",4136,"Democrat","Baria, David",2095
+"MS","Tallahatchie","28135","2813500000","US Senate","statewide",4136,"Libertarian","Bedwell, Danny",38
+"MS","Tallahatchie","28135","2813500000","US Senate","statewide",4136,"Reform","O'Hara, Shawn",53
+"MS","Tallahatchie","28135","2813500000","US Senate","statewide",4136,"Republican","Wicker, Roger",1950
+"MS","Tate","28137","2813700000","US Senate","statewide",8531,"Democrat","Baria, David",2638
+"MS","Tate","28137","2813700000","US Senate","statewide",8531,"Libertarian","Bedwell, Danny",174
+"MS","Tate","28137","2813700000","US Senate","statewide",8531,"Reform","O'Hara, Shawn",39
+"MS","Tate","28137","2813700000","US Senate","statewide",8531,"Republican","Wicker, Roger",5680
+"MS","Tippah","28139","2813900000","US Senate","statewide",6906,"Democrat","Baria, David",1229
+"MS","Tippah","28139","2813900000","US Senate","statewide",6906,"Libertarian","Bedwell, Danny",98
+"MS","Tippah","28139","2813900000","US Senate","statewide",6906,"Reform","O'Hara, Shawn",43
+"MS","Tippah","28139","2813900000","US Senate","statewide",6906,"Republican","Wicker, Roger",5536
+"MS","Tishomingo","28141","2814100000","US Senate","statewide",6066,"Democrat","Baria, David",788
+"MS","Tishomingo","28141","2814100000","US Senate","statewide",6066,"Libertarian","Bedwell, Danny",121
+"MS","Tishomingo","28141","2814100000","US Senate","statewide",6066,"Reform","O'Hara, Shawn",32
+"MS","Tishomingo","28141","2814100000","US Senate","statewide",6066,"Republican","Wicker, Roger",5125
+"MS","Tunica","28143","2814300000","US Senate","statewide",2480,"Democrat","Baria, David",1630
+"MS","Tunica","28143","2814300000","US Senate","statewide",2480,"Libertarian","Bedwell, Danny",31
+"MS","Tunica","28143","2814300000","US Senate","statewide",2480,"Reform","O'Hara, Shawn",40
+"MS","Tunica","28143","2814300000","US Senate","statewide",2480,"Republican","Wicker, Roger",779
+"MS","Union","28145","2814500000","US Senate","statewide",8239,"Democrat","Baria, David",1297
+"MS","Union","28145","2814500000","US Senate","statewide",8239,"Libertarian","Bedwell, Danny",123
+"MS","Union","28145","2814500000","US Senate","statewide",8239,"Reform","O'Hara, Shawn",40
+"MS","Union","28145","2814500000","US Senate","statewide",8239,"Republican","Wicker, Roger",6779
+"MS","Walthall","28147","2814700000","US Senate","statewide",5038,"Democrat","Baria, David",1919
+"MS","Walthall","28147","2814700000","US Senate","statewide",5038,"Libertarian","Bedwell, Danny",76
+"MS","Walthall","28147","2814700000","US Senate","statewide",5038,"Reform","O'Hara, Shawn",35
+"MS","Walthall","28147","2814700000","US Senate","statewide",5038,"Republican","Wicker, Roger",3008
+"MS","Warren","28149","2814900000","US Senate","statewide",15185,"Democrat","Baria, David",6706
+"MS","Warren","28149","2814900000","US Senate","statewide",15185,"Libertarian","Bedwell, Danny",165
+"MS","Warren","28149","2814900000","US Senate","statewide",15185,"Reform","O'Hara, Shawn",108
+"MS","Warren","28149","2814900000","US Senate","statewide",15185,"Republican","Wicker, Roger",8206
+"MS","Washington","28151","2815100000","US Senate","statewide",13582,"Democrat","Baria, David",8893
+"MS","Washington","28151","2815100000","US Senate","statewide",13582,"Libertarian","Bedwell, Danny",91
+"MS","Washington","28151","2815100000","US Senate","statewide",13582,"Reform","O'Hara, Shawn",79
+"MS","Washington","28151","2815100000","US Senate","statewide",13582,"Republican","Wicker, Roger",4519
+"MS","Wayne","28153","2815300000","US Senate","statewide",7183,"Democrat","Baria, David",2638
+"MS","Wayne","28153","2815300000","US Senate","statewide",7183,"Libertarian","Bedwell, Danny",81
+"MS","Wayne","28153","2815300000","US Senate","statewide",7183,"Reform","O'Hara, Shawn",88
+"MS","Wayne","28153","2815300000","US Senate","statewide",7183,"Republican","Wicker, Roger",4376
+"MS","Webster","28155","2815500000","US Senate","statewide",3917,"Democrat","Baria, David",733
+"MS","Webster","28155","2815500000","US Senate","statewide",3917,"Libertarian","Bedwell, Danny",51
+"MS","Webster","28155","2815500000","US Senate","statewide",3917,"Reform","O'Hara, Shawn",19
+"MS","Webster","28155","2815500000","US Senate","statewide",3917,"Republican","Wicker, Roger",3114
+"MS","Wilkinson","28157","2815700000","US Senate","statewide",2831,"Democrat","Baria, David",1823
+"MS","Wilkinson","28157","2815700000","US Senate","statewide",2831,"Libertarian","Bedwell, Danny",34
+"MS","Wilkinson","28157","2815700000","US Senate","statewide",2831,"Reform","O'Hara, Shawn",24
+"MS","Wilkinson","28157","2815700000","US Senate","statewide",2831,"Republican","Wicker, Roger",950
+"MS","Winston","28159","2815900000","US Senate","statewide",6981,"Democrat","Baria, David",2900
+"MS","Winston","28159","2815900000","US Senate","statewide",6981,"Libertarian","Bedwell, Danny",68
+"MS","Winston","28159","2815900000","US Senate","statewide",6981,"Reform","O'Hara, Shawn",37
+"MS","Winston","28159","2815900000","US Senate","statewide",6981,"Republican","Wicker, Roger",3976
+"MS","Yalobusha","28161","2816100000","US Senate","statewide",4654,"Democrat","Baria, David",2011
+"MS","Yalobusha","28161","2816100000","US Senate","statewide",4654,"Libertarian","Bedwell, Danny",47
+"MS","Yalobusha","28161","2816100000","US Senate","statewide",4654,"Reform","O'Hara, Shawn",22
+"MS","Yalobusha","28161","2816100000","US Senate","statewide",4654,"Republican","Wicker, Roger",2574
+"MS","Yazoo","28163","2816300000","US Senate","statewide",6960,"Democrat","Baria, David",3251
+"MS","Yazoo","28163","2816300000","US Senate","statewide",6960,"Libertarian","Bedwell, Danny",76
+"MS","Yazoo","28163","2816300000","US Senate","statewide",6960,"Reform","O'Hara, Shawn",55
+"MS","Yazoo","28163","2816300000","US Senate","statewide",6960,"Republican","Wicker, Roger",3578
+"MS","Adams","28001","2800100000","US Senate Special Election","statewide",10826,"Independent","Bartee, Tobey Bernard",200
+"MS","Adams","28001","2800100000","US Senate Special Election","statewide",10826,"Democrat","Espy, Mike",5947
+"MS","Adams","28001","2800100000","US Senate Special Election","statewide",10826,"Republican","Hyde-Smith, Cindy",3406
+"MS","Adams","28001","2800100000","US Senate Special Election","statewide",10826,"Republican","McDaniel, Chris",1273
+"MS","Alcorn","28003","2800300000","US Senate Special Election","statewide",9999,"Independent","Bartee, Tobey Bernard",113
+"MS","Alcorn","28003","2800300000","US Senate Special Election","statewide",9999,"Democrat","Espy, Mike",2039
+"MS","Alcorn","28003","2800300000","US Senate Special Election","statewide",9999,"Republican","Hyde-Smith, Cindy",5795
+"MS","Alcorn","28003","2800300000","US Senate Special Election","statewide",9999,"Republican","McDaniel, Chris",2052
+"MS","Amite","28005","2800500000","US Senate Special Election","statewide",5286,"Independent","Bartee, Tobey Bernard",114
+"MS","Amite","28005","2800500000","US Senate Special Election","statewide",5286,"Democrat","Espy, Mike",1873
+"MS","Amite","28005","2800500000","US Senate Special Election","statewide",5286,"Republican","Hyde-Smith, Cindy",2098
+"MS","Amite","28005","2800500000","US Senate Special Election","statewide",5286,"Republican","McDaniel, Chris",1201
+"MS","Attala","28007","2800700000","US Senate Special Election","statewide",6305,"Independent","Bartee, Tobey Bernard",78
+"MS","Attala","28007","2800700000","US Senate Special Election","statewide",6305,"Democrat","Espy, Mike",2524
+"MS","Attala","28007","2800700000","US Senate Special Election","statewide",6305,"Republican","Hyde-Smith, Cindy",2733
+"MS","Attala","28007","2800700000","US Senate Special Election","statewide",6305,"Republican","McDaniel, Chris",970
+"MS","Benton","28009","2800900000","US Senate Special Election","statewide",2741,"Independent","Bartee, Tobey Bernard",59
+"MS","Benton","28009","2800900000","US Senate Special Election","statewide",2741,"Democrat","Espy, Mike",1082
+"MS","Benton","28009","2800900000","US Senate Special Election","statewide",2741,"Republican","Hyde-Smith, Cindy",1142
+"MS","Benton","28009","2800900000","US Senate Special Election","statewide",2741,"Republican","McDaniel, Chris",458
+"MS","Bolivar","28011","2801100000","US Senate Special Election","statewide",11062,"Independent","Bartee, Tobey Bernard",119
+"MS","Bolivar","28011","2801100000","US Senate Special Election","statewide",11062,"Democrat","Espy, Mike",7146
+"MS","Bolivar","28011","2801100000","US Senate Special Election","statewide",11062,"Republican","Hyde-Smith, Cindy",3066
+"MS","Bolivar","28011","2801100000","US Senate Special Election","statewide",11062,"Republican","McDaniel, Chris",731
+"MS","Calhoun","28013","2801300000","US Senate Special Election","statewide",4641,"Independent","Bartee, Tobey Bernard",60
+"MS","Calhoun","28013","2801300000","US Senate Special Election","statewide",4641,"Democrat","Espy, Mike",1382
+"MS","Calhoun","28013","2801300000","US Senate Special Election","statewide",4641,"Republican","Hyde-Smith, Cindy",2427
+"MS","Calhoun","28013","2801300000","US Senate Special Election","statewide",4641,"Republican","McDaniel, Chris",772
+"MS","Carroll","28015","2801500000","US Senate Special Election","statewide",4326,"Independent","Bartee, Tobey Bernard",41
+"MS","Carroll","28015","2801500000","US Senate Special Election","statewide",4326,"Democrat","Espy, Mike",1391
+"MS","Carroll","28015","2801500000","US Senate Special Election","statewide",4326,"Republican","Hyde-Smith, Cindy",2157
+"MS","Carroll","28015","2801500000","US Senate Special Election","statewide",4326,"Republican","McDaniel, Chris",737
+"MS","Chickasaw","28017","2801700000","US Senate Special Election","statewide",6004,"Independent","Bartee, Tobey Bernard",71
+"MS","Chickasaw","28017","2801700000","US Senate Special Election","statewide",6004,"Democrat","Espy, Mike",2725
+"MS","Chickasaw","28017","2801700000","US Senate Special Election","statewide",6004,"Republican","Hyde-Smith, Cindy",2261
+"MS","Chickasaw","28017","2801700000","US Senate Special Election","statewide",6004,"Republican","McDaniel, Chris",947
+"MS","Choctaw","28019","2801900000","US Senate Special Election","statewide",3023,"Independent","Bartee, Tobey Bernard",48
+"MS","Choctaw","28019","2801900000","US Senate Special Election","statewide",3023,"Democrat","Espy, Mike",852
+"MS","Choctaw","28019","2801900000","US Senate Special Election","statewide",3023,"Republican","Hyde-Smith, Cindy",1550
+"MS","Choctaw","28019","2801900000","US Senate Special Election","statewide",3023,"Republican","McDaniel, Chris",573
+"MS","Claiborne","28021","2802100000","US Senate Special Election","statewide",3403,"Independent","Bartee, Tobey Bernard",60
+"MS","Claiborne","28021","2802100000","US Senate Special Election","statewide",3403,"Democrat","Espy, Mike",2756
+"MS","Claiborne","28021","2802100000","US Senate Special Election","statewide",3403,"Republican","Hyde-Smith, Cindy",472
+"MS","Claiborne","28021","2802100000","US Senate Special Election","statewide",3403,"Republican","McDaniel, Chris",115
+"MS","Clarke","28023","2802300000","US Senate Special Election","statewide",6096,"Independent","Bartee, Tobey Bernard",877
+"MS","Clarke","28023","2802300000","US Senate Special Election","statewide",6096,"Democrat","Espy, Mike",1387
+"MS","Clarke","28023","2802300000","US Senate Special Election","statewide",6096,"Republican","Hyde-Smith, Cindy",2386
+"MS","Clarke","28023","2802300000","US Senate Special Election","statewide",6096,"Republican","McDaniel, Chris",1446
+"MS","Clay","28025","2802500000","US Senate Special Election","statewide",7697,"Independent","Bartee, Tobey Bernard",148
+"MS","Clay","28025","2802500000","US Senate Special Election","statewide",7697,"Democrat","Espy, Mike",4223
+"MS","Clay","28025","2802500000","US Senate Special Election","statewide",7697,"Republican","Hyde-Smith, Cindy",2652
+"MS","Clay","28025","2802500000","US Senate Special Election","statewide",7697,"Republican","McDaniel, Chris",674
+"MS","Coahoma","28027","2802700000","US Senate Special Election","statewide",6627,"Independent","Bartee, Tobey Bernard",74
+"MS","Coahoma","28027","2802700000","US Senate Special Election","statewide",6627,"Democrat","Espy, Mike",4576
+"MS","Coahoma","28027","2802700000","US Senate Special Election","statewide",6627,"Republican","Hyde-Smith, Cindy",1509
+"MS","Coahoma","28027","2802700000","US Senate Special Election","statewide",6627,"Republican","McDaniel, Chris",468
+"MS","Copiah","28029","2802900000","US Senate Special Election","statewide",10525,"Independent","Bartee, Tobey Bernard",160
+"MS","Copiah","28029","2802900000","US Senate Special Election","statewide",10525,"Democrat","Espy, Mike",5230
+"MS","Copiah","28029","2802900000","US Senate Special Election","statewide",10525,"Republican","Hyde-Smith, Cindy",4336
+"MS","Copiah","28029","2802900000","US Senate Special Election","statewide",10525,"Republican","McDaniel, Chris",799
+"MS","Covington","28031","2803100000","US Senate Special Election","statewide",6968,"Independent","Bartee, Tobey Bernard",84
+"MS","Covington","28031","2803100000","US Senate Special Election","statewide",6968,"Democrat","Espy, Mike",2557
+"MS","Covington","28031","2803100000","US Senate Special Election","statewide",6968,"Republican","Hyde-Smith, Cindy",2502
+"MS","Covington","28031","2803100000","US Senate Special Election","statewide",6968,"Republican","McDaniel, Chris",1825
+"MS","DeSoto","28033","2803300000","US Senate Special Election","statewide",50093,"Independent","Bartee, Tobey Bernard",673
+"MS","DeSoto","28033","2803300000","US Senate Special Election","statewide",50093,"Democrat","Espy, Mike",16922
+"MS","DeSoto","28033","2803300000","US Senate Special Election","statewide",50093,"Republican","Hyde-Smith, Cindy",20634
+"MS","DeSoto","28033","2803300000","US Senate Special Election","statewide",50093,"Republican","McDaniel, Chris",11864
+"MS","Forrest","28035","2803500000","US Senate Special Election","statewide",22850,"Independent","Bartee, Tobey Bernard",419
+"MS","Forrest","28035","2803500000","US Senate Special Election","statewide",22850,"Democrat","Espy, Mike",9725
+"MS","Forrest","28035","2803500000","US Senate Special Election","statewide",22850,"Republican","Hyde-Smith, Cindy",8272
+"MS","Forrest","28035","2803500000","US Senate Special Election","statewide",22850,"Republican","McDaniel, Chris",4434
+"MS","Franklin","28037","2803700000","US Senate Special Election","statewide",3223,"Independent","Bartee, Tobey Bernard",47
+"MS","Franklin","28037","2803700000","US Senate Special Election","statewide",3223,"Democrat","Espy, Mike",1084
+"MS","Franklin","28037","2803700000","US Senate Special Election","statewide",3223,"Republican","Hyde-Smith, Cindy",1542
+"MS","Franklin","28037","2803700000","US Senate Special Election","statewide",3223,"Republican","McDaniel, Chris",550
+"MS","George","28039","2803900000","US Senate Special Election","statewide",6979,"Independent","Bartee, Tobey Bernard",139
+"MS","George","28039","2803900000","US Senate Special Election","statewide",6979,"Democrat","Espy, Mike",1001
+"MS","George","28039","2803900000","US Senate Special Election","statewide",6979,"Republican","Hyde-Smith, Cindy",2973
+"MS","George","28039","2803900000","US Senate Special Election","statewide",6979,"Republican","McDaniel, Chris",2866
+"MS","Greene","28041","2804100000","US Senate Special Election","statewide",3656,"Independent","Bartee, Tobey Bernard",64
+"MS","Greene","28041","2804100000","US Senate Special Election","statewide",3656,"Democrat","Espy, Mike",729
+"MS","Greene","28041","2804100000","US Senate Special Election","statewide",3656,"Republican","Hyde-Smith, Cindy",1425
+"MS","Greene","28041","2804100000","US Senate Special Election","statewide",3656,"Republican","McDaniel, Chris",1438
+"MS","Grenada","28043","2804300000","US Senate Special Election","statewide",7721,"Independent","Bartee, Tobey Bernard",101
+"MS","Grenada","28043","2804300000","US Senate Special Election","statewide",7721,"Democrat","Espy, Mike",3394
+"MS","Grenada","28043","2804300000","US Senate Special Election","statewide",7721,"Republican","Hyde-Smith, Cindy",3199
+"MS","Grenada","28043","2804300000","US Senate Special Election","statewide",7721,"Republican","McDaniel, Chris",1027
+"MS","Hancock","28045","2804500000","US Senate Special Election","statewide",13527,"Independent","Bartee, Tobey Bernard",290
+"MS","Hancock","28045","2804500000","US Senate Special Election","statewide",13527,"Democrat","Espy, Mike",3256
+"MS","Hancock","28045","2804500000","US Senate Special Election","statewide",13527,"Republican","Hyde-Smith, Cindy",6918
+"MS","Hancock","28045","2804500000","US Senate Special Election","statewide",13527,"Republican","McDaniel, Chris",3063
+"MS","Harrison","28047","2804700000","US Senate Special Election","statewide",51490,"Independent","Bartee, Tobey Bernard",741
+"MS","Harrison","28047","2804700000","US Senate Special Election","statewide",51490,"Democrat","Espy, Mike",18710
+"MS","Harrison","28047","2804700000","US Senate Special Election","statewide",51490,"Republican","Hyde-Smith, Cindy",24784
+"MS","Harrison","28047","2804700000","US Senate Special Election","statewide",51490,"Republican","McDaniel, Chris",7255
+"MS","Hinds","28049","2804900000","US Senate Special Election","statewide",79366,"Independent","Bartee, Tobey Bernard",648
+"MS","Hinds","28049","2804900000","US Senate Special Election","statewide",79366,"Democrat","Espy, Mike",57514
+"MS","Hinds","28049","2804900000","US Senate Special Election","statewide",79366,"Republican","Hyde-Smith, Cindy",17244
+"MS","Hinds","28049","2804900000","US Senate Special Election","statewide",79366,"Republican","McDaniel, Chris",3960
+"MS","Holmes","28051","2805100000","US Senate Special Election","statewide",5640,"Independent","Bartee, Tobey Bernard",76
+"MS","Holmes","28051","2805100000","US Senate Special Election","statewide",5640,"Democrat","Espy, Mike",4574
+"MS","Holmes","28051","2805100000","US Senate Special Election","statewide",5640,"Republican","Hyde-Smith, Cindy",794
+"MS","Holmes","28051","2805100000","US Senate Special Election","statewide",5640,"Republican","McDaniel, Chris",196
+"MS","Humphreys","28053","2805300000","US Senate Special Election","statewide",3227,"Independent","Bartee, Tobey Bernard",48
+"MS","Humphreys","28053","2805300000","US Senate Special Election","statewide",3227,"Democrat","Espy, Mike",2282
+"MS","Humphreys","28053","2805300000","US Senate Special Election","statewide",3227,"Republican","Hyde-Smith, Cindy",747
+"MS","Humphreys","28053","2805300000","US Senate Special Election","statewide",3227,"Republican","McDaniel, Chris",150
+"MS","Issaquena","28055","2805500000","US Senate Special Election","statewide",560,"Independent","Bartee, Tobey Bernard",5
+"MS","Issaquena","28055","2805500000","US Senate Special Election","statewide",560,"Democrat","Espy, Mike",305
+"MS","Issaquena","28055","2805500000","US Senate Special Election","statewide",560,"Republican","Hyde-Smith, Cindy",217
+"MS","Issaquena","28055","2805500000","US Senate Special Election","statewide",560,"Republican","McDaniel, Chris",33
+"MS","Itawamba","28057","2805700000","US Senate Special Election","statewide",6827,"Independent","Bartee, Tobey Bernard",59
+"MS","Itawamba","28057","2805700000","US Senate Special Election","statewide",6827,"Democrat","Espy, Mike",953
+"MS","Itawamba","28057","2805700000","US Senate Special Election","statewide",6827,"Republican","Hyde-Smith, Cindy",4049
+"MS","Itawamba","28057","2805700000","US Senate Special Election","statewide",6827,"Republican","McDaniel, Chris",1766
+"MS","Jackson","28059","2805900000","US Senate Special Election","statewide",39436,"Independent","Bartee, Tobey Bernard",787
+"MS","Jackson","28059","2805900000","US Senate Special Election","statewide",39436,"Democrat","Espy, Mike",12460
+"MS","Jackson","28059","2805900000","US Senate Special Election","statewide",39436,"Republican","Hyde-Smith, Cindy",19294
+"MS","Jackson","28059","2805900000","US Senate Special Election","statewide",39436,"Republican","McDaniel, Chris",6895
+"MS","Jasper","28061","2806100000","US Senate Special Election","statewide",6451,"Independent","Bartee, Tobey Bernard",168
+"MS","Jasper","28061","2806100000","US Senate Special Election","statewide",6451,"Democrat","Espy, Mike",3145
+"MS","Jasper","28061","2806100000","US Senate Special Election","statewide",6451,"Republican","Hyde-Smith, Cindy",1468
+"MS","Jasper","28061","2806100000","US Senate Special Election","statewide",6451,"Republican","McDaniel, Chris",1670
+"MS","Jeff Davis","28065","2806500000","US Senate Special Election","statewide",4885,"Independent","Bartee, Tobey Bernard",73
+"MS","Jeff Davis","28065","2806500000","US Senate Special Election","statewide",4885,"Democrat","Espy, Mike",2830
+"MS","Jeff Davis","28065","2806500000","US Senate Special Election","statewide",4885,"Republican","Hyde-Smith, Cindy",1467
+"MS","Jeff Davis","28065","2806500000","US Senate Special Election","statewide",4885,"Republican","McDaniel, Chris",515
+"MS","Jefferson","28063","2806300000","US Senate Special Election","statewide",3215,"Independent","Bartee, Tobey Bernard",62
+"MS","Jefferson","28063","2806300000","US Senate Special Election","statewide",3215,"Democrat","Espy, Mike",2614
+"MS","Jefferson","28063","2806300000","US Senate Special Election","statewide",3215,"Republican","Hyde-Smith, Cindy",407
+"MS","Jefferson","28063","2806300000","US Senate Special Election","statewide",3215,"Republican","McDaniel, Chris",132
+"MS","Jones","28067","2806700000","US Senate Special Election","statewide",22365,"Independent","Bartee, Tobey Bernard",216
+"MS","Jones","28067","2806700000","US Senate Special Election","statewide",22365,"Democrat","Espy, Mike",6279
+"MS","Jones","28067","2806700000","US Senate Special Election","statewide",22365,"Republican","Hyde-Smith, Cindy",4843
+"MS","Jones","28067","2806700000","US Senate Special Election","statewide",22365,"Republican","McDaniel, Chris",11027
+"MS","Kemper","28069","2806900000","US Senate Special Election","statewide",3421,"Independent","Bartee, Tobey Bernard",93
+"MS","Kemper","28069","2806900000","US Senate Special Election","statewide",3421,"Democrat","Espy, Mike",1853
+"MS","Kemper","28069","2806900000","US Senate Special Election","statewide",3421,"Republican","Hyde-Smith, Cindy",1086
+"MS","Kemper","28069","2806900000","US Senate Special Election","statewide",3421,"Republican","McDaniel, Chris",389
+"MS","Lafayette","28071","2807100000","US Senate Special Election","statewide",16322,"Independent","Bartee, Tobey Bernard",241
+"MS","Lafayette","28071","2807100000","US Senate Special Election","statewide",16322,"Democrat","Espy, Mike",7294
+"MS","Lafayette","28071","2807100000","US Senate Special Election","statewide",16322,"Republican","Hyde-Smith, Cindy",6858
+"MS","Lafayette","28071","2807100000","US Senate Special Election","statewide",16322,"Republican","McDaniel, Chris",1929
+"MS","Lamar","28073","2807300000","US Senate Special Election","statewide",19879,"Independent","Bartee, Tobey Bernard",294
+"MS","Lamar","28073","2807300000","US Senate Special Election","statewide",19879,"Democrat","Espy, Mike",4486
+"MS","Lamar","28073","2807300000","US Senate Special Election","statewide",19879,"Republican","Hyde-Smith, Cindy",10190
+"MS","Lamar","28073","2807300000","US Senate Special Election","statewide",19879,"Republican","McDaniel, Chris",4909
+"MS","Lauderdale","28075","2807500000","US Senate Special Election","statewide",23093,"Independent","Bartee, Tobey Bernard",566
+"MS","Lauderdale","28075","2807500000","US Senate Special Election","statewide",23093,"Democrat","Espy, Mike",8273
+"MS","Lauderdale","28075","2807500000","US Senate Special Election","statewide",23093,"Republican","Hyde-Smith, Cindy",10138
+"MS","Lauderdale","28075","2807500000","US Senate Special Election","statewide",23093,"Republican","McDaniel, Chris",4116
+"MS","Lawrence","28077","2807700000","US Senate Special Election","statewide",5174,"Independent","Bartee, Tobey Bernard",30
+"MS","Lawrence","28077","2807700000","US Senate Special Election","statewide",5174,"Democrat","Espy, Mike",1741
+"MS","Lawrence","28077","2807700000","US Senate Special Election","statewide",5174,"Republican","Hyde-Smith, Cindy",3035
+"MS","Lawrence","28077","2807700000","US Senate Special Election","statewide",5174,"Republican","McDaniel, Chris",368
+"MS","Leake","28079","2807900000","US Senate Special Election","statewide",6561,"Independent","Bartee, Tobey Bernard",64
+"MS","Leake","28079","2807900000","US Senate Special Election","statewide",6561,"Democrat","Espy, Mike",2815
+"MS","Leake","28079","2807900000","US Senate Special Election","statewide",6561,"Republican","Hyde-Smith, Cindy",2748
+"MS","Leake","28079","2807900000","US Senate Special Election","statewide",6561,"Republican","McDaniel, Chris",934
+"MS","Lee","28081","2808100000","US Senate Special Election","statewide",25717,"Independent","Bartee, Tobey Bernard",245
+"MS","Lee","28081","2808100000","US Senate Special Election","statewide",25717,"Democrat","Espy, Mike",8164
+"MS","Lee","28081","2808100000","US Senate Special Election","statewide",25717,"Republican","Hyde-Smith, Cindy",12240
+"MS","Lee","28081","2808100000","US Senate Special Election","statewide",25717,"Republican","McDaniel, Chris",5068
+"MS","Leflore","28083","2808300000","US Senate Special Election","statewide",8740,"Independent","Bartee, Tobey Bernard",185
+"MS","Leflore","28083","2808300000","US Senate Special Election","statewide",8740,"Democrat","Espy, Mike",5863
+"MS","Leflore","28083","2808300000","US Senate Special Election","statewide",8740,"Republican","Hyde-Smith, Cindy",2199
+"MS","Leflore","28083","2808300000","US Senate Special Election","statewide",8740,"Republican","McDaniel, Chris",493
+"MS","Lincoln","28085","2808500000","US Senate Special Election","statewide",12629,"Independent","Bartee, Tobey Bernard",87
+"MS","Lincoln","28085","2808500000","US Senate Special Election","statewide",12629,"Democrat","Espy, Mike",3604
+"MS","Lincoln","28085","2808500000","US Senate Special Election","statewide",12629,"Republican","Hyde-Smith, Cindy",7870
+"MS","Lincoln","28085","2808500000","US Senate Special Election","statewide",12629,"Republican","McDaniel, Chris",1068
+"MS","Lowndes","28087","2808700000","US Senate Special Election","statewide",19789,"Independent","Bartee, Tobey Bernard",309
+"MS","Lowndes","28087","2808700000","US Senate Special Election","statewide",19789,"Democrat","Espy, Mike",8981
+"MS","Lowndes","28087","2808700000","US Senate Special Election","statewide",19789,"Republican","Hyde-Smith, Cindy",8012
+"MS","Lowndes","28087","2808700000","US Senate Special Election","statewide",19789,"Republican","McDaniel, Chris",2487
+"MS","Madison","28089","2808900000","US Senate Special Election","statewide",40801,"Independent","Bartee, Tobey Bernard",283
+"MS","Madison","28089","2808900000","US Senate Special Election","statewide",40801,"Democrat","Espy, Mike",17125
+"MS","Madison","28089","2808900000","US Senate Special Election","statewide",40801,"Republican","Hyde-Smith, Cindy",19899
+"MS","Madison","28089","2808900000","US Senate Special Election","statewide",40801,"Republican","McDaniel, Chris",3494
+"MS","Marion","28091","2809100000","US Senate Special Election","statewide",8932,"Independent","Bartee, Tobey Bernard",135
+"MS","Marion","28091","2809100000","US Senate Special Election","statewide",8932,"Democrat","Espy, Mike",2788
+"MS","Marion","28091","2809100000","US Senate Special Election","statewide",8932,"Republican","Hyde-Smith, Cindy",4198
+"MS","Marion","28091","2809100000","US Senate Special Election","statewide",8932,"Republican","McDaniel, Chris",1811
+"MS","Marshall","28093","2809300000","US Senate Special Election","statewide",11314,"Independent","Bartee, Tobey Bernard",234
+"MS","Marshall","28093","2809300000","US Senate Special Election","statewide",11314,"Democrat","Espy, Mike",5992
+"MS","Marshall","28093","2809300000","US Senate Special Election","statewide",11314,"Republican","Hyde-Smith, Cindy",3533
+"MS","Marshall","28093","2809300000","US Senate Special Election","statewide",11314,"Republican","McDaniel, Chris",1555
+"MS","Monroe","28095","2809500000","US Senate Special Election","statewide",11811,"Independent","Bartee, Tobey Bernard",169
+"MS","Monroe","28095","2809500000","US Senate Special Election","statewide",11811,"Democrat","Espy, Mike",4080
+"MS","Monroe","28095","2809500000","US Senate Special Election","statewide",11811,"Republican","Hyde-Smith, Cindy",5699
+"MS","Monroe","28095","2809500000","US Senate Special Election","statewide",11811,"Republican","McDaniel, Chris",1863
+"MS","Montgomery","28097","2809700000","US Senate Special Election","statewide",3898,"Independent","Bartee, Tobey Bernard",55
+"MS","Montgomery","28097","2809700000","US Senate Special Election","statewide",3898,"Democrat","Espy, Mike",1582
+"MS","Montgomery","28097","2809700000","US Senate Special Election","statewide",3898,"Republican","Hyde-Smith, Cindy",1846
+"MS","Montgomery","28097","2809700000","US Senate Special Election","statewide",3898,"Republican","McDaniel, Chris",415
+"MS","Neshoba","28099","2809900000","US Senate Special Election","statewide",8008,"Independent","Bartee, Tobey Bernard",96
+"MS","Neshoba","28099","2809900000","US Senate Special Election","statewide",8008,"Democrat","Espy, Mike",2139
+"MS","Neshoba","28099","2809900000","US Senate Special Election","statewide",8008,"Republican","Hyde-Smith, Cindy",4308
+"MS","Neshoba","28099","2809900000","US Senate Special Election","statewide",8008,"Republican","McDaniel, Chris",1465
+"MS","Newton","28101","2810100000","US Senate Special Election","statewide",7224,"Independent","Bartee, Tobey Bernard",103
+"MS","Newton","28101","2810100000","US Senate Special Election","statewide",7224,"Democrat","Espy, Mike",2141
+"MS","Newton","28101","2810100000","US Senate Special Election","statewide",7224,"Republican","Hyde-Smith, Cindy",3285
+"MS","Newton","28101","2810100000","US Senate Special Election","statewide",7224,"Republican","McDaniel, Chris",1695
+"MS","Noxubee","28103","2810300000","US Senate Special Election","statewide",3973,"Independent","Bartee, Tobey Bernard",103
+"MS","Noxubee","28103","2810300000","US Senate Special Election","statewide",3973,"Democrat","Espy, Mike",2799
+"MS","Noxubee","28103","2810300000","US Senate Special Election","statewide",3973,"Republican","Hyde-Smith, Cindy",891
+"MS","Noxubee","28103","2810300000","US Senate Special Election","statewide",3973,"Republican","McDaniel, Chris",180
+"MS","Oktibbeha","28105","2810500000","US Senate Special Election","statewide",14363,"Independent","Bartee, Tobey Bernard",249
+"MS","Oktibbeha","28105","2810500000","US Senate Special Election","statewide",14363,"Democrat","Espy, Mike",7091
+"MS","Oktibbeha","28105","2810500000","US Senate Special Election","statewide",14363,"Republican","Hyde-Smith, Cindy",5543
+"MS","Oktibbeha","28105","2810500000","US Senate Special Election","statewide",14363,"Republican","McDaniel, Chris",1480
+"MS","Panola","28107","2810700000","US Senate Special Election","statewide",11232,"Independent","Bartee, Tobey Bernard",198
+"MS","Panola","28107","2810700000","US Senate Special Election","statewide",11232,"Democrat","Espy, Mike",5447
+"MS","Panola","28107","2810700000","US Senate Special Election","statewide",11232,"Republican","Hyde-Smith, Cindy",4022
+"MS","Panola","28107","2810700000","US Senate Special Election","statewide",11232,"Republican","McDaniel, Chris",1565
+"MS","Pearl River","28109","2810900000","US Senate Special Election","statewide",15421,"Independent","Bartee, Tobey Bernard",307
+"MS","Pearl River","28109","2810900000","US Senate Special Election","statewide",15421,"Democrat","Espy, Mike",2831
+"MS","Pearl River","28109","2810900000","US Senate Special Election","statewide",15421,"Republican","Hyde-Smith, Cindy",6751
+"MS","Pearl River","28109","2810900000","US Senate Special Election","statewide",15421,"Republican","McDaniel, Chris",5532
+"MS","Perry","28111","2811100000","US Senate Special Election","statewide",3998,"Independent","Bartee, Tobey Bernard",42
+"MS","Perry","28111","2811100000","US Senate Special Election","statewide",3998,"Democrat","Espy, Mike",960
+"MS","Perry","28111","2811100000","US Senate Special Election","statewide",3998,"Republican","Hyde-Smith, Cindy",1803
+"MS","Perry","28111","2811100000","US Senate Special Election","statewide",3998,"Republican","McDaniel, Chris",1193
+"MS","Pike","28113","2811300000","US Senate Special Election","statewide",12746,"Independent","Bartee, Tobey Bernard",223
+"MS","Pike","28113","2811300000","US Senate Special Election","statewide",12746,"Democrat","Espy, Mike",5909
+"MS","Pike","28113","2811300000","US Senate Special Election","statewide",12746,"Republican","Hyde-Smith, Cindy",4887
+"MS","Pike","28113","2811300000","US Senate Special Election","statewide",12746,"Republican","McDaniel, Chris",1727
+"MS","Pontotoc","28115","2811500000","US Senate Special Election","statewide",9686,"Independent","Bartee, Tobey Bernard",90
+"MS","Pontotoc","28115","2811500000","US Senate Special Election","statewide",9686,"Democrat","Espy, Mike",1925
+"MS","Pontotoc","28115","2811500000","US Senate Special Election","statewide",9686,"Republican","Hyde-Smith, Cindy",4988
+"MS","Pontotoc","28115","2811500000","US Senate Special Election","statewide",9686,"Republican","McDaniel, Chris",2683
+"MS","Prentiss","28117","2811700000","US Senate Special Election","statewide",7241,"Independent","Bartee, Tobey Bernard",59
+"MS","Prentiss","28117","2811700000","US Senate Special Election","statewide",7241,"Democrat","Espy, Mike",1703
+"MS","Prentiss","28117","2811700000","US Senate Special Election","statewide",7241,"Republican","Hyde-Smith, Cindy",4038
+"MS","Prentiss","28117","2811700000","US Senate Special Election","statewide",7241,"Republican","McDaniel, Chris",1441
+"MS","Quitman","28119","2811900000","US Senate Special Election","statewide",2440,"Independent","Bartee, Tobey Bernard",55
+"MS","Quitman","28119","2811900000","US Senate Special Election","statewide",2440,"Democrat","Espy, Mike",1643
+"MS","Quitman","28119","2811900000","US Senate Special Election","statewide",2440,"Republican","Hyde-Smith, Cindy",601
+"MS","Quitman","28119","2811900000","US Senate Special Election","statewide",2440,"Republican","McDaniel, Chris",141
+"MS","Rankin","28121","2812100000","US Senate Special Election","statewide",51777,"Independent","Bartee, Tobey Bernard",393
+"MS","Rankin","28121","2812100000","US Senate Special Election","statewide",51777,"Democrat","Espy, Mike",13035
+"MS","Rankin","28121","2812100000","US Senate Special Election","statewide",51777,"Republican","Hyde-Smith, Cindy",29055
+"MS","Rankin","28121","2812100000","US Senate Special Election","statewide",51777,"Republican","McDaniel, Chris",9294
+"MS","Scott","28123","2812300000","US Senate Special Election","statewide",7879,"Independent","Bartee, Tobey Bernard",76
+"MS","Scott","28123","2812300000","US Senate Special Election","statewide",7879,"Democrat","Espy, Mike",3208
+"MS","Scott","28123","2812300000","US Senate Special Election","statewide",7879,"Republican","Hyde-Smith, Cindy",3517
+"MS","Scott","28123","2812300000","US Senate Special Election","statewide",7879,"Republican","McDaniel, Chris",1078
+"MS","Sharkey","28125","2812500000","US Senate Special Election","statewide",1773,"Independent","Bartee, Tobey Bernard",19
+"MS","Sharkey","28125","2812500000","US Senate Special Election","statewide",1773,"Democrat","Espy, Mike",1171
+"MS","Sharkey","28125","2812500000","US Senate Special Election","statewide",1773,"Republican","Hyde-Smith, Cindy",515
+"MS","Sharkey","28125","2812500000","US Senate Special Election","statewide",1773,"Republican","McDaniel, Chris",68
+"MS","Simpson","28127","2812700000","US Senate Special Election","statewide",9030,"Independent","Bartee, Tobey Bernard",99
+"MS","Simpson","28127","2812700000","US Senate Special Election","statewide",9030,"Democrat","Espy, Mike",3097
+"MS","Simpson","28127","2812700000","US Senate Special Election","statewide",9030,"Republican","Hyde-Smith, Cindy",4577
+"MS","Simpson","28127","2812700000","US Senate Special Election","statewide",9030,"Republican","McDaniel, Chris",1257
+"MS","Smith","28129","2812900000","US Senate Special Election","statewide",6024,"Independent","Bartee, Tobey Bernard",43
+"MS","Smith","28129","2812900000","US Senate Special Election","statewide",6024,"Democrat","Espy, Mike",1370
+"MS","Smith","28129","2812900000","US Senate Special Election","statewide",6024,"Republican","Hyde-Smith, Cindy",2706
+"MS","Smith","28129","2812900000","US Senate Special Election","statewide",6024,"Republican","McDaniel, Chris",1905
+"MS","Stone","28131","2813100000","US Senate Special Election","statewide",5367,"Independent","Bartee, Tobey Bernard",62
+"MS","Stone","28131","2813100000","US Senate Special Election","statewide",5367,"Democrat","Espy, Mike",1230
+"MS","Stone","28131","2813100000","US Senate Special Election","statewide",5367,"Republican","Hyde-Smith, Cindy",2836
+"MS","Stone","28131","2813100000","US Senate Special Election","statewide",5367,"Republican","McDaniel, Chris",1239
+"MS","Sunflower","28133","2813300000","US Senate Special Election","statewide",7468,"Independent","Bartee, Tobey Bernard",100
+"MS","Sunflower","28133","2813300000","US Senate Special Election","statewide",7468,"Democrat","Espy, Mike",5090
+"MS","Sunflower","28133","2813300000","US Senate Special Election","statewide",7468,"Republican","Hyde-Smith, Cindy",1904
+"MS","Sunflower","28133","2813300000","US Senate Special Election","statewide",7468,"Republican","McDaniel, Chris",374
+"MS","Tallahatchie","28135","2813500000","US Senate Special Election","statewide",4303,"Independent","Bartee, Tobey Bernard",61
+"MS","Tallahatchie","28135","2813500000","US Senate Special Election","statewide",4303,"Democrat","Espy, Mike",2460
+"MS","Tallahatchie","28135","2813500000","US Senate Special Election","statewide",4303,"Republican","Hyde-Smith, Cindy",1395
+"MS","Tallahatchie","28135","2813500000","US Senate Special Election","statewide",4303,"Republican","McDaniel, Chris",387
+"MS","Tate","28137","2813700000","US Senate Special Election","statewide",8610,"Independent","Bartee, Tobey Bernard",170
+"MS","Tate","28137","2813700000","US Senate Special Election","statewide",8610,"Democrat","Espy, Mike",2760
+"MS","Tate","28137","2813700000","US Senate Special Election","statewide",8610,"Republican","Hyde-Smith, Cindy",3622
+"MS","Tate","28137","2813700000","US Senate Special Election","statewide",8610,"Republican","McDaniel, Chris",2058
+"MS","Tippah","28139","2813900000","US Senate Special Election","statewide",6882,"Independent","Bartee, Tobey Bernard",89
+"MS","Tippah","28139","2813900000","US Senate Special Election","statewide",6882,"Democrat","Espy, Mike",1451
+"MS","Tippah","28139","2813900000","US Senate Special Election","statewide",6882,"Republican","Hyde-Smith, Cindy",3926
+"MS","Tippah","28139","2813900000","US Senate Special Election","statewide",6882,"Republican","McDaniel, Chris",1416
+"MS","Tishomingo","28141","2814100000","US Senate Special Election","statewide",6006,"Independent","Bartee, Tobey Bernard",80
+"MS","Tishomingo","28141","2814100000","US Senate Special Election","statewide",6006,"Democrat","Espy, Mike",895
+"MS","Tishomingo","28141","2814100000","US Senate Special Election","statewide",6006,"Republican","Hyde-Smith, Cindy",3529
+"MS","Tishomingo","28141","2814100000","US Senate Special Election","statewide",6006,"Republican","McDaniel, Chris",1502
+"MS","Tunica","28143","2814300000","US Senate Special Election","statewide",2542,"Independent","Bartee, Tobey Bernard",88
+"MS","Tunica","28143","2814300000","US Senate Special Election","statewide",2542,"Democrat","Espy, Mike",1725
+"MS","Tunica","28143","2814300000","US Senate Special Election","statewide",2542,"Republican","Hyde-Smith, Cindy",586
+"MS","Tunica","28143","2814300000","US Senate Special Election","statewide",2542,"Republican","McDaniel, Chris",143
+"MS","Union","28145","2814500000","US Senate Special Election","statewide",8327,"Independent","Bartee, Tobey Bernard",67
+"MS","Union","28145","2814500000","US Senate Special Election","statewide",8327,"Democrat","Espy, Mike",1473
+"MS","Union","28145","2814500000","US Senate Special Election","statewide",8327,"Republican","Hyde-Smith, Cindy",4738
+"MS","Union","28145","2814500000","US Senate Special Election","statewide",8327,"Republican","McDaniel, Chris",2049
+"MS","Walthall","28147","2814700000","US Senate Special Election","statewide",5152,"Independent","Bartee, Tobey Bernard",59
+"MS","Walthall","28147","2814700000","US Senate Special Election","statewide",5152,"Democrat","Espy, Mike",2006
+"MS","Walthall","28147","2814700000","US Senate Special Election","statewide",5152,"Republican","Hyde-Smith, Cindy",2382
+"MS","Walthall","28147","2814700000","US Senate Special Election","statewide",5152,"Republican","McDaniel, Chris",705
+"MS","Warren","28149","2814900000","US Senate Special Election","statewide",15648,"Independent","Bartee, Tobey Bernard",182
+"MS","Warren","28149","2814900000","US Senate Special Election","statewide",15648,"Democrat","Espy, Mike",7505
+"MS","Warren","28149","2814900000","US Senate Special Election","statewide",15648,"Republican","Hyde-Smith, Cindy",6159
+"MS","Warren","28149","2814900000","US Senate Special Election","statewide",15648,"Republican","McDaniel, Chris",1802
+"MS","Washington","28151","2815100000","US Senate Special Election","statewide",14034,"Independent","Bartee, Tobey Bernard",197
+"MS","Washington","28151","2815100000","US Senate Special Election","statewide",14034,"Democrat","Espy, Mike",9667
+"MS","Washington","28151","2815100000","US Senate Special Election","statewide",14034,"Republican","Hyde-Smith, Cindy",3577
+"MS","Washington","28151","2815100000","US Senate Special Election","statewide",14034,"Republican","McDaniel, Chris",593
+"MS","Wayne","28153","2815300000","US Senate Special Election","statewide",7351,"Independent","Bartee, Tobey Bernard",222
+"MS","Wayne","28153","2815300000","US Senate Special Election","statewide",7351,"Democrat","Espy, Mike",2607
+"MS","Wayne","28153","2815300000","US Senate Special Election","statewide",7351,"Republican","Hyde-Smith, Cindy",2576
+"MS","Wayne","28153","2815300000","US Senate Special Election","statewide",7351,"Republican","McDaniel, Chris",1946
+"MS","Webster","28155","2815500000","US Senate Special Election","statewide",3919,"Independent","Bartee, Tobey Bernard",42
+"MS","Webster","28155","2815500000","US Senate Special Election","statewide",3919,"Democrat","Espy, Mike",756
+"MS","Webster","28155","2815500000","US Senate Special Election","statewide",3919,"Republican","Hyde-Smith, Cindy",2390
+"MS","Webster","28155","2815500000","US Senate Special Election","statewide",3919,"Republican","McDaniel, Chris",731
+"MS","Wilkinson","28157","2815700000","US Senate Special Election","statewide",2743,"Independent","Bartee, Tobey Bernard",140
+"MS","Wilkinson","28157","2815700000","US Senate Special Election","statewide",2743,"Democrat","Espy, Mike",1597
+"MS","Wilkinson","28157","2815700000","US Senate Special Election","statewide",2743,"Republican","Hyde-Smith, Cindy",600
+"MS","Wilkinson","28157","2815700000","US Senate Special Election","statewide",2743,"Republican","McDaniel, Chris",406
+"MS","Winston","28159","2815900000","US Senate Special Election","statewide",6997,"Independent","Bartee, Tobey Bernard",107
+"MS","Winston","28159","2815900000","US Senate Special Election","statewide",6997,"Democrat","Espy, Mike",2996
+"MS","Winston","28159","2815900000","US Senate Special Election","statewide",6997,"Republican","Hyde-Smith, Cindy",3039
+"MS","Winston","28159","2815900000","US Senate Special Election","statewide",6997,"Republican","McDaniel, Chris",855
+"MS","Yalobusha","28161","2816100000","US Senate Special Election","statewide",4668,"Independent","Bartee, Tobey Bernard",75
+"MS","Yalobusha","28161","2816100000","US Senate Special Election","statewide",4668,"Democrat","Espy, Mike",2028
+"MS","Yalobusha","28161","2816100000","US Senate Special Election","statewide",4668,"Republican","Hyde-Smith, Cindy",2004
+"MS","Yalobusha","28161","2816100000","US Senate Special Election","statewide",4668,"Republican","McDaniel, Chris",561
+"MS","Yazoo","28163","2816300000","US Senate Special Election","statewide",7514,"Independent","Bartee, Tobey Bernard",44
+"MS","Yazoo","28163","2816300000","US Senate Special Election","statewide",7514,"Democrat","Espy, Mike",3919
+"MS","Yazoo","28163","2816300000","US Senate Special Election","statewide",7514,"Republican","Hyde-Smith, Cindy",2925
+"MS","Yazoo","28163","2816300000","US Senate Special Election","statewide",7514,"Republican","McDaniel, Chris",626

@@ -1,0 +1,38 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"HI","Hawaii","15001","1500100000","Governor","statewide",58617,"Green","Brewer",1847
+"HI","Hawaii","15001","1500100000","Governor","statewide",58617,"Democrat","Ige",38301
+"HI","Hawaii","15001","1500100000","Governor","statewide",58617,"No party","Teruya",516
+"HI","Hawaii","15001","1500100000","Governor","statewide",58617,"Republican","Tupola",17953
+"HI","Honolulu","15003","1500300000","Governor","statewide",258080,"Green","Brewer",5789
+"HI","Honolulu","15003","1500300000","Governor","statewide",258080,"Democrat","Ige",158623
+"HI","Honolulu","15003","1500300000","Governor","statewide",258080,"No party","Teruya",2739
+"HI","Honolulu","15003","1500300000","Governor","statewide",258080,"Republican","Tupola",90929
+"HI","Kauai","15007","1500700000","Governor","statewide",25033,"Green","Brewer",830
+"HI","Kauai","15007","1500700000","Governor","statewide",25033,"Democrat","Ige",15868
+"HI","Kauai","15007","1500700000","Governor","statewide",25033,"No party","Teruya",200
+"HI","Kauai","15007","1500700000","Governor","statewide",25033,"Republican","Tupola",8135
+"HI","Maui","15009","1500900000","Governor","statewide",49313,"Green","Brewer",1857
+"HI","Maui","15009","1500900000","Governor","statewide",49313,"Democrat","Ige",32142
+"HI","Maui","15009","1500900000","Governor","statewide",49313,"No party","Teruya",612
+"HI","Maui","15009","1500900000","Governor","statewide",49313,"Republican","Tupola",14702
+"HI","Honolulu","15003","1500300000","US House","1",184211,"Green","Burd, Zachard B.",2214
+"HI","Honolulu","15003","1500300000","US House","1",184211,"Democrat","Case, Ed",134650
+"HI","Honolulu","15003","1500300000","US House","1",184211,"Republican","Cavasso, Cam",42498
+"HI","Honolulu","15003","1500300000","US House","1",184211,"No party","Giffin, Calvin C.",1351
+"HI","Honolulu","15003","1500300000","US House","1",184211,"Libertarian","Tippens, Michelle Rose",3498
+"HI","Hawaii","15001","1500100000","US House","2",57375,"Republican","Evan, Brian",12138
+"HI","Hawaii","15001","1500100000","US House","2",57375,"Democrat","Gabbard, Tulsi",45237
+"HI","Honolulu","15003","1500300000","US House","2",67850,"Republican","Evan, Brian",19416
+"HI","Honolulu","15003","1500300000","US House","2",67850,"Democrat","Gabbard, Tulsi",48434
+"HI","Kauai","15007","1500700000","US House","2",24274,"Republican","Evan, Brian",4580
+"HI","Kauai","15007","1500700000","US House","2",24274,"Democrat","Gabbard, Tulsi",19694
+"HI","Maui","15009","1500900000","US House","2",48622,"Republican","Evan, Brian",8716
+"HI","Maui","15009","1500900000","US House","2",48622,"Democrat","Gabbard, Tulsi",39906
+"HI","Hawaii","15001","1500100000","US Senate","statewide",58379,"Republican","Curtis, Ron",15031
+"HI","Hawaii","15001","1500100000","US Senate","statewide",58379,"Democrat","Hirono, Mazie K.",43348
+"HI","Honolulu","15003","1500300000","US Senate","statewide",256208,"Republican","Curtis, Ron",79503
+"HI","Honolulu","15003","1500300000","US Senate","statewide",256208,"Democrat","Hirono, Mazie K.",176705
+"HI","Kauai","15007","1500700000","US Senate","statewide",24630,"Republican","Curtis, Ron",6120
+"HI","Kauai","15007","1500700000","US Senate","statewide",24630,"Democrat","Hirono, Mazie K.",18510
+"HI","Maui","15009","1500900000","US Senate","statewide",49134,"Republican","Curtis, Ron",11381
+"HI","Maui","15009","1500900000","US Senate","statewide",49134,"Democrat","Hirono, Mazie K.",37753

@@ -1,0 +1,355 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"Green","Dolego, Cary D (write-in)",3
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"Republican","Ducey, Doug",9175
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"Democrat","Garcia, David",14955
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"No party","Komor, Christian (write-in)",2
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"No party","Masoya, Patrick (write-in)",2
+"AZ","Apache","04001","0400100000","governor","statewide",25049,"Green","Torres, Angel",912
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"Green","Dolego, Cary D (write-in)",1
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"Republican","Ducey, Doug",29638
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"Democrat","Garcia, David",14576
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",2
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"No party","Komor, Christian (write-in)",3
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"No party","Masoya, Patrick (write-in)",3
+"AZ","Cochise","04003","0400300000","governor","statewide",45424,"Green","Torres, Angel",1201
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"Green","Dolego, Cary D (write-in)",1
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"Republican","Ducey, Doug",22778
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"Democrat","Garcia, David",30712
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",1
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"No party","Komor, Christian (write-in)",5
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"No party","Masoya, Patrick (write-in)",9
+"AZ","Coconino","04005","0400500000","governor","statewide",54946,"Green","Torres, Angel",1440
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"Green","Dolego, Cary D (write-in)",0
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"Republican","Ducey, Doug",14444
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"Democrat","Garcia, David",5623
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"No party","Komor, Christian (write-in)",0
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"No party","Masoya, Patrick (write-in)",0
+"AZ","Gila","04007","0400700000","governor","statewide",20535,"Green","Torres, Angel",468
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"Green","Dolego, Cary D (write-in)",0
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"Republican","Ducey, Doug",7776
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"Democrat","Garcia, David",2569
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"No party","Komor, Christian (write-in)",1
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"No party","Masoya, Patrick (write-in)",2
+"AZ","Graham","04009","0400900000","governor","statewide",10624,"Green","Torres, Angel",276
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"Green","Dolego, Cary D (write-in)",0
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"Republican","Ducey, Doug",1637
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"Democrat","Garcia, David",832
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"No party","Komor, Christian (write-in)",0
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"No party","Masoya, Patrick (write-in)",0
+"AZ","Greenlee","04011","0401100000","governor","statewide",2549,"Green","Torres, Angel",80
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"Green","Dolego, Cary D (write-in)",0
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"Republican","Ducey, Doug",3852
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"Democrat","Garcia, David",1122
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"No party","Komor, Christian (write-in)",0
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"No party","Masoya, Patrick (write-in)",0
+"AZ","La Paz","04012","0401200000","governor","statewide",5103,"Green","Torres, Angel",129
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",5
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"Green","Dolego, Cary D (write-in)",5
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"Republican","Ducey, Doug",800210
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"Democrat","Garcia, David",603055
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",4
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"No party","Komor, Christian (write-in)",36
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"No party","Masoya, Patrick (write-in)",128
+"AZ","Maricopa","04013","0401300000","governor","statewide",1432938,"Green","Torres, Angel",29495
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"Green","Dolego, Cary D (write-in)",0
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"Republican","Ducey, Doug",56682
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"Democrat","Garcia, David",13580
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"No party","Komor, Christian (write-in)",3
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"No party","Masoya, Patrick (write-in)",3
+"AZ","Mohave","04015","0401500000","governor","statewide",71593,"Green","Torres, Angel",1325
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"Green","Dolego, Cary D (write-in)",0
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"Republican","Ducey, Doug",21880
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"Democrat","Garcia, David",13646
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"No party","Komor, Christian (write-in)",0
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"No party","Masoya, Patrick (write-in)",4
+"AZ","Navajo","04017","0401700000","governor","statewide",36585,"Green","Torres, Angel",1055
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",2
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"Green","Dolego, Cary D (write-in)",2
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"Republican","Ducey, Doug",184621
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"Democrat","Garcia, David",195227
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"No party","Komor, Christian (write-in)",8
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"No party","Masoya, Patrick (write-in)",16
+"AZ","Pima","04019","0401900000","governor","statewide",388554,"Green","Torres, Angel",8678
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",3
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"Green","Dolego, Cary D (write-in)",1
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"Republican","Ducey, Doug",75272
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"Democrat","Garcia, David",38801
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"No party","Komor, Christian (write-in)",3
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"No party","Masoya, Patrick (write-in)",6
+"AZ","Pinal","04021","0402100000","governor","statewide",116853,"Green","Torres, Angel",2767
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"Green","Dolego, Cary D (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"Republican","Ducey, Doug",4792
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"Democrat","Garcia, David",8407
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"No party","Komor, Christian (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"No party","Masoya, Patrick (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","governor","statewide",13460,"Green","Torres, Angel",261
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",2
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"Green","Dolego, Cary D (write-in)",0
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"Republican","Ducey, Doug",74148
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"Democrat","Garcia, David",32159
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"No party","Komor, Christian (write-in)",5
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"No party","Masoya, Patrick (write-in)",1
+"AZ","Yavapai","04025","0402500000","governor","statewide",108344,"Green","Torres, Angel",2029
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"Republican Takeover Party","Arvizu, Arthur Ray 'RT' (write-in)",0
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"Green","Dolego, Cary D (write-in)",0
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"Republican","Ducey, Doug",23958
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"Democrat","Garcia, David",19077
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"Humanitarian Party","Gibson, James 'MarvelMan' (write-in)",0
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"No party","Komor, Christian (write-in)",0
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"No party","Masoya, Patrick (write-in)",3
+"AZ","Yuma","04027","0402700000","governor","statewide",43884,"Green","Torres, Angel",846
+"AZ","Apache","04001","0400100000","US House","1",24993,"Democrat","O'Halleran, Tom",16905
+"AZ","Apache","04001","0400100000","US House","1",24993,"Republican","Rogers, Wendy",8078
+"AZ","Apache","04001","0400100000","US House","1",24993,"Independent","Shock, David (write-in)",10
+"AZ","Coconino","04005","0400500000","US House","1",54667,"Democrat","O'Halleran, Tom",35864
+"AZ","Coconino","04005","0400500000","US House","1",54667,"Republican","Rogers, Wendy",18780
+"AZ","Coconino","04005","0400500000","US House","1",54667,"Independent","Shock, David (write-in)",23
+"AZ","Gila","04007","0400700000","US House","1",6837,"Democrat","O'Halleran, Tom",4022
+"AZ","Gila","04007","0400700000","US House","1",6837,"Republican","Rogers, Wendy",2812
+"AZ","Gila","04007","0400700000","US House","1",6837,"Independent","Shock, David (write-in)",3
+"AZ","Graham","04009","0400900000","US House","1",10549,"Democrat","O'Halleran, Tom",3658
+"AZ","Graham","04009","0400900000","US House","1",10549,"Republican","Rogers, Wendy",6886
+"AZ","Graham","04009","0400900000","US House","1",10549,"Independent","Shock, David (write-in)",5
+"AZ","Greenlee","04011","0401100000","US House","1",2539,"Democrat","O'Halleran, Tom",1160
+"AZ","Greenlee","04011","0401100000","US House","1",2539,"Republican","Rogers, Wendy",1379
+"AZ","Greenlee","04011","0401100000","US House","1",2539,"Independent","Shock, David (write-in)",0
+"AZ","Maricopa","04013","0401300000","US House","1",355,"Democrat","O'Halleran, Tom",309
+"AZ","Maricopa","04013","0401300000","US House","1",355,"Republican","Rogers, Wendy",46
+"AZ","Maricopa","04013","0401300000","US House","1",355,"Independent","Shock, David (write-in)",0
+"AZ","Mohave","04015","0401500000","US House","1",255,"Democrat","O'Halleran, Tom",180
+"AZ","Mohave","04015","0401500000","US House","1",255,"Republican","Rogers, Wendy",75
+"AZ","Mohave","04015","0401500000","US House","1",255,"Independent","Shock, David (write-in)",0
+"AZ","Navajo","04017","0401700000","US House","1",36353,"Democrat","O'Halleran, Tom",18018
+"AZ","Navajo","04017","0401700000","US House","1",36353,"Republican","Rogers, Wendy",18331
+"AZ","Navajo","04017","0401700000","US House","1",36353,"Independent","Shock, David (write-in)",4
+"AZ","Pima","04019","0401900000","US House","1",53370,"Democrat","O'Halleran, Tom",24662
+"AZ","Pima","04019","0401900000","US House","1",53370,"Republican","Rogers, Wendy",28704
+"AZ","Pima","04019","0401900000","US House","1",53370,"Independent","Shock, David (write-in)",4
+"AZ","Pinal","04021","0402100000","US House","1",61128,"Democrat","O'Halleran, Tom",30465
+"AZ","Pinal","04021","0402100000","US House","1",61128,"Republican","Rogers, Wendy",30650
+"AZ","Pinal","04021","0402100000","US House","1",61128,"Independent","Shock, David (write-in)",13
+"AZ","Yavapai","04025","0402500000","US House","1",15043,"Democrat","O'Halleran, Tom",7997
+"AZ","Yavapai","04025","0402500000","US House","1",15043,"Republican","Rogers, Wendy",7043
+"AZ","Yavapai","04025","0402500000","US House","1",15043,"Independent","Shock, David (write-in)",3
+"AZ","Cochise","04003","0400300000","US House","2",44766,"Independent","Flayer, Jordan (write-in)",17
+"AZ","Cochise","04003","0400300000","US House","2",44766,"Republican","Grable, Melissa (write-in)",12
+"AZ","Cochise","04003","0400300000","US House","2",44766,"Democrat","Kirkpatrick, Ann",18539
+"AZ","Cochise","04003","0400300000","US House","2",44766,"Republican","Marquez Peterson, Lea",26198
+"AZ","Pima","04019","0401900000","US House","2",249386,"Independent","Flayer, Jordan (write-in)",33
+"AZ","Pima","04019","0401900000","US House","2",249386,"Republican","Grable, Melissa (write-in)",7
+"AZ","Pima","04019","0401900000","US House","2",249386,"Democrat","Kirkpatrick, Ann",142461
+"AZ","Pima","04019","0401900000","US House","2",249386,"Republican","Marquez Peterson, Lea",106885
+"AZ","Maricopa","04013","0401300000","US House","3",60246,"Democrat","Grijalva, Raul",34698
+"AZ","Maricopa","04013","0401300000","US House","3",60246,"Republican","Pierson, Nicolas 'Nick'",25548
+"AZ","Pima","04019","0401900000","US House","3",81978,"Democrat","Grijalva, Raul",56256
+"AZ","Pima","04019","0401900000","US House","3",81978,"Republican","Pierson, Nicolas 'Nick'",25722
+"AZ","Pinal","04021","0402100000","US House","3",106,"Democrat","Grijalva, Raul",102
+"AZ","Pinal","04021","0402100000","US House","3",106,"Republican","Pierson, Nicolas 'Nick'",4
+"AZ","Santa Cruz","04023","0402300000","US House","3",13423,"Democrat","Grijalva, Raul",9109
+"AZ","Santa Cruz","04023","0402300000","US House","3",13423,"Republican","Pierson, Nicolas 'Nick'",4314
+"AZ","Yuma","04027","0402700000","US House","3",23765,"Democrat","Grijalva, Raul",14485
+"AZ","Yuma","04027","0402700000","US House","3",23765,"Republican","Pierson, Nicolas 'Nick'",9280
+"AZ","Gila","04007","0400700000","US House","4",13473,"Democrat","Brill, David",3510
+"AZ","Gila","04007","0400700000","US House","4",13473,"Republican","Gosar, Paul",9794
+"AZ","Gila","04007","0400700000","US House","4",13473,"Green","Gregor Knauer, Haryaksha",169
+"AZ","La Paz","04012","0401200000","US House","4",5008,"Democrat","Brill, David",1399
+"AZ","La Paz","04012","0401200000","US House","4",5008,"Republican","Gosar, Paul",3533
+"AZ","La Paz","04012","0401200000","US House","4",5008,"Green","Gregor Knauer, Haryaksha",76
+"AZ","Maricopa","04013","0401300000","US House","4",21581,"Democrat","Brill, David",6697
+"AZ","Maricopa","04013","0401300000","US House","4",21581,"Republican","Gosar, Paul",14639
+"AZ","Maricopa","04013","0401300000","US House","4",21581,"Green","Gregor Knauer, Haryaksha",245
+"AZ","Mohave","04015","0401500000","US House","4",70346,"Democrat","Brill, David",16873
+"AZ","Mohave","04015","0401500000","US House","4",70346,"Republican","Gosar, Paul",52492
+"AZ","Mohave","04015","0401500000","US House","4",70346,"Green","Gregor Knauer, Haryaksha",981
+"AZ","Pinal","04021","0402100000","US House","4",54641,"Democrat","Brill, David",19371
+"AZ","Pinal","04021","0402100000","US House","4",54641,"Republican","Gosar, Paul",34481
+"AZ","Pinal","04021","0402100000","US House","4",54641,"Green","Gregor Knauer, Haryaksha",789
+"AZ","Yavapai","04025","0402500000","US House","4",92289,"Democrat","Brill, David",30849
+"AZ","Yavapai","04025","0402500000","US House","4",92289,"Republican","Gosar, Paul",60246
+"AZ","Yavapai","04025","0402500000","US House","4",92289,"Green","Gregor Knauer, Haryaksha",1194
+"AZ","Yuma","04027","0402700000","US House","4",19697,"Democrat","Brill, David",5822
+"AZ","Yuma","04027","0402700000","US House","4",19697,"Republican","Gosar, Paul",13657
+"AZ","Yuma","04027","0402700000","US House","4",19697,"Green","Gregor Knauer, Haryaksha",218
+"AZ","Maricopa","04013","0401300000","US House","5",310064,"Republican","Biggs, Andy",183037
+"AZ","Maricopa","04013","0401300000","US House","5",310064,"Democrat","Greene, Joan",127027
+"AZ","Maricopa","04013","0401300000","US House","6",313699,"Democrat","Malik, Anita",140559
+"AZ","Maricopa","04013","0401300000","US House","6",313699,"Republican","Schweikert, David",173140
+"AZ","Maricopa","04013","0401300000","US House","7",132051,"Republican","Bond, James '007' (write-in)",301
+"AZ","Maricopa","04013","0401300000","US House","7",132051,"Democrat","Gallego, Ruben",113044
+"AZ","Maricopa","04013","0401300000","US House","7",132051,"Green","Swing, Gary",18706
+"AZ","Maricopa","04013","0401300000","US House","8",304417,"New Paradigm Party","Hummel, Steven (write-in)",13
+"AZ","Maricopa","04013","0401300000","US House","8",304417,"Republican","Lesko, Debbie",168835
+"AZ","Maricopa","04013","0401300000","US House","8",304417,"Democrat","Tipirneni, Hiral",135569
+"AZ","Maricopa","04013","0401300000","US House","9",261245,"Republican","Ferrara, Stephen L",101662
+"AZ","Maricopa","04013","0401300000","US House","9",261245,"Democrat","Stanton, Greg",159583
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Green","Angela Green",961
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Libertarian","Barry Hess (write-in)",2
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Independent","Jeff Pearce (write-in)",5
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"The Old Republic Party","Jonathan Ringham (write-in)",1
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Democrat","Kyrsten Sinema",16298
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Republican","Martha McSally",7810
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"No party","Michael DeCarlo",1
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Republican","Robert Kay (write-in)",3
+"AZ","Apache","04001","0400100000","US Senate","statewide",25087,"Democrat","Sheila Bilyeu (write-in)",6
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Green","Angela Green",1212
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Libertarian","Barry Hess (write-in)",10
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Anti-Terror Party","Edward Davida (write-in)",1
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Independent","Jeff Pearce (write-in)",1
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"The Old Republic Party","Jonathan Ringham (write-in)",2
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Democrat","Kyrsten Sinema",17383
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Republican","Martha McSally",26929
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"No party","Michael DeCarlo",3
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Republican","Robert Kay (write-in)",7
+"AZ","Cochise","04003","0400300000","US Senate","statewide",45549,"Democrat","Sheila Bilyeu (write-in)",1
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Green","Angela Green",1757
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Libertarian","Barry Hess (write-in)",20
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Independent","Jeff Pearce (write-in)",1
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"The Old Republic Party","Jonathan Ringham (write-in)",2
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Democrat","Kyrsten Sinema",34240
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Republican","Martha McSally",19249
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"No party","Michael DeCarlo",3
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Republican","Robert Kay (write-in)",2
+"AZ","Coconino","04005","0400500000","US Senate","statewide",55280,"Democrat","Sheila Bilyeu (write-in)",6
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Green","Angela Green",674
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Libertarian","Barry Hess (write-in)",1
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Independent","Jeff Pearce (write-in)",0
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"The Old Republic Party","Jonathan Ringham (write-in)",0
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Democrat","Kyrsten Sinema",7643
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Republican","Martha McSally",12180
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"No party","Michael DeCarlo",0
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Republican","Robert Kay (write-in)",1
+"AZ","Gila","04007","0400700000","US Senate","statewide",20499,"Democrat","Sheila Bilyeu (write-in)",0
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Green","Angela Green",363
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Libertarian","Barry Hess (write-in)",4
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Independent","Jeff Pearce (write-in)",0
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"The Old Republic Party","Jonathan Ringham (write-in)",1
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Democrat","Kyrsten Sinema",3368
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Republican","Martha McSally",6870
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"No party","Michael DeCarlo",0
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Republican","Robert Kay (write-in)",0
+"AZ","Graham","04009","0400900000","US Senate","statewide",10606,"Democrat","Sheila Bilyeu (write-in)",0
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Green","Angela Green",108
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Libertarian","Barry Hess (write-in)",0
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Independent","Jeff Pearce (write-in)",0
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"The Old Republic Party","Jonathan Ringham (write-in)",0
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Democrat","Kyrsten Sinema",1042
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Republican","Martha McSally",1416
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"No party","Michael DeCarlo",0
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Republican","Robert Kay (write-in)",0
+"AZ","Greenlee","04011","0401100000","US Senate","statewide",2567,"Democrat","Sheila Bilyeu (write-in)",1
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Green","Angela Green",199
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Libertarian","Barry Hess (write-in)",0
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Independent","Jeff Pearce (write-in)",0
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"The Old Republic Party","Jonathan Ringham (write-in)",0
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Democrat","Kyrsten Sinema",1609
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Republican","Martha McSally",3265
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"No party","Michael DeCarlo",0
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Republican","Robert Kay (write-in)",0
+"AZ","La Paz","04012","0401200000","US Senate","statewide",5073,"Democrat","Sheila Bilyeu (write-in)",0
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Green","Angela Green",32371
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Libertarian","Barry Hess (write-in)",240
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Independent","Jeff Pearce (write-in)",12
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"The Old Republic Party","Jonathan Ringham (write-in)",27
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Democrat","Kyrsten Sinema",732761
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Republican","Martha McSally",672505
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"No party","Michael DeCarlo",16
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Republican","Robert Kay (write-in)",11
+"AZ","Maricopa","04013","0401300000","US Senate","statewide",1437952,"Democrat","Sheila Bilyeu (write-in)",9
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Green","Angela Green",2027
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Libertarian","Barry Hess (write-in)",10
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Independent","Jeff Pearce (write-in)",1
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"The Old Republic Party","Jonathan Ringham (write-in)",2
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Democrat","Kyrsten Sinema",19214
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Republican","Martha McSally",50209
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"No party","Michael DeCarlo",2
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Republican","Robert Kay (write-in)",3
+"AZ","Mohave","04015","0401500000","US Senate","statewide",71469,"Democrat","Sheila Bilyeu (write-in)",1
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Green","Angela Green",1238
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Libertarian","Barry Hess (write-in)",2
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Independent","Jeff Pearce (write-in)",3
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"The Old Republic Party","Jonathan Ringham (write-in)",1
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Democrat","Kyrsten Sinema",16624
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Republican","Martha McSally",18767
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"No party","Michael DeCarlo",2
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Republican","Robert Kay (write-in)",1
+"AZ","Navajo","04017","0401700000","US Senate","statewide",36640,"Democrat","Sheila Bilyeu (write-in)",2
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Green","Angela Green",8710
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Libertarian","Barry Hess (write-in)",38
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Anti-Terror Party","Edward Davida (write-in)",1
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Independent","Jeff Pearce (write-in)",2
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"The Old Republic Party","Jonathan Ringham (write-in)",6
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Democrat","Kyrsten Sinema",221242
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Republican","Martha McSally",160550
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"No party","Michael DeCarlo",5
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Republican","Robert Kay (write-in)",4
+"AZ","Pima","04019","0401900000","US Senate","statewide",390568,"Democrat","Sheila Bilyeu (write-in)",10
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Green","Angela Green",3183
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Libertarian","Barry Hess (write-in)",18
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Independent","Jeff Pearce (write-in)",2
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"The Old Republic Party","Jonathan Ringham (write-in)",4
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Democrat","Kyrsten Sinema",50395
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Republican","Martha McSally",63782
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"No party","Michael DeCarlo",6
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Republican","Robert Kay (write-in)",2
+"AZ","Pinal","04021","0402100000","US Senate","statewide",117395,"Democrat","Sheila Bilyeu (write-in)",3
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Green","Angela Green",418
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Libertarian","Barry Hess (write-in)",1
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Independent","Jeff Pearce (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"The Old Republic Party","Jonathan Ringham (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Democrat","Kyrsten Sinema",9241
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Republican","Martha McSally",3828
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"No party","Michael DeCarlo",0
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Republican","Robert Kay (write-in)",0
+"AZ","Santa Cruz","04023","0402300000","US Senate","statewide",13488,"Democrat","Sheila Bilyeu (write-in)",0
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Green","Angela Green",2870
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Libertarian","Barry Hess (write-in)",16
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Independent","Jeff Pearce (write-in)",2
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"The Old Republic Party","Jonathan Ringham (write-in)",0
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Democrat","Kyrsten Sinema",40160
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Republican","Martha McSally",65308
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"No party","Michael DeCarlo",7
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Republican","Robert Kay (write-in)",3
+"AZ","Yavapai","04025","0402500000","US Senate","statewide",108368,"Democrat","Sheila Bilyeu (write-in)",2
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Green","Angela Green",1351
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Libertarian","Barry Hess (write-in)",3
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Anti-Terror Party","Edward Davida (write-in)",0
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Independent","Jeff Pearce (write-in)",0
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"The Old Republic Party","Jonathan Ringham (write-in)",0
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Democrat","Kyrsten Sinema",19880
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Republican","Martha McSally",22532
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"No party","Michael DeCarlo",0
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Republican","Robert Kay (write-in)",0
+"AZ","Yuma","04027","0402700000","US Senate","statewide",43767,"Democrat","Sheila Bilyeu (write-in)",1

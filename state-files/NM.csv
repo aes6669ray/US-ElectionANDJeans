@@ -1,0 +1,267 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"NM","Bernalillo","35001","3500100000","Governor","statewide",240701,"Democrat","MICHELLE LUJAN GRISHAM",149480
+"NM","Bernalillo","35001","3500100000","Governor","statewide",240701,"Republican","STEVE PEARCE",91221
+"NM","Catron","35003","3500300000","Governor","statewide",1843,"Democrat","MICHELLE LUJAN GRISHAM",511
+"NM","Catron","35003","3500300000","Governor","statewide",1843,"Republican","STEVE PEARCE",1332
+"NM","Chaves","35005","3500500000","Governor","statewide",16700,"Democrat","MICHELLE LUJAN GRISHAM",5348
+"NM","Chaves","35005","3500500000","Governor","statewide",16700,"Republican","STEVE PEARCE",11352
+"NM","Cibola","35006","3500600000","Governor","statewide",7129,"Democrat","MICHELLE LUJAN GRISHAM",3988
+"NM","Cibola","35006","3500600000","Governor","statewide",7129,"Republican","STEVE PEARCE",3141
+"NM","Colfax","35007","3500700000","Governor","statewide",4662,"Democrat","MICHELLE LUJAN GRISHAM",2327
+"NM","Colfax","35007","3500700000","Governor","statewide",4662,"Republican","STEVE PEARCE",2335
+"NM","Curry","35009","3500900000","Governor","statewide",10213,"Democrat","MICHELLE LUJAN GRISHAM",3106
+"NM","Curry","35009","3500900000","Governor","statewide",10213,"Republican","STEVE PEARCE",7107
+"NM","DeBaca","35011","3501100000","Governor","statewide",816,"Democrat","MICHELLE LUJAN GRISHAM",229
+"NM","DeBaca","35011","3501100000","Governor","statewide",816,"Republican","STEVE PEARCE",587
+"NM","Dona Ana","35013","3501300000","Governor","statewide",60939,"Democrat","MICHELLE LUJAN GRISHAM",36954
+"NM","Dona Ana","35013","3501300000","Governor","statewide",60939,"Republican","STEVE PEARCE",23985
+"NM","Eddy","35015","3501500000","Governor","statewide",15809,"Democrat","MICHELLE LUJAN GRISHAM",4631
+"NM","Eddy","35015","3501500000","Governor","statewide",15809,"Republican","STEVE PEARCE",11178
+"NM","Grant","35017","3501700000","Governor","statewide",11793,"Democrat","MICHELLE LUJAN GRISHAM",7043
+"NM","Grant","35017","3501700000","Governor","statewide",11793,"Republican","STEVE PEARCE",4750
+"NM","Guadalupe","35019","3501900000","Governor","statewide",1694,"Democrat","MICHELLE LUJAN GRISHAM",1021
+"NM","Guadalupe","35019","3501900000","Governor","statewide",1694,"Republican","STEVE PEARCE",673
+"NM","Harding","35021","3502100000","Governor","statewide",478,"Democrat","MICHELLE LUJAN GRISHAM",178
+"NM","Harding","35021","3502100000","Governor","statewide",478,"Republican","STEVE PEARCE",300
+"NM","Hidalgo","35023","3502300000","Governor","statewide",1627,"Democrat","MICHELLE LUJAN GRISHAM",785
+"NM","Hidalgo","35023","3502300000","Governor","statewide",1627,"Republican","STEVE PEARCE",842
+"NM","Lea","35025","3502500000","Governor","statewide",13931,"Democrat","MICHELLE LUJAN GRISHAM",3086
+"NM","Lea","35025","3502500000","Governor","statewide",13931,"Republican","STEVE PEARCE",10845
+"NM","Lincoln","35027","3502700000","Governor","statewide",7841,"Democrat","MICHELLE LUJAN GRISHAM",2625
+"NM","Lincoln","35027","3502700000","Governor","statewide",7841,"Republican","STEVE PEARCE",5216
+"NM","Los Alamos","35028","3502800000","Governor","statewide",10245,"Democrat","MICHELLE LUJAN GRISHAM",6005
+"NM","Los Alamos","35028","3502800000","Governor","statewide",10245,"Republican","STEVE PEARCE",4240
+"NM","Luna","35029","3502900000","Governor","statewide",6143,"Democrat","MICHELLE LUJAN GRISHAM",2967
+"NM","Luna","35029","3502900000","Governor","statewide",6143,"Republican","STEVE PEARCE",3176
+"NM","McKinley","35031","3503100000","Governor","statewide",18355,"Democrat","MICHELLE LUJAN GRISHAM",13117
+"NM","McKinley","35031","3503100000","Governor","statewide",18355,"Republican","STEVE PEARCE",5238
+"NM","Mora","35033","3503300000","Governor","statewide",2342,"Democrat","MICHELLE LUJAN GRISHAM",1664
+"NM","Mora","35033","3503300000","Governor","statewide",2342,"Republican","STEVE PEARCE",678
+"NM","Otero","35035","3503500000","Governor","statewide",17094,"Democrat","MICHELLE LUJAN GRISHAM",6450
+"NM","Otero","35035","3503500000","Governor","statewide",17094,"Republican","STEVE PEARCE",10644
+"NM","Quay","35037","3503700000","Governor","statewide",3089,"Democrat","MICHELLE LUJAN GRISHAM",1144
+"NM","Quay","35037","3503700000","Governor","statewide",3089,"Republican","STEVE PEARCE",1945
+"NM","Rio Arriba","35039","3503900000","Governor","statewide",12811,"Democrat","MICHELLE LUJAN GRISHAM",9352
+"NM","Rio Arriba","35039","3503900000","Governor","statewide",12811,"Republican","STEVE PEARCE",3459
+"NM","Roosevelt","35041","3504100000","Governor","statewide",4652,"Democrat","MICHELLE LUJAN GRISHAM",1430
+"NM","Roosevelt","35041","3504100000","Governor","statewide",4652,"Republican","STEVE PEARCE",3222
+"NM","San Juan","35045","3504500000","Governor","statewide",37308,"Democrat","MICHELLE LUJAN GRISHAM",13347
+"NM","San Juan","35045","3504500000","Governor","statewide",37308,"Republican","STEVE PEARCE",23961
+"NM","San Miguel","35047","3504700000","Governor","statewide",9239,"Democrat","MICHELLE LUJAN GRISHAM",7001
+"NM","San Miguel","35047","3504700000","Governor","statewide",9239,"Republican","STEVE PEARCE",2238
+"NM","Sandoval","35043","3504300000","Governor","statewide",55228,"Democrat","MICHELLE LUJAN GRISHAM",30425
+"NM","Sandoval","35043","3504300000","Governor","statewide",55228,"Republican","STEVE PEARCE",24803
+"NM","Santa Fe","35049","3504900000","Governor","statewide",67086,"Democrat","MICHELLE LUJAN GRISHAM",52692
+"NM","Santa Fe","35049","3504900000","Governor","statewide",67086,"Republican","STEVE PEARCE",14394
+"NM","Sierra","35051","3505100000","Governor","statewide",4723,"Democrat","MICHELLE LUJAN GRISHAM",1880
+"NM","Sierra","35051","3505100000","Governor","statewide",4723,"Republican","STEVE PEARCE",2843
+"NM","Socorro","35053","3505300000","Governor","statewide",6260,"Democrat","MICHELLE LUJAN GRISHAM",3596
+"NM","Socorro","35053","3505300000","Governor","statewide",6260,"Republican","STEVE PEARCE",2664
+"NM","Taos","35055","3505500000","Governor","statewide",14493,"Democrat","MICHELLE LUJAN GRISHAM",11806
+"NM","Taos","35055","3505500000","Governor","statewide",14493,"Republican","STEVE PEARCE",2687
+"NM","Torrance","35057","3505700000","Governor","statewide",5365,"Democrat","MICHELLE LUJAN GRISHAM",2048
+"NM","Torrance","35057","3505700000","Governor","statewide",5365,"Republican","STEVE PEARCE",3317
+"NM","Union","35059","3505900000","Governor","statewide",1474,"Democrat","MICHELLE LUJAN GRISHAM",415
+"NM","Union","35059","3505900000","Governor","statewide",1474,"Republican","STEVE PEARCE",1059
+"NM","Valencia","35061","3506100000","Governor","statewide",24376,"Democrat","MICHELLE LUJAN GRISHAM",11717
+"NM","Valencia","35061","3506100000","Governor","statewide",24376,"Republican","STEVE PEARCE",12659
+"NM","Bernalillo","35001","3500100000","US House","1",228708,"Democrat","DEBRA A HAALAND",137467
+"NM","Bernalillo","35001","3500100000","US House","1",228708,"Republican","JANICE E ARNOLD-JONES",80839
+"NM","Bernalillo","35001","3500100000","US House","1",228708,"Libertarian","LLOYD J PRINCETON",10402
+"NM","Sandoval","35043","3504300000","US House","1",10275,"Democrat","DEBRA A HAALAND",5836
+"NM","Sandoval","35043","3504300000","US House","1",10275,"Republican","JANICE E ARNOLD-JONES",4026
+"NM","Sandoval","35043","3504300000","US House","1",10275,"Libertarian","LLOYD J PRINCETON",413
+"NM","Santa Fe","35049","3504900000","US House","1",2522,"Democrat","DEBRA A HAALAND",893
+"NM","Santa Fe","35049","3504900000","US House","1",2522,"Republican","JANICE E ARNOLD-JONES",1493
+"NM","Santa Fe","35049","3504900000","US House","1",2522,"Libertarian","LLOYD J PRINCETON",136
+"NM","Torrance","35057","3505700000","US House","1",5340,"Democrat","DEBRA A HAALAND",1940
+"NM","Torrance","35057","3505700000","US House","1",5340,"Republican","JANICE E ARNOLD-JONES",3132
+"NM","Torrance","35057","3505700000","US House","1",5340,"Libertarian","LLOYD J PRINCETON",268
+"NM","Valencia","35061","3506100000","US House","1",2317,"Democrat","DEBRA A HAALAND",1200
+"NM","Valencia","35061","3506100000","US House","1",2317,"Republican","JANICE E ARNOLD-JONES",1017
+"NM","Valencia","35061","3506100000","US House","1",2317,"Libertarian","LLOYD J PRINCETON",100
+"NM","Bernalillo","35001","3500100000","US House","2",704,"Democrat","XOCHITL TORRES SMALL",536
+"NM","Bernalillo","35001","3500100000","US House","2",704,"Republican","YVETTE HERRELL",168
+"NM","Catron","35003","3500300000","US House","2",1817,"Democrat","XOCHITL TORRES SMALL",553
+"NM","Catron","35003","3500300000","US House","2",1817,"Republican","YVETTE HERRELL",1264
+"NM","Chaves","35005","3500500000","US House","2",16563,"Democrat","XOCHITL TORRES SMALL",6058
+"NM","Chaves","35005","3500500000","US House","2",16563,"Republican","YVETTE HERRELL",10505
+"NM","Cibola","35006","3500600000","US House","2",6989,"Democrat","XOCHITL TORRES SMALL",4355
+"NM","Cibola","35006","3500600000","US House","2",6989,"Republican","YVETTE HERRELL",2634
+"NM","DeBaca","35011","3501100000","US House","2",792,"Democrat","XOCHITL TORRES SMALL",292
+"NM","DeBaca","35011","3501100000","US House","2",792,"Republican","YVETTE HERRELL",500
+"NM","Dona Ana","35013","3501300000","US House","2",60667,"Democrat","XOCHITL TORRES SMALL",39206
+"NM","Dona Ana","35013","3501300000","US House","2",60667,"Republican","YVETTE HERRELL",21461
+"NM","Eddy","35015","3501500000","US House","2",15611,"Democrat","XOCHITL TORRES SMALL",5198
+"NM","Eddy","35015","3501500000","US House","2",15611,"Republican","YVETTE HERRELL",10413
+"NM","Grant","35017","3501700000","US House","2",11706,"Democrat","XOCHITL TORRES SMALL",7176
+"NM","Grant","35017","3501700000","US House","2",11706,"Republican","YVETTE HERRELL",4530
+"NM","Guadalupe","35019","3501900000","US House","2",1667,"Democrat","XOCHITL TORRES SMALL",1162
+"NM","Guadalupe","35019","3501900000","US House","2",1667,"Republican","YVETTE HERRELL",505
+"NM","Hidalgo","35023","3502300000","US House","2",1577,"Democrat","XOCHITL TORRES SMALL",817
+"NM","Hidalgo","35023","3502300000","US House","2",1577,"Republican","YVETTE HERRELL",760
+"NM","Lea","35025","3502500000","US House","2",13752,"Democrat","XOCHITL TORRES SMALL",3910
+"NM","Lea","35025","3502500000","US House","2",13752,"Republican","YVETTE HERRELL",9842
+"NM","Lincoln","35027","3502700000","US House","2",7765,"Democrat","XOCHITL TORRES SMALL",2812
+"NM","Lincoln","35027","3502700000","US House","2",7765,"Republican","YVETTE HERRELL",4953
+"NM","Luna","35029","3502900000","US House","2",6088,"Democrat","XOCHITL TORRES SMALL",3198
+"NM","Luna","35029","3502900000","US House","2",6088,"Republican","YVETTE HERRELL",2890
+"NM","McKinley","35031","3503100000","US House","2",1623,"Democrat","XOCHITL TORRES SMALL",1327
+"NM","McKinley","35031","3503100000","US House","2",1623,"Republican","YVETTE HERRELL",296
+"NM","Otero","35035","3503500000","US House","2",17049,"Democrat","XOCHITL TORRES SMALL",6873
+"NM","Otero","35035","3503500000","US House","2",17049,"Republican","YVETTE HERRELL",10176
+"NM","Roosevelt","35041","3504100000","US House","2",2123,"Democrat","XOCHITL TORRES SMALL",561
+"NM","Roosevelt","35041","3504100000","US House","2",2123,"Republican","YVETTE HERRELL",1562
+"NM","Sierra","35051","3505100000","US House","2",4663,"Democrat","XOCHITL TORRES SMALL",2052
+"NM","Sierra","35051","3505100000","US House","2",4663,"Republican","YVETTE HERRELL",2611
+"NM","Socorro","35053","3505300000","US House","2",6204,"Democrat","XOCHITL TORRES SMALL",3879
+"NM","Socorro","35053","3505300000","US House","2",6204,"Republican","YVETTE HERRELL",2325
+"NM","Valencia","35061","3506100000","US House","2",21896,"Democrat","XOCHITL TORRES SMALL",11524
+"NM","Valencia","35061","3506100000","US House","2",21896,"Republican","YVETTE HERRELL",10372
+"NM","Bernalillo","35001","3500100000","US House","3",10628,"Democrat","BEN R LUJAN",5753
+"NM","Bernalillo","35001","3500100000","US House","3",10628,"Libertarian","CHRISTOPHER MANNING",664
+"NM","Bernalillo","35001","3500100000","US House","3",10628,"Republican","JERALD STEVE MCFALL",4211
+"NM","Colfax","35007","3500700000","US House","3",4665,"Democrat","BEN R LUJAN",2474
+"NM","Colfax","35007","3500700000","US House","3",4665,"Libertarian","CHRISTOPHER MANNING",256
+"NM","Colfax","35007","3500700000","US House","3",4665,"Republican","JERALD STEVE MCFALL",1935
+"NM","Curry","35009","3500900000","US House","3",10152,"Democrat","BEN R LUJAN",3319
+"NM","Curry","35009","3500900000","US House","3",10152,"Libertarian","CHRISTOPHER MANNING",418
+"NM","Curry","35009","3500900000","US House","3",10152,"Republican","JERALD STEVE MCFALL",6415
+"NM","Harding","35021","3502100000","US House","3",474,"Democrat","BEN R LUJAN",202
+"NM","Harding","35021","3502100000","US House","3",474,"Libertarian","CHRISTOPHER MANNING",28
+"NM","Harding","35021","3502100000","US House","3",474,"Republican","JERALD STEVE MCFALL",244
+"NM","Los Alamos","35028","3502800000","US House","3",10225,"Democrat","BEN R LUJAN",6217
+"NM","Los Alamos","35028","3502800000","US House","3",10225,"Libertarian","CHRISTOPHER MANNING",921
+"NM","Los Alamos","35028","3502800000","US House","3",10225,"Republican","JERALD STEVE MCFALL",3087
+"NM","McKinley","35031","3503100000","US House","3",16605,"Democrat","BEN R LUJAN",12668
+"NM","McKinley","35031","3503100000","US House","3",16605,"Libertarian","CHRISTOPHER MANNING",881
+"NM","McKinley","35031","3503100000","US House","3",16605,"Republican","JERALD STEVE MCFALL",3056
+"NM","Mora","35033","3503300000","US House","3",2324,"Democrat","BEN R LUJAN",1788
+"NM","Mora","35033","3503300000","US House","3",2324,"Libertarian","CHRISTOPHER MANNING",72
+"NM","Mora","35033","3503300000","US House","3",2324,"Republican","JERALD STEVE MCFALL",464
+"NM","Quay","35037","3503700000","US House","3",3087,"Democrat","BEN R LUJAN",1304
+"NM","Quay","35037","3503700000","US House","3",3087,"Libertarian","CHRISTOPHER MANNING",137
+"NM","Quay","35037","3503700000","US House","3",3087,"Republican","JERALD STEVE MCFALL",1646
+"NM","Rio Arriba","35039","3503900000","US House","3",12726,"Democrat","BEN R LUJAN",9916
+"NM","Rio Arriba","35039","3503900000","US House","3",12726,"Libertarian","CHRISTOPHER MANNING",486
+"NM","Rio Arriba","35039","3503900000","US House","3",12726,"Republican","JERALD STEVE MCFALL",2324
+"NM","Roosevelt","35041","3504100000","US House","3",2476,"Democrat","BEN R LUJAN",945
+"NM","Roosevelt","35041","3504100000","US House","3",2476,"Libertarian","CHRISTOPHER MANNING",142
+"NM","Roosevelt","35041","3504100000","US House","3",2476,"Republican","JERALD STEVE MCFALL",1389
+"NM","San Juan","35045","3504500000","US House","3",37177,"Democrat","BEN R LUJAN",14150
+"NM","San Juan","35045","3504500000","US House","3",37177,"Libertarian","CHRISTOPHER MANNING",3274
+"NM","San Juan","35045","3504500000","US House","3",37177,"Republican","JERALD STEVE MCFALL",19753
+"NM","San Miguel","35047","3504700000","US House","3",9210,"Democrat","BEN R LUJAN",7379
+"NM","San Miguel","35047","3504700000","US House","3",9210,"Libertarian","CHRISTOPHER MANNING",279
+"NM","San Miguel","35047","3504700000","US House","3",9210,"Republican","JERALD STEVE MCFALL",1552
+"NM","Sandoval","35043","3504300000","US House","3",44832,"Democrat","BEN R LUJAN",24721
+"NM","Sandoval","35043","3504300000","US House","3",44832,"Libertarian","CHRISTOPHER MANNING",2628
+"NM","Sandoval","35043","3504300000","US House","3",44832,"Republican","JERALD STEVE MCFALL",17483
+"NM","Santa Fe","35049","3504900000","US House","3",64388,"Democrat","BEN R LUJAN",51799
+"NM","Santa Fe","35049","3504900000","US House","3",64388,"Libertarian","CHRISTOPHER MANNING",2540
+"NM","Santa Fe","35049","3504900000","US House","3",64388,"Republican","JERALD STEVE MCFALL",10049
+"NM","Taos","35055","3505500000","US House","3",14464,"Democrat","BEN R LUJAN",12098
+"NM","Taos","35055","3505500000","US House","3",14464,"Libertarian","CHRISTOPHER MANNING",478
+"NM","Taos","35055","3505500000","US House","3",14464,"Republican","JERALD STEVE MCFALL",1888
+"NM","Union","35059","3505900000","US House","3",1460,"Democrat","BEN R LUJAN",468
+"NM","Union","35059","3505900000","US House","3",1460,"Libertarian","CHRISTOPHER MANNING",61
+"NM","Union","35059","3505900000","US House","3",1460,"Republican","JERALD STEVE MCFALL",931
+"NM","Bernalillo","35001","3500100000","US Senate","statewide",241288,"Libertarian","GARY E JOHNSON",39274
+"NM","Bernalillo","35001","3500100000","US Senate","statewide",241288,"Democrat","MARTIN T HEINRICH",140082
+"NM","Bernalillo","35001","3500100000","US Senate","statewide",241288,"Republican","MICK RICH",61932
+"NM","Catron","35003","3500300000","US Senate","statewide",1842,"Libertarian","GARY E JOHNSON",217
+"NM","Catron","35003","3500300000","US Senate","statewide",1842,"Democrat","MARTIN T HEINRICH",550
+"NM","Catron","35003","3500300000","US Senate","statewide",1842,"Republican","MICK RICH",1075
+"NM","Chaves","35005","3500500000","US Senate","statewide",16672,"Libertarian","GARY E JOHNSON",2666
+"NM","Chaves","35005","3500500000","US Senate","statewide",16672,"Democrat","MARTIN T HEINRICH",5279
+"NM","Chaves","35005","3500500000","US Senate","statewide",16672,"Republican","MICK RICH",8727
+"NM","Cibola","35006","3500600000","US Senate","statewide",7121,"Libertarian","GARY E JOHNSON",1355
+"NM","Cibola","35006","3500600000","US Senate","statewide",7121,"Democrat","MARTIN T HEINRICH",3924
+"NM","Cibola","35006","3500600000","US Senate","statewide",7121,"Republican","MICK RICH",1842
+"NM","Colfax","35007","3500700000","US Senate","statewide",4679,"Libertarian","GARY E JOHNSON",731
+"NM","Colfax","35007","3500700000","US Senate","statewide",4679,"Democrat","MARTIN T HEINRICH",2333
+"NM","Colfax","35007","3500700000","US Senate","statewide",4679,"Republican","MICK RICH",1615
+"NM","Curry","35009","3500900000","US Senate","statewide",10187,"Libertarian","GARY E JOHNSON",1498
+"NM","Curry","35009","3500900000","US Senate","statewide",10187,"Democrat","MARTIN T HEINRICH",2793
+"NM","Curry","35009","3500900000","US Senate","statewide",10187,"Republican","MICK RICH",5896
+"NM","DeBaca","35011","3501100000","US Senate","statewide",805,"Libertarian","GARY E JOHNSON",196
+"NM","DeBaca","35011","3501100000","US Senate","statewide",805,"Democrat","MARTIN T HEINRICH",267
+"NM","DeBaca","35011","3501100000","US Senate","statewide",805,"Republican","MICK RICH",342
+"NM","Dona Ana","35013","3501300000","US Senate","statewide",60781,"Libertarian","GARY E JOHNSON",8029
+"NM","Dona Ana","35013","3501300000","US Senate","statewide",60781,"Democrat","MARTIN T HEINRICH",34651
+"NM","Dona Ana","35013","3501300000","US Senate","statewide",60781,"Republican","MICK RICH",18101
+"NM","Eddy","35015","3501500000","US Senate","statewide",15755,"Libertarian","GARY E JOHNSON",2095
+"NM","Eddy","35015","3501500000","US Senate","statewide",15755,"Democrat","MARTIN T HEINRICH",4834
+"NM","Eddy","35015","3501500000","US Senate","statewide",15755,"Republican","MICK RICH",8826
+"NM","Grant","35017","3501700000","US Senate","statewide",11803,"Libertarian","GARY E JOHNSON",1442
+"NM","Grant","35017","3501700000","US Senate","statewide",11803,"Democrat","MARTIN T HEINRICH",6763
+"NM","Grant","35017","3501700000","US Senate","statewide",11803,"Republican","MICK RICH",3598
+"NM","Guadalupe","35019","3501900000","US Senate","statewide",1678,"Libertarian","GARY E JOHNSON",292
+"NM","Guadalupe","35019","3501900000","US Senate","statewide",1678,"Democrat","MARTIN T HEINRICH",1094
+"NM","Guadalupe","35019","3501900000","US Senate","statewide",1678,"Republican","MICK RICH",292
+"NM","Harding","35021","3502100000","US Senate","statewide",481,"Libertarian","GARY E JOHNSON",84
+"NM","Harding","35021","3502100000","US Senate","statewide",481,"Democrat","MARTIN T HEINRICH",198
+"NM","Harding","35021","3502100000","US Senate","statewide",481,"Republican","MICK RICH",199
+"NM","Hidalgo","35023","3502300000","US Senate","statewide",1595,"Libertarian","GARY E JOHNSON",198
+"NM","Hidalgo","35023","3502300000","US Senate","statewide",1595,"Democrat","MARTIN T HEINRICH",790
+"NM","Hidalgo","35023","3502300000","US Senate","statewide",1595,"Republican","MICK RICH",607
+"NM","Lea","35025","3502500000","US Senate","statewide",13841,"Libertarian","GARY E JOHNSON",1628
+"NM","Lea","35025","3502500000","US Senate","statewide",13841,"Democrat","MARTIN T HEINRICH",3331
+"NM","Lea","35025","3502500000","US Senate","statewide",13841,"Republican","MICK RICH",8882
+"NM","Lincoln","35027","3502700000","US Senate","statewide",7850,"Libertarian","GARY E JOHNSON",1111
+"NM","Lincoln","35027","3502700000","US Senate","statewide",7850,"Democrat","MARTIN T HEINRICH",2617
+"NM","Lincoln","35027","3502700000","US Senate","statewide",7850,"Republican","MICK RICH",4122
+"NM","Los Alamos","35028","3502800000","US Senate","statewide",10300,"Libertarian","GARY E JOHNSON",1926
+"NM","Los Alamos","35028","3502800000","US Senate","statewide",10300,"Democrat","MARTIN T HEINRICH",5798
+"NM","Los Alamos","35028","3502800000","US Senate","statewide",10300,"Republican","MICK RICH",2576
+"NM","Luna","35029","3502900000","US Senate","statewide",6141,"Libertarian","GARY E JOHNSON",823
+"NM","Luna","35029","3502900000","US Senate","statewide",6141,"Democrat","MARTIN T HEINRICH",3005
+"NM","Luna","35029","3502900000","US Senate","statewide",6141,"Republican","MICK RICH",2313
+"NM","McKinley","35031","3503100000","US Senate","statewide",18373,"Libertarian","GARY E JOHNSON",3049
+"NM","McKinley","35031","3503100000","US Senate","statewide",18373,"Democrat","MARTIN T HEINRICH",12409
+"NM","McKinley","35031","3503100000","US Senate","statewide",18373,"Republican","MICK RICH",2915
+"NM","Mora","35033","3503300000","US Senate","statewide",2322,"Libertarian","GARY E JOHNSON",386
+"NM","Mora","35033","3503300000","US Senate","statewide",2322,"Democrat","MARTIN T HEINRICH",1564
+"NM","Mora","35033","3503300000","US Senate","statewide",2322,"Republican","MICK RICH",372
+"NM","Otero","35035","3503500000","US Senate","statewide",17121,"Libertarian","GARY E JOHNSON",2291
+"NM","Otero","35035","3503500000","US Senate","statewide",17121,"Democrat","MARTIN T HEINRICH",6370
+"NM","Otero","35035","3503500000","US Senate","statewide",17121,"Republican","MICK RICH",8460
+"NM","Quay","35037","3503700000","US Senate","statewide",3087,"Libertarian","GARY E JOHNSON",537
+"NM","Quay","35037","3503700000","US Senate","statewide",3087,"Democrat","MARTIN T HEINRICH",1016
+"NM","Quay","35037","3503700000","US Senate","statewide",3087,"Republican","MICK RICH",1534
+"NM","Rio Arriba","35039","3503900000","US Senate","statewide",12753,"Libertarian","GARY E JOHNSON",2035
+"NM","Rio Arriba","35039","3503900000","US Senate","statewide",12753,"Democrat","MARTIN T HEINRICH",8773
+"NM","Rio Arriba","35039","3503900000","US Senate","statewide",12753,"Republican","MICK RICH",1945
+"NM","Roosevelt","35041","3504100000","US Senate","statewide",4633,"Libertarian","GARY E JOHNSON",750
+"NM","Roosevelt","35041","3504100000","US Senate","statewide",4633,"Democrat","MARTIN T HEINRICH",1277
+"NM","Roosevelt","35041","3504100000","US Senate","statewide",4633,"Republican","MICK RICH",2606
+"NM","San Juan","35045","3504500000","US Senate","statewide",37363,"Libertarian","GARY E JOHNSON",6876
+"NM","San Juan","35045","3504500000","US Senate","statewide",37363,"Democrat","MARTIN T HEINRICH",12485
+"NM","San Juan","35045","3504500000","US Senate","statewide",37363,"Republican","MICK RICH",18002
+"NM","San Miguel","35047","3504700000","US Senate","statewide",9230,"Libertarian","GARY E JOHNSON",1323
+"NM","San Miguel","35047","3504700000","US Senate","statewide",9230,"Democrat","MARTIN T HEINRICH",6609
+"NM","San Miguel","35047","3504700000","US Senate","statewide",9230,"Republican","MICK RICH",1298
+"NM","Sandoval","35043","3504300000","US Senate","statewide",55380,"Libertarian","GARY E JOHNSON",9397
+"NM","Sandoval","35043","3504300000","US Senate","statewide",55380,"Democrat","MARTIN T HEINRICH",28198
+"NM","Sandoval","35043","3504300000","US Senate","statewide",55380,"Republican","MICK RICH",17785
+"NM","Santa Fe","35049","3504900000","US Senate","statewide",67182,"Libertarian","GARY E JOHNSON",7642
+"NM","Santa Fe","35049","3504900000","US Senate","statewide",67182,"Democrat","MARTIN T HEINRICH",49994
+"NM","Santa Fe","35049","3504900000","US Senate","statewide",67182,"Republican","MICK RICH",9546
+"NM","Sierra","35051","3505100000","US Senate","statewide",4732,"Libertarian","GARY E JOHNSON",767
+"NM","Sierra","35051","3505100000","US Senate","statewide",4732,"Democrat","MARTIN T HEINRICH",1917
+"NM","Sierra","35051","3505100000","US Senate","statewide",4732,"Republican","MICK RICH",2048
+"NM","Socorro","35053","3505300000","US Senate","statewide",6238,"Libertarian","GARY E JOHNSON",1129
+"NM","Socorro","35053","3505300000","US Senate","statewide",6238,"Democrat","MARTIN T HEINRICH",3409
+"NM","Socorro","35053","3505300000","US Senate","statewide",6238,"Republican","MICK RICH",1700
+"NM","Taos","35055","3505500000","US Senate","statewide",14506,"Libertarian","GARY E JOHNSON",2112
+"NM","Taos","35055","3505500000","US Senate","statewide",14506,"Democrat","MARTIN T HEINRICH",10838
+"NM","Taos","35055","3505500000","US Senate","statewide",14506,"Republican","MICK RICH",1556
+"NM","Torrance","35057","3505700000","US Senate","statewide",5366,"Libertarian","GARY E JOHNSON",951
+"NM","Torrance","35057","3505700000","US Senate","statewide",5366,"Democrat","MARTIN T HEINRICH",1982
+"NM","Torrance","35057","3505700000","US Senate","statewide",5366,"Republican","MICK RICH",2433
+"NM","Union","35059","3505900000","US Senate","statewide",1464,"Libertarian","GARY E JOHNSON",252
+"NM","Union","35059","3505900000","US Senate","statewide",1464,"Democrat","MARTIN T HEINRICH",334
+"NM","Union","35059","3505900000","US Senate","statewide",1464,"Republican","MICK RICH",878
+"NM","Valencia","35061","3506100000","US Senate","statewide",24443,"Libertarian","GARY E JOHNSON",4139
+"NM","Valencia","35061","3506100000","US Senate","statewide",24443,"Democrat","MARTIN T HEINRICH",11514
+"NM","Valencia","35061","3506100000","US Senate","statewide",24443,"Republican","MICK RICH",8790

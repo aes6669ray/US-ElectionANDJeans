@@ -1,0 +1,337 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"MT","Beaverhead","30001","3000100000","US House","1",4916,"Libertarian","ELINOR SWANSON",122
+"MT","Beaverhead","30001","3000100000","US House","1",4916,"Republican","GREG GIANFORTE",3113
+"MT","Beaverhead","30001","3000100000","US House","1",4916,"Democrat","KATHLEEN WILLIAMS",1681
+"MT","Big Horn","30003","3000300000","US House","1",4676,"Libertarian","ELINOR SWANSON",106
+"MT","Big Horn","30003","3000300000","US House","1",4676,"Republican","GREG GIANFORTE",1705
+"MT","Big Horn","30003","3000300000","US House","1",4676,"Democrat","KATHLEEN WILLIAMS",2865
+"MT","Blaine","30005","3000500000","US House","1",3002,"Libertarian","ELINOR SWANSON",87
+"MT","Blaine","30005","3000500000","US House","1",3002,"Republican","GREG GIANFORTE",1173
+"MT","Blaine","30005","3000500000","US House","1",3002,"Democrat","KATHLEEN WILLIAMS",1742
+"MT","Broadwater","30007","3000700000","US House","1",3251,"Libertarian","ELINOR SWANSON",105
+"MT","Broadwater","30007","3000700000","US House","1",3251,"Republican","GREG GIANFORTE",2249
+"MT","Broadwater","30007","3000700000","US House","1",3251,"Democrat","KATHLEEN WILLIAMS",897
+"MT","Carbon","30009","3000900000","US House","1",6076,"Libertarian","ELINOR SWANSON",184
+"MT","Carbon","30009","3000900000","US House","1",6076,"Republican","GREG GIANFORTE",3450
+"MT","Carbon","30009","3000900000","US House","1",6076,"Democrat","KATHLEEN WILLIAMS",2442
+"MT","Carter","30011","3001100000","US House","1",748,"Libertarian","ELINOR SWANSON",12
+"MT","Carter","30011","3001100000","US House","1",748,"Republican","GREG GIANFORTE",636
+"MT","Carter","30011","3001100000","US House","1",748,"Democrat","KATHLEEN WILLIAMS",100
+"MT","Cascade","30013","3001300000","US House","1",33970,"Libertarian","ELINOR SWANSON",925
+"MT","Cascade","30013","3001300000","US House","1",33970,"Republican","GREG GIANFORTE",17219
+"MT","Cascade","30013","3001300000","US House","1",33970,"Democrat","KATHLEEN WILLIAMS",15826
+"MT","Chouteau","30015","3001500000","US House","1",2652,"Libertarian","ELINOR SWANSON",66
+"MT","Chouteau","30015","3001500000","US House","1",2652,"Republican","GREG GIANFORTE",1515
+"MT","Chouteau","30015","3001500000","US House","1",2652,"Democrat","KATHLEEN WILLIAMS",1071
+"MT","Custer","30017","3001700000","US House","1",4891,"Libertarian","ELINOR SWANSON",168
+"MT","Custer","30017","3001700000","US House","1",4891,"Republican","GREG GIANFORTE",3085
+"MT","Custer","30017","3001700000","US House","1",4891,"Democrat","KATHLEEN WILLIAMS",1638
+"MT","Daniels","30019","3001900000","US House","1",944,"Libertarian","ELINOR SWANSON",20
+"MT","Daniels","30019","3001900000","US House","1",944,"Republican","GREG GIANFORTE",684
+"MT","Daniels","30019","3001900000","US House","1",944,"Democrat","KATHLEEN WILLIAMS",240
+"MT","Dawson","30021","3002100000","US House","1",4064,"Libertarian","ELINOR SWANSON",125
+"MT","Dawson","30021","3002100000","US House","1",4064,"Republican","GREG GIANFORTE",2811
+"MT","Dawson","30021","3002100000","US House","1",4064,"Democrat","KATHLEEN WILLIAMS",1128
+"MT","Deer Lodge","30023","3002300000","US House","1",4227,"Libertarian","ELINOR SWANSON",155
+"MT","Deer Lodge","30023","3002300000","US House","1",4227,"Republican","GREG GIANFORTE",1379
+"MT","Deer Lodge","30023","3002300000","US House","1",4227,"Democrat","KATHLEEN WILLIAMS",2693
+"MT","Fallon","30025","3002500000","US House","1",1275,"Libertarian","ELINOR SWANSON",24
+"MT","Fallon","30025","3002500000","US House","1",1275,"Republican","GREG GIANFORTE",1025
+"MT","Fallon","30025","3002500000","US House","1",1275,"Democrat","KATHLEEN WILLIAMS",226
+"MT","Fergus","30027","3002700000","US House","1",5806,"Libertarian","ELINOR SWANSON",139
+"MT","Fergus","30027","3002700000","US House","1",5806,"Republican","GREG GIANFORTE",3915
+"MT","Fergus","30027","3002700000","US House","1",5806,"Democrat","KATHLEEN WILLIAMS",1752
+"MT","Flathead","30029","3002900000","US House","1",47778,"Libertarian","ELINOR SWANSON",1277
+"MT","Flathead","30029","3002900000","US House","1",47778,"Republican","GREG GIANFORTE",28450
+"MT","Flathead","30029","3002900000","US House","1",47778,"Democrat","KATHLEEN WILLIAMS",18051
+"MT","Gallatin","30031","3003100000","US House","1",55977,"Libertarian","ELINOR SWANSON",1523
+"MT","Gallatin","30031","3003100000","US House","1",55977,"Republican","GREG GIANFORTE",23157
+"MT","Gallatin","30031","3003100000","US House","1",55977,"Democrat","KATHLEEN WILLIAMS",31297
+"MT","Garfield","30033","3003300000","US House","1",681,"Libertarian","ELINOR SWANSON",20
+"MT","Garfield","30033","3003300000","US House","1",681,"Republican","GREG GIANFORTE",606
+"MT","Garfield","30033","3003300000","US House","1",681,"Democrat","KATHLEEN WILLIAMS",55
+"MT","Glacier","30035","3003500000","US House","1",4982,"Libertarian","ELINOR SWANSON",111
+"MT","Glacier","30035","3003500000","US House","1",4982,"Republican","GREG GIANFORTE",1307
+"MT","Glacier","30035","3003500000","US House","1",4982,"Democrat","KATHLEEN WILLIAMS",3564
+"MT","Golden Valley","30037","3003700000","US House","1",453,"Libertarian","ELINOR SWANSON",22
+"MT","Golden Valley","30037","3003700000","US House","1",453,"Republican","GREG GIANFORTE",323
+"MT","Golden Valley","30037","3003700000","US House","1",453,"Democrat","KATHLEEN WILLIAMS",108
+"MT","Granite","30039","3003900000","US House","1",1804,"Libertarian","ELINOR SWANSON",62
+"MT","Granite","30039","3003900000","US House","1",1804,"Republican","GREG GIANFORTE",1133
+"MT","Granite","30039","3003900000","US House","1",1804,"Democrat","KATHLEEN WILLIAMS",609
+"MT","Hill","30041","3004100000","US House","1",6380,"Libertarian","ELINOR SWANSON",231
+"MT","Hill","30041","3004100000","US House","1",6380,"Republican","GREG GIANFORTE",2834
+"MT","Hill","30041","3004100000","US House","1",6380,"Democrat","KATHLEEN WILLIAMS",3315
+"MT","Jefferson","30043","3004300000","US House","1",6837,"Libertarian","ELINOR SWANSON",200
+"MT","Jefferson","30043","3004300000","US House","1",6837,"Republican","GREG GIANFORTE",4016
+"MT","Jefferson","30043","3004300000","US House","1",6837,"Democrat","KATHLEEN WILLIAMS",2621
+"MT","Judith Basin","30045","3004500000","US House","1",1194,"Libertarian","ELINOR SWANSON",34
+"MT","Judith Basin","30045","3004500000","US House","1",1194,"Republican","GREG GIANFORTE",849
+"MT","Judith Basin","30045","3004500000","US House","1",1194,"Democrat","KATHLEEN WILLIAMS",311
+"MT","Lake","30047","3004700000","US House","1",13784,"Libertarian","ELINOR SWANSON",355
+"MT","Lake","30047","3004700000","US House","1",13784,"Republican","GREG GIANFORTE",7013
+"MT","Lake","30047","3004700000","US House","1",13784,"Democrat","KATHLEEN WILLIAMS",6416
+"MT","Lewis and Clark","30049","3004900000","US House","1",35530,"Libertarian","ELINOR SWANSON",1046
+"MT","Lewis and Clark","30049","3004900000","US House","1",35530,"Republican","GREG GIANFORTE",15686
+"MT","Lewis and Clark","30049","3004900000","US House","1",35530,"Democrat","KATHLEEN WILLIAMS",18798
+"MT","Liberty","30051","3005100000","US House","1",976,"Libertarian","ELINOR SWANSON",24
+"MT","Liberty","30051","3005100000","US House","1",976,"Republican","GREG GIANFORTE",653
+"MT","Liberty","30051","3005100000","US House","1",976,"Democrat","KATHLEEN WILLIAMS",299
+"MT","Lincoln","30053","3005300000","US House","1",9326,"Libertarian","ELINOR SWANSON",245
+"MT","Lincoln","30053","3005300000","US House","1",9326,"Republican","GREG GIANFORTE",6453
+"MT","Lincoln","30053","3005300000","US House","1",9326,"Democrat","KATHLEEN WILLIAMS",2628
+"MT","Madison","30057","3005700000","US House","1",4971,"Libertarian","ELINOR SWANSON",145
+"MT","Madison","30057","3005700000","US House","1",4971,"Republican","GREG GIANFORTE",3159
+"MT","Madison","30057","3005700000","US House","1",4971,"Democrat","KATHLEEN WILLIAMS",1667
+"MT","McCone","30055","3005500000","US House","1",1028,"Libertarian","ELINOR SWANSON",21
+"MT","McCone","30055","3005500000","US House","1",1028,"Republican","GREG GIANFORTE",813
+"MT","McCone","30055","3005500000","US House","1",1028,"Democrat","KATHLEEN WILLIAMS",194
+"MT","Meagher","30059","3005900000","US House","1",982,"Libertarian","ELINOR SWANSON",38
+"MT","Meagher","30059","3005900000","US House","1",982,"Republican","GREG GIANFORTE",680
+"MT","Meagher","30059","3005900000","US House","1",982,"Democrat","KATHLEEN WILLIAMS",264
+"MT","Mineral","30061","3006100000","US House","1",2057,"Libertarian","ELINOR SWANSON",69
+"MT","Mineral","30061","3006100000","US House","1",2057,"Republican","GREG GIANFORTE",1286
+"MT","Mineral","30061","3006100000","US House","1",2057,"Democrat","KATHLEEN WILLIAMS",702
+"MT","Missoula","30063","3006300000","US House","1",61605,"Libertarian","ELINOR SWANSON",1622
+"MT","Missoula","30063","3006300000","US House","1",61605,"Republican","GREG GIANFORTE",20567
+"MT","Missoula","30063","3006300000","US House","1",61605,"Democrat","KATHLEEN WILLIAMS",39416
+"MT","Musselshell","30065","3006500000","US House","1",2427,"Libertarian","ELINOR SWANSON",92
+"MT","Musselshell","30065","3006500000","US House","1",2427,"Republican","GREG GIANFORTE",1833
+"MT","Musselshell","30065","3006500000","US House","1",2427,"Democrat","KATHLEEN WILLIAMS",502
+"MT","Park","30067","3006700000","US House","1",9729,"Libertarian","ELINOR SWANSON",277
+"MT","Park","30067","3006700000","US House","1",9729,"Republican","GREG GIANFORTE",4711
+"MT","Park","30067","3006700000","US House","1",9729,"Democrat","KATHLEEN WILLIAMS",4741
+"MT","Petroleum","30069","3006900000","US House","1",313,"Libertarian","ELINOR SWANSON",8
+"MT","Petroleum","30069","3006900000","US House","1",313,"Republican","GREG GIANFORTE",259
+"MT","Petroleum","30069","3006900000","US House","1",313,"Democrat","KATHLEEN WILLIAMS",46
+"MT","Phillips","30071","3007100000","US House","1",2091,"Libertarian","ELINOR SWANSON",52
+"MT","Phillips","30071","3007100000","US House","1",2091,"Republican","GREG GIANFORTE",1588
+"MT","Phillips","30071","3007100000","US House","1",2091,"Democrat","KATHLEEN WILLIAMS",451
+"MT","Pondera","30073","3007300000","US House","1",2695,"Libertarian","ELINOR SWANSON",84
+"MT","Pondera","30073","3007300000","US House","1",2695,"Republican","GREG GIANFORTE",1607
+"MT","Pondera","30073","3007300000","US House","1",2695,"Democrat","KATHLEEN WILLIAMS",1004
+"MT","Powder River","30075","3007500000","US House","1",975,"Libertarian","ELINOR SWANSON",18
+"MT","Powder River","30075","3007500000","US House","1",975,"Republican","GREG GIANFORTE",785
+"MT","Powder River","30075","3007500000","US House","1",975,"Democrat","KATHLEEN WILLIAMS",172
+"MT","Powell","30077","3007700000","US House","1",2757,"Libertarian","ELINOR SWANSON",92
+"MT","Powell","30077","3007700000","US House","1",2757,"Republican","GREG GIANFORTE",1806
+"MT","Powell","30077","3007700000","US House","1",2757,"Democrat","KATHLEEN WILLIAMS",859
+"MT","Prairie","30079","3007900000","US House","1",655,"Libertarian","ELINOR SWANSON",22
+"MT","Prairie","30079","3007900000","US House","1",655,"Republican","GREG GIANFORTE",484
+"MT","Prairie","30079","3007900000","US House","1",655,"Democrat","KATHLEEN WILLIAMS",149
+"MT","Ravalli","30081","3008100000","US House","1",23382,"Libertarian","ELINOR SWANSON",598
+"MT","Ravalli","30081","3008100000","US House","1",23382,"Republican","GREG GIANFORTE",14495
+"MT","Ravalli","30081","3008100000","US House","1",23382,"Democrat","KATHLEEN WILLIAMS",8289
+"MT","Richland","30083","3008300000","US House","1",4342,"Libertarian","ELINOR SWANSON",120
+"MT","Richland","30083","3008300000","US House","1",4342,"Republican","GREG GIANFORTE",3260
+"MT","Richland","30083","3008300000","US House","1",4342,"Democrat","KATHLEEN WILLIAMS",962
+"MT","Roosevelt","30085","3008500000","US House","1",3436,"Libertarian","ELINOR SWANSON",95
+"MT","Roosevelt","30085","3008500000","US House","1",3436,"Republican","GREG GIANFORTE",1476
+"MT","Roosevelt","30085","3008500000","US House","1",3436,"Democrat","KATHLEEN WILLIAMS",1865
+"MT","Rosebud","30087","3008700000","US House","1",3357,"Libertarian","ELINOR SWANSON",90
+"MT","Rosebud","30087","3008700000","US House","1",3357,"Republican","GREG GIANFORTE",1918
+"MT","Rosebud","30087","3008700000","US House","1",3357,"Democrat","KATHLEEN WILLIAMS",1349
+"MT","Sanders","30089","3008900000","US House","1",6140,"Libertarian","ELINOR SWANSON",210
+"MT","Sanders","30089","3008900000","US House","1",6140,"Republican","GREG GIANFORTE",4077
+"MT","Sanders","30089","3008900000","US House","1",6140,"Democrat","KATHLEEN WILLIAMS",1853
+"MT","Sheridan","30091","3009100000","US House","1",1800,"Libertarian","ELINOR SWANSON",52
+"MT","Sheridan","30091","3009100000","US House","1",1800,"Republican","GREG GIANFORTE",1087
+"MT","Sheridan","30091","3009100000","US House","1",1800,"Democrat","KATHLEEN WILLIAMS",661
+"MT","Silver Bow","30093","3009300000","US House","1",16296,"Libertarian","ELINOR SWANSON",442
+"MT","Silver Bow","30093","3009300000","US House","1",16296,"Republican","GREG GIANFORTE",5032
+"MT","Silver Bow","30093","3009300000","US House","1",16296,"Democrat","KATHLEEN WILLIAMS",10822
+"MT","Stillwater","30095","3009500000","US House","1",4880,"Libertarian","ELINOR SWANSON",157
+"MT","Stillwater","30095","3009500000","US House","1",4880,"Republican","GREG GIANFORTE",3373
+"MT","Stillwater","30095","3009500000","US House","1",4880,"Democrat","KATHLEEN WILLIAMS",1350
+"MT","Sweet Grass","30097","3009700000","US House","1",2116,"Libertarian","ELINOR SWANSON",61
+"MT","Sweet Grass","30097","3009700000","US House","1",2116,"Republican","GREG GIANFORTE",1475
+"MT","Sweet Grass","30097","3009700000","US House","1",2116,"Democrat","KATHLEEN WILLIAMS",580
+"MT","Teton","30099","3009900000","US House","1",3152,"Libertarian","ELINOR SWANSON",76
+"MT","Teton","30099","3009900000","US House","1",3152,"Republican","GREG GIANFORTE",1959
+"MT","Teton","30099","3009900000","US House","1",3152,"Democrat","KATHLEEN WILLIAMS",1117
+"MT","Toole","30101","3010100000","US House","1",1908,"Libertarian","ELINOR SWANSON",56
+"MT","Toole","30101","3010100000","US House","1",1908,"Republican","GREG GIANFORTE",1310
+"MT","Toole","30101","3010100000","US House","1",1908,"Democrat","KATHLEEN WILLIAMS",542
+"MT","Treasure","30103","3010300000","US House","1",415,"Libertarian","ELINOR SWANSON",12
+"MT","Treasure","30103","3010300000","US House","1",415,"Republican","GREG GIANFORTE",308
+"MT","Treasure","30103","3010300000","US House","1",415,"Democrat","KATHLEEN WILLIAMS",95
+"MT","Valley","30105","3010500000","US House","1",3876,"Libertarian","ELINOR SWANSON",178
+"MT","Valley","30105","3010500000","US House","1",3876,"Republican","GREG GIANFORTE",2442
+"MT","Valley","30105","3010500000","US House","1",3876,"Democrat","KATHLEEN WILLIAMS",1256
+"MT","Wheatland","30107","3010700000","US House","1",930,"Libertarian","ELINOR SWANSON",22
+"MT","Wheatland","30107","3010700000","US House","1",930,"Republican","GREG GIANFORTE",631
+"MT","Wheatland","30107","3010700000","US House","1",930,"Democrat","KATHLEEN WILLIAMS",277
+"MT","Wibaux","30109","3010900000","US House","1",534,"Libertarian","ELINOR SWANSON",18
+"MT","Wibaux","30109","3010900000","US House","1",534,"Republican","GREG GIANFORTE",402
+"MT","Wibaux","30109","3010900000","US House","1",534,"Democrat","KATHLEEN WILLIAMS",114
+"MT","Yellowstone","30111","3011100000","US House","1",69372,"Libertarian","ELINOR SWANSON",2361
+"MT","Yellowstone","30111","3011100000","US House","1",69372,"Republican","GREG GIANFORTE",37399
+"MT","Yellowstone","30111","3011100000","US House","1",69372,"Democrat","KATHLEEN WILLIAMS",29612
+"MT","Beaverhead","30001","3000100000","US Senate","statewide",4897,"Democrat","JON TESTER",1876
+"MT","Beaverhead","30001","3000100000","US Senate","statewide",4897,"Republican","MATT ROSENDALE",2866
+"MT","Beaverhead","30001","3000100000","US Senate","statewide",4897,"Libertarian","RICK BRECKENRIDGE",155
+"MT","Big Horn","30003","3000300000","US Senate","statewide",4676,"Democrat","JON TESTER",3027
+"MT","Big Horn","30003","3000300000","US Senate","statewide",4676,"Republican","MATT ROSENDALE",1558
+"MT","Big Horn","30003","3000300000","US Senate","statewide",4676,"Libertarian","RICK BRECKENRIDGE",91
+"MT","Blaine","30005","3000500000","US Senate","statewide",3019,"Democrat","JON TESTER",1961
+"MT","Blaine","30005","3000500000","US Senate","statewide",3019,"Republican","MATT ROSENDALE",982
+"MT","Blaine","30005","3000500000","US Senate","statewide",3019,"Libertarian","RICK BRECKENRIDGE",76
+"MT","Broadwater","30007","3000700000","US Senate","statewide",3261,"Democrat","JON TESTER",1071
+"MT","Broadwater","30007","3000700000","US Senate","statewide",3261,"Republican","MATT ROSENDALE",2086
+"MT","Broadwater","30007","3000700000","US Senate","statewide",3261,"Libertarian","RICK BRECKENRIDGE",104
+"MT","Carbon","30009","3000900000","US Senate","statewide",6067,"Democrat","JON TESTER",2680
+"MT","Carbon","30009","3000900000","US Senate","statewide",6067,"Republican","MATT ROSENDALE",3209
+"MT","Carbon","30009","3000900000","US Senate","statewide",6067,"Libertarian","RICK BRECKENRIDGE",178
+"MT","Carter","30011","3001100000","US Senate","statewide",752,"Democrat","JON TESTER",128
+"MT","Carter","30011","3001100000","US Senate","statewide",752,"Republican","MATT ROSENDALE",602
+"MT","Carter","30011","3001100000","US Senate","statewide",752,"Libertarian","RICK BRECKENRIDGE",22
+"MT","Cascade","30013","3001300000","US Senate","statewide",34009,"Democrat","JON TESTER",17435
+"MT","Cascade","30013","3001300000","US Senate","statewide",34009,"Republican","MATT ROSENDALE",15566
+"MT","Cascade","30013","3001300000","US Senate","statewide",34009,"Libertarian","RICK BRECKENRIDGE",1008
+"MT","Chouteau","30015","3001500000","US Senate","statewide",2657,"Democrat","JON TESTER",1275
+"MT","Chouteau","30015","3001500000","US Senate","statewide",2657,"Republican","MATT ROSENDALE",1312
+"MT","Chouteau","30015","3001500000","US Senate","statewide",2657,"Libertarian","RICK BRECKENRIDGE",70
+"MT","Custer","30017","3001700000","US Senate","statewide",4883,"Democrat","JON TESTER",1942
+"MT","Custer","30017","3001700000","US Senate","statewide",4883,"Republican","MATT ROSENDALE",2762
+"MT","Custer","30017","3001700000","US Senate","statewide",4883,"Libertarian","RICK BRECKENRIDGE",179
+"MT","Daniels","30019","3001900000","US Senate","statewide",941,"Democrat","JON TESTER",281
+"MT","Daniels","30019","3001900000","US Senate","statewide",941,"Republican","MATT ROSENDALE",631
+"MT","Daniels","30019","3001900000","US Senate","statewide",941,"Libertarian","RICK BRECKENRIDGE",29
+"MT","Dawson","30021","3002100000","US Senate","statewide",4073,"Democrat","JON TESTER",1233
+"MT","Dawson","30021","3002100000","US Senate","statewide",4073,"Republican","MATT ROSENDALE",2700
+"MT","Dawson","30021","3002100000","US Senate","statewide",4073,"Libertarian","RICK BRECKENRIDGE",140
+"MT","Deer Lodge","30023","3002300000","US Senate","statewide",4236,"Democrat","JON TESTER",2892
+"MT","Deer Lodge","30023","3002300000","US Senate","statewide",4236,"Republican","MATT ROSENDALE",1208
+"MT","Deer Lodge","30023","3002300000","US Senate","statewide",4236,"Libertarian","RICK BRECKENRIDGE",136
+"MT","Fallon","30025","3002500000","US Senate","statewide",1289,"Democrat","JON TESTER",281
+"MT","Fallon","30025","3002500000","US Senate","statewide",1289,"Republican","MATT ROSENDALE",951
+"MT","Fallon","30025","3002500000","US Senate","statewide",1289,"Libertarian","RICK BRECKENRIDGE",57
+"MT","Fergus","30027","3002700000","US Senate","statewide",5793,"Democrat","JON TESTER",1964
+"MT","Fergus","30027","3002700000","US Senate","statewide",5793,"Republican","MATT ROSENDALE",3640
+"MT","Fergus","30027","3002700000","US Senate","statewide",5793,"Libertarian","RICK BRECKENRIDGE",189
+"MT","Flathead","30029","3002900000","US Senate","statewide",47760,"Democrat","JON TESTER",19652
+"MT","Flathead","30029","3002900000","US Senate","statewide",47760,"Republican","MATT ROSENDALE",26759
+"MT","Flathead","30029","3002900000","US Senate","statewide",47760,"Libertarian","RICK BRECKENRIDGE",1349
+"MT","Gallatin","30031","3003100000","US Senate","statewide",55933,"Democrat","JON TESTER",33251
+"MT","Gallatin","30031","3003100000","US Senate","statewide",55933,"Republican","MATT ROSENDALE",21248
+"MT","Gallatin","30031","3003100000","US Senate","statewide",55933,"Libertarian","RICK BRECKENRIDGE",1434
+"MT","Garfield","30033","3003300000","US Senate","statewide",682,"Democrat","JON TESTER",81
+"MT","Garfield","30033","3003300000","US Senate","statewide",682,"Republican","MATT ROSENDALE",571
+"MT","Garfield","30033","3003300000","US Senate","statewide",682,"Libertarian","RICK BRECKENRIDGE",30
+"MT","Glacier","30035","3003500000","US Senate","statewide",4996,"Democrat","JON TESTER",3754
+"MT","Glacier","30035","3003500000","US Senate","statewide",4996,"Republican","MATT ROSENDALE",1153
+"MT","Glacier","30035","3003500000","US Senate","statewide",4996,"Libertarian","RICK BRECKENRIDGE",89
+"MT","Golden Valley","30037","3003700000","US Senate","statewide",454,"Democrat","JON TESTER",130
+"MT","Golden Valley","30037","3003700000","US Senate","statewide",454,"Republican","MATT ROSENDALE",303
+"MT","Golden Valley","30037","3003700000","US Senate","statewide",454,"Libertarian","RICK BRECKENRIDGE",21
+"MT","Granite","30039","3003900000","US Senate","statewide",1793,"Democrat","JON TESTER",695
+"MT","Granite","30039","3003900000","US Senate","statewide",1793,"Republican","MATT ROSENDALE",1046
+"MT","Granite","30039","3003900000","US Senate","statewide",1793,"Libertarian","RICK BRECKENRIDGE",52
+"MT","Hill","30041","3004100000","US Senate","statewide",6390,"Democrat","JON TESTER",3729
+"MT","Hill","30041","3004100000","US Senate","statewide",6390,"Republican","MATT ROSENDALE",2434
+"MT","Hill","30041","3004100000","US Senate","statewide",6390,"Libertarian","RICK BRECKENRIDGE",227
+"MT","Jefferson","30043","3004300000","US Senate","statewide",6833,"Democrat","JON TESTER",2954
+"MT","Jefferson","30043","3004300000","US Senate","statewide",6833,"Republican","MATT ROSENDALE",3653
+"MT","Jefferson","30043","3004300000","US Senate","statewide",6833,"Libertarian","RICK BRECKENRIDGE",226
+"MT","Judith Basin","30045","3004500000","US Senate","statewide",1191,"Democrat","JON TESTER",388
+"MT","Judith Basin","30045","3004500000","US Senate","statewide",1191,"Republican","MATT ROSENDALE",752
+"MT","Judith Basin","30045","3004500000","US Senate","statewide",1191,"Libertarian","RICK BRECKENRIDGE",51
+"MT","Lake","30047","3004700000","US Senate","statewide",13772,"Democrat","JON TESTER",6916
+"MT","Lake","30047","3004700000","US Senate","statewide",13772,"Republican","MATT ROSENDALE",6491
+"MT","Lake","30047","3004700000","US Senate","statewide",13772,"Libertarian","RICK BRECKENRIDGE",365
+"MT","Lewis and Clark","30049","3004900000","US Senate","statewide",35539,"Democrat","JON TESTER",20506
+"MT","Lewis and Clark","30049","3004900000","US Senate","statewide",35539,"Republican","MATT ROSENDALE",14106
+"MT","Lewis and Clark","30049","3004900000","US Senate","statewide",35539,"Libertarian","RICK BRECKENRIDGE",927
+"MT","Liberty","30051","3005100000","US Senate","statewide",981,"Democrat","JON TESTER",365
+"MT","Liberty","30051","3005100000","US Senate","statewide",981,"Republican","MATT ROSENDALE",586
+"MT","Liberty","30051","3005100000","US Senate","statewide",981,"Libertarian","RICK BRECKENRIDGE",30
+"MT","Lincoln","30053","3005300000","US Senate","statewide",9337,"Democrat","JON TESTER",2902
+"MT","Lincoln","30053","3005300000","US Senate","statewide",9337,"Republican","MATT ROSENDALE",6137
+"MT","Lincoln","30053","3005300000","US Senate","statewide",9337,"Libertarian","RICK BRECKENRIDGE",298
+"MT","Madison","30057","3005700000","US Senate","statewide",4959,"Democrat","JON TESTER",1890
+"MT","Madison","30057","3005700000","US Senate","statewide",4959,"Republican","MATT ROSENDALE",2898
+"MT","Madison","30057","3005700000","US Senate","statewide",4959,"Libertarian","RICK BRECKENRIDGE",171
+"MT","McCone","30055","3005500000","US Senate","statewide",1029,"Democrat","JON TESTER",227
+"MT","McCone","30055","3005500000","US Senate","statewide",1029,"Republican","MATT ROSENDALE",773
+"MT","McCone","30055","3005500000","US Senate","statewide",1029,"Libertarian","RICK BRECKENRIDGE",29
+"MT","Meagher","30059","3005900000","US Senate","statewide",976,"Democrat","JON TESTER",319
+"MT","Meagher","30059","3005900000","US Senate","statewide",976,"Republican","MATT ROSENDALE",629
+"MT","Meagher","30059","3005900000","US Senate","statewide",976,"Libertarian","RICK BRECKENRIDGE",28
+"MT","Mineral","30061","3006100000","US Senate","statewide",2058,"Democrat","JON TESTER",785
+"MT","Mineral","30061","3006100000","US Senate","statewide",2058,"Republican","MATT ROSENDALE",1181
+"MT","Mineral","30061","3006100000","US Senate","statewide",2058,"Libertarian","RICK BRECKENRIDGE",92
+"MT","Missoula","30063","3006300000","US Senate","statewide",61651,"Democrat","JON TESTER",41688
+"MT","Missoula","30063","3006300000","US Senate","statewide",61651,"Republican","MATT ROSENDALE",18631
+"MT","Missoula","30063","3006300000","US Senate","statewide",61651,"Libertarian","RICK BRECKENRIDGE",1332
+"MT","Musselshell","30065","3006500000","US Senate","statewide",2432,"Democrat","JON TESTER",573
+"MT","Musselshell","30065","3006500000","US Senate","statewide",2432,"Republican","MATT ROSENDALE",1743
+"MT","Musselshell","30065","3006500000","US Senate","statewide",2432,"Libertarian","RICK BRECKENRIDGE",116
+"MT","Park","30067","3006700000","US Senate","statewide",9724,"Democrat","JON TESTER",5114
+"MT","Park","30067","3006700000","US Senate","statewide",9724,"Republican","MATT ROSENDALE",4357
+"MT","Park","30067","3006700000","US Senate","statewide",9724,"Libertarian","RICK BRECKENRIDGE",253
+"MT","Petroleum","30069","3006900000","US Senate","statewide",312,"Democrat","JON TESTER",58
+"MT","Petroleum","30069","3006900000","US Senate","statewide",312,"Republican","MATT ROSENDALE",248
+"MT","Petroleum","30069","3006900000","US Senate","statewide",312,"Libertarian","RICK BRECKENRIDGE",6
+"MT","Phillips","30071","3007100000","US Senate","statewide",2082,"Democrat","JON TESTER",577
+"MT","Phillips","30071","3007100000","US Senate","statewide",2082,"Republican","MATT ROSENDALE",1426
+"MT","Phillips","30071","3007100000","US Senate","statewide",2082,"Libertarian","RICK BRECKENRIDGE",79
+"MT","Pondera","30073","3007300000","US Senate","statewide",2685,"Democrat","JON TESTER",1176
+"MT","Pondera","30073","3007300000","US Senate","statewide",2685,"Republican","MATT ROSENDALE",1413
+"MT","Pondera","30073","3007300000","US Senate","statewide",2685,"Libertarian","RICK BRECKENRIDGE",96
+"MT","Powder River","30075","3007500000","US Senate","statewide",973,"Democrat","JON TESTER",203
+"MT","Powder River","30075","3007500000","US Senate","statewide",973,"Republican","MATT ROSENDALE",748
+"MT","Powder River","30075","3007500000","US Senate","statewide",973,"Libertarian","RICK BRECKENRIDGE",22
+"MT","Powell","30077","3007700000","US Senate","statewide",2760,"Democrat","JON TESTER",1026
+"MT","Powell","30077","3007700000","US Senate","statewide",2760,"Republican","MATT ROSENDALE",1641
+"MT","Powell","30077","3007700000","US Senate","statewide",2760,"Libertarian","RICK BRECKENRIDGE",93
+"MT","Prairie","30079","3007900000","US Senate","statewide",653,"Democrat","JON TESTER",177
+"MT","Prairie","30079","3007900000","US Senate","statewide",653,"Republican","MATT ROSENDALE",450
+"MT","Prairie","30079","3007900000","US Senate","statewide",653,"Libertarian","RICK BRECKENRIDGE",26
+"MT","Ravalli","30081","3008100000","US Senate","statewide",23401,"Democrat","JON TESTER",9156
+"MT","Ravalli","30081","3008100000","US Senate","statewide",23401,"Republican","MATT ROSENDALE",13622
+"MT","Ravalli","30081","3008100000","US Senate","statewide",23401,"Libertarian","RICK BRECKENRIDGE",623
+"MT","Richland","30083","3008300000","US Senate","statewide",4332,"Democrat","JON TESTER",1136
+"MT","Richland","30083","3008300000","US Senate","statewide",4332,"Republican","MATT ROSENDALE",3017
+"MT","Richland","30083","3008300000","US Senate","statewide",4332,"Libertarian","RICK BRECKENRIDGE",179
+"MT","Roosevelt","30085","3008500000","US Senate","statewide",3447,"Democrat","JON TESTER",2013
+"MT","Roosevelt","30085","3008500000","US Senate","statewide",3447,"Republican","MATT ROSENDALE",1346
+"MT","Roosevelt","30085","3008500000","US Senate","statewide",3447,"Libertarian","RICK BRECKENRIDGE",88
+"MT","Rosebud","30087","3008700000","US Senate","statewide",3367,"Democrat","JON TESTER",1511
+"MT","Rosebud","30087","3008700000","US Senate","statewide",3367,"Republican","MATT ROSENDALE",1765
+"MT","Rosebud","30087","3008700000","US Senate","statewide",3367,"Libertarian","RICK BRECKENRIDGE",91
+"MT","Sanders","30089","3008900000","US Senate","statewide",6154,"Democrat","JON TESTER",2071
+"MT","Sanders","30089","3008900000","US Senate","statewide",6154,"Republican","MATT ROSENDALE",3856
+"MT","Sanders","30089","3008900000","US Senate","statewide",6154,"Libertarian","RICK BRECKENRIDGE",227
+"MT","Sheridan","30091","3009100000","US Senate","statewide",1812,"Democrat","JON TESTER",712
+"MT","Sheridan","30091","3009100000","US Senate","statewide",1812,"Republican","MATT ROSENDALE",1017
+"MT","Sheridan","30091","3009100000","US Senate","statewide",1812,"Libertarian","RICK BRECKENRIDGE",83
+"MT","Silver Bow","30093","3009300000","US Senate","statewide",16312,"Democrat","JON TESTER",11672
+"MT","Silver Bow","30093","3009300000","US Senate","statewide",16312,"Republican","MATT ROSENDALE",4246
+"MT","Silver Bow","30093","3009300000","US Senate","statewide",16312,"Libertarian","RICK BRECKENRIDGE",394
+"MT","Stillwater","30095","3009500000","US Senate","statewide",4864,"Democrat","JON TESTER",1501
+"MT","Stillwater","30095","3009500000","US Senate","statewide",4864,"Republican","MATT ROSENDALE",3206
+"MT","Stillwater","30095","3009500000","US Senate","statewide",4864,"Libertarian","RICK BRECKENRIDGE",157
+"MT","Sweet Grass","30097","3009700000","US Senate","statewide",2098,"Democrat","JON TESTER",652
+"MT","Sweet Grass","30097","3009700000","US Senate","statewide",2098,"Republican","MATT ROSENDALE",1372
+"MT","Sweet Grass","30097","3009700000","US Senate","statewide",2098,"Libertarian","RICK BRECKENRIDGE",74
+"MT","Teton","30099","3009900000","US Senate","statewide",3157,"Democrat","JON TESTER",1290
+"MT","Teton","30099","3009900000","US Senate","statewide",3157,"Republican","MATT ROSENDALE",1784
+"MT","Teton","30099","3009900000","US Senate","statewide",3157,"Libertarian","RICK BRECKENRIDGE",83
+"MT","Toole","30101","3010100000","US Senate","statewide",1903,"Democrat","JON TESTER",626
+"MT","Toole","30101","3010100000","US Senate","statewide",1903,"Republican","MATT ROSENDALE",1208
+"MT","Toole","30101","3010100000","US Senate","statewide",1903,"Libertarian","RICK BRECKENRIDGE",69
+"MT","Treasure","30103","3010300000","US Senate","statewide",414,"Democrat","JON TESTER",129
+"MT","Treasure","30103","3010300000","US Senate","statewide",414,"Republican","MATT ROSENDALE",279
+"MT","Treasure","30103","3010300000","US Senate","statewide",414,"Libertarian","RICK BRECKENRIDGE",6
+"MT","Valley","30105","3010500000","US Senate","statewide",3882,"Democrat","JON TESTER",1545
+"MT","Valley","30105","3010500000","US Senate","statewide",3882,"Republican","MATT ROSENDALE",2137
+"MT","Valley","30105","3010500000","US Senate","statewide",3882,"Libertarian","RICK BRECKENRIDGE",200
+"MT","Wheatland","30107","3010700000","US Senate","statewide",933,"Democrat","JON TESTER",315
+"MT","Wheatland","30107","3010700000","US Senate","statewide",933,"Republican","MATT ROSENDALE",586
+"MT","Wheatland","30107","3010700000","US Senate","statewide",933,"Libertarian","RICK BRECKENRIDGE",32
+"MT","Wibaux","30109","3010900000","US Senate","statewide",542,"Democrat","JON TESTER",140
+"MT","Wibaux","30109","3010900000","US Senate","statewide",542,"Republican","MATT ROSENDALE",390
+"MT","Wibaux","30109","3010900000","US Senate","statewide",542,"Libertarian","RICK BRECKENRIDGE",12
+"MT","Yellowstone","30111","3011100000","US Senate","statewide",69258,"Democrat","JON TESTER",32225
+"MT","Yellowstone","30111","3011100000","US Senate","statewide",69258,"Republican","MATT ROSENDALE",34682
+"MT","Yellowstone","30111","3011100000","US Senate","statewide",69258,"Libertarian","RICK BRECKENRIDGE",2351

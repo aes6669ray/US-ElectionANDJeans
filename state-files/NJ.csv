@@ -1,0 +1,367 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"NJ","Burlington","34005","3400500000","US House","1",9021,"Republican","Dilks, Paul E",3213
+"NJ","Burlington","34005","3400500000","US House","1",9021,"We Deserve Better","Hamlin, Paul",57
+"NJ","Burlington","34005","3400500000","US House","1",9021,"Your Voice Hard","Kabir, Mohammad",23
+"NJ","Burlington","34005","3400500000","US House","1",9021,"Democrat","Norcross, Donald W",5660
+"NJ","Burlington","34005","3400500000","US House","1",9021,"Libertarian","Shapiro, Robert",68
+"NJ","Camden","34007","3400700000","US House","1",178477,"Republican","Dilks, Paul E",52632
+"NJ","Camden","34007","3400700000","US House","1",178477,"We Deserve Better","Hamlin, Paul",1776
+"NJ","Camden","34007","3400700000","US House","1",178477,"Your Voice Hard","Kabir, Mohammad",781
+"NJ","Camden","34007","3400700000","US House","1",178477,"Democrat","Norcross, Donald W",121634
+"NJ","Camden","34007","3400700000","US House","1",178477,"Libertarian","Shapiro, Robert",1654
+"NJ","Gloucester","34015","3401500000","US House","1",75920,"Republican","Dilks, Paul E",31772
+"NJ","Gloucester","34015","3401500000","US House","1",75920,"We Deserve Better","Hamlin, Paul",535
+"NJ","Gloucester","34015","3401500000","US House","1",75920,"Your Voice Hard","Kabir, Mohammad",180
+"NJ","Gloucester","34015","3401500000","US House","1",75920,"Democrat","Norcross, Donald W",42334
+"NJ","Gloucester","34015","3401500000","US House","1",75920,"Libertarian","Shapiro, Robert",1099
+"NJ","Essex","34013","3401300000","US House","10",121520,"Libertarian","Diroma, Scott",295
+"NJ","Essex","34013","3401300000","US House","10",121520,"C4C 2018","Johnson, Cynthia",720
+"NJ","Essex","34013","3401300000","US House","10",121520,"Republican","Khan, Agha",6983
+"NJ","Essex","34013","3401300000","US House","10",121520,"Never Give Up","Miller, Joanne",1150
+"NJ","Essex","34013","3401300000","US House","10",121520,"Democrat","Payne, Donald M",112372
+"NJ","Hudson","34017","3401700000","US House","10",32021,"Libertarian","Diroma, Scott",175
+"NJ","Hudson","34017","3401700000","US House","10",32021,"C4C 2018","Johnson, Cynthia",840
+"NJ","Hudson","34017","3401700000","US House","10",32021,"Republican","Khan, Agha",4709
+"NJ","Hudson","34017","3401700000","US House","10",32021,"Never Give Up","Miller, Joanne",446
+"NJ","Hudson","34017","3401700000","US House","10",32021,"Democrat","Payne, Donald M",25851
+"NJ","Union","34039","3403900000","US House","10",46618,"Libertarian","Diroma, Scott",137
+"NJ","Union","34039","3403900000","US House","10",46618,"C4C 2018","Johnson, Cynthia",510
+"NJ","Union","34039","3403900000","US House","10",46618,"Republican","Khan, Agha",8499
+"NJ","Union","34039","3403900000","US House","10",46618,"Never Give Up","Miller, Joanne",442
+"NJ","Union","34039","3403900000","US House","10",46618,"Democrat","Payne, Donald M",37030
+"NJ","Essex","34013","3401300000","US House","11",85586,"Honest, Integrity, Compassion","Crook, Robert F.",650
+"NJ","Essex","34013","3401300000","US House","11",85586,"Libertarian","Martinez, Ryan",259
+"NJ","Essex","34013","3401300000","US House","11",85586,"Democrat","Sherrill, Mikie",56669
+"NJ","Essex","34013","3401300000","US House","11",85586,"Republican","Webber, Jay",28008
+"NJ","Morris","34027","3402700000","US House","11",164525,"Honest, Integrity, Compassion","Crook, Robert F.",990
+"NJ","Morris","34027","3402700000","US House","11",164525,"Libertarian","Martinez, Ryan",610
+"NJ","Morris","34027","3402700000","US House","11",164525,"Democrat","Sherrill, Mikie",89881
+"NJ","Morris","34027","3402700000","US House","11",164525,"Republican","Webber, Jay",73044
+"NJ","Passaic","34031","3403100000","US House","11",52462,"Honest, Integrity, Compassion","Crook, Robert F.",246
+"NJ","Passaic","34031","3403100000","US House","11",52462,"Libertarian","Martinez, Ryan",299
+"NJ","Passaic","34031","3403100000","US House","11",52462,"Democrat","Sherrill, Mikie",27484
+"NJ","Passaic","34031","3403100000","US House","11",52462,"Republican","Webber, Jay",24433
+"NJ","Sussex","34037","3403700000","US House","11",21001,"Honest, Integrity, Compassion","Crook, Robert F.",296
+"NJ","Sussex","34037","3403700000","US House","11",21001,"Libertarian","Martinez, Ryan",218
+"NJ","Sussex","34037","3403700000","US House","11",21001,"Democrat","Sherrill, Mikie",9650
+"NJ","Sussex","34037","3403700000","US House","11",21001,"Republican","Webber, Jay",10837
+"NJ","Mercer","34021","3402100000","US House","12",86480,"Republican","Kipnis, Daryl",20157
+"NJ","Mercer","34021","3402100000","US House","12",86480,"Democrat","Watson Coleman, Bonnie",66323
+"NJ","Middlesex","34023","3402300000","US House","12",109211,"Republican","Kipnis, Daryl",43423
+"NJ","Middlesex","34023","3402300000","US House","12",109211,"Democrat","Watson Coleman, Bonnie",65788
+"NJ","Somerset","34035","3403500000","US House","12",31410,"Republican","Kipnis, Daryl",9440
+"NJ","Somerset","34035","3403500000","US House","12",31410,"Democrat","Watson Coleman, Bonnie",21970
+"NJ","Union","34039","3403900000","US House","12",25274,"Republican","Kipnis, Daryl",6021
+"NJ","Union","34039","3403900000","US House","12",25274,"Democrat","Watson Coleman, Bonnie",19253
+"NJ","Atlantic","34001","3400100000","US House","2",93868,"Other","Benfer, William R",335
+"NJ","Atlantic","34001","3400100000","US House","2",93868,"Time for Truth","Fenichel, Steve",591
+"NJ","Atlantic","34001","3400100000","US House","2",93868,"Republican","Grossman, Seth",39118
+"NJ","Atlantic","34001","3400100000","US House","2",93868,"Libertarian","Ordille, John",553
+"NJ","Atlantic","34001","3400100000","US House","2",93868,"Cannot be Bought","Parisi Sanchez, Anthony",354
+"NJ","Atlantic","34001","3400100000","US House","2",93868,"Democrat","Van Drew, Jeff",52917
+"NJ","Burlington","34005","3400500000","US House","2",877,"Other","Benfer, William R",1
+"NJ","Burlington","34005","3400500000","US House","2",877,"Time for Truth","Fenichel, Steve",7
+"NJ","Burlington","34005","3400500000","US House","2",877,"Republican","Grossman, Seth",540
+"NJ","Burlington","34005","3400500000","US House","2",877,"Libertarian","Ordille, John",4
+"NJ","Burlington","34005","3400500000","US House","2",877,"Cannot be Bought","Parisi Sanchez, Anthony",0
+"NJ","Burlington","34005","3400500000","US House","2",877,"Democrat","Van Drew, Jeff",325
+"NJ","Camden","34007","3400700000","US House","2",4188,"Other","Benfer, William R",19
+"NJ","Camden","34007","3400700000","US House","2",4188,"Time for Truth","Fenichel, Steve",7
+"NJ","Camden","34007","3400700000","US House","2",4188,"Republican","Grossman, Seth",2201
+"NJ","Camden","34007","3400700000","US House","2",4188,"Libertarian","Ordille, John",30
+"NJ","Camden","34007","3400700000","US House","2",4188,"Cannot be Bought","Parisi Sanchez, Anthony",37
+"NJ","Camden","34007","3400700000","US House","2",4188,"Democrat","Van Drew, Jeff",1894
+"NJ","Cape May","34009","3400900000","US House","2",41071,"Other","Benfer, William R",67
+"NJ","Cape May","34009","3400900000","US House","2",41071,"Time for Truth","Fenichel, Steve",125
+"NJ","Cape May","34009","3400900000","US House","2",41071,"Republican","Grossman, Seth",19003
+"NJ","Cape May","34009","3400900000","US House","2",41071,"Libertarian","Ordille, John",136
+"NJ","Cape May","34009","3400900000","US House","2",41071,"Cannot be Bought","Parisi Sanchez, Anthony",145
+"NJ","Cape May","34009","3400900000","US House","2",41071,"Democrat","Van Drew, Jeff",21595
+"NJ","Cumberland","34011","3401100000","US House","2",40521,"Other","Benfer, William R",149
+"NJ","Cumberland","34011","3401100000","US House","2",40521,"Time for Truth","Fenichel, Steve",122
+"NJ","Cumberland","34011","3401100000","US House","2",40521,"Republican","Grossman, Seth",15782
+"NJ","Cumberland","34011","3401100000","US House","2",40521,"Libertarian","Ordille, John",332
+"NJ","Cumberland","34011","3401100000","US House","2",40521,"Cannot be Bought","Parisi Sanchez, Anthony",222
+"NJ","Cumberland","34011","3401100000","US House","2",40521,"Democrat","Van Drew, Jeff",23914
+"NJ","Gloucester","34015","3401500000","US House","2",35576,"Other","Benfer, William R",102
+"NJ","Gloucester","34015","3401500000","US House","2",35576,"Time for Truth","Fenichel, Steve",87
+"NJ","Gloucester","34015","3401500000","US House","2",35576,"Republican","Grossman, Seth",16982
+"NJ","Gloucester","34015","3401500000","US House","2",35576,"Libertarian","Ordille, John",350
+"NJ","Gloucester","34015","3401500000","US House","2",35576,"Cannot be Bought","Parisi Sanchez, Anthony",123
+"NJ","Gloucester","34015","3401500000","US House","2",35576,"Democrat","Van Drew, Jeff",17932
+"NJ","Ocean","34029","3402900000","US House","2",18481,"Other","Benfer, William R",24
+"NJ","Ocean","34029","3402900000","US House","2",18481,"Time for Truth","Fenichel, Steve",69
+"NJ","Ocean","34029","3402900000","US House","2",18481,"Republican","Grossman, Seth",11140
+"NJ","Ocean","34029","3402900000","US House","2",18481,"Libertarian","Ordille, John",99
+"NJ","Ocean","34029","3402900000","US House","2",18481,"Cannot be Bought","Parisi Sanchez, Anthony",46
+"NJ","Ocean","34029","3402900000","US House","2",18481,"Democrat","Van Drew, Jeff",7103
+"NJ","Salem","34033","3403300000","US House","2",23781,"Other","Benfer, William R",171
+"NJ","Salem","34033","3403300000","US House","2",23781,"Time for Truth","Fenichel, Steve",146
+"NJ","Salem","34033","3403300000","US House","2",23781,"Republican","Grossman, Seth",12100
+"NJ","Salem","34033","3403300000","US House","2",23781,"Libertarian","Ordille, John",222
+"NJ","Salem","34033","3403300000","US House","2",23781,"Cannot be Bought","Parisi Sanchez, Anthony",137
+"NJ","Salem","34033","3403300000","US House","2",23781,"Democrat","Van Drew, Jeff",11005
+"NJ","Burlington","34005","3400500000","US House","3",178446,"Constitution","Berlinski, Lawrence",1258
+"NJ","Burlington","34005","3400500000","US House","3",178446,"Democrat","Kim, Andy",105909
+"NJ","Burlington","34005","3400500000","US House","3",178446,"Republican","McCarthur, Tom",71279
+"NJ","Ocean","34029","3402900000","US House","3",128429,"Constitution","Berlinski, Lawrence",2644
+"NJ","Ocean","34029","3402900000","US House","3",128429,"Democrat","Kim, Andy",47564
+"NJ","Ocean","34029","3402900000","US House","3",128429,"Republican","McCarthur, Tom",78221
+"NJ","Mercer","34021","3402100000","US House","4",39808,"Check this Column","Reynolds, Brian J",107
+"NJ","Mercer","34021","3402100000","US House","4",39808,"Libertarian","Rufo, Michael",154
+"NJ","Mercer","34021","3402100000","US House","4",39808,"Republican","Smith, Christopher H",19049
+"NJ","Mercer","34021","3402100000","US House","4",39808,"Ed the Barber","Stackhouse, Edward C",470
+"NJ","Mercer","34021","3402100000","US House","4",39808,"The Inclusion Candidate","Stoler, Felicia",185
+"NJ","Mercer","34021","3402100000","US House","4",39808,"Democratic","Welle, Joshua",19795
+"NJ","Mercer","34021","3402100000","US House","4",39808,"Time for Change","Yusufov, Allen",48
+"NJ","Monmouth","34025","3402500000","US House","4",178640,"Check this Column","Reynolds, Brian J",635
+"NJ","Monmouth","34025","3402500000","US House","4",178640,"Libertarian","Rufo, Michael",851
+"NJ","Monmouth","34025","3402500000","US House","4",178640,"Republican","Smith, Christopher H",93491
+"NJ","Monmouth","34025","3402500000","US House","4",178640,"Ed the Barber","Stackhouse, Edward C",405
+"NJ","Monmouth","34025","3402500000","US House","4",178640,"The Inclusion Candidate","Stoler, Felicia",544
+"NJ","Monmouth","34025","3402500000","US House","4",178640,"Democratic","Welle, Joshua",82535
+"NJ","Monmouth","34025","3402500000","US House","4",178640,"Time for Change","Yusufov, Allen",179
+"NJ","Ocean","34029","3402900000","US House","4",75900,"Check this Column","Reynolds, Brian J",109
+"NJ","Ocean","34029","3402900000","US House","4",75900,"Libertarian","Rufo, Michael",382
+"NJ","Ocean","34029","3402900000","US House","4",75900,"Republican","Smith, Christopher H",50525
+"NJ","Ocean","34029","3402900000","US House","4",75900,"Ed the Barber","Stackhouse, Edward C",189
+"NJ","Ocean","34029","3402900000","US House","4",75900,"The Inclusion Candidate","Stoler, Felicia",115
+"NJ","Ocean","34029","3402900000","US House","4",75900,"Democratic","Welle, Joshua",24436
+"NJ","Ocean","34029","3402900000","US House","4",75900,"Time for Change","Yusufov, Allen",144
+"NJ","Bergen","34003","3400300000","US House","5",219173,"Trade, Health, Environment","Goetz, Wendy",977
+"NJ","Bergen","34003","3400300000","US House","5",219173,"Democrat","Gottheimer, Josh",133894
+"NJ","Bergen","34003","3400300000","US House","5",219173,"Republican","McCann, John J Jr.",82869
+"NJ","Bergen","34003","3400300000","US House","5",219173,"Libertarian","Tosone, James",1433
+"NJ","Passaic","34031","3403100000","US House","5",15907,"Trade, Health, Environment","Goetz, Wendy",72
+"NJ","Passaic","34031","3403100000","US House","5",15907,"Democrat","Gottheimer, Josh",7229
+"NJ","Passaic","34031","3403100000","US House","5",15907,"Republican","McCann, John J Jr.",8487
+"NJ","Passaic","34031","3403100000","US House","5",15907,"Libertarian","Tosone, James",119
+"NJ","Sussex","34037","3403700000","US House","5",39972,"Trade, Health, Environment","Goetz, Wendy",510
+"NJ","Sussex","34037","3403700000","US House","5",39972,"Democrat","Gottheimer, Josh",17171
+"NJ","Sussex","34037","3403700000","US House","5",39972,"Republican","McCann, John J Jr.",21946
+"NJ","Sussex","34037","3403700000","US House","5",39972,"Libertarian","Tosone, James",345
+"NJ","Warren","34041","3404100000","US House","5",26771,"Trade, Health, Environment","Goetz, Wendy",348
+"NJ","Warren","34041","3404100000","US House","5",26771,"Democrat","Gottheimer, Josh",11252
+"NJ","Warren","34041","3404100000","US House","5",26771,"Republican","McCann, John J Jr.",14953
+"NJ","Warren","34041","3404100000","US House","5",26771,"Libertarian","Tosone, James",218
+"NJ","Middlesex","34023","3402300000","US House","6",140218,"Democrat","Pallone, Frank Jr",96347
+"NJ","Middlesex","34023","3402300000","US House","6",140218,"Republican","Pezzullo, Richard J",43871
+"NJ","Monmouth","34025","3402500000","US House","6",80977,"Democrat","Pallone, Frank Jr",44405
+"NJ","Monmouth","34025","3402500000","US House","6",80977,"Republican","Pezzullo, Richard J",36572
+"NJ","Essex","34013","3401300000","US House","7",9037,"Republican","Lance, Leonard",2736
+"NJ","Essex","34013","3401300000","US House","7",9037,"Democrat","Malinowski, Tom",6239
+"NJ","Essex","34013","3401300000","US House","7",9037,"Freedom, Responsibility, Action","Mele, Gregg",29
+"NJ","Essex","34013","3401300000","US House","7",9037,"Green","Moxley, Diane",33
+"NJ","Hunterdon","34019","3401900000","US House","7",63285,"Republican","Lance, Leonard",34017
+"NJ","Hunterdon","34019","3401900000","US House","7",63285,"Democrat","Malinowski, Tom",28047
+"NJ","Hunterdon","34019","3401900000","US House","7",63285,"Freedom, Responsibility, Action","Mele, Gregg",597
+"NJ","Hunterdon","34019","3401900000","US House","7",63285,"Green","Moxley, Diane",624
+"NJ","Morris","34027","3402700000","US House","7",49094,"Republican","Lance, Leonard",25263
+"NJ","Morris","34027","3402700000","US House","7",49094,"Democrat","Malinowski, Tom",23103
+"NJ","Morris","34027","3402700000","US House","7",49094,"Freedom, Responsibility, Action","Mele, Gregg",310
+"NJ","Morris","34027","3402700000","US House","7",49094,"Green","Moxley, Diane",418
+"NJ","Somerset","34035","3403500000","US House","7",103776,"Republican","Lance, Leonard",46720
+"NJ","Somerset","34035","3403500000","US House","7",103776,"Democrat","Malinowski, Tom",55478
+"NJ","Somerset","34035","3403500000","US House","7",103776,"Freedom, Responsibility, Action","Mele, Gregg",783
+"NJ","Somerset","34035","3403500000","US House","7",103776,"Green","Moxley, Diane",795
+"NJ","Union","34039","3403900000","US House","7",83928,"Republican","Lance, Leonard",34650
+"NJ","Union","34039","3403900000","US House","7",83928,"Democrat","Malinowski, Tom",48217
+"NJ","Union","34039","3403900000","US House","7",83928,"Freedom, Responsibility, Action","Mele, Gregg",449
+"NJ","Union","34039","3403900000","US House","7",83928,"Green","Moxley, Diane",612
+"NJ","Warren","34041","3404100000","US House","7",13622,"Republican","Lance, Leonard",7399
+"NJ","Warren","34041","3404100000","US House","7",13622,"Democrat","Malinowski, Tom",5901
+"NJ","Warren","34041","3404100000","US House","7",13622,"Freedom, Responsibility, Action","Mele, Gregg",128
+"NJ","Warren","34041","3404100000","US House","7",13622,"Green","Moxley, Diane",194
+"NJ","Bergen","34003","3400300000","US House","8",2406,"Libertarian","Delaney, Dan",37
+"NJ","Bergen","34003","3400300000","US House","8",2406,"New Way Forward","Mahmoud, Mahmoud",42
+"NJ","Bergen","34003","3400300000","US House","8",2406,"Republican","Muniz, John",604
+"NJ","Bergen","34003","3400300000","US House","8",2406,"Democrat","Sires, Albio",1723
+"NJ","Essex","34013","3401300000","US House","8",26803,"Libertarian","Delaney, Dan",152
+"NJ","Essex","34013","3401300000","US House","8",26803,"New Way Forward","Mahmoud, Mahmoud",526
+"NJ","Essex","34013","3401300000","US House","8",26803,"Republican","Muniz, John",5148
+"NJ","Essex","34013","3401300000","US House","8",26803,"Democrat","Sires, Albio",20977
+"NJ","Hudson","34017","3401700000","US House","8",103732,"Libertarian","Delaney, Dan",904
+"NJ","Hudson","34017","3401700000","US House","8",103732,"New Way Forward","Mahmoud, Mahmoud",2758
+"NJ","Hudson","34017","3401700000","US House","8",103732,"Republican","Muniz, John",19281
+"NJ","Hudson","34017","3401700000","US House","8",103732,"Democrat","Sires, Albio",80789
+"NJ","Union","34039","3403900000","US House","8",20514,"Libertarian","Delaney, Dan",98
+"NJ","Union","34039","3403900000","US House","8",20514,"New Way Forward","Mahmoud, Mahmoud",332
+"NJ","Union","34039","3403900000","US House","8",20514,"Republican","Muniz, John",3692
+"NJ","Union","34039","3403900000","US House","8",20514,"Democrat","Sires, Albio",16392
+"NJ","Bergen","34003","3400300000","US House","9",114229,"Libertarian","Belusic, Claudio",1208
+"NJ","Bergen","34003","3400300000","US House","9",114229,"Republican","Fisher, Eric P",38106
+"NJ","Bergen","34003","3400300000","US House","9",114229,"Democrat","Pascrell, Bill Jr",74915
+"NJ","Hudson","34017","3401700000","US House","9",9648,"Libertarian","Belusic, Claudio",77
+"NJ","Hudson","34017","3401700000","US House","9",9648,"Republican","Fisher, Eric P",3216
+"NJ","Hudson","34017","3401700000","US House","9",9648,"Democrat","Pascrell, Bill Jr",6355
+"NJ","Passaic","34031","3403100000","US House","9",76539,"Libertarian","Belusic, Claudio",445
+"NJ","Passaic","34031","3403100000","US House","9",76539,"Republican","Fisher, Eric P",16532
+"NJ","Passaic","34031","3403100000","US House","9",76539,"Democrat","Pascrell, Bill Jr",59562
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"New Day NJ","Flanagan, Tricia",230
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"Green","Hoffman, Madelyn R.",606
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"Republican","Hugin, Bob",45954
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"Make it Simple","Kimple, Kevin",120
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"Democrat","Menendez, Robert",44617
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"For the People","Rivera, Natalie Lynn",1564
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"Libertarian","Sabrin, Murray",569
+"NJ","Atlantic","34001","3400100000","US Senate","statewide",94073,"Economic Growth","Schroeder, Hank",413
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"New Day NJ","Flanagan, Tricia",1084
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"Green","Hoffman, Madelyn R.",1955
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"Republican","Hugin, Bob",146406
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"Make it Simple","Kimple, Kevin",840
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"Democrat","Menendez, Robert",188235
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"For the People","Rivera, Natalie Lynn",1884
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"Libertarian","Sabrin, Murray",3333
+"NJ","Bergen","34003","3400300000","US Senate","statewide",344183,"Economic Growth","Schroeder, Hank",446
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"New Day NJ","Flanagan, Tricia",889
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"Green","Hoffman, Madelyn R.",2745
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"Republican","Hugin, Bob",82240
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"Make it Simple","Kimple, Kevin",467
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"Democrat","Menendez, Robert",98749
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"For the People","Rivera, Natalie Lynn",647
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"Libertarian","Sabrin, Murray",934
+"NJ","Burlington","34005","3400500000","US Senate","statewide",187100,"Economic Growth","Schroeder, Hank",429
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"New Day NJ","Flanagan, Tricia",719
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"Green","Hoffman, Madelyn R.",1559
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"Republican","Hugin, Bob",63279
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"Make it Simple","Kimple, Kevin",332
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"Democrat","Menendez, Robert",113137
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"For the People","Rivera, Natalie Lynn",1659
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"Libertarian","Sabrin, Murray",1132
+"NJ","Camden","34007","3400700000","US Senate","statewide",183016,"Economic Growth","Schroeder, Hank",1199
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"New Day NJ","Flanagan, Tricia",171
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"Green","Hoffman, Madelyn R.",157
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"Republican","Hugin, Bob",24823
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"Make it Simple","Kimple, Kevin",108
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"Democrat","Menendez, Robert",14555
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"For the People","Rivera, Natalie Lynn",577
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"Libertarian","Sabrin, Murray",218
+"NJ","Cape May","34009","3400900000","US Senate","statewide",40677,"Economic Growth","Schroeder, Hank",68
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"New Day NJ","Flanagan, Tricia",264
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"Green","Hoffman, Madelyn R.",224
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"Republican","Hugin, Bob",19244
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"Make it Simple","Kimple, Kevin",142
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"Democrat","Menendez, Robert",19386
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"For the People","Rivera, Natalie Lynn",357
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"Libertarian","Sabrin, Murray",479
+"NJ","Cumberland","34011","3401100000","US Senate","statewide",40147,"Economic Growth","Schroeder, Hank",51
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"New Day NJ","Flanagan, Tricia",1149
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"Green","Hoffman, Madelyn R.",1541
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"Republican","Hugin, Bob",53537
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"Make it Simple","Kimple, Kevin",1268
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"Democrat","Menendez, Robert",194068
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"For the People","Rivera, Natalie Lynn",979
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"Libertarian","Sabrin, Murray",841
+"NJ","Essex","34013","3401300000","US Senate","statewide",253633,"Economic Growth","Schroeder, Hank",250
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"New Day NJ","Flanagan, Tricia",895
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"Green","Hoffman, Madelyn R.",796
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"Republican","Hugin, Bob",56090
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"Make it Simple","Kimple, Kevin",166
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"Democrat","Menendez, Robert",52303
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"For the People","Rivera, Natalie Lynn",710
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"Libertarian","Sabrin, Murray",1563
+"NJ","Gloucester","34015","3401500000","US Senate","statewide",112702,"Economic Growth","Schroeder, Hank",179
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"New Day NJ","Flanagan, Tricia",395
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"Green","Hoffman, Madelyn R.",2187
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"Republican","Hugin, Bob",36087
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"Make it Simple","Kimple, Kevin",198
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"Democrat","Menendez, Robert",132180
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"For the People","Rivera, Natalie Lynn",831
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"Libertarian","Sabrin, Murray",834
+"NJ","Hudson","34017","3401700000","US Senate","statewide",173130,"Economic Growth","Schroeder, Hank",418
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"New Day NJ","Flanagan, Tricia",482
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"Green","Hoffman, Madelyn R.",624
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"Republican","Hugin, Bob",36116
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"Make it Simple","Kimple, Kevin",187
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"Democrat","Menendez, Robert",24823
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"For the People","Rivera, Natalie Lynn",251
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"Libertarian","Sabrin, Murray",558
+"NJ","Hunterdon","34019","3401900000","US Senate","statewide",63134,"Economic Growth","Schroeder, Hank",93
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"New Day NJ","Flanagan, Tricia",1480
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"Green","Hoffman, Madelyn R.",1205
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"Republican","Hugin, Bob",41225
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"Make it Simple","Kimple, Kevin",211
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"Democrat","Menendez, Robert",80773
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"For the People","Rivera, Natalie Lynn",611
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"Libertarian","Sabrin, Murray",866
+"NJ","Mercer","34021","3402100000","US Senate","statewide",126783,"Economic Growth","Schroeder, Hank",412
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"New Day NJ","Flanagan, Tricia",2261
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"Green","Hoffman, Madelyn R.",1795
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"Republican","Hugin, Bob",98764
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"Make it Simple","Kimple, Kevin",472
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"Democrat","Menendez, Robert",148806
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"For the People","Rivera, Natalie Lynn",1585
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"Libertarian","Sabrin, Murray",1476
+"NJ","Middlesex","34023","3402300000","US Senate","statewide",255621,"Economic Growth","Schroeder, Hank",462
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"New Day NJ","Flanagan, Tricia",765
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"Green","Hoffman, Madelyn R.",1944
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"Republican","Hugin, Bob",140628
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"Make it Simple","Kimple, Kevin",1621
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"Democrat","Menendez, Robert",112383
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"For the People","Rivera, Natalie Lynn",919
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"Libertarian","Sabrin, Murray",1835
+"NJ","Monmouth","34025","3402500000","US Senate","statewide",261419,"Economic Growth","Schroeder, Hank",1324
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"New Day NJ","Flanagan, Tricia",429
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"Green","Hoffman, Madelyn R.",1824
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"Republican","Hugin, Bob",114783
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"Make it Simple","Kimple, Kevin",353
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"Democrat","Menendez, Robert",93763
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"For the People","Rivera, Natalie Lynn",2132
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"Libertarian","Sabrin, Murray",1585
+"NJ","Morris","34027","3402700000","US Senate","statewide",215038,"Economic Growth","Schroeder, Hank",169
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"New Day NJ","Flanagan, Tricia",1026
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"Green","Hoffman, Madelyn R.",748
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"Republican","Hugin, Bob",141902
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"Make it Simple","Kimple, Kevin",433
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"Democrat","Menendez, Robert",75597
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"For the People","Rivera, Natalie Lynn",1728
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"Libertarian","Sabrin, Murray",960
+"NJ","Ocean","34029","3402900000","US Senate","statewide",224222,"Economic Growth","Schroeder, Hank",1828
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"New Day NJ","Flanagan, Tricia",1181
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"Green","Hoffman, Madelyn R.",1000
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"Republican","Hugin, Bob",58382
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"Make it Simple","Kimple, Kevin",286
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"Democrat","Menendez, Robert",86242
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"For the People","Rivera, Natalie Lynn",1165
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"Libertarian","Sabrin, Murray",816
+"NJ","Passaic","34031","3403100000","US Senate","statewide",149324,"Economic Growth","Schroeder, Hank",252
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"New Day NJ","Flanagan, Tricia",124
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"Green","Hoffman, Madelyn R.",342
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"Republican","Hugin, Bob",13687
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"Make it Simple","Kimple, Kevin",115
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"Democrat","Menendez, Robert",9060
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"For the People","Rivera, Natalie Lynn",220
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"Libertarian","Sabrin, Murray",223
+"NJ","Salem","34033","3403300000","US Senate","statewide",23815,"Economic Growth","Schroeder, Hank",44
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"New Day NJ","Flanagan, Tricia",1232
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"Green","Hoffman, Madelyn R.",1251
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"Republican","Hugin, Bob",61373
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"Make it Simple","Kimple, Kevin",224
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"Democrat","Menendez, Robert",70359
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"For the People","Rivera, Natalie Lynn",606
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"Libertarian","Sabrin, Murray",924
+"NJ","Somerset","34035","3403500000","US Senate","statewide",136182,"Economic Growth","Schroeder, Hank",213
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"New Day NJ","Flanagan, Tricia",451
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"Green","Hoffman, Madelyn R.",605
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"Republican","Hugin, Bob",37720
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"Make it Simple","Kimple, Kevin",308
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"Democrat","Menendez, Robert",20229
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"For the People","Rivera, Natalie Lynn",473
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"Libertarian","Sabrin, Murray",967
+"NJ","Sussex","34037","3403700000","US Senate","statewide",60875,"Economic Growth","Schroeder, Hank",122
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"New Day NJ","Flanagan, Tricia",507
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"Green","Hoffman, Madelyn R.",1667
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"Republican","Hugin, Bob",60758
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"Make it Simple","Kimple, Kevin",1062
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"Democrat","Menendez, Robert",117937
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"For the People","Rivera, Natalie Lynn",707
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"Libertarian","Sabrin, Murray",733
+"NJ","Union","34039","3403900000","US Senate","statewide",183633,"Economic Growth","Schroeder, Hank",262
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"New Day NJ","Flanagan, Tricia",367
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"Green","Hoffman, Madelyn R.",375
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"Republican","Hugin, Bob",24357
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"Make it Simple","Kimple, Kevin",174
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"Democrat","Menendez, Robert",14452
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"For the People","Rivera, Natalie Lynn",292
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"Libertarian","Sabrin, Murray",366
+"NJ","Warren","34041","3404100000","US Senate","statewide",40603,"Economic Growth","Schroeder, Hank",220

@@ -1,0 +1,463 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"SD","Aurora","46003","4600300000","Governor","statewide",1280,"Libertarian","Evans, Kurt",29
+"SD","Aurora","46003","4600300000","Governor","statewide",1280,"Republican","Noem, Kristi",644
+"SD","Aurora","46003","4600300000","Governor","statewide",1280,"Democrat","Sutton, Billie",607
+"SD","Beadle","46005","4600500000","Governor","statewide",6108,"Libertarian","Evans, Kurt",94
+"SD","Beadle","46005","4600500000","Governor","statewide",6108,"Republican","Noem, Kristi",3182
+"SD","Beadle","46005","4600500000","Governor","statewide",6108,"Democrat","Sutton, Billie",2832
+"SD","Bennett","46007","4600700000","Governor","statewide",1102,"Libertarian","Evans, Kurt",26
+"SD","Bennett","46007","4600700000","Governor","statewide",1102,"Republican","Noem, Kristi",553
+"SD","Bennett","46007","4600700000","Governor","statewide",1102,"Democrat","Sutton, Billie",523
+"SD","Bon Homme","46009","4600900000","Governor","statewide",2747,"Libertarian","Evans, Kurt",36
+"SD","Bon Homme","46009","4600900000","Governor","statewide",2747,"Republican","Noem, Kristi",1303
+"SD","Bon Homme","46009","4600900000","Governor","statewide",2747,"Democrat","Sutton, Billie",1408
+"SD","Brookings","46011","4601100000","Governor","statewide",11780,"Libertarian","Evans, Kurt",183
+"SD","Brookings","46011","4601100000","Governor","statewide",11780,"Republican","Noem, Kristi",5225
+"SD","Brookings","46011","4601100000","Governor","statewide",11780,"Democrat","Sutton, Billie",6372
+"SD","Brown","46013","4601300000","Governor","statewide",14365,"Libertarian","Evans, Kurt",206
+"SD","Brown","46013","4601300000","Governor","statewide",14365,"Republican","Noem, Kristi",6821
+"SD","Brown","46013","4601300000","Governor","statewide",14365,"Democrat","Sutton, Billie",7338
+"SD","Brule","46015","4601500000","Governor","statewide",2130,"Libertarian","Evans, Kurt",36
+"SD","Brule","46015","4601500000","Governor","statewide",2130,"Republican","Noem, Kristi",1103
+"SD","Brule","46015","4601500000","Governor","statewide",2130,"Democrat","Sutton, Billie",991
+"SD","Buffalo","46017","4601700000","Governor","statewide",548,"Libertarian","Evans, Kurt",7
+"SD","Buffalo","46017","4601700000","Governor","statewide",548,"Republican","Noem, Kristi",138
+"SD","Buffalo","46017","4601700000","Governor","statewide",548,"Democrat","Sutton, Billie",403
+"SD","Butte","46019","4601900000","Governor","statewide",3808,"Libertarian","Evans, Kurt",69
+"SD","Butte","46019","4601900000","Governor","statewide",3808,"Republican","Noem, Kristi",2505
+"SD","Butte","46019","4601900000","Governor","statewide",3808,"Democrat","Sutton, Billie",1234
+"SD","Campbell","46021","4602100000","Governor","statewide",732,"Libertarian","Evans, Kurt",9
+"SD","Campbell","46021","4602100000","Governor","statewide",732,"Republican","Noem, Kristi",550
+"SD","Campbell","46021","4602100000","Governor","statewide",732,"Democrat","Sutton, Billie",173
+"SD","Charles Mix","46023","4602300000","Governor","statewide",3552,"Libertarian","Evans, Kurt",38
+"SD","Charles Mix","46023","4602300000","Governor","statewide",3552,"Republican","Noem, Kristi",1661
+"SD","Charles Mix","46023","4602300000","Governor","statewide",3552,"Democrat","Sutton, Billie",1853
+"SD","Clark","46025","4602500000","Governor","statewide",1664,"Libertarian","Evans, Kurt",17
+"SD","Clark","46025","4602500000","Governor","statewide",1664,"Republican","Noem, Kristi",879
+"SD","Clark","46025","4602500000","Governor","statewide",1664,"Democrat","Sutton, Billie",768
+"SD","Clay","46027","4602700000","Governor","statewide",4644,"Libertarian","Evans, Kurt",53
+"SD","Clay","46027","4602700000","Governor","statewide",4644,"Republican","Noem, Kristi",1552
+"SD","Clay","46027","4602700000","Governor","statewide",4644,"Democrat","Sutton, Billie",3039
+"SD","Codington","46029","4602900000","Governor","statewide",10693,"Libertarian","Evans, Kurt",131
+"SD","Codington","46029","4602900000","Governor","statewide",10693,"Republican","Noem, Kristi",5865
+"SD","Codington","46029","4602900000","Governor","statewide",10693,"Democrat","Sutton, Billie",4697
+"SD","Corson","46031","4603100000","Governor","statewide",1110,"Libertarian","Evans, Kurt",17
+"SD","Corson","46031","4603100000","Governor","statewide",1110,"Republican","Noem, Kristi",426
+"SD","Corson","46031","4603100000","Governor","statewide",1110,"Democrat","Sutton, Billie",667
+"SD","Custer","46033","4603300000","Governor","statewide",4409,"Libertarian","Evans, Kurt",73
+"SD","Custer","46033","4603300000","Governor","statewide",4409,"Republican","Noem, Kristi",2789
+"SD","Custer","46033","4603300000","Governor","statewide",4409,"Democrat","Sutton, Billie",1547
+"SD","Davison","46035","4603500000","Governor","statewide",7274,"Libertarian","Evans, Kurt",97
+"SD","Davison","46035","4603500000","Governor","statewide",7274,"Republican","Noem, Kristi",3779
+"SD","Davison","46035","4603500000","Governor","statewide",7274,"Democrat","Sutton, Billie",3398
+"SD","Day","46037","4603700000","Governor","statewide",2777,"Libertarian","Evans, Kurt",39
+"SD","Day","46037","4603700000","Governor","statewide",2777,"Republican","Noem, Kristi",1207
+"SD","Day","46037","4603700000","Governor","statewide",2777,"Democrat","Sutton, Billie",1531
+"SD","Deuel","46039","4603900000","Governor","statewide",1989,"Libertarian","Evans, Kurt",43
+"SD","Deuel","46039","4603900000","Governor","statewide",1989,"Republican","Noem, Kristi",1053
+"SD","Deuel","46039","4603900000","Governor","statewide",1989,"Democrat","Sutton, Billie",893
+"SD","Dewey","46041","4604100000","Governor","statewide",1841,"Libertarian","Evans, Kurt",18
+"SD","Dewey","46041","4604100000","Governor","statewide",1841,"Republican","Noem, Kristi",393
+"SD","Dewey","46041","4604100000","Governor","statewide",1841,"Democrat","Sutton, Billie",1430
+"SD","Douglas","46043","4604300000","Governor","statewide",1496,"Libertarian","Evans, Kurt",13
+"SD","Douglas","46043","4604300000","Governor","statewide",1496,"Republican","Noem, Kristi",1120
+"SD","Douglas","46043","4604300000","Governor","statewide",1496,"Democrat","Sutton, Billie",363
+"SD","Edmunds","46045","4604500000","Governor","statewide",1708,"Libertarian","Evans, Kurt",19
+"SD","Edmunds","46045","4604500000","Governor","statewide",1708,"Republican","Noem, Kristi",1018
+"SD","Edmunds","46045","4604500000","Governor","statewide",1708,"Democrat","Sutton, Billie",671
+"SD","Fall River","46047","4604700000","Governor","statewide",3192,"Libertarian","Evans, Kurt",68
+"SD","Fall River","46047","4604700000","Governor","statewide",3192,"Republican","Noem, Kristi",2059
+"SD","Fall River","46047","4604700000","Governor","statewide",3192,"Democrat","Sutton, Billie",1065
+"SD","Faulk","46049","4604900000","Governor","statewide",1075,"Libertarian","Evans, Kurt",13
+"SD","Faulk","46049","4604900000","Governor","statewide",1075,"Republican","Noem, Kristi",674
+"SD","Faulk","46049","4604900000","Governor","statewide",1075,"Democrat","Sutton, Billie",388
+"SD","Grant","46051","4605100000","Governor","statewide",3220,"Libertarian","Evans, Kurt",52
+"SD","Grant","46051","4605100000","Governor","statewide",3220,"Republican","Noem, Kristi",1780
+"SD","Grant","46051","4605100000","Governor","statewide",3220,"Democrat","Sutton, Billie",1388
+"SD","Gregory","46053","4605300000","Governor","statewide",2153,"Libertarian","Evans, Kurt",17
+"SD","Gregory","46053","4605300000","Governor","statewide",2153,"Republican","Noem, Kristi",1107
+"SD","Gregory","46053","4605300000","Governor","statewide",2153,"Democrat","Sutton, Billie",1029
+"SD","Haakon","46055","4605500000","Governor","statewide",945,"Libertarian","Evans, Kurt",15
+"SD","Haakon","46055","4605500000","Governor","statewide",945,"Republican","Noem, Kristi",734
+"SD","Haakon","46055","4605500000","Governor","statewide",945,"Democrat","Sutton, Billie",196
+"SD","Hamlin","46057","4605700000","Governor","statewide",2716,"Libertarian","Evans, Kurt",29
+"SD","Hamlin","46057","4605700000","Governor","statewide",2716,"Republican","Noem, Kristi",1764
+"SD","Hamlin","46057","4605700000","Governor","statewide",2716,"Democrat","Sutton, Billie",923
+"SD","Hand","46059","4605900000","Governor","statewide",1662,"Libertarian","Evans, Kurt",29
+"SD","Hand","46059","4605900000","Governor","statewide",1662,"Republican","Noem, Kristi",950
+"SD","Hand","46059","4605900000","Governor","statewide",1662,"Democrat","Sutton, Billie",683
+"SD","Hanson","46061","4606100000","Governor","statewide",1610,"Libertarian","Evans, Kurt",18
+"SD","Hanson","46061","4606100000","Governor","statewide",1610,"Republican","Noem, Kristi",945
+"SD","Hanson","46061","4606100000","Governor","statewide",1610,"Democrat","Sutton, Billie",647
+"SD","Harding","46063","4606300000","Governor","statewide",686,"Libertarian","Evans, Kurt",7
+"SD","Harding","46063","4606300000","Governor","statewide",686,"Republican","Noem, Kristi",505
+"SD","Harding","46063","4606300000","Governor","statewide",686,"Democrat","Sutton, Billie",174
+"SD","Hughes","46065","4606500000","Governor","statewide",8007,"Libertarian","Evans, Kurt",114
+"SD","Hughes","46065","4606500000","Governor","statewide",8007,"Republican","Noem, Kristi",3749
+"SD","Hughes","46065","4606500000","Governor","statewide",8007,"Democrat","Sutton, Billie",4144
+"SD","Hutchinson","46067","4606700000","Governor","statewide",3290,"Libertarian","Evans, Kurt",28
+"SD","Hutchinson","46067","4606700000","Governor","statewide",3290,"Republican","Noem, Kristi",2082
+"SD","Hutchinson","46067","4606700000","Governor","statewide",3290,"Democrat","Sutton, Billie",1180
+"SD","Hyde","46069","4606900000","Governor","statewide",660,"Libertarian","Evans, Kurt",5
+"SD","Hyde","46069","4606900000","Governor","statewide",660,"Republican","Noem, Kristi",407
+"SD","Hyde","46069","4606900000","Governor","statewide",660,"Democrat","Sutton, Billie",248
+"SD","Jackson","46071","4607100000","Governor","statewide",987,"Libertarian","Evans, Kurt",20
+"SD","Jackson","46071","4607100000","Governor","statewide",987,"Republican","Noem, Kristi",513
+"SD","Jackson","46071","4607100000","Governor","statewide",987,"Democrat","Sutton, Billie",454
+"SD","Jerauld","46073","4607300000","Governor","statewide",923,"Libertarian","Evans, Kurt",12
+"SD","Jerauld","46073","4607300000","Governor","statewide",923,"Republican","Noem, Kristi",478
+"SD","Jerauld","46073","4607300000","Governor","statewide",923,"Democrat","Sutton, Billie",433
+"SD","Jones","46075","4607500000","Governor","statewide",546,"Libertarian","Evans, Kurt",12
+"SD","Jones","46075","4607500000","Governor","statewide",546,"Republican","Noem, Kristi",361
+"SD","Jones","46075","4607500000","Governor","statewide",546,"Democrat","Sutton, Billie",173
+"SD","Kingsbury","46077","4607700000","Governor","statewide",2455,"Libertarian","Evans, Kurt",41
+"SD","Kingsbury","46077","4607700000","Governor","statewide",2455,"Republican","Noem, Kristi",1303
+"SD","Kingsbury","46077","4607700000","Governor","statewide",2455,"Democrat","Sutton, Billie",1111
+"SD","Lake","46079","4607900000","Governor","statewide",5207,"Libertarian","Evans, Kurt",55
+"SD","Lake","46079","4607900000","Governor","statewide",5207,"Republican","Noem, Kristi",2483
+"SD","Lake","46079","4607900000","Governor","statewide",5207,"Democrat","Sutton, Billie",2669
+"SD","Lawrence","46081","4608100000","Governor","statewide",10898,"Libertarian","Evans, Kurt",239
+"SD","Lawrence","46081","4608100000","Governor","statewide",10898,"Republican","Noem, Kristi",5984
+"SD","Lawrence","46081","4608100000","Governor","statewide",10898,"Democrat","Sutton, Billie",4675
+"SD","Lincoln","46083","4608300000","Governor","statewide",24206,"Libertarian","Evans, Kurt",203
+"SD","Lincoln","46083","4608300000","Governor","statewide",24206,"Republican","Noem, Kristi",12894
+"SD","Lincoln","46083","4608300000","Governor","statewide",24206,"Democrat","Sutton, Billie",11109
+"SD","Lyman","46085","4608500000","Governor","statewide",1400,"Libertarian","Evans, Kurt",27
+"SD","Lyman","46085","4608500000","Governor","statewide",1400,"Republican","Noem, Kristi",691
+"SD","Lyman","46085","4608500000","Governor","statewide",1400,"Democrat","Sutton, Billie",682
+"SD","Marshall","46091","4609100000","Governor","statewide",1977,"Libertarian","Evans, Kurt",31
+"SD","Marshall","46091","4609100000","Governor","statewide",1977,"Republican","Noem, Kristi",853
+"SD","Marshall","46091","4609100000","Governor","statewide",1977,"Democrat","Sutton, Billie",1093
+"SD","McCook","46087","4608700000","Governor","statewide",2497,"Libertarian","Evans, Kurt",39
+"SD","McCook","46087","4608700000","Governor","statewide",2497,"Republican","Noem, Kristi",1375
+"SD","McCook","46087","4608700000","Governor","statewide",2497,"Democrat","Sutton, Billie",1083
+"SD","McPherson","46089","4608900000","Governor","statewide",1054,"Libertarian","Evans, Kurt",16
+"SD","McPherson","46089","4608900000","Governor","statewide",1054,"Republican","Noem, Kristi",729
+"SD","McPherson","46089","4608900000","Governor","statewide",1054,"Democrat","Sutton, Billie",309
+"SD","Meade","46093","4609300000","Governor","statewide",10228,"Libertarian","Evans, Kurt",256
+"SD","Meade","46093","4609300000","Governor","statewide",10228,"Republican","Noem, Kristi",6413
+"SD","Meade","46093","4609300000","Governor","statewide",10228,"Democrat","Sutton, Billie",3559
+"SD","Mellette","46095","4609500000","Governor","statewide",711,"Libertarian","Evans, Kurt",17
+"SD","Mellette","46095","4609500000","Governor","statewide",711,"Republican","Noem, Kristi",299
+"SD","Mellette","46095","4609500000","Governor","statewide",711,"Democrat","Sutton, Billie",395
+"SD","Miner","46097","4609700000","Governor","statewide",1105,"Libertarian","Evans, Kurt",12
+"SD","Miner","46097","4609700000","Governor","statewide",1105,"Republican","Noem, Kristi",523
+"SD","Miner","46097","4609700000","Governor","statewide",1105,"Democrat","Sutton, Billie",570
+"SD","Minnehaha","46099","4609900000","Governor","statewide",70681,"Libertarian","Evans, Kurt",876
+"SD","Minnehaha","46099","4609900000","Governor","statewide",70681,"Republican","Noem, Kristi",32355
+"SD","Minnehaha","46099","4609900000","Governor","statewide",70681,"Democrat","Sutton, Billie",37450
+"SD","Moody","46101","4610100000","Governor","statewide",2853,"Libertarian","Evans, Kurt",44
+"SD","Moody","46101","4610100000","Governor","statewide",2853,"Republican","Noem, Kristi",1340
+"SD","Moody","46101","4610100000","Governor","statewide",2853,"Democrat","Sutton, Billie",1469
+"SD","Oglala Lakota (formerly Shannon)","46102","4610200000","Governor","statewide",3036,"Libertarian","Evans, Kurt",44
+"SD","Oglala Lakota (formerly Shannon)","46102","4610200000","Governor","statewide",3036,"Republican","Noem, Kristi",214
+"SD","Oglala Lakota (formerly Shannon)","46102","4610200000","Governor","statewide",3036,"Democrat","Sutton, Billie",2778
+"SD","Pennington","46103","4610300000","Governor","statewide",41670,"Libertarian","Evans, Kurt",738
+"SD","Pennington","46103","4610300000","Governor","statewide",41670,"Republican","Noem, Kristi",22944
+"SD","Pennington","46103","4610300000","Governor","statewide",41670,"Democrat","Sutton, Billie",17988
+"SD","Perkins","46105","4610500000","Governor","statewide",1344,"Libertarian","Evans, Kurt",23
+"SD","Perkins","46105","4610500000","Governor","statewide",1344,"Republican","Noem, Kristi",953
+"SD","Perkins","46105","4610500000","Governor","statewide",1344,"Democrat","Sutton, Billie",368
+"SD","Potter","46107","4610700000","Governor","statewide",1209,"Libertarian","Evans, Kurt",15
+"SD","Potter","46107","4610700000","Governor","statewide",1209,"Republican","Noem, Kristi",821
+"SD","Potter","46107","4610700000","Governor","statewide",1209,"Democrat","Sutton, Billie",373
+"SD","Roberts","46109","4610900000","Governor","statewide",3745,"Libertarian","Evans, Kurt",40
+"SD","Roberts","46109","4610900000","Governor","statewide",3745,"Republican","Noem, Kristi",1643
+"SD","Roberts","46109","4610900000","Governor","statewide",3745,"Democrat","Sutton, Billie",2062
+"SD","Sanborn","46111","4611100000","Governor","statewide",1028,"Libertarian","Evans, Kurt",16
+"SD","Sanborn","46111","4611100000","Governor","statewide",1028,"Republican","Noem, Kristi",593
+"SD","Sanborn","46111","4611100000","Governor","statewide",1028,"Democrat","Sutton, Billie",419
+"SD","Spink","46115","4611500000","Governor","statewide",2807,"Libertarian","Evans, Kurt",37
+"SD","Spink","46115","4611500000","Governor","statewide",2807,"Republican","Noem, Kristi",1376
+"SD","Spink","46115","4611500000","Governor","statewide",2807,"Democrat","Sutton, Billie",1394
+"SD","Stanley","46117","4611700000","Governor","statewide",1487,"Libertarian","Evans, Kurt",21
+"SD","Stanley","46117","4611700000","Governor","statewide",1487,"Republican","Noem, Kristi",762
+"SD","Stanley","46117","4611700000","Governor","statewide",1487,"Democrat","Sutton, Billie",704
+"SD","Sully","46119","4611900000","Governor","statewide",812,"Libertarian","Evans, Kurt",16
+"SD","Sully","46119","4611900000","Governor","statewide",812,"Republican","Noem, Kristi",500
+"SD","Sully","46119","4611900000","Governor","statewide",812,"Democrat","Sutton, Billie",296
+"SD","Todd","46121","4612100000","Governor","statewide",2241,"Libertarian","Evans, Kurt",20
+"SD","Todd","46121","4612100000","Governor","statewide",2241,"Republican","Noem, Kristi",390
+"SD","Todd","46121","4612100000","Governor","statewide",2241,"Democrat","Sutton, Billie",1831
+"SD","Tripp","46123","4612300000","Governor","statewide",2489,"Libertarian","Evans, Kurt",36
+"SD","Tripp","46123","4612300000","Governor","statewide",2489,"Republican","Noem, Kristi",1430
+"SD","Tripp","46123","4612300000","Governor","statewide",2489,"Democrat","Sutton, Billie",1023
+"SD","Turner","46125","4612500000","Governor","statewide",3867,"Libertarian","Evans, Kurt",39
+"SD","Turner","46125","4612500000","Governor","statewide",3867,"Republican","Noem, Kristi",2272
+"SD","Turner","46125","4612500000","Governor","statewide",3867,"Democrat","Sutton, Billie",1556
+"SD","Union","46127","4612700000","Governor","statewide",6685,"Libertarian","Evans, Kurt",73
+"SD","Union","46127","4612700000","Governor","statewide",6685,"Republican","Noem, Kristi",4068
+"SD","Union","46127","4612700000","Governor","statewide",6685,"Democrat","Sutton, Billie",2544
+"SD","Walworth","46129","4612900000","Governor","statewide",2259,"Libertarian","Evans, Kurt",39
+"SD","Walworth","46129","4612900000","Governor","statewide",2259,"Republican","Noem, Kristi",1468
+"SD","Walworth","46129","4612900000","Governor","statewide",2259,"Democrat","Sutton, Billie",752
+"SD","Yankton","46135","4613500000","Governor","statewide",9012,"Libertarian","Evans, Kurt",134
+"SD","Yankton","46135","4613500000","Governor","statewide",9012,"Republican","Noem, Kristi",4121
+"SD","Yankton","46135","4613500000","Governor","statewide",9012,"Democrat","Sutton, Billie",4757
+"SD","Ziebach","46137","4613700000","Governor","statewide",822,"Libertarian","Evans, Kurt",9
+"SD","Ziebach","46137","4613700000","Governor","statewide",822,"Republican","Noem, Kristi",241
+"SD","Ziebach","46137","4613700000","Governor","statewide",822,"Democrat","Sutton, Billie",572
+"SD","Aurora","46003","4600300000","US House","1",1260,"Democrat","Bjorkman, Tim",443
+"SD","Aurora","46003","4600300000","US House","1",1260,"Republican","Dustin 'Dusty' Johnson",728
+"SD","Aurora","46003","4600300000","US House","1",1260,"Libertarian","Hendrickson, George D",11
+"SD","Aurora","46003","4600300000","US House","1",1260,"Independent","Wieczorek, Ron",78
+"SD","Beadle","46005","4600500000","US House","1",6033,"Democrat","Bjorkman, Tim",1983
+"SD","Beadle","46005","4600500000","US House","1",6033,"Republican","Dustin 'Dusty' Johnson",3825
+"SD","Beadle","46005","4600500000","US House","1",6033,"Libertarian","Hendrickson, George D",74
+"SD","Beadle","46005","4600500000","US House","1",6033,"Independent","Wieczorek, Ron",151
+"SD","Bennett","46007","4600700000","US House","1",1077,"Democrat","Bjorkman, Tim",438
+"SD","Bennett","46007","4600700000","US House","1",1077,"Republican","Dustin 'Dusty' Johnson",604
+"SD","Bennett","46007","4600700000","US House","1",1077,"Libertarian","Hendrickson, George D",14
+"SD","Bennett","46007","4600700000","US House","1",1077,"Independent","Wieczorek, Ron",21
+"SD","Bon Homme","46009","4600900000","US House","1",2711,"Democrat","Bjorkman, Tim",940
+"SD","Bon Homme","46009","4600900000","US House","1",2711,"Republican","Dustin 'Dusty' Johnson",1674
+"SD","Bon Homme","46009","4600900000","US House","1",2711,"Libertarian","Hendrickson, George D",35
+"SD","Bon Homme","46009","4600900000","US House","1",2711,"Independent","Wieczorek, Ron",62
+"SD","Brookings","46011","4601100000","US House","1",11653,"Democrat","Bjorkman, Tim",4717
+"SD","Brookings","46011","4601100000","US House","1",11653,"Republican","Dustin 'Dusty' Johnson",6418
+"SD","Brookings","46011","4601100000","US House","1",11653,"Libertarian","Hendrickson, George D",196
+"SD","Brookings","46011","4601100000","US House","1",11653,"Independent","Wieczorek, Ron",322
+"SD","Brown","46013","4601300000","US House","1",14239,"Democrat","Bjorkman, Tim",5482
+"SD","Brown","46013","4601300000","US House","1",14239,"Republican","Dustin 'Dusty' Johnson",8346
+"SD","Brown","46013","4601300000","US House","1",14239,"Libertarian","Hendrickson, George D",156
+"SD","Brown","46013","4601300000","US House","1",14239,"Independent","Wieczorek, Ron",255
+"SD","Brule","46015","4601500000","US House","1",2123,"Democrat","Bjorkman, Tim",814
+"SD","Brule","46015","4601500000","US House","1",2123,"Republican","Dustin 'Dusty' Johnson",1231
+"SD","Brule","46015","4601500000","US House","1",2123,"Libertarian","Hendrickson, George D",26
+"SD","Brule","46015","4601500000","US House","1",2123,"Independent","Wieczorek, Ron",52
+"SD","Buffalo","46017","4601700000","US House","1",530,"Democrat","Bjorkman, Tim",330
+"SD","Buffalo","46017","4601700000","US House","1",530,"Republican","Dustin 'Dusty' Johnson",172
+"SD","Buffalo","46017","4601700000","US House","1",530,"Libertarian","Hendrickson, George D",7
+"SD","Buffalo","46017","4601700000","US House","1",530,"Independent","Wieczorek, Ron",21
+"SD","Butte","46019","4601900000","US House","1",3784,"Democrat","Bjorkman, Tim",836
+"SD","Butte","46019","4601900000","US House","1",3784,"Republican","Dustin 'Dusty' Johnson",2799
+"SD","Butte","46019","4601900000","US House","1",3784,"Libertarian","Hendrickson, George D",59
+"SD","Butte","46019","4601900000","US House","1",3784,"Independent","Wieczorek, Ron",90
+"SD","Campbell","46021","4602100000","US House","1",725,"Democrat","Bjorkman, Tim",108
+"SD","Campbell","46021","4602100000","US House","1",725,"Republican","Dustin 'Dusty' Johnson",601
+"SD","Campbell","46021","4602100000","US House","1",725,"Libertarian","Hendrickson, George D",7
+"SD","Campbell","46021","4602100000","US House","1",725,"Independent","Wieczorek, Ron",9
+"SD","Charles Mix","46023","4602300000","US House","1",3530,"Democrat","Bjorkman, Tim",1319
+"SD","Charles Mix","46023","4602300000","US House","1",3530,"Republican","Dustin 'Dusty' Johnson",2085
+"SD","Charles Mix","46023","4602300000","US House","1",3530,"Libertarian","Hendrickson, George D",35
+"SD","Charles Mix","46023","4602300000","US House","1",3530,"Independent","Wieczorek, Ron",91
+"SD","Clark","46025","4602500000","US House","1",1649,"Democrat","Bjorkman, Tim",452
+"SD","Clark","46025","4602500000","US House","1",1649,"Republican","Dustin 'Dusty' Johnson",1150
+"SD","Clark","46025","4602500000","US House","1",1649,"Libertarian","Hendrickson, George D",13
+"SD","Clark","46025","4602500000","US House","1",1649,"Independent","Wieczorek, Ron",34
+"SD","Clay","46027","4602700000","US House","1",4607,"Democrat","Bjorkman, Tim",2567
+"SD","Clay","46027","4602700000","US House","1",4607,"Republican","Dustin 'Dusty' Johnson",1906
+"SD","Clay","46027","4602700000","US House","1",4607,"Libertarian","Hendrickson, George D",68
+"SD","Clay","46027","4602700000","US House","1",4607,"Independent","Wieczorek, Ron",66
+"SD","Codington","46029","4602900000","US House","1",10558,"Democrat","Bjorkman, Tim",3144
+"SD","Codington","46029","4602900000","US House","1",10558,"Republican","Dustin 'Dusty' Johnson",7129
+"SD","Codington","46029","4602900000","US House","1",10558,"Libertarian","Hendrickson, George D",125
+"SD","Codington","46029","4602900000","US House","1",10558,"Independent","Wieczorek, Ron",160
+"SD","Corson","46031","4603100000","US House","1",1085,"Democrat","Bjorkman, Tim",557
+"SD","Corson","46031","4603100000","US House","1",1085,"Republican","Dustin 'Dusty' Johnson",484
+"SD","Corson","46031","4603100000","US House","1",1085,"Libertarian","Hendrickson, George D",15
+"SD","Corson","46031","4603100000","US House","1",1085,"Independent","Wieczorek, Ron",29
+"SD","Custer","46033","4603300000","US House","1",4378,"Democrat","Bjorkman, Tim",1273
+"SD","Custer","46033","4603300000","US House","1",4378,"Republican","Dustin 'Dusty' Johnson",2944
+"SD","Custer","46033","4603300000","US House","1",4378,"Libertarian","Hendrickson, George D",62
+"SD","Custer","46033","4603300000","US House","1",4378,"Independent","Wieczorek, Ron",99
+"SD","Davison","46035","4603500000","US House","1",7250,"Democrat","Bjorkman, Tim",2160
+"SD","Davison","46035","4603500000","US House","1",7250,"Republican","Dustin 'Dusty' Johnson",4807
+"SD","Davison","46035","4603500000","US House","1",7250,"Libertarian","Hendrickson, George D",61
+"SD","Davison","46035","4603500000","US House","1",7250,"Independent","Wieczorek, Ron",222
+"SD","Day","46037","4603700000","US House","1",2717,"Democrat","Bjorkman, Tim",1072
+"SD","Day","46037","4603700000","US House","1",2717,"Republican","Dustin 'Dusty' Johnson",1541
+"SD","Day","46037","4603700000","US House","1",2717,"Libertarian","Hendrickson, George D",36
+"SD","Day","46037","4603700000","US House","1",2717,"Independent","Wieczorek, Ron",68
+"SD","Deuel","46039","4603900000","US House","1",1969,"Democrat","Bjorkman, Tim",624
+"SD","Deuel","46039","4603900000","US House","1",1969,"Republican","Dustin 'Dusty' Johnson",1272
+"SD","Deuel","46039","4603900000","US House","1",1969,"Libertarian","Hendrickson, George D",27
+"SD","Deuel","46039","4603900000","US House","1",1969,"Independent","Wieczorek, Ron",46
+"SD","Dewey","46041","4604100000","US House","1",1793,"Democrat","Bjorkman, Tim",1084
+"SD","Dewey","46041","4604100000","US House","1",1793,"Republican","Dustin 'Dusty' Johnson",623
+"SD","Dewey","46041","4604100000","US House","1",1793,"Libertarian","Hendrickson, George D",27
+"SD","Dewey","46041","4604100000","US House","1",1793,"Independent","Wieczorek, Ron",59
+"SD","Douglas","46043","4604300000","US House","1",1494,"Democrat","Bjorkman, Tim",265
+"SD","Douglas","46043","4604300000","US House","1",1494,"Republican","Dustin 'Dusty' Johnson",1162
+"SD","Douglas","46043","4604300000","US House","1",1494,"Libertarian","Hendrickson, George D",13
+"SD","Douglas","46043","4604300000","US House","1",1494,"Independent","Wieczorek, Ron",54
+"SD","Edmunds","46045","4604500000","US House","1",1685,"Democrat","Bjorkman, Tim",488
+"SD","Edmunds","46045","4604500000","US House","1",1685,"Republican","Dustin 'Dusty' Johnson",1147
+"SD","Edmunds","46045","4604500000","US House","1",1685,"Libertarian","Hendrickson, George D",14
+"SD","Edmunds","46045","4604500000","US House","1",1685,"Independent","Wieczorek, Ron",36
+"SD","Fall River","46047","4604700000","US House","1",3183,"Democrat","Bjorkman, Tim",882
+"SD","Fall River","46047","4604700000","US House","1",3183,"Republican","Dustin 'Dusty' Johnson",2149
+"SD","Fall River","46047","4604700000","US House","1",3183,"Libertarian","Hendrickson, George D",69
+"SD","Fall River","46047","4604700000","US House","1",3183,"Independent","Wieczorek, Ron",83
+"SD","Faulk","46049","4604900000","US House","1",1065,"Democrat","Bjorkman, Tim",255
+"SD","Faulk","46049","4604900000","US House","1",1065,"Republican","Dustin 'Dusty' Johnson",780
+"SD","Faulk","46049","4604900000","US House","1",1065,"Libertarian","Hendrickson, George D",15
+"SD","Faulk","46049","4604900000","US House","1",1065,"Independent","Wieczorek, Ron",15
+"SD","Grant","46051","4605100000","US House","1",3189,"Democrat","Bjorkman, Tim",945
+"SD","Grant","46051","4605100000","US House","1",3189,"Republican","Dustin 'Dusty' Johnson",2121
+"SD","Grant","46051","4605100000","US House","1",3189,"Libertarian","Hendrickson, George D",60
+"SD","Grant","46051","4605100000","US House","1",3189,"Independent","Wieczorek, Ron",63
+"SD","Gregory","46053","4605300000","US House","1",2122,"Democrat","Bjorkman, Tim",586
+"SD","Gregory","46053","4605300000","US House","1",2122,"Republican","Dustin 'Dusty' Johnson",1484
+"SD","Gregory","46053","4605300000","US House","1",2122,"Libertarian","Hendrickson, George D",13
+"SD","Gregory","46053","4605300000","US House","1",2122,"Independent","Wieczorek, Ron",39
+"SD","Haakon","46055","4605500000","US House","1",940,"Democrat","Bjorkman, Tim",117
+"SD","Haakon","46055","4605500000","US House","1",940,"Republican","Dustin 'Dusty' Johnson",796
+"SD","Haakon","46055","4605500000","US House","1",940,"Libertarian","Hendrickson, George D",13
+"SD","Haakon","46055","4605500000","US House","1",940,"Independent","Wieczorek, Ron",14
+"SD","Hamlin","46057","4605700000","US House","1",2708,"Democrat","Bjorkman, Tim",695
+"SD","Hamlin","46057","4605700000","US House","1",2708,"Republican","Dustin 'Dusty' Johnson",1939
+"SD","Hamlin","46057","4605700000","US House","1",2708,"Libertarian","Hendrickson, George D",27
+"SD","Hamlin","46057","4605700000","US House","1",2708,"Independent","Wieczorek, Ron",47
+"SD","Hand","46059","4605900000","US House","1",1649,"Democrat","Bjorkman, Tim",429
+"SD","Hand","46059","4605900000","US House","1",1649,"Republican","Dustin 'Dusty' Johnson",1171
+"SD","Hand","46059","4605900000","US House","1",1649,"Libertarian","Hendrickson, George D",15
+"SD","Hand","46059","4605900000","US House","1",1649,"Independent","Wieczorek, Ron",34
+"SD","Hanson","46061","4606100000","US House","1",1596,"Democrat","Bjorkman, Tim",536
+"SD","Hanson","46061","4606100000","US House","1",1596,"Republican","Dustin 'Dusty' Johnson",1022
+"SD","Hanson","46061","4606100000","US House","1",1596,"Libertarian","Hendrickson, George D",7
+"SD","Hanson","46061","4606100000","US House","1",1596,"Independent","Wieczorek, Ron",31
+"SD","Harding","46063","4606300000","US House","1",682,"Democrat","Bjorkman, Tim",94
+"SD","Harding","46063","4606300000","US House","1",682,"Republican","Dustin 'Dusty' Johnson",568
+"SD","Harding","46063","4606300000","US House","1",682,"Libertarian","Hendrickson, George D",9
+"SD","Harding","46063","4606300000","US House","1",682,"Independent","Wieczorek, Ron",11
+"SD","Hughes","46065","4606500000","US House","1",7958,"Democrat","Bjorkman, Tim",2332
+"SD","Hughes","46065","4606500000","US House","1",7958,"Republican","Dustin 'Dusty' Johnson",5366
+"SD","Hughes","46065","4606500000","US House","1",7958,"Libertarian","Hendrickson, George D",85
+"SD","Hughes","46065","4606500000","US House","1",7958,"Independent","Wieczorek, Ron",175
+"SD","Hutchinson","46067","4606700000","US House","1",3270,"Democrat","Bjorkman, Tim",883
+"SD","Hutchinson","46067","4606700000","US House","1",3270,"Republican","Dustin 'Dusty' Johnson",2281
+"SD","Hutchinson","46067","4606700000","US House","1",3270,"Libertarian","Hendrickson, George D",25
+"SD","Hutchinson","46067","4606700000","US House","1",3270,"Independent","Wieczorek, Ron",81
+"SD","Hyde","46069","4606900000","US House","1",653,"Democrat","Bjorkman, Tim",164
+"SD","Hyde","46069","4606900000","US House","1",653,"Republican","Dustin 'Dusty' Johnson",462
+"SD","Hyde","46069","4606900000","US House","1",653,"Libertarian","Hendrickson, George D",8
+"SD","Hyde","46069","4606900000","US House","1",653,"Independent","Wieczorek, Ron",19
+"SD","Jackson","46071","4607100000","US House","1",972,"Democrat","Bjorkman, Tim",370
+"SD","Jackson","46071","4607100000","US House","1",972,"Republican","Dustin 'Dusty' Johnson",575
+"SD","Jackson","46071","4607100000","US House","1",972,"Libertarian","Hendrickson, George D",7
+"SD","Jackson","46071","4607100000","US House","1",972,"Independent","Wieczorek, Ron",20
+"SD","Jerauld","46073","4607300000","US House","1",907,"Democrat","Bjorkman, Tim",312
+"SD","Jerauld","46073","4607300000","US House","1",907,"Republican","Dustin 'Dusty' Johnson",567
+"SD","Jerauld","46073","4607300000","US House","1",907,"Libertarian","Hendrickson, George D",8
+"SD","Jerauld","46073","4607300000","US House","1",907,"Independent","Wieczorek, Ron",20
+"SD","Jones","46075","4607500000","US House","1",542,"Democrat","Bjorkman, Tim",94
+"SD","Jones","46075","4607500000","US House","1",542,"Republican","Dustin 'Dusty' Johnson",420
+"SD","Jones","46075","4607500000","US House","1",542,"Libertarian","Hendrickson, George D",11
+"SD","Jones","46075","4607500000","US House","1",542,"Independent","Wieczorek, Ron",17
+"SD","Kingsbury","46077","4607700000","US House","1",2432,"Democrat","Bjorkman, Tim",855
+"SD","Kingsbury","46077","4607700000","US House","1",2432,"Republican","Dustin 'Dusty' Johnson",1507
+"SD","Kingsbury","46077","4607700000","US House","1",2432,"Libertarian","Hendrickson, George D",26
+"SD","Kingsbury","46077","4607700000","US House","1",2432,"Independent","Wieczorek, Ron",44
+"SD","Lake","46079","4607900000","US House","1",5170,"Democrat","Bjorkman, Tim",1925
+"SD","Lake","46079","4607900000","US House","1",5170,"Republican","Dustin 'Dusty' Johnson",3110
+"SD","Lake","46079","4607900000","US House","1",5170,"Libertarian","Hendrickson, George D",42
+"SD","Lake","46079","4607900000","US House","1",5170,"Independent","Wieczorek, Ron",93
+"SD","Lawrence","46081","4608100000","US House","1",10844,"Democrat","Bjorkman, Tim",3489
+"SD","Lawrence","46081","4608100000","US House","1",10844,"Republican","Dustin 'Dusty' Johnson",6868
+"SD","Lawrence","46081","4608100000","US House","1",10844,"Libertarian","Hendrickson, George D",216
+"SD","Lawrence","46081","4608100000","US House","1",10844,"Independent","Wieczorek, Ron",271
+"SD","Lincoln","46083","4608300000","US House","1",24005,"Democrat","Bjorkman, Tim",8266
+"SD","Lincoln","46083","4608300000","US House","1",24005,"Republican","Dustin 'Dusty' Johnson",15049
+"SD","Lincoln","46083","4608300000","US House","1",24005,"Libertarian","Hendrickson, George D",339
+"SD","Lincoln","46083","4608300000","US House","1",24005,"Independent","Wieczorek, Ron",351
+"SD","Lyman","46085","4608500000","US House","1",1383,"Democrat","Bjorkman, Tim",500
+"SD","Lyman","46085","4608500000","US House","1",1383,"Republican","Dustin 'Dusty' Johnson",830
+"SD","Lyman","46085","4608500000","US House","1",1383,"Libertarian","Hendrickson, George D",21
+"SD","Lyman","46085","4608500000","US House","1",1383,"Independent","Wieczorek, Ron",32
+"SD","Marshall","46091","4609100000","US House","1",1945,"Democrat","Bjorkman, Tim",860
+"SD","Marshall","46091","4609100000","US House","1",1945,"Republican","Dustin 'Dusty' Johnson",1024
+"SD","Marshall","46091","4609100000","US House","1",1945,"Libertarian","Hendrickson, George D",28
+"SD","Marshall","46091","4609100000","US House","1",1945,"Independent","Wieczorek, Ron",33
+"SD","McCook","46087","4608700000","US House","1",2484,"Democrat","Bjorkman, Tim",1047
+"SD","McCook","46087","4608700000","US House","1",2484,"Republican","Dustin 'Dusty' Johnson",1373
+"SD","McCook","46087","4608700000","US House","1",2484,"Libertarian","Hendrickson, George D",20
+"SD","McCook","46087","4608700000","US House","1",2484,"Independent","Wieczorek, Ron",44
+"SD","McPherson","46089","4608900000","US House","1",1047,"Democrat","Bjorkman, Tim",216
+"SD","McPherson","46089","4608900000","US House","1",1047,"Republican","Dustin 'Dusty' Johnson",798
+"SD","McPherson","46089","4608900000","US House","1",1047,"Libertarian","Hendrickson, George D",14
+"SD","McPherson","46089","4608900000","US House","1",1047,"Independent","Wieczorek, Ron",19
+"SD","Meade","46093","4609300000","US House","1",10142,"Democrat","Bjorkman, Tim",2508
+"SD","Meade","46093","4609300000","US House","1",10142,"Republican","Dustin 'Dusty' Johnson",7160
+"SD","Meade","46093","4609300000","US House","1",10142,"Libertarian","Hendrickson, George D",205
+"SD","Meade","46093","4609300000","US House","1",10142,"Independent","Wieczorek, Ron",269
+"SD","Mellette","46095","4609500000","US House","1",699,"Democrat","Bjorkman, Tim",303
+"SD","Mellette","46095","4609500000","US House","1",699,"Republican","Dustin 'Dusty' Johnson",358
+"SD","Mellette","46095","4609500000","US House","1",699,"Libertarian","Hendrickson, George D",22
+"SD","Mellette","46095","4609500000","US House","1",699,"Independent","Wieczorek, Ron",16
+"SD","Miner","46097","4609700000","US House","1",1099,"Democrat","Bjorkman, Tim",413
+"SD","Miner","46097","4609700000","US House","1",1099,"Republican","Dustin 'Dusty' Johnson",642
+"SD","Miner","46097","4609700000","US House","1",1099,"Libertarian","Hendrickson, George D",13
+"SD","Miner","46097","4609700000","US House","1",1099,"Independent","Wieczorek, Ron",31
+"SD","Minnehaha","46099","4609900000","US House","1",69974,"Democrat","Bjorkman, Tim",29365
+"SD","Minnehaha","46099","4609900000","US House","1",69974,"Republican","Dustin 'Dusty' Johnson",38017
+"SD","Minnehaha","46099","4609900000","US House","1",69974,"Libertarian","Hendrickson, George D",1243
+"SD","Minnehaha","46099","4609900000","US House","1",69974,"Independent","Wieczorek, Ron",1349
+"SD","Moody","46101","4610100000","US House","1",2825,"Democrat","Bjorkman, Tim",1090
+"SD","Moody","46101","4610100000","US House","1",2825,"Republican","Dustin 'Dusty' Johnson",1622
+"SD","Moody","46101","4610100000","US House","1",2825,"Libertarian","Hendrickson, George D",41
+"SD","Moody","46101","4610100000","US House","1",2825,"Independent","Wieczorek, Ron",72
+"SD","Oglala Lakota (formerly Shannon)","46102","4610200000","US House","1",2961,"Democrat","Bjorkman, Tim",2473
+"SD","Oglala Lakota (formerly Shannon)","46102","4610200000","US House","1",2961,"Republican","Dustin 'Dusty' Johnson",336
+"SD","Oglala Lakota (formerly Shannon)","46102","4610200000","US House","1",2961,"Libertarian","Hendrickson, George D",48
+"SD","Oglala Lakota (formerly Shannon)","46102","4610200000","US House","1",2961,"Independent","Wieczorek, Ron",104
+"SD","Pennington","46103","4610300000","US House","1",41346,"Democrat","Bjorkman, Tim",14092
+"SD","Pennington","46103","4610300000","US House","1",41346,"Republican","Dustin 'Dusty' Johnson",25433
+"SD","Pennington","46103","4610300000","US House","1",41346,"Libertarian","Hendrickson, George D",728
+"SD","Pennington","46103","4610300000","US House","1",41346,"Independent","Wieczorek, Ron",1093
+"SD","Perkins","46105","4610500000","US House","1",1333,"Democrat","Bjorkman, Tim",224
+"SD","Perkins","46105","4610500000","US House","1",1333,"Republican","Dustin 'Dusty' Johnson",1064
+"SD","Perkins","46105","4610500000","US House","1",1333,"Libertarian","Hendrickson, George D",21
+"SD","Perkins","46105","4610500000","US House","1",1333,"Independent","Wieczorek, Ron",24
+"SD","Potter","46107","4610700000","US House","1",1196,"Democrat","Bjorkman, Tim",248
+"SD","Potter","46107","4610700000","US House","1",1196,"Republican","Dustin 'Dusty' Johnson",923
+"SD","Potter","46107","4610700000","US House","1",1196,"Libertarian","Hendrickson, George D",13
+"SD","Potter","46107","4610700000","US House","1",1196,"Independent","Wieczorek, Ron",12
+"SD","Roberts","46109","4610900000","US House","1",3684,"Democrat","Bjorkman, Tim",1664
+"SD","Roberts","46109","4610900000","US House","1",3684,"Republican","Dustin 'Dusty' Johnson",1915
+"SD","Roberts","46109","4610900000","US House","1",3684,"Libertarian","Hendrickson, George D",34
+"SD","Roberts","46109","4610900000","US House","1",3684,"Independent","Wieczorek, Ron",71
+"SD","Sanborn","46111","4611100000","US House","1",1017,"Democrat","Bjorkman, Tim",292
+"SD","Sanborn","46111","4611100000","US House","1",1017,"Republican","Dustin 'Dusty' Johnson",678
+"SD","Sanborn","46111","4611100000","US House","1",1017,"Libertarian","Hendrickson, George D",11
+"SD","Sanborn","46111","4611100000","US House","1",1017,"Independent","Wieczorek, Ron",36
+"SD","Spink","46115","4611500000","US House","1",2780,"Democrat","Bjorkman, Tim",958
+"SD","Spink","46115","4611500000","US House","1",2780,"Republican","Dustin 'Dusty' Johnson",1736
+"SD","Spink","46115","4611500000","US House","1",2780,"Libertarian","Hendrickson, George D",26
+"SD","Spink","46115","4611500000","US House","1",2780,"Independent","Wieczorek, Ron",60
+"SD","Stanley","46117","4611700000","US House","1",1479,"Democrat","Bjorkman, Tim",377
+"SD","Stanley","46117","4611700000","US House","1",1479,"Republican","Dustin 'Dusty' Johnson",1042
+"SD","Stanley","46117","4611700000","US House","1",1479,"Libertarian","Hendrickson, George D",15
+"SD","Stanley","46117","4611700000","US House","1",1479,"Independent","Wieczorek, Ron",45
+"SD","Sully","46119","4611900000","US House","1",809,"Democrat","Bjorkman, Tim",182
+"SD","Sully","46119","4611900000","US House","1",809,"Republican","Dustin 'Dusty' Johnson",613
+"SD","Sully","46119","4611900000","US House","1",809,"Libertarian","Hendrickson, George D",4
+"SD","Sully","46119","4611900000","US House","1",809,"Independent","Wieczorek, Ron",10
+"SD","Todd","46121","4612100000","US House","1",2195,"Democrat","Bjorkman, Tim",1598
+"SD","Todd","46121","4612100000","US House","1",2195,"Republican","Dustin 'Dusty' Johnson",506
+"SD","Todd","46121","4612100000","US House","1",2195,"Libertarian","Hendrickson, George D",30
+"SD","Todd","46121","4612100000","US House","1",2195,"Independent","Wieczorek, Ron",61
+"SD","Tripp","46123","4612300000","US House","1",2442,"Democrat","Bjorkman, Tim",556
+"SD","Tripp","46123","4612300000","US House","1",2442,"Republican","Dustin 'Dusty' Johnson",1814
+"SD","Tripp","46123","4612300000","US House","1",2442,"Libertarian","Hendrickson, George D",24
+"SD","Tripp","46123","4612300000","US House","1",2442,"Independent","Wieczorek, Ron",48
+"SD","Turner","46125","4612500000","US House","1",3846,"Democrat","Bjorkman, Tim",1262
+"SD","Turner","46125","4612500000","US House","1",3846,"Republican","Dustin 'Dusty' Johnson",2467
+"SD","Turner","46125","4612500000","US House","1",3846,"Libertarian","Hendrickson, George D",47
+"SD","Turner","46125","4612500000","US House","1",3846,"Independent","Wieczorek, Ron",70
+"SD","Union","46127","4612700000","US House","1",6619,"Democrat","Bjorkman, Tim",2152
+"SD","Union","46127","4612700000","US House","1",6619,"Republican","Dustin 'Dusty' Johnson",4282
+"SD","Union","46127","4612700000","US House","1",6619,"Libertarian","Hendrickson, George D",86
+"SD","Union","46127","4612700000","US House","1",6619,"Independent","Wieczorek, Ron",99
+"SD","Walworth","46129","4612900000","US House","1",2244,"Democrat","Bjorkman, Tim",528
+"SD","Walworth","46129","4612900000","US House","1",2244,"Republican","Dustin 'Dusty' Johnson",1648
+"SD","Walworth","46129","4612900000","US House","1",2244,"Libertarian","Hendrickson, George D",28
+"SD","Walworth","46129","4612900000","US House","1",2244,"Independent","Wieczorek, Ron",40
+"SD","Yankton","46135","4613500000","US House","1",8882,"Democrat","Bjorkman, Tim",3383
+"SD","Yankton","46135","4613500000","US House","1",8882,"Republican","Dustin 'Dusty' Johnson",5191
+"SD","Yankton","46135","4613500000","US House","1",8882,"Libertarian","Hendrickson, George D",103
+"SD","Yankton","46135","4613500000","US House","1",8882,"Independent","Wieczorek, Ron",205
+"SD","Ziebach","46137","4613700000","US House","1",797,"Democrat","Bjorkman, Tim",417
+"SD","Ziebach","46137","4613700000","US House","1",797,"Republican","Dustin 'Dusty' Johnson",340
+"SD","Ziebach","46137","4613700000","US House","1",797,"Libertarian","Hendrickson, George D",13
+"SD","Ziebach","46137","4613700000","US House","1",797,"Independent","Wieczorek, Ron",27

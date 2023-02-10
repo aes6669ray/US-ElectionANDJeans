@@ -1,0 +1,58 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"DE","Kent","10001","1000100000","ATTORNEY GENERAL ","statewide",58839,"Democrat","JENNINGS KATHLEEN",31788
+"DE","Kent","10001","1000100000","ATTORNEY GENERAL ","statewide",58839,"Republican","PEPUKAYI SR BERNARD V",27051
+"DE","New Castle","10003","1000300000","ATTORNEY GENERAL ","statewide",206810,"Democrat","JENNINGS KATHLEEN",143443
+"DE","New Castle","10003","1000300000","ATTORNEY GENERAL ","statewide",206810,"Republican","PEPUKAYI SR BERNARD V",63367
+"DE","Sussex","10005","1000500000","ATTORNEY GENERAL ","statewide",90432,"Democrat","JENNINGS KATHLEEN",43120
+"DE","Sussex","10005","1000500000","ATTORNEY GENERAL ","statewide",90432,"Republican","PEPUKAYI SR BERNARD V",47312
+"DE","Kent","10001","1000100000","AUDITOR OF ACCOUNTS ","statewide",58686,"Democrat","MCGUINESS KATHLEEN K",30383
+"DE","Kent","10001","1000100000","AUDITOR OF ACCOUNTS ","statewide",58686,"Republican","SPADOLA JAMES",28303
+"DE","New Castle","10003","1000300000","AUDITOR OF ACCOUNTS ","statewide",206230,"Democrat","MCGUINESS KATHLEEN K",134482
+"DE","New Castle","10003","1000300000","AUDITOR OF ACCOUNTS ","statewide",206230,"Republican","SPADOLA JAMES",71748
+"DE","Sussex","10005","1000500000","AUDITOR OF ACCOUNTS ","statewide",90189,"Democrat","MCGUINESS KATHLEEN K",40759
+"DE","Sussex","10005","1000500000","AUDITOR OF ACCOUNTS ","statewide",90189,"Republican","SPADOLA JAMES",49430
+"DE","Kent","10001","1000100000","STATE TREASURER ","statewide",59080,"Green","CHANDLER DAVID B",1034
+"DE","Kent","10001","1000100000","STATE TREASURER ","statewide",59080,"Democrat","DAVIS COLLEEN",27121
+"DE","Kent","10001","1000100000","STATE TREASURER ","statewide",59080,"Republican","SIMPLER KENNETH A",30925
+"DE","New Castle","10003","1000300000","STATE TREASURER ","statewide",207358,"Green","CHANDLER DAVID B",4127
+"DE","New Castle","10003","1000300000","STATE TREASURER ","statewide",207358,"Democrat","DAVIS COLLEEN",125821
+"DE","New Castle","10003","1000300000","STATE TREASURER ","statewide",207358,"Republican","SIMPLER KENNETH A",77410
+"DE","Sussex","10005","1000500000","STATE TREASURER ","statewide",91104,"Green","CHANDLER DAVID B",1140
+"DE","Sussex","10005","1000500000","STATE TREASURER ","statewide",91104,"Democrat","DAVIS COLLEEN",34298
+"DE","Sussex","10005","1000500000","STATE TREASURER ","statewide",91104,"Republican","SIMPLER KENNETH A",55666
+"DE","Kent","10001","1000100000","US House","1",58248,"","DAVID MARVIN (write-in)",2
+"DE","Kent","10001","1000100000","US House","1",58248,"","JOHNSTON PAUL A. (write-in)",402
+"DE","Kent","10001","1000100000","US House","1",58248,"Democrat","ROCHESTER LISA BLUNT",33162
+"DE","Kent","10001","1000100000","US House","1",58248,"Republican","WALKER SCOTT",24556
+"DE","Kent","10001","1000100000","US House","1",58248,"","WEBB ANDREW C (write-in)",126
+"DE","New Castle","10003","1000300000","US House","1",206717,"","DAVID MARVIN (write-in)",8
+"DE","New Castle","10003","1000300000","US House","1",206717,"","JOHNSTON PAUL A. (write-in)",256
+"DE","New Castle","10003","1000300000","US House","1",206717,"Democrat","ROCHESTER LISA BLUNT",150143
+"DE","New Castle","10003","1000300000","US House","1",206717,"Republican","WALKER SCOTT",56213
+"DE","New Castle","10003","1000300000","US House","1",206717,"","WEBB ANDREW C (write-in)",97
+"DE","Sussex","10005","1000500000","US House","1",89047,"","DAVID MARVIN (write-in)",13
+"DE","Sussex","10005","1000500000","US House","1",89047,"","JOHNSTON PAUL A. (write-in)",177
+"DE","Sussex","10005","1000500000","US House","1",89047,"Democrat","ROCHESTER LISA BLUNT",44048
+"DE","Sussex","10005","1000500000","US House","1",89047,"Republican","WALKER SCOTT",44615
+"DE","Sussex","10005","1000500000","US House","1",89047,"","WEBB ANDREW C (write-in)",194
+"DE","Kent","10001","1000100000","US Senate","statewide",59753,"Republican","ARLETT ROBERT B",27210
+"DE","Kent","10001","1000100000","US Senate","statewide",59753,"Democrat","CARPER THOMAS R",31282
+"DE","Kent","10001","1000100000","US Senate","statewide",59753,"","EVELAND BARRY (write-in)",1
+"DE","Kent","10001","1000100000","US Senate","statewide",59753,"","FARINA PETER TODD (write-in)",0
+"DE","Kent","10001","1000100000","US Senate","statewide",59753,"Libertarian","FROST NADINE M",670
+"DE","Kent","10001","1000100000","US Senate","statewide",59753,"","STOUT MATTHEW WATER (write-in)",2
+"DE","Kent","10001","1000100000","US Senate","statewide",59753,"Green","THEODOROPOULOS DEMITRI G",588
+"DE","New Castle","10003","1000300000","US Senate","statewide",210323,"Republican","ARLETT ROBERT B",59526
+"DE","New Castle","10003","1000300000","US Senate","statewide",210323,"Democrat","CARPER THOMAS R",145428
+"DE","New Castle","10003","1000300000","US Senate","statewide",210323,"","EVELAND BARRY (write-in)",2
+"DE","New Castle","10003","1000300000","US Senate","statewide",210323,"","FARINA PETER TODD (write-in)",7
+"DE","New Castle","10003","1000300000","US Senate","statewide",210323,"Libertarian","FROST NADINE M",2494
+"DE","New Castle","10003","1000300000","US Senate","statewide",210323,"","STOUT MATTHEW WATER (write-in)",2
+"DE","New Castle","10003","1000300000","US Senate","statewide",210323,"Green","THEODOROPOULOS DEMITRI G",2864
+"DE","Sussex","10005","1000500000","US Senate","statewide",92530,"Republican","ARLETT ROBERT B",50391
+"DE","Sussex","10005","1000500000","US Senate","statewide",92530,"Democrat","CARPER THOMAS R",40675
+"DE","Sussex","10005","1000500000","US Senate","statewide",92530,"","EVELAND BARRY (write-in)",0
+"DE","Sussex","10005","1000500000","US Senate","statewide",92530,"","FARINA PETER TODD (write-in)",0
+"DE","Sussex","10005","1000500000","US Senate","statewide",92530,"Libertarian","FROST NADINE M",746
+"DE","Sussex","10005","1000500000","US Senate","statewide",92530,"","STOUT MATTHEW WATER (write-in)",0
+"DE","Sussex","10005","1000500000","US Senate","statewide",92530,"Green","THEODOROPOULOS DEMITRI G",718

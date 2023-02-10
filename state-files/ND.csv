@@ -1,0 +1,372 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"ND","Adams","38001","3800100000","US House","1",1158,"Independent","Charles Tuttle",44
+"ND","Adams","38001","3800100000","US House","1",1158,"Republican","Kelly Armstrong",878
+"ND","Adams","38001","3800100000","US House","1",1158,"Democrat","Mac Schneider",236
+"ND","Adams","38001","3800100000","US House","1",1158,"","write-in",0
+"ND","Barnes","38003","3800300000","US House","1",4985,"Independent","Charles Tuttle",201
+"ND","Barnes","38003","3800300000","US House","1",4985,"Republican","Kelly Armstrong",2785
+"ND","Barnes","38003","3800300000","US House","1",4985,"Democrat","Mac Schneider",1992
+"ND","Barnes","38003","3800300000","US House","1",4985,"","write-in",7
+"ND","Benson","38005","3800500000","US House","1",2243,"Independent","Charles Tuttle",105
+"ND","Benson","38005","3800500000","US House","1",2243,"Republican","Kelly Armstrong",909
+"ND","Benson","38005","3800500000","US House","1",2243,"Democrat","Mac Schneider",1225
+"ND","Benson","38005","3800500000","US House","1",2243,"","write-in",4
+"ND","Billings","38007","3800700000","US House","1",566,"Independent","Charles Tuttle",21
+"ND","Billings","38007","3800700000","US House","1",566,"Republican","Kelly Armstrong",469
+"ND","Billings","38007","3800700000","US House","1",566,"Democrat","Mac Schneider",76
+"ND","Billings","38007","3800700000","US House","1",566,"","write-in",0
+"ND","Bottineau","38009","3800900000","US House","1",3254,"Independent","Charles Tuttle",126
+"ND","Bottineau","38009","3800900000","US House","1",3254,"Republican","Kelly Armstrong",2316
+"ND","Bottineau","38009","3800900000","US House","1",3254,"Democrat","Mac Schneider",806
+"ND","Bottineau","38009","3800900000","US House","1",3254,"","write-in",6
+"ND","Bowman","38011","3801100000","US House","1",1638,"Independent","Charles Tuttle",52
+"ND","Bowman","38011","3801100000","US House","1",1638,"Republican","Kelly Armstrong",1331
+"ND","Bowman","38011","3801100000","US House","1",1638,"Democrat","Mac Schneider",253
+"ND","Bowman","38011","3801100000","US House","1",1638,"","write-in",2
+"ND","Burke","38013","3801300000","US House","1",955,"Independent","Charles Tuttle",24
+"ND","Burke","38013","3801300000","US House","1",955,"Republican","Kelly Armstrong",779
+"ND","Burke","38013","3801300000","US House","1",955,"Democrat","Mac Schneider",151
+"ND","Burke","38013","3801300000","US House","1",955,"","write-in",1
+"ND","Burleigh","38015","3801500000","US House","1",45446,"Independent","Charles Tuttle",1766
+"ND","Burleigh","38015","3801500000","US House","1",45446,"Republican","Kelly Armstrong",30977
+"ND","Burleigh","38015","3801500000","US House","1",45446,"Democrat","Mac Schneider",12623
+"ND","Burleigh","38015","3801500000","US House","1",45446,"","write-in",80
+"ND","Cass","38017","3801700000","US House","1",76189,"Independent","Charles Tuttle",3132
+"ND","Cass","38017","3801700000","US House","1",76189,"Republican","Kelly Armstrong",35255
+"ND","Cass","38017","3801700000","US House","1",76189,"Democrat","Mac Schneider",37664
+"ND","Cass","38017","3801700000","US House","1",76189,"","write-in",138
+"ND","Cavalier","38019","3801900000","US House","1",1927,"Independent","Charles Tuttle",64
+"ND","Cavalier","38019","3801900000","US House","1",1927,"Republican","Kelly Armstrong",1216
+"ND","Cavalier","38019","3801900000","US House","1",1927,"Democrat","Mac Schneider",643
+"ND","Cavalier","38019","3801900000","US House","1",1927,"","write-in",4
+"ND","Dickey","38021","3802100000","US House","1",2154,"Independent","Charles Tuttle",60
+"ND","Dickey","38021","3802100000","US House","1",2154,"Republican","Kelly Armstrong",1375
+"ND","Dickey","38021","3802100000","US House","1",2154,"Democrat","Mac Schneider",718
+"ND","Dickey","38021","3802100000","US House","1",2154,"","write-in",1
+"ND","Divide","38023","3802300000","US House","1",1194,"Independent","Charles Tuttle",44
+"ND","Divide","38023","3802300000","US House","1",1194,"Republican","Kelly Armstrong",859
+"ND","Divide","38023","3802300000","US House","1",1194,"Democrat","Mac Schneider",290
+"ND","Divide","38023","3802300000","US House","1",1194,"","write-in",1
+"ND","Dunn","38025","3802500000","US House","1",2025,"Independent","Charles Tuttle",42
+"ND","Dunn","38025","3802500000","US House","1",2025,"Republican","Kelly Armstrong",1603
+"ND","Dunn","38025","3802500000","US House","1",2025,"Democrat","Mac Schneider",379
+"ND","Dunn","38025","3802500000","US House","1",2025,"","write-in",1
+"ND","Eddy","38027","3802700000","US House","1",1226,"Independent","Charles Tuttle",48
+"ND","Eddy","38027","3802700000","US House","1",1226,"Republican","Kelly Armstrong",718
+"ND","Eddy","38027","3802700000","US House","1",1226,"Democrat","Mac Schneider",459
+"ND","Eddy","38027","3802700000","US House","1",1226,"","write-in",1
+"ND","Emmons","38029","3802900000","US House","1",1826,"Independent","Charles Tuttle",52
+"ND","Emmons","38029","3802900000","US House","1",1826,"Republican","Kelly Armstrong",1508
+"ND","Emmons","38029","3802900000","US House","1",1826,"Democrat","Mac Schneider",262
+"ND","Emmons","38029","3802900000","US House","1",1826,"","write-in",4
+"ND","Foster","38031","3803100000","US House","1",1639,"Independent","Charles Tuttle",53
+"ND","Foster","38031","3803100000","US House","1",1639,"Republican","Kelly Armstrong",1132
+"ND","Foster","38031","3803100000","US House","1",1639,"Democrat","Mac Schneider",450
+"ND","Foster","38031","3803100000","US House","1",1639,"","write-in",4
+"ND","Golden Valley","38033","3803300000","US House","1",871,"Independent","Charles Tuttle",25
+"ND","Golden Valley","38033","3803300000","US House","1",871,"Republican","Kelly Armstrong",721
+"ND","Golden Valley","38033","3803300000","US House","1",871,"Democrat","Mac Schneider",123
+"ND","Golden Valley","38033","3803300000","US House","1",871,"","write-in",2
+"ND","Grand Forks","38035","3803500000","US House","1",27437,"Independent","Charles Tuttle",968
+"ND","Grand Forks","38035","3803500000","US House","1",27437,"Republican","Kelly Armstrong",13137
+"ND","Grand Forks","38035","3803500000","US House","1",27437,"Democrat","Mac Schneider",13293
+"ND","Grand Forks","38035","3803500000","US House","1",27437,"","write-in",39
+"ND","Grant","38037","3803700000","US House","1",1264,"Independent","Charles Tuttle",41
+"ND","Grant","38037","3803700000","US House","1",1264,"Republican","Kelly Armstrong",1011
+"ND","Grant","38037","3803700000","US House","1",1264,"Democrat","Mac Schneider",210
+"ND","Grant","38037","3803700000","US House","1",1264,"","write-in",2
+"ND","Griggs","38039","3803900000","US House","1",1216,"Independent","Charles Tuttle",27
+"ND","Griggs","38039","3803900000","US House","1",1216,"Republican","Kelly Armstrong",782
+"ND","Griggs","38039","3803900000","US House","1",1216,"Democrat","Mac Schneider",407
+"ND","Griggs","38039","3803900000","US House","1",1216,"","write-in",0
+"ND","Hettinger","38041","3804100000","US House","1",1274,"Independent","Charles Tuttle",33
+"ND","Hettinger","38041","3804100000","US House","1",1274,"Republican","Kelly Armstrong",1055
+"ND","Hettinger","38041","3804100000","US House","1",1274,"Democrat","Mac Schneider",184
+"ND","Hettinger","38041","3804100000","US House","1",1274,"","write-in",2
+"ND","Kidder","38043","3804300000","US House","1",1281,"Independent","Charles Tuttle",56
+"ND","Kidder","38043","3804300000","US House","1",1281,"Republican","Kelly Armstrong",989
+"ND","Kidder","38043","3804300000","US House","1",1281,"Democrat","Mac Schneider",235
+"ND","Kidder","38043","3804300000","US House","1",1281,"","write-in",1
+"ND","LaMoure","38045","3804500000","US House","1",2043,"Independent","Charles Tuttle",62
+"ND","LaMoure","38045","3804500000","US House","1",2043,"Republican","Kelly Armstrong",1307
+"ND","LaMoure","38045","3804500000","US House","1",2043,"Democrat","Mac Schneider",674
+"ND","LaMoure","38045","3804500000","US House","1",2043,"","write-in",0
+"ND","Logan","38047","3804700000","US House","1",981,"Independent","Charles Tuttle",28
+"ND","Logan","38047","3804700000","US House","1",981,"Republican","Kelly Armstrong",795
+"ND","Logan","38047","3804700000","US House","1",981,"Democrat","Mac Schneider",157
+"ND","Logan","38047","3804700000","US House","1",981,"","write-in",1
+"ND","McHenry","38049","3804900000","US House","1",2547,"Independent","Charles Tuttle",126
+"ND","McHenry","38049","3804900000","US House","1",2547,"Republican","Kelly Armstrong",1797
+"ND","McHenry","38049","3804900000","US House","1",2547,"Democrat","Mac Schneider",624
+"ND","McHenry","38049","3804900000","US House","1",2547,"","write-in",0
+"ND","McIntosh","38051","3805100000","US House","1",1447,"Independent","Charles Tuttle",51
+"ND","McIntosh","38051","3805100000","US House","1",1447,"Republican","Kelly Armstrong",1098
+"ND","McIntosh","38051","3805100000","US House","1",1447,"Democrat","Mac Schneider",297
+"ND","McIntosh","38051","3805100000","US House","1",1447,"","write-in",1
+"ND","McKenzie","38053","3805300000","US House","1",4122,"Independent","Charles Tuttle",148
+"ND","McKenzie","38053","3805300000","US House","1",4122,"Republican","Kelly Armstrong",3158
+"ND","McKenzie","38053","3805300000","US House","1",4122,"Democrat","Mac Schneider",812
+"ND","McKenzie","38053","3805300000","US House","1",4122,"","write-in",4
+"ND","McLean","38055","3805500000","US House","1",5003,"Independent","Charles Tuttle",195
+"ND","McLean","38055","3805500000","US House","1",5003,"Republican","Kelly Armstrong",3498
+"ND","McLean","38055","3805500000","US House","1",5003,"Democrat","Mac Schneider",1307
+"ND","McLean","38055","3805500000","US House","1",5003,"","write-in",3
+"ND","Mercer","38057","3805700000","US House","1",3943,"Independent","Charles Tuttle",154
+"ND","Mercer","38057","3805700000","US House","1",3943,"Republican","Kelly Armstrong",3040
+"ND","Mercer","38057","3805700000","US House","1",3943,"Democrat","Mac Schneider",746
+"ND","Mercer","38057","3805700000","US House","1",3943,"","write-in",3
+"ND","Morton","38059","3805900000","US House","1",14707,"Independent","Charles Tuttle",693
+"ND","Morton","38059","3805900000","US House","1",14707,"Republican","Kelly Armstrong",10240
+"ND","Morton","38059","3805900000","US House","1",14707,"Democrat","Mac Schneider",3742
+"ND","Morton","38059","3805900000","US House","1",14707,"","write-in",32
+"ND","Mountrail","38061","3806100000","US House","1",3781,"Independent","Charles Tuttle",141
+"ND","Mountrail","38061","3806100000","US House","1",3781,"Republican","Kelly Armstrong",2348
+"ND","Mountrail","38061","3806100000","US House","1",3781,"Democrat","Mac Schneider",1286
+"ND","Mountrail","38061","3806100000","US House","1",3781,"","write-in",6
+"ND","Nelson","38063","3806300000","US House","1",1620,"Independent","Charles Tuttle",49
+"ND","Nelson","38063","3806300000","US House","1",1620,"Republican","Kelly Armstrong",879
+"ND","Nelson","38063","3806300000","US House","1",1620,"Democrat","Mac Schneider",690
+"ND","Nelson","38063","3806300000","US House","1",1620,"","write-in",2
+"ND","Oliver","38065","3806500000","US House","1",970,"Independent","Charles Tuttle",43
+"ND","Oliver","38065","3806500000","US House","1",970,"Republican","Kelly Armstrong",772
+"ND","Oliver","38065","3806500000","US House","1",970,"Democrat","Mac Schneider",154
+"ND","Oliver","38065","3806500000","US House","1",970,"","write-in",1
+"ND","Pembina","38067","3806700000","US House","1",2927,"Independent","Charles Tuttle",85
+"ND","Pembina","38067","3806700000","US House","1",2927,"Republican","Kelly Armstrong",1876
+"ND","Pembina","38067","3806700000","US House","1",2927,"Democrat","Mac Schneider",963
+"ND","Pembina","38067","3806700000","US House","1",2927,"","write-in",3
+"ND","Pierce","38069","3806900000","US House","1",1899,"Independent","Charles Tuttle",61
+"ND","Pierce","38069","3806900000","US House","1",1899,"Republican","Kelly Armstrong",1297
+"ND","Pierce","38069","3806900000","US House","1",1899,"Democrat","Mac Schneider",541
+"ND","Pierce","38069","3806900000","US House","1",1899,"","write-in",0
+"ND","Ramsey","38071","3807100000","US House","1",5009,"Independent","Charles Tuttle",224
+"ND","Ramsey","38071","3807100000","US House","1",5009,"Republican","Kelly Armstrong",2854
+"ND","Ramsey","38071","3807100000","US House","1",5009,"Democrat","Mac Schneider",1919
+"ND","Ramsey","38071","3807100000","US House","1",5009,"","write-in",12
+"ND","Ransom","38073","3807300000","US House","1",2286,"Independent","Charles Tuttle",103
+"ND","Ransom","38073","3807300000","US House","1",2286,"Republican","Kelly Armstrong",1072
+"ND","Ransom","38073","3807300000","US House","1",2286,"Democrat","Mac Schneider",1107
+"ND","Ransom","38073","3807300000","US House","1",2286,"","write-in",4
+"ND","Renville","38075","3807500000","US House","1",1195,"Independent","Charles Tuttle",61
+"ND","Renville","38075","3807500000","US House","1",1195,"Republican","Kelly Armstrong",913
+"ND","Renville","38075","3807500000","US House","1",1195,"Democrat","Mac Schneider",220
+"ND","Renville","38075","3807500000","US House","1",1195,"","write-in",1
+"ND","Richland","38077","3807700000","US House","1",7136,"Independent","Charles Tuttle",311
+"ND","Richland","38077","3807700000","US House","1",7136,"Republican","Kelly Armstrong",3853
+"ND","Richland","38077","3807700000","US House","1",7136,"Democrat","Mac Schneider",2957
+"ND","Richland","38077","3807700000","US House","1",7136,"","write-in",15
+"ND","Rolette","38079","3807900000","US House","1",4915,"Independent","Charles Tuttle",291
+"ND","Rolette","38079","3807900000","US House","1",4915,"Republican","Kelly Armstrong",1292
+"ND","Rolette","38079","3807900000","US House","1",4915,"Democrat","Mac Schneider",3327
+"ND","Rolette","38079","3807900000","US House","1",4915,"","write-in",5
+"ND","Sargent","38081","3808100000","US House","1",1977,"Independent","Charles Tuttle",81
+"ND","Sargent","38081","3808100000","US House","1",1977,"Republican","Kelly Armstrong",962
+"ND","Sargent","38081","3808100000","US House","1",1977,"Democrat","Mac Schneider",931
+"ND","Sargent","38081","3808100000","US House","1",1977,"","write-in",3
+"ND","Sheridan","38083","3808300000","US House","1",788,"Independent","Charles Tuttle",37
+"ND","Sheridan","38083","3808300000","US House","1",788,"Republican","Kelly Armstrong",635
+"ND","Sheridan","38083","3808300000","US House","1",788,"Democrat","Mac Schneider",115
+"ND","Sheridan","38083","3808300000","US House","1",788,"","write-in",1
+"ND","Sioux","38085","3808500000","US House","1",1411,"Independent","Charles Tuttle",108
+"ND","Sioux","38085","3808500000","US House","1",1411,"Republican","Kelly Armstrong",315
+"ND","Sioux","38085","3808500000","US House","1",1411,"Democrat","Mac Schneider",984
+"ND","Sioux","38085","3808500000","US House","1",1411,"","write-in",4
+"ND","Slope","38087","3808700000","US House","1",382,"Independent","Charles Tuttle",10
+"ND","Slope","38087","3808700000","US House","1",382,"Republican","Kelly Armstrong",319
+"ND","Slope","38087","3808700000","US House","1",382,"Democrat","Mac Schneider",53
+"ND","Slope","38087","3808700000","US House","1",382,"","write-in",0
+"ND","Stark","38089","3808900000","US House","1",12148,"Independent","Charles Tuttle",408
+"ND","Stark","38089","3808900000","US House","1",12148,"Republican","Kelly Armstrong",9774
+"ND","Stark","38089","3808900000","US House","1",12148,"Democrat","Mac Schneider",1946
+"ND","Stark","38089","3808900000","US House","1",12148,"","write-in",20
+"ND","Steele","38091","3809100000","US House","1",957,"Independent","Charles Tuttle",30
+"ND","Steele","38091","3809100000","US House","1",957,"Republican","Kelly Armstrong",461
+"ND","Steele","38091","3809100000","US House","1",957,"Democrat","Mac Schneider",465
+"ND","Steele","38091","3809100000","US House","1",957,"","write-in",1
+"ND","Stutsman","38093","3809300000","US House","1",9289,"Independent","Charles Tuttle",373
+"ND","Stutsman","38093","3809300000","US House","1",9289,"Republican","Kelly Armstrong",5784
+"ND","Stutsman","38093","3809300000","US House","1",9289,"Democrat","Mac Schneider",3110
+"ND","Stutsman","38093","3809300000","US House","1",9289,"","write-in",22
+"ND","Towner","38095","3809500000","US House","1",1118,"Independent","Charles Tuttle",37
+"ND","Towner","38095","3809500000","US House","1",1118,"Republican","Kelly Armstrong",666
+"ND","Towner","38095","3809500000","US House","1",1118,"Democrat","Mac Schneider",413
+"ND","Towner","38095","3809500000","US House","1",1118,"","write-in",2
+"ND","Traill","38097","3809700000","US House","1",3701,"Independent","Charles Tuttle",141
+"ND","Traill","38097","3809700000","US House","1",3701,"Republican","Kelly Armstrong",1944
+"ND","Traill","38097","3809700000","US House","1",3701,"Democrat","Mac Schneider",1610
+"ND","Traill","38097","3809700000","US House","1",3701,"","write-in",6
+"ND","Walsh","38099","3809900000","US House","1",4473,"Independent","Charles Tuttle",165
+"ND","Walsh","38099","3809900000","US House","1",4473,"Republican","Kelly Armstrong",2723
+"ND","Walsh","38099","3809900000","US House","1",4473,"Democrat","Mac Schneider",1580
+"ND","Walsh","38099","3809900000","US House","1",4473,"","write-in",5
+"ND","Ward","38101","3810100000","US House","1",23786,"Independent","Charles Tuttle",1277
+"ND","Ward","38101","3810100000","US House","1",23786,"Republican","Kelly Armstrong",16046
+"ND","Ward","38101","3810100000","US House","1",23786,"Democrat","Mac Schneider",6418
+"ND","Ward","38101","3810100000","US House","1",23786,"","write-in",45
+"ND","Wells","38103","3810300000","US House","1",2217,"Independent","Charles Tuttle",89
+"ND","Wells","38103","3810300000","US House","1",2217,"Republican","Kelly Armstrong",1652
+"ND","Wells","38103","3810300000","US House","1",2217,"Democrat","Mac Schneider",476
+"ND","Wells","38103","3810300000","US House","1",2217,"","write-in",0
+"ND","Williams","38105","3810500000","US House","1",10986,"Independent","Charles Tuttle",500
+"ND","Williams","38105","3810500000","US House","1",10986,"Republican","Kelly Armstrong",8393
+"ND","Williams","38105","3810500000","US House","1",10986,"Democrat","Mac Schneider",2074
+"ND","Williams","38105","3810500000","US House","1",10986,"","write-in",19
+"ND","Adams","38001","3800100000","US Senate","statewide",1164,"Democrat","Heidi Heitkamp",364
+"ND","Adams","38001","3800100000","US Senate","statewide",1164,"Republican","Kevin Cramer",796
+"ND","Adams","38001","3800100000","US Senate","statewide",1164,"","write-in",4
+"ND","Barnes","38003","3800300000","US Senate","statewide",5043,"Democrat","Heidi Heitkamp",2517
+"ND","Barnes","38003","3800300000","US Senate","statewide",5043,"Republican","Kevin Cramer",2507
+"ND","Barnes","38003","3800300000","US Senate","statewide",5043,"","write-in",19
+"ND","Benson","38005","3800500000","US Senate","statewide",2267,"Democrat","Heidi Heitkamp",1427
+"ND","Benson","38005","3800500000","US Senate","statewide",2267,"Republican","Kevin Cramer",828
+"ND","Benson","38005","3800500000","US Senate","statewide",2267,"","write-in",12
+"ND","Billings","38007","3800700000","US Senate","statewide",565,"Democrat","Heidi Heitkamp",115
+"ND","Billings","38007","3800700000","US Senate","statewide",565,"Republican","Kevin Cramer",450
+"ND","Billings","38007","3800700000","US Senate","statewide",565,"","write-in",0
+"ND","Bottineau","38009","3800900000","US Senate","statewide",3271,"Democrat","Heidi Heitkamp",1110
+"ND","Bottineau","38009","3800900000","US Senate","statewide",3271,"Republican","Kevin Cramer",2147
+"ND","Bottineau","38009","3800900000","US Senate","statewide",3271,"","write-in",14
+"ND","Bowman","38011","3801100000","US Senate","statewide",1649,"Democrat","Heidi Heitkamp",404
+"ND","Bowman","38011","3801100000","US Senate","statewide",1649,"Republican","Kevin Cramer",1233
+"ND","Bowman","38011","3801100000","US Senate","statewide",1649,"","write-in",12
+"ND","Burke","38013","3801300000","US Senate","statewide",964,"Democrat","Heidi Heitkamp",228
+"ND","Burke","38013","3801300000","US Senate","statewide",964,"Republican","Kevin Cramer",729
+"ND","Burke","38013","3801300000","US Senate","statewide",964,"","write-in",7
+"ND","Burleigh","38015","3801500000","US Senate","statewide",46209,"Democrat","Heidi Heitkamp",17357
+"ND","Burleigh","38015","3801500000","US Senate","statewide",46209,"Republican","Kevin Cramer",28494
+"ND","Burleigh","38015","3801500000","US Senate","statewide",46209,"","write-in",358
+"ND","Cass","38017","3801700000","US Senate","statewide",77427,"Democrat","Heidi Heitkamp",44723
+"ND","Cass","38017","3801700000","US Senate","statewide",77427,"Republican","Kevin Cramer",32217
+"ND","Cass","38017","3801700000","US Senate","statewide",77427,"","write-in",487
+"ND","Cavalier","38019","3801900000","US Senate","statewide",1958,"Democrat","Heidi Heitkamp",765
+"ND","Cavalier","38019","3801900000","US Senate","statewide",1958,"Republican","Kevin Cramer",1181
+"ND","Cavalier","38019","3801900000","US Senate","statewide",1958,"","write-in",12
+"ND","Dickey","38021","3802100000","US Senate","statewide",2170,"Democrat","Heidi Heitkamp",911
+"ND","Dickey","38021","3802100000","US Senate","statewide",2170,"Republican","Kevin Cramer",1253
+"ND","Dickey","38021","3802100000","US Senate","statewide",2170,"","write-in",6
+"ND","Divide","38023","3802300000","US Senate","statewide",1197,"Democrat","Heidi Heitkamp",469
+"ND","Divide","38023","3802300000","US Senate","statewide",1197,"Republican","Kevin Cramer",720
+"ND","Divide","38023","3802300000","US Senate","statewide",1197,"","write-in",8
+"ND","Dunn","38025","3802500000","US Senate","statewide",2034,"Democrat","Heidi Heitkamp",525
+"ND","Dunn","38025","3802500000","US Senate","statewide",2034,"Republican","Kevin Cramer",1499
+"ND","Dunn","38025","3802500000","US Senate","statewide",2034,"","write-in",10
+"ND","Eddy","38027","3802700000","US Senate","statewide",1234,"Democrat","Heidi Heitkamp",555
+"ND","Eddy","38027","3802700000","US Senate","statewide",1234,"Republican","Kevin Cramer",675
+"ND","Eddy","38027","3802700000","US Senate","statewide",1234,"","write-in",4
+"ND","Emmons","38029","3802900000","US Senate","statewide",1835,"Democrat","Heidi Heitkamp",391
+"ND","Emmons","38029","3802900000","US Senate","statewide",1835,"Republican","Kevin Cramer",1433
+"ND","Emmons","38029","3802900000","US Senate","statewide",1835,"","write-in",11
+"ND","Foster","38031","3803100000","US Senate","statewide",1654,"Democrat","Heidi Heitkamp",588
+"ND","Foster","38031","3803100000","US Senate","statewide",1654,"Republican","Kevin Cramer",1052
+"ND","Foster","38031","3803100000","US Senate","statewide",1654,"","write-in",14
+"ND","Golden Valley","38033","3803300000","US Senate","statewide",880,"Democrat","Heidi Heitkamp",171
+"ND","Golden Valley","38033","3803300000","US Senate","statewide",880,"Republican","Kevin Cramer",704
+"ND","Golden Valley","38033","3803300000","US Senate","statewide",880,"","write-in",5
+"ND","Grand Forks","38035","3803500000","US Senate","statewide",27936,"Democrat","Heidi Heitkamp",14827
+"ND","Grand Forks","38035","3803500000","US Senate","statewide",27936,"Republican","Kevin Cramer",12952
+"ND","Grand Forks","38035","3803500000","US Senate","statewide",27936,"","write-in",157
+"ND","Grant","38037","3803700000","US Senate","statewide",1268,"Democrat","Heidi Heitkamp",337
+"ND","Grant","38037","3803700000","US Senate","statewide",1268,"Republican","Kevin Cramer",925
+"ND","Grant","38037","3803700000","US Senate","statewide",1268,"","write-in",6
+"ND","Griggs","38039","3803900000","US Senate","statewide",1226,"Democrat","Heidi Heitkamp",534
+"ND","Griggs","38039","3803900000","US Senate","statewide",1226,"Republican","Kevin Cramer",688
+"ND","Griggs","38039","3803900000","US Senate","statewide",1226,"","write-in",4
+"ND","Hettinger","38041","3804100000","US Senate","statewide",1269,"Democrat","Heidi Heitkamp",274
+"ND","Hettinger","38041","3804100000","US Senate","statewide",1269,"Republican","Kevin Cramer",988
+"ND","Hettinger","38041","3804100000","US Senate","statewide",1269,"","write-in",7
+"ND","Kidder","38043","3804300000","US Senate","statewide",1280,"Democrat","Heidi Heitkamp",364
+"ND","Kidder","38043","3804300000","US Senate","statewide",1280,"Republican","Kevin Cramer",911
+"ND","Kidder","38043","3804300000","US Senate","statewide",1280,"","write-in",5
+"ND","LaMoure","38045","3804500000","US Senate","statewide",2069,"Democrat","Heidi Heitkamp",857
+"ND","LaMoure","38045","3804500000","US Senate","statewide",2069,"Republican","Kevin Cramer",1203
+"ND","LaMoure","38045","3804500000","US Senate","statewide",2069,"","write-in",9
+"ND","Logan","38047","3804700000","US Senate","statewide",977,"Democrat","Heidi Heitkamp",228
+"ND","Logan","38047","3804700000","US Senate","statewide",977,"Republican","Kevin Cramer",741
+"ND","Logan","38047","3804700000","US Senate","statewide",977,"","write-in",8
+"ND","McHenry","38049","3804900000","US Senate","statewide",2553,"Democrat","Heidi Heitkamp",879
+"ND","McHenry","38049","3804900000","US Senate","statewide",2553,"Republican","Kevin Cramer",1659
+"ND","McHenry","38049","3804900000","US Senate","statewide",2553,"","write-in",15
+"ND","McIntosh","38051","3805100000","US Senate","statewide",1455,"Democrat","Heidi Heitkamp",467
+"ND","McIntosh","38051","3805100000","US Senate","statewide",1455,"Republican","Kevin Cramer",982
+"ND","McIntosh","38051","3805100000","US Senate","statewide",1455,"","write-in",6
+"ND","McKenzie","38053","3805300000","US Senate","statewide",4193,"Democrat","Heidi Heitkamp",1167
+"ND","McKenzie","38053","3805300000","US Senate","statewide",4193,"Republican","Kevin Cramer",3012
+"ND","McKenzie","38053","3805300000","US Senate","statewide",4193,"","write-in",14
+"ND","McLean","38055","3805500000","US Senate","statewide",5050,"Democrat","Heidi Heitkamp",1701
+"ND","McLean","38055","3805500000","US Senate","statewide",5050,"Republican","Kevin Cramer",3320
+"ND","McLean","38055","3805500000","US Senate","statewide",5050,"","write-in",29
+"ND","Mercer","38057","3805700000","US Senate","statewide",4024,"Democrat","Heidi Heitkamp",1061
+"ND","Mercer","38057","3805700000","US Senate","statewide",4024,"Republican","Kevin Cramer",2941
+"ND","Mercer","38057","3805700000","US Senate","statewide",4024,"","write-in",22
+"ND","Morton","38059","3805900000","US Senate","statewide",14896,"Democrat","Heidi Heitkamp",5175
+"ND","Morton","38059","3805900000","US Senate","statewide",14896,"Republican","Kevin Cramer",9583
+"ND","Morton","38059","3805900000","US Senate","statewide",14896,"","write-in",138
+"ND","Mountrail","38061","3806100000","US Senate","statewide",3820,"Democrat","Heidi Heitkamp",1605
+"ND","Mountrail","38061","3806100000","US Senate","statewide",3820,"Republican","Kevin Cramer",2208
+"ND","Mountrail","38061","3806100000","US Senate","statewide",3820,"","write-in",7
+"ND","Nelson","38063","3806300000","US Senate","statewide",1647,"Democrat","Heidi Heitkamp",866
+"ND","Nelson","38063","3806300000","US Senate","statewide",1647,"Republican","Kevin Cramer",770
+"ND","Nelson","38063","3806300000","US Senate","statewide",1647,"","write-in",11
+"ND","Oliver","38065","3806500000","US Senate","statewide",972,"Democrat","Heidi Heitkamp",250
+"ND","Oliver","38065","3806500000","US Senate","statewide",972,"Republican","Kevin Cramer",717
+"ND","Oliver","38065","3806500000","US Senate","statewide",972,"","write-in",5
+"ND","Pembina","38067","3806700000","US Senate","statewide",2962,"Democrat","Heidi Heitkamp",1132
+"ND","Pembina","38067","3806700000","US Senate","statewide",2962,"Republican","Kevin Cramer",1814
+"ND","Pembina","38067","3806700000","US Senate","statewide",2962,"","write-in",16
+"ND","Pierce","38069","3806900000","US Senate","statewide",1888,"Democrat","Heidi Heitkamp",711
+"ND","Pierce","38069","3806900000","US Senate","statewide",1888,"Republican","Kevin Cramer",1168
+"ND","Pierce","38069","3806900000","US Senate","statewide",1888,"","write-in",9
+"ND","Ramsey","38071","3807100000","US Senate","statewide",5057,"Democrat","Heidi Heitkamp",2336
+"ND","Ramsey","38071","3807100000","US Senate","statewide",5057,"Republican","Kevin Cramer",2668
+"ND","Ramsey","38071","3807100000","US Senate","statewide",5057,"","write-in",53
+"ND","Ransom","38073","3807300000","US Senate","statewide",2310,"Democrat","Heidi Heitkamp",1399
+"ND","Ransom","38073","3807300000","US Senate","statewide",2310,"Republican","Kevin Cramer",890
+"ND","Ransom","38073","3807300000","US Senate","statewide",2310,"","write-in",21
+"ND","Renville","38075","3807500000","US Senate","statewide",1193,"Democrat","Heidi Heitkamp",356
+"ND","Renville","38075","3807500000","US Senate","statewide",1193,"Republican","Kevin Cramer",832
+"ND","Renville","38075","3807500000","US Senate","statewide",1193,"","write-in",5
+"ND","Richland","38077","3807700000","US Senate","statewide",7307,"Democrat","Heidi Heitkamp",3943
+"ND","Richland","38077","3807700000","US Senate","statewide",7307,"Republican","Kevin Cramer",3316
+"ND","Richland","38077","3807700000","US Senate","statewide",7307,"","write-in",48
+"ND","Rolette","38079","3807900000","US Senate","statewide",5045,"Democrat","Heidi Heitkamp",4042
+"ND","Rolette","38079","3807900000","US Senate","statewide",5045,"Republican","Kevin Cramer",993
+"ND","Rolette","38079","3807900000","US Senate","statewide",5045,"","write-in",10
+"ND","Sargent","38081","3808100000","US Senate","statewide",2002,"Democrat","Heidi Heitkamp",1171
+"ND","Sargent","38081","3808100000","US Senate","statewide",2002,"Republican","Kevin Cramer",821
+"ND","Sargent","38081","3808100000","US Senate","statewide",2002,"","write-in",10
+"ND","Sheridan","38083","3808300000","US Senate","statewide",789,"Democrat","Heidi Heitkamp",179
+"ND","Sheridan","38083","3808300000","US Senate","statewide",789,"Republican","Kevin Cramer",607
+"ND","Sheridan","38083","3808300000","US Senate","statewide",789,"","write-in",3
+"ND","Sioux","38085","3808500000","US Senate","statewide",1446,"Democrat","Heidi Heitkamp",1211
+"ND","Sioux","38085","3808500000","US Senate","statewide",1446,"Republican","Kevin Cramer",221
+"ND","Sioux","38085","3808500000","US Senate","statewide",1446,"","write-in",14
+"ND","Slope","38087","3808700000","US Senate","statewide",381,"Democrat","Heidi Heitkamp",73
+"ND","Slope","38087","3808700000","US Senate","statewide",381,"Republican","Kevin Cramer",307
+"ND","Slope","38087","3808700000","US Senate","statewide",381,"","write-in",1
+"ND","Stark","38089","3808900000","US Senate","statewide",12166,"Democrat","Heidi Heitkamp",3151
+"ND","Stark","38089","3808900000","US Senate","statewide",12166,"Republican","Kevin Cramer",8945
+"ND","Stark","38089","3808900000","US Senate","statewide",12166,"","write-in",70
+"ND","Steele","38091","3809100000","US Senate","statewide",960,"Democrat","Heidi Heitkamp",557
+"ND","Steele","38091","3809100000","US Senate","statewide",960,"Republican","Kevin Cramer",399
+"ND","Steele","38091","3809100000","US Senate","statewide",960,"","write-in",4
+"ND","Stutsman","38093","3809300000","US Senate","statewide",9583,"Democrat","Heidi Heitkamp",4027
+"ND","Stutsman","38093","3809300000","US Senate","statewide",9583,"Republican","Kevin Cramer",5489
+"ND","Stutsman","38093","3809300000","US Senate","statewide",9583,"","write-in",67
+"ND","Towner","38095","3809500000","US Senate","statewide",1127,"Democrat","Heidi Heitkamp",497
+"ND","Towner","38095","3809500000","US Senate","statewide",1127,"Republican","Kevin Cramer",624
+"ND","Towner","38095","3809500000","US Senate","statewide",1127,"","write-in",6
+"ND","Traill","38097","3809700000","US Senate","statewide",3742,"Democrat","Heidi Heitkamp",1988
+"ND","Traill","38097","3809700000","US Senate","statewide",3742,"Republican","Kevin Cramer",1735
+"ND","Traill","38097","3809700000","US Senate","statewide",3742,"","write-in",19
+"ND","Walsh","38099","3809900000","US Senate","statewide",4512,"Democrat","Heidi Heitkamp",1937
+"ND","Walsh","38099","3809900000","US Senate","statewide",4512,"Republican","Kevin Cramer",2550
+"ND","Walsh","38099","3809900000","US Senate","statewide",4512,"","write-in",25
+"ND","Ward","38101","3810100000","US Senate","statewide",24128,"Democrat","Heidi Heitkamp",8856
+"ND","Ward","38101","3810100000","US Senate","statewide",24128,"Republican","Kevin Cramer",15105
+"ND","Ward","38101","3810100000","US Senate","statewide",24128,"","write-in",167
+"ND","Wells","38103","3810300000","US Senate","statewide",2233,"Democrat","Heidi Heitkamp",622
+"ND","Wells","38103","3810300000","US Senate","statewide",2233,"Republican","Kevin Cramer",1601
+"ND","Wells","38103","3810300000","US Senate","statewide",2233,"","write-in",10
+"ND","Williams","38105","3810500000","US Senate","statewide",11151,"Democrat","Heidi Heitkamp",2976
+"ND","Williams","38105","3810500000","US Senate","statewide",11151,"Republican","Kevin Cramer",8117
+"ND","Williams","38105","3810500000","US Senate","statewide",11151,"","write-in",58

@@ -1,0 +1,1505 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"KS","Allen","20001","2000100000","Attorney General","statewide",4428,"Republican","Derek Schmidt",3228
+"KS","Allen","20001","2000100000","Attorney General","statewide",4428,"Democrat","Sarah G. Swain",1200
+"KS","Anderson","20003","2000300000","Attorney General","statewide",2700,"Republican","Derek Schmidt",1983
+"KS","Anderson","20003","2000300000","Attorney General","statewide",2700,"Democrat","Sarah G. Swain",717
+"KS","Atchison","20005","2000500000","Attorney General","statewide",5379,"Republican","Derek Schmidt",3321
+"KS","Atchison","20005","2000500000","Attorney General","statewide",5379,"Democrat","Sarah G. Swain",2058
+"KS","Barber","20007","2000700000","Attorney General","statewide",1722,"Republican","Derek Schmidt",1460
+"KS","Barber","20007","2000700000","Attorney General","statewide",1722,"Democrat","Sarah G. Swain",262
+"KS","Barton","20009","2000900000","Attorney General","statewide",8471,"Republican","Derek Schmidt",6665
+"KS","Barton","20009","2000900000","Attorney General","statewide",8471,"Democrat","Sarah G. Swain",1806
+"KS","Bourbon","20011","2001100000","Attorney General","statewide",4916,"Republican","Derek Schmidt",3513
+"KS","Bourbon","20011","2001100000","Attorney General","statewide",4916,"Democrat","Sarah G. Swain",1403
+"KS","Brown","20013","2001300000","Attorney General","statewide",3371,"Republican","Derek Schmidt",2576
+"KS","Brown","20013","2001300000","Attorney General","statewide",3371,"Democrat","Sarah G. Swain",795
+"KS","Butler","20015","2001500000","Attorney General","statewide",23633,"Republican","Derek Schmidt",16792
+"KS","Butler","20015","2001500000","Attorney General","statewide",23633,"Democrat","Sarah G. Swain",6841
+"KS","Chase","20017","2001700000","Attorney General","statewide",1171,"Republican","Derek Schmidt",890
+"KS","Chase","20017","2001700000","Attorney General","statewide",1171,"Democrat","Sarah G. Swain",281
+"KS","Chautauqua","20019","2001900000","Attorney General","statewide",1134,"Republican","Derek Schmidt",981
+"KS","Chautauqua","20019","2001900000","Attorney General","statewide",1134,"Democrat","Sarah G. Swain",153
+"KS","Cherokee","20021","2002100000","Attorney General","statewide",6959,"Republican","Derek Schmidt",4894
+"KS","Cherokee","20021","2002100000","Attorney General","statewide",6959,"Democrat","Sarah G. Swain",2065
+"KS","Cheyenne","20023","2002300000","Attorney General","statewide",1093,"Republican","Derek Schmidt",923
+"KS","Cheyenne","20023","2002300000","Attorney General","statewide",1093,"Democrat","Sarah G. Swain",170
+"KS","Clark","20025","2002500000","Attorney General","statewide",828,"Republican","Derek Schmidt",704
+"KS","Clark","20025","2002500000","Attorney General","statewide",828,"Democrat","Sarah G. Swain",124
+"KS","Clay","20027","2002700000","Attorney General","statewide",3141,"Republican","Derek Schmidt",2517
+"KS","Clay","20027","2002700000","Attorney General","statewide",3141,"Democrat","Sarah G. Swain",624
+"KS","Cloud","20029","2002900000","Attorney General","statewide",3194,"Republican","Derek Schmidt",2465
+"KS","Cloud","20029","2002900000","Attorney General","statewide",3194,"Democrat","Sarah G. Swain",729
+"KS","Coffey","20031","2003100000","Attorney General","statewide",3449,"Republican","Derek Schmidt",2785
+"KS","Coffey","20031","2003100000","Attorney General","statewide",3449,"Democrat","Sarah G. Swain",664
+"KS","Comanche","20033","2003300000","Attorney General","statewide",709,"Republican","Derek Schmidt",597
+"KS","Comanche","20033","2003300000","Attorney General","statewide",709,"Democrat","Sarah G. Swain",112
+"KS","Cowley","20035","2003500000","Attorney General","statewide",10445,"Republican","Derek Schmidt",7127
+"KS","Cowley","20035","2003500000","Attorney General","statewide",10445,"Democrat","Sarah G. Swain",3318
+"KS","Crawford","20037","2003700000","Attorney General","statewide",12722,"Republican","Derek Schmidt",7256
+"KS","Crawford","20037","2003700000","Attorney General","statewide",12722,"Democrat","Sarah G. Swain",5466
+"KS","Decatur","20039","2003900000","Attorney General","statewide",1119,"Republican","Derek Schmidt",954
+"KS","Decatur","20039","2003900000","Attorney General","statewide",1119,"Democrat","Sarah G. Swain",165
+"KS","Dickinson","20041","2004100000","Attorney General","statewide",6707,"Republican","Derek Schmidt",5071
+"KS","Dickinson","20041","2004100000","Attorney General","statewide",6707,"Democrat","Sarah G. Swain",1636
+"KS","Doniphan","20043","2004300000","Attorney General","statewide",2520,"Republican","Derek Schmidt",1918
+"KS","Doniphan","20043","2004300000","Attorney General","statewide",2520,"Democrat","Sarah G. Swain",602
+"KS","Douglas","20045","2004500000","Attorney General","statewide",48613,"Republican","Derek Schmidt",16188
+"KS","Douglas","20045","2004500000","Attorney General","statewide",48613,"Democrat","Sarah G. Swain",32425
+"KS","Edwards","20047","2004700000","Attorney General","statewide",1142,"Republican","Derek Schmidt",940
+"KS","Edwards","20047","2004700000","Attorney General","statewide",1142,"Democrat","Sarah G. Swain",202
+"KS","Elk","20049","2004900000","Attorney General","statewide",1050,"Republican","Derek Schmidt",916
+"KS","Elk","20049","2004900000","Attorney General","statewide",1050,"Democrat","Sarah G. Swain",134
+"KS","Ellis","20051","2005100000","Attorney General","statewide",10271,"Republican","Derek Schmidt",7416
+"KS","Ellis","20051","2005100000","Attorney General","statewide",10271,"Democrat","Sarah G. Swain",2855
+"KS","Ellsworth","20053","2005300000","Attorney General","statewide",2249,"Republican","Derek Schmidt",1746
+"KS","Ellsworth","20053","2005300000","Attorney General","statewide",2249,"Democrat","Sarah G. Swain",503
+"KS","Finney","20055","2005500000","Attorney General","statewide",8446,"Republican","Derek Schmidt",5513
+"KS","Finney","20055","2005500000","Attorney General","statewide",8446,"Democrat","Sarah G. Swain",2933
+"KS","Ford","20057","2005700000","Attorney General","statewide",7001,"Republican","Derek Schmidt",4695
+"KS","Ford","20057","2005700000","Attorney General","statewide",7001,"Democrat","Sarah G. Swain",2306
+"KS","Franklin","20059","2005900000","Attorney General","statewide",9255,"Republican","Derek Schmidt",6263
+"KS","Franklin","20059","2005900000","Attorney General","statewide",9255,"Democrat","Sarah G. Swain",2992
+"KS","Geary","20061","2006100000","Attorney General","statewide",6113,"Republican","Derek Schmidt",3697
+"KS","Geary","20061","2006100000","Attorney General","statewide",6113,"Democrat","Sarah G. Swain",2416
+"KS","Gove","20063","2006300000","Attorney General","statewide",1086,"Republican","Derek Schmidt",943
+"KS","Gove","20063","2006300000","Attorney General","statewide",1086,"Democrat","Sarah G. Swain",143
+"KS","Graham","20065","2006500000","Attorney General","statewide",1067,"Republican","Derek Schmidt",874
+"KS","Graham","20065","2006500000","Attorney General","statewide",1067,"Democrat","Sarah G. Swain",193
+"KS","Grant","20067","2006700000","Attorney General","statewide",1805,"Republican","Derek Schmidt",1419
+"KS","Grant","20067","2006700000","Attorney General","statewide",1805,"Democrat","Sarah G. Swain",386
+"KS","Gray","20069","2006900000","Attorney General","statewide",1765,"Republican","Derek Schmidt",1473
+"KS","Gray","20069","2006900000","Attorney General","statewide",1765,"Democrat","Sarah G. Swain",292
+"KS","Greeley","20071","2007100000","Attorney General","statewide",477,"Republican","Derek Schmidt",412
+"KS","Greeley","20071","2007100000","Attorney General","statewide",477,"Democrat","Sarah G. Swain",65
+"KS","Greenwood","20073","2007300000","Attorney General","statewide",2112,"Republican","Derek Schmidt",1676
+"KS","Greenwood","20073","2007300000","Attorney General","statewide",2112,"Democrat","Sarah G. Swain",436
+"KS","Hamilton","20075","2007500000","Attorney General","statewide",610,"Republican","Derek Schmidt",502
+"KS","Hamilton","20075","2007500000","Attorney General","statewide",610,"Democrat","Sarah G. Swain",108
+"KS","Harper","20077","2007700000","Attorney General","statewide",1996,"Republican","Derek Schmidt",1607
+"KS","Harper","20077","2007700000","Attorney General","statewide",1996,"Democrat","Sarah G. Swain",389
+"KS","Harvey","20079","2007900000","Attorney General","statewide",13460,"Republican","Derek Schmidt",8359
+"KS","Harvey","20079","2007900000","Attorney General","statewide",13460,"Democrat","Sarah G. Swain",5101
+"KS","Haskell","20081","2008100000","Attorney General","statewide",1109,"Republican","Derek Schmidt",901
+"KS","Haskell","20081","2008100000","Attorney General","statewide",1109,"Democrat","Sarah G. Swain",208
+"KS","Hodgeman","20083","2008300000","Attorney General","statewide",866,"Republican","Derek Schmidt",755
+"KS","Hodgeman","20083","2008300000","Attorney General","statewide",866,"Democrat","Sarah G. Swain",111
+"KS","Jackson","20085","2008500000","Attorney General","statewide",5277,"Republican","Derek Schmidt",3782
+"KS","Jackson","20085","2008500000","Attorney General","statewide",5277,"Democrat","Sarah G. Swain",1495
+"KS","Jefferson","20087","2008700000","Attorney General","statewide",7464,"Republican","Derek Schmidt",4908
+"KS","Jefferson","20087","2008700000","Attorney General","statewide",7464,"Democrat","Sarah G. Swain",2556
+"KS","Jewell","20089","2008900000","Attorney General","statewide",1180,"Republican","Derek Schmidt",995
+"KS","Jewell","20089","2008900000","Attorney General","statewide",1180,"Democrat","Sarah G. Swain",185
+"KS","Johnson","20091","2009100000","Attorney General","statewide",267834,"Republican","Derek Schmidt",132666
+"KS","Johnson","20091","2009100000","Attorney General","statewide",267834,"Democrat","Sarah G. Swain",135168
+"KS","Kearny","20093","2009300000","Attorney General","statewide",1082,"Republican","Derek Schmidt",869
+"KS","Kearny","20093","2009300000","Attorney General","statewide",1082,"Democrat","Sarah G. Swain",213
+"KS","Kingman","20095","2009500000","Attorney General","statewide",2945,"Republican","Derek Schmidt",2305
+"KS","Kingman","20095","2009500000","Attorney General","statewide",2945,"Democrat","Sarah G. Swain",640
+"KS","Kiowa","20097","2009700000","Attorney General","statewide",1824,"Republican","Derek Schmidt",1584
+"KS","Kiowa","20097","2009700000","Attorney General","statewide",1824,"Democrat","Sarah G. Swain",240
+"KS","Labette","20099","2009900000","Attorney General","statewide",6262,"Republican","Derek Schmidt",4150
+"KS","Labette","20099","2009900000","Attorney General","statewide",6262,"Democrat","Sarah G. Swain",2112
+"KS","Lane","20101","2010100000","Attorney General","statewide",708,"Republican","Derek Schmidt",598
+"KS","Lane","20101","2010100000","Attorney General","statewide",708,"Democrat","Sarah G. Swain",110
+"KS","Leavenworth","20103","2010300000","Attorney General","statewide",26197,"Republican","Derek Schmidt",15310
+"KS","Leavenworth","20103","2010300000","Attorney General","statewide",26197,"Democrat","Sarah G. Swain",10887
+"KS","Lincoln","20105","2010500000","Attorney General","statewide",1229,"Republican","Derek Schmidt",979
+"KS","Lincoln","20105","2010500000","Attorney General","statewide",1229,"Democrat","Sarah G. Swain",250
+"KS","Linn","20107","2010700000","Attorney General","statewide",3741,"Republican","Derek Schmidt",2861
+"KS","Linn","20107","2010700000","Attorney General","statewide",3741,"Democrat","Sarah G. Swain",880
+"KS","Logan","20109","2010900000","Attorney General","statewide",1143,"Republican","Derek Schmidt",991
+"KS","Logan","20109","2010900000","Attorney General","statewide",1143,"Democrat","Sarah G. Swain",152
+"KS","Lyon","20111","2011100000","Attorney General","statewide",10790,"Republican","Derek Schmidt",6271
+"KS","Lyon","20111","2011100000","Attorney General","statewide",10790,"Democrat","Sarah G. Swain",4519
+"KS","Marion","20115","2011500000","Attorney General","statewide",4798,"Republican","Derek Schmidt",3675
+"KS","Marion","20115","2011500000","Attorney General","statewide",4798,"Democrat","Sarah G. Swain",1123
+"KS","Marshall","20117","2011700000","Attorney General","statewide",3552,"Republican","Derek Schmidt",2660
+"KS","Marshall","20117","2011700000","Attorney General","statewide",3552,"Democrat","Sarah G. Swain",892
+"KS","McPherson","20113","2011300000","Attorney General","statewide",11104,"Republican","Derek Schmidt",7960
+"KS","McPherson","20113","2011300000","Attorney General","statewide",11104,"Democrat","Sarah G. Swain",3144
+"KS","Meade","20119","2011900000","Attorney General","statewide",1369,"Republican","Derek Schmidt",1151
+"KS","Meade","20119","2011900000","Attorney General","statewide",1369,"Democrat","Sarah G. Swain",218
+"KS","Miami","20121","2012100000","Attorney General","statewide",12956,"Republican","Derek Schmidt",8647
+"KS","Miami","20121","2012100000","Attorney General","statewide",12956,"Democrat","Sarah G. Swain",4309
+"KS","Mitchell","20123","2012300000","Attorney General","statewide",2479,"Republican","Derek Schmidt",2026
+"KS","Mitchell","20123","2012300000","Attorney General","statewide",2479,"Democrat","Sarah G. Swain",453
+"KS","Montgomery","20125","2012500000","Attorney General","statewide",9788,"Republican","Derek Schmidt",7725
+"KS","Montgomery","20125","2012500000","Attorney General","statewide",9788,"Democrat","Sarah G. Swain",2063
+"KS","Morris","20127","2012700000","Attorney General","statewide",2211,"Republican","Derek Schmidt",1664
+"KS","Morris","20127","2012700000","Attorney General","statewide",2211,"Democrat","Sarah G. Swain",547
+"KS","Morton","20129","2012900000","Attorney General","statewide",897,"Republican","Derek Schmidt",779
+"KS","Morton","20129","2012900000","Attorney General","statewide",897,"Democrat","Sarah G. Swain",118
+"KS","Nemaha","20131","2013100000","Attorney General","statewide",4494,"Republican","Derek Schmidt",3659
+"KS","Nemaha","20131","2013100000","Attorney General","statewide",4494,"Democrat","Sarah G. Swain",835
+"KS","Neosho","20133","2013300000","Attorney General","statewide",5365,"Republican","Derek Schmidt",3828
+"KS","Neosho","20133","2013300000","Attorney General","statewide",5365,"Democrat","Sarah G. Swain",1537
+"KS","Ness","20135","2013500000","Attorney General","statewide",1151,"Republican","Derek Schmidt",1007
+"KS","Ness","20135","2013500000","Attorney General","statewide",1151,"Democrat","Sarah G. Swain",144
+"KS","Norton","20137","2013700000","Attorney General","statewide",1849,"Republican","Derek Schmidt",1528
+"KS","Norton","20137","2013700000","Attorney General","statewide",1849,"Democrat","Sarah G. Swain",321
+"KS","Osage","20139","2013900000","Attorney General","statewide",6265,"Republican","Derek Schmidt",4547
+"KS","Osage","20139","2013900000","Attorney General","statewide",6265,"Democrat","Sarah G. Swain",1718
+"KS","Osborne","20141","2014100000","Attorney General","statewide",1490,"Republican","Derek Schmidt",1224
+"KS","Osborne","20141","2014100000","Attorney General","statewide",1490,"Democrat","Sarah G. Swain",266
+"KS","Ottawa","20143","2014300000","Attorney General","statewide",2380,"Republican","Derek Schmidt",1912
+"KS","Ottawa","20143","2014300000","Attorney General","statewide",2380,"Democrat","Sarah G. Swain",468
+"KS","Pawnee","20145","2014500000","Attorney General","statewide",2219,"Republican","Derek Schmidt",1660
+"KS","Pawnee","20145","2014500000","Attorney General","statewide",2219,"Democrat","Sarah G. Swain",559
+"KS","Phillips","20147","2014700000","Attorney General","statewide",2161,"Republican","Derek Schmidt",1855
+"KS","Phillips","20147","2014700000","Attorney General","statewide",2161,"Democrat","Sarah G. Swain",306
+"KS","Pottawatomie","20149","2014900000","Attorney General","statewide",9714,"Republican","Derek Schmidt",7376
+"KS","Pottawatomie","20149","2014900000","Attorney General","statewide",9714,"Democrat","Sarah G. Swain",2338
+"KS","Pratt","20151","2015100000","Attorney General","statewide",3176,"Republican","Derek Schmidt",2385
+"KS","Pratt","20151","2015100000","Attorney General","statewide",3176,"Democrat","Sarah G. Swain",791
+"KS","Rawlins","20153","2015300000","Attorney General","statewide",1194,"Republican","Derek Schmidt",998
+"KS","Rawlins","20153","2015300000","Attorney General","statewide",1194,"Democrat","Sarah G. Swain",196
+"KS","Reno","20155","2015500000","Attorney General","statewide",20769,"Republican","Derek Schmidt",13931
+"KS","Reno","20155","2015500000","Attorney General","statewide",20769,"Democrat","Sarah G. Swain",6838
+"KS","Republic","20157","2015700000","Attorney General","statewide",2004,"Republican","Derek Schmidt",1612
+"KS","Republic","20157","2015700000","Attorney General","statewide",2004,"Democrat","Sarah G. Swain",392
+"KS","Rice","20159","2015900000","Attorney General","statewide",3147,"Republican","Derek Schmidt",2414
+"KS","Rice","20159","2015900000","Attorney General","statewide",3147,"Democrat","Sarah G. Swain",733
+"KS","Riley","20161","2016100000","Attorney General","statewide",19525,"Republican","Derek Schmidt",10388
+"KS","Riley","20161","2016100000","Attorney General","statewide",19525,"Democrat","Sarah G. Swain",9137
+"KS","Rooks","20163","2016300000","Attorney General","statewide",2117,"Republican","Derek Schmidt",1778
+"KS","Rooks","20163","2016300000","Attorney General","statewide",2117,"Democrat","Sarah G. Swain",339
+"KS","Rush","20165","2016500000","Attorney General","statewide",1295,"Republican","Derek Schmidt",1062
+"KS","Rush","20165","2016500000","Attorney General","statewide",1295,"Democrat","Sarah G. Swain",233
+"KS","Russell","20167","2016700000","Attorney General","statewide",2652,"Republican","Derek Schmidt",2114
+"KS","Russell","20167","2016700000","Attorney General","statewide",2652,"Democrat","Sarah G. Swain",538
+"KS","Saline","20169","2016900000","Attorney General","statewide",18265,"Republican","Derek Schmidt",12191
+"KS","Saline","20169","2016900000","Attorney General","statewide",18265,"Democrat","Sarah G. Swain",6074
+"KS","Scott","20171","2017100000","Attorney General","statewide",1855,"Republican","Derek Schmidt",1622
+"KS","Scott","20171","2017100000","Attorney General","statewide",1855,"Democrat","Sarah G. Swain",233
+"KS","Sedgwick","20173","2017300000","Attorney General","statewide",164981,"Republican","Derek Schmidt",95402
+"KS","Sedgwick","20173","2017300000","Attorney General","statewide",164981,"Democrat","Sarah G. Swain",69579
+"KS","Seward","20175","2017500000","Attorney General","statewide",3728,"Republican","Derek Schmidt",2495
+"KS","Seward","20175","2017500000","Attorney General","statewide",3728,"Democrat","Sarah G. Swain",1233
+"KS","Shawnee","20177","2017700000","Attorney General","statewide",69971,"Republican","Derek Schmidt",39974
+"KS","Shawnee","20177","2017700000","Attorney General","statewide",69971,"Democrat","Sarah G. Swain",29997
+"KS","Sheridan","20179","2017900000","Attorney General","statewide",1121,"Republican","Derek Schmidt",987
+"KS","Sheridan","20179","2017900000","Attorney General","statewide",1121,"Democrat","Sarah G. Swain",134
+"KS","Sherman","20181","2018100000","Attorney General","statewide",2061,"Republican","Derek Schmidt",1696
+"KS","Sherman","20181","2018100000","Attorney General","statewide",2061,"Democrat","Sarah G. Swain",365
+"KS","Smith","20183","2018300000","Attorney General","statewide",1599,"Republican","Derek Schmidt",1324
+"KS","Smith","20183","2018300000","Attorney General","statewide",1599,"Democrat","Sarah G. Swain",275
+"KS","Stafford","20185","2018500000","Attorney General","statewide",1592,"Republican","Derek Schmidt",1309
+"KS","Stafford","20185","2018500000","Attorney General","statewide",1592,"Democrat","Sarah G. Swain",283
+"KS","Stanton","20187","2018700000","Attorney General","statewide",581,"Republican","Derek Schmidt",470
+"KS","Stanton","20187","2018700000","Attorney General","statewide",581,"Democrat","Sarah G. Swain",111
+"KS","Stevens","20189","2018900000","Attorney General","statewide",1493,"Republican","Derek Schmidt",1301
+"KS","Stevens","20189","2018900000","Attorney General","statewide",1493,"Democrat","Sarah G. Swain",192
+"KS","Sumner","20191","2019100000","Attorney General","statewide",7915,"Republican","Derek Schmidt",5658
+"KS","Sumner","20191","2019100000","Attorney General","statewide",7915,"Democrat","Sarah G. Swain",2257
+"KS","Thomas","20193","2019300000","Attorney General","statewide",2965,"Republican","Derek Schmidt",2452
+"KS","Thomas","20193","2019300000","Attorney General","statewide",2965,"Democrat","Sarah G. Swain",513
+"KS","Trego","20195","2019500000","Attorney General","statewide",1238,"Republican","Derek Schmidt",1015
+"KS","Trego","20195","2019500000","Attorney General","statewide",1238,"Democrat","Sarah G. Swain",223
+"KS","Wabaunsee","20197","2019700000","Attorney General","statewide",3108,"Republican","Derek Schmidt",2370
+"KS","Wabaunsee","20197","2019700000","Attorney General","statewide",3108,"Democrat","Sarah G. Swain",738
+"KS","Wallace","20199","2019900000","Attorney General","statewide",650,"Republican","Derek Schmidt",611
+"KS","Wallace","20199","2019900000","Attorney General","statewide",650,"Democrat","Sarah G. Swain",39
+"KS","Washington","20201","2020100000","Attorney General","statewide",2238,"Republican","Derek Schmidt",1919
+"KS","Washington","20201","2020100000","Attorney General","statewide",2238,"Democrat","Sarah G. Swain",319
+"KS","Wichita","20203","2020300000","Attorney General","statewide",747,"Republican","Derek Schmidt",637
+"KS","Wichita","20203","2020300000","Attorney General","statewide",747,"Democrat","Sarah G. Swain",110
+"KS","Wilson","20205","2020500000","Attorney General","statewide",2975,"Republican","Derek Schmidt",2471
+"KS","Wilson","20205","2020500000","Attorney General","statewide",2975,"Democrat","Sarah G. Swain",504
+"KS","Woodson","20207","2020700000","Attorney General","statewide",1172,"Republican","Derek Schmidt",948
+"KS","Woodson","20207","2020700000","Attorney General","statewide",1172,"Democrat","Sarah G. Swain",224
+"KS","Wyandotte","20209","2020900000","Attorney General","statewide",41369,"Republican","Derek Schmidt",12835
+"KS","Wyandotte","20209","2020900000","Attorney General","statewide",41369,"Democrat","Sarah G. Swain",28534
+"KS","Allen","20001","2000100000","Commissioner of Insurance","statewide",4376,"Democrat","Nathaniel McLaughlin",1211
+"KS","Allen","20001","2000100000","Commissioner of Insurance","statewide",4376,"Republican","Vicki Schmidt",3165
+"KS","Anderson","20003","2000300000","Commissioner of Insurance","statewide",2675,"Democrat","Nathaniel McLaughlin",633
+"KS","Anderson","20003","2000300000","Commissioner of Insurance","statewide",2675,"Republican","Vicki Schmidt",2042
+"KS","Atchison","20005","2000500000","Commissioner of Insurance","statewide",5319,"Democrat","Nathaniel McLaughlin",1762
+"KS","Atchison","20005","2000500000","Commissioner of Insurance","statewide",5319,"Republican","Vicki Schmidt",3557
+"KS","Barber","20007","2000700000","Commissioner of Insurance","statewide",1700,"Democrat","Nathaniel McLaughlin",226
+"KS","Barber","20007","2000700000","Commissioner of Insurance","statewide",1700,"Republican","Vicki Schmidt",1474
+"KS","Barton","20009","2000900000","Commissioner of Insurance","statewide",8392,"Democrat","Nathaniel McLaughlin",1624
+"KS","Barton","20009","2000900000","Commissioner of Insurance","statewide",8392,"Republican","Vicki Schmidt",6768
+"KS","Bourbon","20011","2001100000","Commissioner of Insurance","statewide",4846,"Democrat","Nathaniel McLaughlin",1310
+"KS","Bourbon","20011","2001100000","Commissioner of Insurance","statewide",4846,"Republican","Vicki Schmidt",3536
+"KS","Brown","20013","2001300000","Commissioner of Insurance","statewide",3324,"Democrat","Nathaniel McLaughlin",655
+"KS","Brown","20013","2001300000","Commissioner of Insurance","statewide",3324,"Republican","Vicki Schmidt",2669
+"KS","Butler","20015","2001500000","Commissioner of Insurance","statewide",23182,"Democrat","Nathaniel McLaughlin",6188
+"KS","Butler","20015","2001500000","Commissioner of Insurance","statewide",23182,"Republican","Vicki Schmidt",16994
+"KS","Chase","20017","2001700000","Commissioner of Insurance","statewide",1182,"Democrat","Nathaniel McLaughlin",262
+"KS","Chase","20017","2001700000","Commissioner of Insurance","statewide",1182,"Republican","Vicki Schmidt",920
+"KS","Chautauqua","20019","2001900000","Commissioner of Insurance","statewide",1110,"Democrat","Nathaniel McLaughlin",169
+"KS","Chautauqua","20019","2001900000","Commissioner of Insurance","statewide",1110,"Republican","Vicki Schmidt",941
+"KS","Cherokee","20021","2002100000","Commissioner of Insurance","statewide",6890,"Democrat","Nathaniel McLaughlin",2024
+"KS","Cherokee","20021","2002100000","Commissioner of Insurance","statewide",6890,"Republican","Vicki Schmidt",4866
+"KS","Cheyenne","20023","2002300000","Commissioner of Insurance","statewide",1059,"Democrat","Nathaniel McLaughlin",156
+"KS","Cheyenne","20023","2002300000","Commissioner of Insurance","statewide",1059,"Republican","Vicki Schmidt",903
+"KS","Clark","20025","2002500000","Commissioner of Insurance","statewide",818,"Democrat","Nathaniel McLaughlin",111
+"KS","Clark","20025","2002500000","Commissioner of Insurance","statewide",818,"Republican","Vicki Schmidt",707
+"KS","Clay","20027","2002700000","Commissioner of Insurance","statewide",3072,"Democrat","Nathaniel McLaughlin",487
+"KS","Clay","20027","2002700000","Commissioner of Insurance","statewide",3072,"Republican","Vicki Schmidt",2585
+"KS","Cloud","20029","2002900000","Commissioner of Insurance","statewide",3160,"Democrat","Nathaniel McLaughlin",637
+"KS","Cloud","20029","2002900000","Commissioner of Insurance","statewide",3160,"Republican","Vicki Schmidt",2523
+"KS","Coffey","20031","2003100000","Commissioner of Insurance","statewide",3396,"Democrat","Nathaniel McLaughlin",618
+"KS","Coffey","20031","2003100000","Commissioner of Insurance","statewide",3396,"Republican","Vicki Schmidt",2778
+"KS","Comanche","20033","2003300000","Commissioner of Insurance","statewide",695,"Democrat","Nathaniel McLaughlin",100
+"KS","Comanche","20033","2003300000","Commissioner of Insurance","statewide",695,"Republican","Vicki Schmidt",595
+"KS","Cowley","20035","2003500000","Commissioner of Insurance","statewide",10354,"Democrat","Nathaniel McLaughlin",3149
+"KS","Cowley","20035","2003500000","Commissioner of Insurance","statewide",10354,"Republican","Vicki Schmidt",7205
+"KS","Crawford","20037","2003700000","Commissioner of Insurance","statewide",12593,"Democrat","Nathaniel McLaughlin",5438
+"KS","Crawford","20037","2003700000","Commissioner of Insurance","statewide",12593,"Republican","Vicki Schmidt",7155
+"KS","Decatur","20039","2003900000","Commissioner of Insurance","statewide",1096,"Democrat","Nathaniel McLaughlin",132
+"KS","Decatur","20039","2003900000","Commissioner of Insurance","statewide",1096,"Republican","Vicki Schmidt",964
+"KS","Dickinson","20041","2004100000","Commissioner of Insurance","statewide",6618,"Democrat","Nathaniel McLaughlin",1408
+"KS","Dickinson","20041","2004100000","Commissioner of Insurance","statewide",6618,"Republican","Vicki Schmidt",5210
+"KS","Doniphan","20043","2004300000","Commissioner of Insurance","statewide",2507,"Democrat","Nathaniel McLaughlin",499
+"KS","Doniphan","20043","2004300000","Commissioner of Insurance","statewide",2507,"Republican","Vicki Schmidt",2008
+"KS","Douglas","20045","2004500000","Commissioner of Insurance","statewide",47924,"Democrat","Nathaniel McLaughlin",29381
+"KS","Douglas","20045","2004500000","Commissioner of Insurance","statewide",47924,"Republican","Vicki Schmidt",18543
+"KS","Edwards","20047","2004700000","Commissioner of Insurance","statewide",1133,"Democrat","Nathaniel McLaughlin",197
+"KS","Edwards","20047","2004700000","Commissioner of Insurance","statewide",1133,"Republican","Vicki Schmidt",936
+"KS","Elk","20049","2004900000","Commissioner of Insurance","statewide",1030,"Democrat","Nathaniel McLaughlin",152
+"KS","Elk","20049","2004900000","Commissioner of Insurance","statewide",1030,"Republican","Vicki Schmidt",878
+"KS","Ellis","20051","2005100000","Commissioner of Insurance","statewide",10000,"Democrat","Nathaniel McLaughlin",2723
+"KS","Ellis","20051","2005100000","Commissioner of Insurance","statewide",10000,"Republican","Vicki Schmidt",7277
+"KS","Ellsworth","20053","2005300000","Commissioner of Insurance","statewide",2234,"Democrat","Nathaniel McLaughlin",439
+"KS","Ellsworth","20053","2005300000","Commissioner of Insurance","statewide",2234,"Republican","Vicki Schmidt",1795
+"KS","Finney","20055","2005500000","Commissioner of Insurance","statewide",8420,"Democrat","Nathaniel McLaughlin",2756
+"KS","Finney","20055","2005500000","Commissioner of Insurance","statewide",8420,"Republican","Vicki Schmidt",5664
+"KS","Ford","20057","2005700000","Commissioner of Insurance","statewide",6959,"Democrat","Nathaniel McLaughlin",2199
+"KS","Ford","20057","2005700000","Commissioner of Insurance","statewide",6959,"Republican","Vicki Schmidt",4760
+"KS","Franklin","20059","2005900000","Commissioner of Insurance","statewide",9099,"Democrat","Nathaniel McLaughlin",2587
+"KS","Franklin","20059","2005900000","Commissioner of Insurance","statewide",9099,"Republican","Vicki Schmidt",6512
+"KS","Geary","20061","2006100000","Commissioner of Insurance","statewide",6034,"Democrat","Nathaniel McLaughlin",2185
+"KS","Geary","20061","2006100000","Commissioner of Insurance","statewide",6034,"Republican","Vicki Schmidt",3849
+"KS","Gove","20063","2006300000","Commissioner of Insurance","statewide",1038,"Democrat","Nathaniel McLaughlin",109
+"KS","Gove","20063","2006300000","Commissioner of Insurance","statewide",1038,"Republican","Vicki Schmidt",929
+"KS","Graham","20065","2006500000","Commissioner of Insurance","statewide",1060,"Democrat","Nathaniel McLaughlin",162
+"KS","Graham","20065","2006500000","Commissioner of Insurance","statewide",1060,"Republican","Vicki Schmidt",898
+"KS","Grant","20067","2006700000","Commissioner of Insurance","statewide",1792,"Democrat","Nathaniel McLaughlin",329
+"KS","Grant","20067","2006700000","Commissioner of Insurance","statewide",1792,"Republican","Vicki Schmidt",1463
+"KS","Gray","20069","2006900000","Commissioner of Insurance","statewide",1729,"Democrat","Nathaniel McLaughlin",276
+"KS","Gray","20069","2006900000","Commissioner of Insurance","statewide",1729,"Republican","Vicki Schmidt",1453
+"KS","Greeley","20071","2007100000","Commissioner of Insurance","statewide",470,"Democrat","Nathaniel McLaughlin",63
+"KS","Greeley","20071","2007100000","Commissioner of Insurance","statewide",470,"Republican","Vicki Schmidt",407
+"KS","Greenwood","20073","2007300000","Commissioner of Insurance","statewide",2066,"Democrat","Nathaniel McLaughlin",419
+"KS","Greenwood","20073","2007300000","Commissioner of Insurance","statewide",2066,"Republican","Vicki Schmidt",1647
+"KS","Hamilton","20075","2007500000","Commissioner of Insurance","statewide",613,"Democrat","Nathaniel McLaughlin",90
+"KS","Hamilton","20075","2007500000","Commissioner of Insurance","statewide",613,"Republican","Vicki Schmidt",523
+"KS","Harper","20077","2007700000","Commissioner of Insurance","statewide",1989,"Democrat","Nathaniel McLaughlin",340
+"KS","Harper","20077","2007700000","Commissioner of Insurance","statewide",1989,"Republican","Vicki Schmidt",1649
+"KS","Harvey","20079","2007900000","Commissioner of Insurance","statewide",13178,"Democrat","Nathaniel McLaughlin",4492
+"KS","Harvey","20079","2007900000","Commissioner of Insurance","statewide",13178,"Republican","Vicki Schmidt",8686
+"KS","Haskell","20081","2008100000","Commissioner of Insurance","statewide",1093,"Democrat","Nathaniel McLaughlin",197
+"KS","Haskell","20081","2008100000","Commissioner of Insurance","statewide",1093,"Republican","Vicki Schmidt",896
+"KS","Hodgeman","20083","2008300000","Commissioner of Insurance","statewide",842,"Democrat","Nathaniel McLaughlin",115
+"KS","Hodgeman","20083","2008300000","Commissioner of Insurance","statewide",842,"Republican","Vicki Schmidt",727
+"KS","Jackson","20085","2008500000","Commissioner of Insurance","statewide",5195,"Democrat","Nathaniel McLaughlin",1099
+"KS","Jackson","20085","2008500000","Commissioner of Insurance","statewide",5195,"Republican","Vicki Schmidt",4096
+"KS","Jefferson","20087","2008700000","Commissioner of Insurance","statewide",7392,"Democrat","Nathaniel McLaughlin",1995
+"KS","Jefferson","20087","2008700000","Commissioner of Insurance","statewide",7392,"Republican","Vicki Schmidt",5397
+"KS","Jewell","20089","2008900000","Commissioner of Insurance","statewide",1166,"Democrat","Nathaniel McLaughlin",140
+"KS","Jewell","20089","2008900000","Commissioner of Insurance","statewide",1166,"Republican","Vicki Schmidt",1026
+"KS","Johnson","20091","2009100000","Commissioner of Insurance","statewide",263557,"Democrat","Nathaniel McLaughlin",120461
+"KS","Johnson","20091","2009100000","Commissioner of Insurance","statewide",263557,"Republican","Vicki Schmidt",143096
+"KS","Kearny","20093","2009300000","Commissioner of Insurance","statewide",1069,"Democrat","Nathaniel McLaughlin",200
+"KS","Kearny","20093","2009300000","Commissioner of Insurance","statewide",1069,"Republican","Vicki Schmidt",869
+"KS","Kingman","20095","2009500000","Commissioner of Insurance","statewide",2866,"Democrat","Nathaniel McLaughlin",535
+"KS","Kingman","20095","2009500000","Commissioner of Insurance","statewide",2866,"Republican","Vicki Schmidt",2331
+"KS","Kiowa","20097","2009700000","Commissioner of Insurance","statewide",1772,"Democrat","Nathaniel McLaughlin",160
+"KS","Kiowa","20097","2009700000","Commissioner of Insurance","statewide",1772,"Republican","Vicki Schmidt",1612
+"KS","Labette","20099","2009900000","Commissioner of Insurance","statewide",6169,"Democrat","Nathaniel McLaughlin",2093
+"KS","Labette","20099","2009900000","Commissioner of Insurance","statewide",6169,"Republican","Vicki Schmidt",4076
+"KS","Lane","20101","2010100000","Commissioner of Insurance","statewide",689,"Democrat","Nathaniel McLaughlin",95
+"KS","Lane","20101","2010100000","Commissioner of Insurance","statewide",689,"Republican","Vicki Schmidt",594
+"KS","Leavenworth","20103","2010300000","Commissioner of Insurance","statewide",25926,"Democrat","Nathaniel McLaughlin",9664
+"KS","Leavenworth","20103","2010300000","Commissioner of Insurance","statewide",25926,"Republican","Vicki Schmidt",16262
+"KS","Lincoln","20105","2010500000","Commissioner of Insurance","statewide",1203,"Democrat","Nathaniel McLaughlin",184
+"KS","Lincoln","20105","2010500000","Commissioner of Insurance","statewide",1203,"Republican","Vicki Schmidt",1019
+"KS","Linn","20107","2010700000","Commissioner of Insurance","statewide",3711,"Democrat","Nathaniel McLaughlin",807
+"KS","Linn","20107","2010700000","Commissioner of Insurance","statewide",3711,"Republican","Vicki Schmidt",2904
+"KS","Logan","20109","2010900000","Commissioner of Insurance","statewide",1110,"Democrat","Nathaniel McLaughlin",136
+"KS","Logan","20109","2010900000","Commissioner of Insurance","statewide",1110,"Republican","Vicki Schmidt",974
+"KS","Lyon","20111","2011100000","Commissioner of Insurance","statewide",10672,"Democrat","Nathaniel McLaughlin",3901
+"KS","Lyon","20111","2011100000","Commissioner of Insurance","statewide",10672,"Republican","Vicki Schmidt",6771
+"KS","Marion","20115","2011500000","Commissioner of Insurance","statewide",4720,"Democrat","Nathaniel McLaughlin",908
+"KS","Marion","20115","2011500000","Commissioner of Insurance","statewide",4720,"Republican","Vicki Schmidt",3812
+"KS","Marshall","20117","2011700000","Commissioner of Insurance","statewide",3543,"Democrat","Nathaniel McLaughlin",652
+"KS","Marshall","20117","2011700000","Commissioner of Insurance","statewide",3543,"Republican","Vicki Schmidt",2891
+"KS","McPherson","20113","2011300000","Commissioner of Insurance","statewide",10964,"Democrat","Nathaniel McLaughlin",2548
+"KS","McPherson","20113","2011300000","Commissioner of Insurance","statewide",10964,"Republican","Vicki Schmidt",8416
+"KS","Meade","20119","2011900000","Commissioner of Insurance","statewide",1340,"Democrat","Nathaniel McLaughlin",167
+"KS","Meade","20119","2011900000","Commissioner of Insurance","statewide",1340,"Republican","Vicki Schmidt",1173
+"KS","Miami","20121","2012100000","Commissioner of Insurance","statewide",12783,"Democrat","Nathaniel McLaughlin",3743
+"KS","Miami","20121","2012100000","Commissioner of Insurance","statewide",12783,"Republican","Vicki Schmidt",9040
+"KS","Mitchell","20123","2012300000","Commissioner of Insurance","statewide",2431,"Democrat","Nathaniel McLaughlin",342
+"KS","Mitchell","20123","2012300000","Commissioner of Insurance","statewide",2431,"Republican","Vicki Schmidt",2089
+"KS","Montgomery","20125","2012500000","Commissioner of Insurance","statewide",9594,"Democrat","Nathaniel McLaughlin",2349
+"KS","Montgomery","20125","2012500000","Commissioner of Insurance","statewide",9594,"Republican","Vicki Schmidt",7245
+"KS","Morris","20127","2012700000","Commissioner of Insurance","statewide",2181,"Democrat","Nathaniel McLaughlin",413
+"KS","Morris","20127","2012700000","Commissioner of Insurance","statewide",2181,"Republican","Vicki Schmidt",1768
+"KS","Morton","20129","2012900000","Commissioner of Insurance","statewide",891,"Democrat","Nathaniel McLaughlin",107
+"KS","Morton","20129","2012900000","Commissioner of Insurance","statewide",891,"Republican","Vicki Schmidt",784
+"KS","Nemaha","20131","2013100000","Commissioner of Insurance","statewide",4413,"Democrat","Nathaniel McLaughlin",654
+"KS","Nemaha","20131","2013100000","Commissioner of Insurance","statewide",4413,"Republican","Vicki Schmidt",3759
+"KS","Neosho","20133","2013300000","Commissioner of Insurance","statewide",5284,"Democrat","Nathaniel McLaughlin",1495
+"KS","Neosho","20133","2013300000","Commissioner of Insurance","statewide",5284,"Republican","Vicki Schmidt",3789
+"KS","Ness","20135","2013500000","Commissioner of Insurance","statewide",1117,"Democrat","Nathaniel McLaughlin",115
+"KS","Ness","20135","2013500000","Commissioner of Insurance","statewide",1117,"Republican","Vicki Schmidt",1002
+"KS","Norton","20137","2013700000","Commissioner of Insurance","statewide",1841,"Democrat","Nathaniel McLaughlin",235
+"KS","Norton","20137","2013700000","Commissioner of Insurance","statewide",1841,"Republican","Vicki Schmidt",1606
+"KS","Osage","20139","2013900000","Commissioner of Insurance","statewide",6187,"Democrat","Nathaniel McLaughlin",1375
+"KS","Osage","20139","2013900000","Commissioner of Insurance","statewide",6187,"Republican","Vicki Schmidt",4812
+"KS","Osborne","20141","2014100000","Commissioner of Insurance","statewide",1465,"Democrat","Nathaniel McLaughlin",184
+"KS","Osborne","20141","2014100000","Commissioner of Insurance","statewide",1465,"Republican","Vicki Schmidt",1281
+"KS","Ottawa","20143","2014300000","Commissioner of Insurance","statewide",2363,"Democrat","Nathaniel McLaughlin",352
+"KS","Ottawa","20143","2014300000","Commissioner of Insurance","statewide",2363,"Republican","Vicki Schmidt",2011
+"KS","Pawnee","20145","2014500000","Commissioner of Insurance","statewide",2202,"Democrat","Nathaniel McLaughlin",494
+"KS","Pawnee","20145","2014500000","Commissioner of Insurance","statewide",2202,"Republican","Vicki Schmidt",1708
+"KS","Phillips","20147","2014700000","Commissioner of Insurance","statewide",2133,"Democrat","Nathaniel McLaughlin",224
+"KS","Phillips","20147","2014700000","Commissioner of Insurance","statewide",2133,"Republican","Vicki Schmidt",1909
+"KS","Pottawatomie","20149","2014900000","Commissioner of Insurance","statewide",9025,"Democrat","Nathaniel McLaughlin",1902
+"KS","Pottawatomie","20149","2014900000","Commissioner of Insurance","statewide",9025,"Republican","Vicki Schmidt",7123
+"KS","Pratt","20151","2015100000","Commissioner of Insurance","statewide",3151,"Democrat","Nathaniel McLaughlin",625
+"KS","Pratt","20151","2015100000","Commissioner of Insurance","statewide",3151,"Republican","Vicki Schmidt",2526
+"KS","Rawlins","20153","2015300000","Commissioner of Insurance","statewide",1161,"Democrat","Nathaniel McLaughlin",175
+"KS","Rawlins","20153","2015300000","Commissioner of Insurance","statewide",1161,"Republican","Vicki Schmidt",986
+"KS","Reno","20155","2015500000","Commissioner of Insurance","statewide",20396,"Democrat","Nathaniel McLaughlin",5905
+"KS","Reno","20155","2015500000","Commissioner of Insurance","statewide",20396,"Republican","Vicki Schmidt",14491
+"KS","Republic","20157","2015700000","Commissioner of Insurance","statewide",1958,"Democrat","Nathaniel McLaughlin",312
+"KS","Republic","20157","2015700000","Commissioner of Insurance","statewide",1958,"Republican","Vicki Schmidt",1646
+"KS","Rice","20159","2015900000","Commissioner of Insurance","statewide",3106,"Democrat","Nathaniel McLaughlin",585
+"KS","Rice","20159","2015900000","Commissioner of Insurance","statewide",3106,"Republican","Vicki Schmidt",2521
+"KS","Riley","20161","2016100000","Commissioner of Insurance","statewide",19175,"Democrat","Nathaniel McLaughlin",8086
+"KS","Riley","20161","2016100000","Commissioner of Insurance","statewide",19175,"Republican","Vicki Schmidt",11089
+"KS","Rooks","20163","2016300000","Commissioner of Insurance","statewide",2069,"Democrat","Nathaniel McLaughlin",266
+"KS","Rooks","20163","2016300000","Commissioner of Insurance","statewide",2069,"Republican","Vicki Schmidt",1803
+"KS","Rush","20165","2016500000","Commissioner of Insurance","statewide",1267,"Democrat","Nathaniel McLaughlin",196
+"KS","Rush","20165","2016500000","Commissioner of Insurance","statewide",1267,"Republican","Vicki Schmidt",1071
+"KS","Russell","20167","2016700000","Commissioner of Insurance","statewide",2609,"Democrat","Nathaniel McLaughlin",400
+"KS","Russell","20167","2016700000","Commissioner of Insurance","statewide",2609,"Republican","Vicki Schmidt",2209
+"KS","Saline","20169","2016900000","Commissioner of Insurance","statewide",18080,"Democrat","Nathaniel McLaughlin",5172
+"KS","Saline","20169","2016900000","Commissioner of Insurance","statewide",18080,"Republican","Vicki Schmidt",12908
+"KS","Scott","20171","2017100000","Commissioner of Insurance","statewide",1819,"Democrat","Nathaniel McLaughlin",202
+"KS","Scott","20171","2017100000","Commissioner of Insurance","statewide",1819,"Republican","Vicki Schmidt",1617
+"KS","Sedgwick","20173","2017300000","Commissioner of Insurance","statewide",160978,"Democrat","Nathaniel McLaughlin",63719
+"KS","Sedgwick","20173","2017300000","Commissioner of Insurance","statewide",160978,"Republican","Vicki Schmidt",97259
+"KS","Seward","20175","2017500000","Commissioner of Insurance","statewide",3694,"Democrat","Nathaniel McLaughlin",1219
+"KS","Seward","20175","2017500000","Commissioner of Insurance","statewide",3694,"Republican","Vicki Schmidt",2475
+"KS","Shawnee","20177","2017700000","Commissioner of Insurance","statewide",69023,"Democrat","Nathaniel McLaughlin",22288
+"KS","Shawnee","20177","2017700000","Commissioner of Insurance","statewide",69023,"Republican","Vicki Schmidt",46735
+"KS","Sheridan","20179","2017900000","Commissioner of Insurance","statewide",1095,"Democrat","Nathaniel McLaughlin",111
+"KS","Sheridan","20179","2017900000","Commissioner of Insurance","statewide",1095,"Republican","Vicki Schmidt",984
+"KS","Sherman","20181","2018100000","Commissioner of Insurance","statewide",2038,"Democrat","Nathaniel McLaughlin",444
+"KS","Sherman","20181","2018100000","Commissioner of Insurance","statewide",2038,"Republican","Vicki Schmidt",1594
+"KS","Smith","20183","2018300000","Commissioner of Insurance","statewide",1582,"Democrat","Nathaniel McLaughlin",223
+"KS","Smith","20183","2018300000","Commissioner of Insurance","statewide",1582,"Republican","Vicki Schmidt",1359
+"KS","Stafford","20185","2018500000","Commissioner of Insurance","statewide",1548,"Democrat","Nathaniel McLaughlin",222
+"KS","Stafford","20185","2018500000","Commissioner of Insurance","statewide",1548,"Republican","Vicki Schmidt",1326
+"KS","Stanton","20187","2018700000","Commissioner of Insurance","statewide",572,"Democrat","Nathaniel McLaughlin",88
+"KS","Stanton","20187","2018700000","Commissioner of Insurance","statewide",572,"Republican","Vicki Schmidt",484
+"KS","Stevens","20189","2018900000","Commissioner of Insurance","statewide",1460,"Democrat","Nathaniel McLaughlin",163
+"KS","Stevens","20189","2018900000","Commissioner of Insurance","statewide",1460,"Republican","Vicki Schmidt",1297
+"KS","Sumner","20191","2019100000","Commissioner of Insurance","statewide",7830,"Democrat","Nathaniel McLaughlin",1974
+"KS","Sumner","20191","2019100000","Commissioner of Insurance","statewide",7830,"Republican","Vicki Schmidt",5856
+"KS","Thomas","20193","2019300000","Commissioner of Insurance","statewide",2948,"Democrat","Nathaniel McLaughlin",477
+"KS","Thomas","20193","2019300000","Commissioner of Insurance","statewide",2948,"Republican","Vicki Schmidt",2471
+"KS","Trego","20195","2019500000","Commissioner of Insurance","statewide",1225,"Democrat","Nathaniel McLaughlin",192
+"KS","Trego","20195","2019500000","Commissioner of Insurance","statewide",1225,"Republican","Vicki Schmidt",1033
+"KS","Wabaunsee","20197","2019700000","Commissioner of Insurance","statewide",3032,"Democrat","Nathaniel McLaughlin",555
+"KS","Wabaunsee","20197","2019700000","Commissioner of Insurance","statewide",3032,"Republican","Vicki Schmidt",2477
+"KS","Wallace","20199","2019900000","Commissioner of Insurance","statewide",624,"Democrat","Nathaniel McLaughlin",116
+"KS","Wallace","20199","2019900000","Commissioner of Insurance","statewide",624,"Republican","Vicki Schmidt",508
+"KS","Washington","20201","2020100000","Commissioner of Insurance","statewide",2210,"Democrat","Nathaniel McLaughlin",270
+"KS","Washington","20201","2020100000","Commissioner of Insurance","statewide",2210,"Republican","Vicki Schmidt",1940
+"KS","Wichita","20203","2020300000","Commissioner of Insurance","statewide",744,"Democrat","Nathaniel McLaughlin",95
+"KS","Wichita","20203","2020300000","Commissioner of Insurance","statewide",744,"Republican","Vicki Schmidt",649
+"KS","Wilson","20205","2020500000","Commissioner of Insurance","statewide",2926,"Democrat","Nathaniel McLaughlin",563
+"KS","Wilson","20205","2020500000","Commissioner of Insurance","statewide",2926,"Republican","Vicki Schmidt",2363
+"KS","Woodson","20207","2020700000","Commissioner of Insurance","statewide",1146,"Democrat","Nathaniel McLaughlin",242
+"KS","Woodson","20207","2020700000","Commissioner of Insurance","statewide",1146,"Republican","Vicki Schmidt",904
+"KS","Wyandotte","20209","2020900000","Commissioner of Insurance","statewide",40952,"Democrat","Nathaniel McLaughlin",27542
+"KS","Wyandotte","20209","2020900000","Commissioner of Insurance","statewide",40952,"Republican","Vicki Schmidt",13410
+"KS","Allen","20001","2000100000","Governor","statewide",4436,"Independent","Greg Orman",163
+"KS","Allen","20001","2000100000","Governor","statewide",4436,"Libertarian","Jeff Caldwell",122
+"KS","Allen","20001","2000100000","Governor","statewide",4436,"Republican","Kris Kobach",2292
+"KS","Allen","20001","2000100000","Governor","statewide",4436,"Democrat","Laura Kelly",1795
+"KS","Allen","20001","2000100000","Governor","statewide",4436,"Independent","Rick Kloos",64
+"KS","Anderson","20003","2000300000","Governor","statewide",2765,"Independent","Greg Orman",127
+"KS","Anderson","20003","2000300000","Governor","statewide",2765,"Libertarian","Jeff Caldwell",62
+"KS","Anderson","20003","2000300000","Governor","statewide",2765,"Republican","Kris Kobach",1596
+"KS","Anderson","20003","2000300000","Governor","statewide",2765,"Democrat","Laura Kelly",957
+"KS","Anderson","20003","2000300000","Governor","statewide",2765,"Independent","Rick Kloos",23
+"KS","Atchison","20005","2000500000","Governor","statewide",5472,"Independent","Greg Orman",281
+"KS","Atchison","20005","2000500000","Governor","statewide",5472,"Libertarian","Jeff Caldwell",147
+"KS","Atchison","20005","2000500000","Governor","statewide",5472,"Republican","Kris Kobach",2558
+"KS","Atchison","20005","2000500000","Governor","statewide",5472,"Democrat","Laura Kelly",2447
+"KS","Atchison","20005","2000500000","Governor","statewide",5472,"Independent","Rick Kloos",39
+"KS","Barber","20007","2000700000","Governor","statewide",1757,"Independent","Greg Orman",158
+"KS","Barber","20007","2000700000","Governor","statewide",1757,"Libertarian","Jeff Caldwell",39
+"KS","Barber","20007","2000700000","Governor","statewide",1757,"Republican","Kris Kobach",1155
+"KS","Barber","20007","2000700000","Governor","statewide",1757,"Democrat","Laura Kelly",396
+"KS","Barber","20007","2000700000","Governor","statewide",1757,"Independent","Rick Kloos",9
+"KS","Barton","20009","2000900000","Governor","statewide",8587,"Independent","Greg Orman",868
+"KS","Barton","20009","2000900000","Governor","statewide",8587,"Libertarian","Jeff Caldwell",175
+"KS","Barton","20009","2000900000","Governor","statewide",8587,"Republican","Kris Kobach",4841
+"KS","Barton","20009","2000900000","Governor","statewide",8587,"Democrat","Laura Kelly",2645
+"KS","Barton","20009","2000900000","Governor","statewide",8587,"Independent","Rick Kloos",58
+"KS","Bourbon","20011","2001100000","Governor","statewide",4933,"Independent","Greg Orman",175
+"KS","Bourbon","20011","2001100000","Governor","statewide",4933,"Libertarian","Jeff Caldwell",169
+"KS","Bourbon","20011","2001100000","Governor","statewide",4933,"Republican","Kris Kobach",2970
+"KS","Bourbon","20011","2001100000","Governor","statewide",4933,"Democrat","Laura Kelly",1576
+"KS","Bourbon","20011","2001100000","Governor","statewide",4933,"Independent","Rick Kloos",43
+"KS","Brown","20013","2001300000","Governor","statewide",3388,"Independent","Greg Orman",320
+"KS","Brown","20013","2001300000","Governor","statewide",3388,"Libertarian","Jeff Caldwell",74
+"KS","Brown","20013","2001300000","Governor","statewide",3388,"Republican","Kris Kobach",1836
+"KS","Brown","20013","2001300000","Governor","statewide",3388,"Democrat","Laura Kelly",1133
+"KS","Brown","20013","2001300000","Governor","statewide",3388,"Independent","Rick Kloos",25
+"KS","Butler","20015","2001500000","Governor","statewide",23967,"Independent","Greg Orman",1901
+"KS","Butler","20015","2001500000","Governor","statewide",23967,"Libertarian","Jeff Caldwell",451
+"KS","Butler","20015","2001500000","Governor","statewide",23967,"Republican","Kris Kobach",12822
+"KS","Butler","20015","2001500000","Governor","statewide",23967,"Democrat","Laura Kelly",8651
+"KS","Butler","20015","2001500000","Governor","statewide",23967,"Independent","Rick Kloos",142
+"KS","Chase","20017","2001700000","Governor","statewide",1218,"Independent","Greg Orman",87
+"KS","Chase","20017","2001700000","Governor","statewide",1218,"Libertarian","Jeff Caldwell",34
+"KS","Chase","20017","2001700000","Governor","statewide",1218,"Republican","Kris Kobach",653
+"KS","Chase","20017","2001700000","Governor","statewide",1218,"Democrat","Laura Kelly",440
+"KS","Chase","20017","2001700000","Governor","statewide",1218,"Independent","Rick Kloos",4
+"KS","Chautauqua","20019","2001900000","Governor","statewide",1135,"Independent","Greg Orman",47
+"KS","Chautauqua","20019","2001900000","Governor","statewide",1135,"Libertarian","Jeff Caldwell",27
+"KS","Chautauqua","20019","2001900000","Governor","statewide",1135,"Republican","Kris Kobach",808
+"KS","Chautauqua","20019","2001900000","Governor","statewide",1135,"Democrat","Laura Kelly",252
+"KS","Chautauqua","20019","2001900000","Governor","statewide",1135,"Independent","Rick Kloos",1
+"KS","Cherokee","20021","2002100000","Governor","statewide",6991,"Independent","Greg Orman",200
+"KS","Cherokee","20021","2002100000","Governor","statewide",6991,"Libertarian","Jeff Caldwell",139
+"KS","Cherokee","20021","2002100000","Governor","statewide",6991,"Republican","Kris Kobach",4284
+"KS","Cherokee","20021","2002100000","Governor","statewide",6991,"Democrat","Laura Kelly",2314
+"KS","Cherokee","20021","2002100000","Governor","statewide",6991,"Independent","Rick Kloos",54
+"KS","Cheyenne","20023","2002300000","Governor","statewide",1087,"Independent","Greg Orman",79
+"KS","Cheyenne","20023","2002300000","Governor","statewide",1087,"Libertarian","Jeff Caldwell",20
+"KS","Cheyenne","20023","2002300000","Governor","statewide",1087,"Republican","Kris Kobach",733
+"KS","Cheyenne","20023","2002300000","Governor","statewide",1087,"Democrat","Laura Kelly",248
+"KS","Cheyenne","20023","2002300000","Governor","statewide",1087,"Independent","Rick Kloos",7
+"KS","Clark","20025","2002500000","Governor","statewide",849,"Independent","Greg Orman",120
+"KS","Clark","20025","2002500000","Governor","statewide",849,"Libertarian","Jeff Caldwell",22
+"KS","Clark","20025","2002500000","Governor","statewide",849,"Republican","Kris Kobach",521
+"KS","Clark","20025","2002500000","Governor","statewide",849,"Democrat","Laura Kelly",181
+"KS","Clark","20025","2002500000","Governor","statewide",849,"Independent","Rick Kloos",5
+"KS","Clay","20027","2002700000","Governor","statewide",3176,"Independent","Greg Orman",282
+"KS","Clay","20027","2002700000","Governor","statewide",3176,"Libertarian","Jeff Caldwell",55
+"KS","Clay","20027","2002700000","Governor","statewide",3176,"Republican","Kris Kobach",1743
+"KS","Clay","20027","2002700000","Governor","statewide",3176,"Democrat","Laura Kelly",1040
+"KS","Clay","20027","2002700000","Governor","statewide",3176,"Independent","Rick Kloos",56
+"KS","Cloud","20029","2002900000","Governor","statewide",3243,"Independent","Greg Orman",277
+"KS","Cloud","20029","2002900000","Governor","statewide",3243,"Libertarian","Jeff Caldwell",74
+"KS","Cloud","20029","2002900000","Governor","statewide",3243,"Republican","Kris Kobach",1744
+"KS","Cloud","20029","2002900000","Governor","statewide",3243,"Democrat","Laura Kelly",1092
+"KS","Cloud","20029","2002900000","Governor","statewide",3243,"Independent","Rick Kloos",56
+"KS","Coffey","20031","2003100000","Governor","statewide",3475,"Independent","Greg Orman",340
+"KS","Coffey","20031","2003100000","Governor","statewide",3475,"Libertarian","Jeff Caldwell",91
+"KS","Coffey","20031","2003100000","Governor","statewide",3475,"Republican","Kris Kobach",1926
+"KS","Coffey","20031","2003100000","Governor","statewide",3475,"Democrat","Laura Kelly",1082
+"KS","Coffey","20031","2003100000","Governor","statewide",3475,"Independent","Rick Kloos",36
+"KS","Comanche","20033","2003300000","Governor","statewide",715,"Independent","Greg Orman",66
+"KS","Comanche","20033","2003300000","Governor","statewide",715,"Libertarian","Jeff Caldwell",24
+"KS","Comanche","20033","2003300000","Governor","statewide",715,"Republican","Kris Kobach",453
+"KS","Comanche","20033","2003300000","Governor","statewide",715,"Democrat","Laura Kelly",170
+"KS","Comanche","20033","2003300000","Governor","statewide",715,"Independent","Rick Kloos",2
+"KS","Cowley","20035","2003500000","Governor","statewide",10529,"Independent","Greg Orman",913
+"KS","Cowley","20035","2003500000","Governor","statewide",10529,"Libertarian","Jeff Caldwell",173
+"KS","Cowley","20035","2003500000","Governor","statewide",10529,"Republican","Kris Kobach",5165
+"KS","Cowley","20035","2003500000","Governor","statewide",10529,"Democrat","Laura Kelly",4221
+"KS","Cowley","20035","2003500000","Governor","statewide",10529,"Independent","Rick Kloos",57
+"KS","Crawford","20037","2003700000","Governor","statewide",12878,"Independent","Greg Orman",454
+"KS","Crawford","20037","2003700000","Governor","statewide",12878,"Libertarian","Jeff Caldwell",361
+"KS","Crawford","20037","2003700000","Governor","statewide",12878,"Republican","Kris Kobach",5662
+"KS","Crawford","20037","2003700000","Governor","statewide",12878,"Democrat","Laura Kelly",6294
+"KS","Crawford","20037","2003700000","Governor","statewide",12878,"Independent","Rick Kloos",107
+"KS","Decatur","20039","2003900000","Governor","statewide",1129,"Independent","Greg Orman",86
+"KS","Decatur","20039","2003900000","Governor","statewide",1129,"Libertarian","Jeff Caldwell",15
+"KS","Decatur","20039","2003900000","Governor","statewide",1129,"Republican","Kris Kobach",736
+"KS","Decatur","20039","2003900000","Governor","statewide",1129,"Democrat","Laura Kelly",287
+"KS","Decatur","20039","2003900000","Governor","statewide",1129,"Independent","Rick Kloos",5
+"KS","Dickinson","20041","2004100000","Governor","statewide",6762,"Independent","Greg Orman",516
+"KS","Dickinson","20041","2004100000","Governor","statewide",6762,"Libertarian","Jeff Caldwell",145
+"KS","Dickinson","20041","2004100000","Governor","statewide",6762,"Republican","Kris Kobach",3790
+"KS","Dickinson","20041","2004100000","Governor","statewide",6762,"Democrat","Laura Kelly",2265
+"KS","Dickinson","20041","2004100000","Governor","statewide",6762,"Independent","Rick Kloos",46
+"KS","Doniphan","20043","2004300000","Governor","statewide",2599,"Independent","Greg Orman",83
+"KS","Doniphan","20043","2004300000","Governor","statewide",2599,"Libertarian","Jeff Caldwell",47
+"KS","Doniphan","20043","2004300000","Governor","statewide",2599,"Republican","Kris Kobach",1699
+"KS","Doniphan","20043","2004300000","Governor","statewide",2599,"Democrat","Laura Kelly",749
+"KS","Doniphan","20043","2004300000","Governor","statewide",2599,"Independent","Rick Kloos",21
+"KS","Douglas","20045","2004500000","Governor","statewide",49518,"Independent","Greg Orman",1749
+"KS","Douglas","20045","2004500000","Governor","statewide",49518,"Libertarian","Jeff Caldwell",684
+"KS","Douglas","20045","2004500000","Governor","statewide",49518,"Republican","Kris Kobach",10154
+"KS","Douglas","20045","2004500000","Governor","statewide",49518,"Democrat","Laura Kelly",36678
+"KS","Douglas","20045","2004500000","Governor","statewide",49518,"Independent","Rick Kloos",253
+"KS","Edwards","20047","2004700000","Governor","statewide",1142,"Independent","Greg Orman",119
+"KS","Edwards","20047","2004700000","Governor","statewide",1142,"Libertarian","Jeff Caldwell",16
+"KS","Edwards","20047","2004700000","Governor","statewide",1142,"Republican","Kris Kobach",692
+"KS","Edwards","20047","2004700000","Governor","statewide",1142,"Democrat","Laura Kelly",307
+"KS","Edwards","20047","2004700000","Governor","statewide",1142,"Independent","Rick Kloos",8
+"KS","Elk","20049","2004900000","Governor","statewide",1057,"Independent","Greg Orman",83
+"KS","Elk","20049","2004900000","Governor","statewide",1057,"Libertarian","Jeff Caldwell",17
+"KS","Elk","20049","2004900000","Governor","statewide",1057,"Republican","Kris Kobach",669
+"KS","Elk","20049","2004900000","Governor","statewide",1057,"Democrat","Laura Kelly",277
+"KS","Elk","20049","2004900000","Governor","statewide",1057,"Independent","Rick Kloos",11
+"KS","Ellis","20051","2005100000","Governor","statewide",10447,"Independent","Greg Orman",801
+"KS","Ellis","20051","2005100000","Governor","statewide",10447,"Libertarian","Jeff Caldwell",199
+"KS","Ellis","20051","2005100000","Governor","statewide",10447,"Republican","Kris Kobach",5138
+"KS","Ellis","20051","2005100000","Governor","statewide",10447,"Democrat","Laura Kelly",4243
+"KS","Ellis","20051","2005100000","Governor","statewide",10447,"Independent","Rick Kloos",66
+"KS","Ellsworth","20053","2005300000","Governor","statewide",2301,"Independent","Greg Orman",241
+"KS","Ellsworth","20053","2005300000","Governor","statewide",2301,"Libertarian","Jeff Caldwell",35
+"KS","Ellsworth","20053","2005300000","Governor","statewide",2301,"Republican","Kris Kobach",1168
+"KS","Ellsworth","20053","2005300000","Governor","statewide",2301,"Democrat","Laura Kelly",840
+"KS","Ellsworth","20053","2005300000","Governor","statewide",2301,"Independent","Rick Kloos",17
+"KS","Finney","20055","2005500000","Governor","statewide",8680,"Independent","Greg Orman",1451
+"KS","Finney","20055","2005500000","Governor","statewide",8680,"Libertarian","Jeff Caldwell",100
+"KS","Finney","20055","2005500000","Governor","statewide",8680,"Republican","Kris Kobach",3891
+"KS","Finney","20055","2005500000","Governor","statewide",8680,"Democrat","Laura Kelly",3192
+"KS","Finney","20055","2005500000","Governor","statewide",8680,"Independent","Rick Kloos",46
+"KS","Ford","20057","2005700000","Governor","statewide",7115,"Independent","Greg Orman",780
+"KS","Ford","20057","2005700000","Governor","statewide",7115,"Libertarian","Jeff Caldwell",138
+"KS","Ford","20057","2005700000","Governor","statewide",7115,"Republican","Kris Kobach",3574
+"KS","Ford","20057","2005700000","Governor","statewide",7115,"Democrat","Laura Kelly",2582
+"KS","Ford","20057","2005700000","Governor","statewide",7115,"Independent","Rick Kloos",41
+"KS","Franklin","20059","2005900000","Governor","statewide",9376,"Independent","Greg Orman",559
+"KS","Franklin","20059","2005900000","Governor","statewide",9376,"Libertarian","Jeff Caldwell",200
+"KS","Franklin","20059","2005900000","Governor","statewide",9376,"Republican","Kris Kobach",4742
+"KS","Franklin","20059","2005900000","Governor","statewide",9376,"Democrat","Laura Kelly",3806
+"KS","Franklin","20059","2005900000","Governor","statewide",9376,"Independent","Rick Kloos",69
+"KS","Geary","20061","2006100000","Governor","statewide",6169,"Independent","Greg Orman",487
+"KS","Geary","20061","2006100000","Governor","statewide",6169,"Libertarian","Jeff Caldwell",137
+"KS","Geary","20061","2006100000","Governor","statewide",6169,"Republican","Kris Kobach",2769
+"KS","Geary","20061","2006100000","Governor","statewide",6169,"Democrat","Laura Kelly",2703
+"KS","Geary","20061","2006100000","Governor","statewide",6169,"Independent","Rick Kloos",73
+"KS","Gove","20063","2006300000","Governor","statewide",1096,"Independent","Greg Orman",100
+"KS","Gove","20063","2006300000","Governor","statewide",1096,"Libertarian","Jeff Caldwell",14
+"KS","Gove","20063","2006300000","Governor","statewide",1096,"Republican","Kris Kobach",720
+"KS","Gove","20063","2006300000","Governor","statewide",1096,"Democrat","Laura Kelly",256
+"KS","Gove","20063","2006300000","Governor","statewide",1096,"Independent","Rick Kloos",6
+"KS","Graham","20065","2006500000","Governor","statewide",1080,"Independent","Greg Orman",80
+"KS","Graham","20065","2006500000","Governor","statewide",1080,"Libertarian","Jeff Caldwell",27
+"KS","Graham","20065","2006500000","Governor","statewide",1080,"Republican","Kris Kobach",671
+"KS","Graham","20065","2006500000","Governor","statewide",1080,"Democrat","Laura Kelly",284
+"KS","Graham","20065","2006500000","Governor","statewide",1080,"Independent","Rick Kloos",18
+"KS","Grant","20067","2006700000","Governor","statewide",1835,"Independent","Greg Orman",251
+"KS","Grant","20067","2006700000","Governor","statewide",1835,"Libertarian","Jeff Caldwell",26
+"KS","Grant","20067","2006700000","Governor","statewide",1835,"Republican","Kris Kobach",1096
+"KS","Grant","20067","2006700000","Governor","statewide",1835,"Democrat","Laura Kelly",451
+"KS","Grant","20067","2006700000","Governor","statewide",1835,"Independent","Rick Kloos",11
+"KS","Gray","20069","2006900000","Governor","statewide",1791,"Independent","Greg Orman",273
+"KS","Gray","20069","2006900000","Governor","statewide",1791,"Libertarian","Jeff Caldwell",23
+"KS","Gray","20069","2006900000","Governor","statewide",1791,"Republican","Kris Kobach",1138
+"KS","Gray","20069","2006900000","Governor","statewide",1791,"Democrat","Laura Kelly",347
+"KS","Gray","20069","2006900000","Governor","statewide",1791,"Independent","Rick Kloos",10
+"KS","Greeley","20071","2007100000","Governor","statewide",498,"Independent","Greg Orman",55
+"KS","Greeley","20071","2007100000","Governor","statewide",498,"Libertarian","Jeff Caldwell",6
+"KS","Greeley","20071","2007100000","Governor","statewide",498,"Republican","Kris Kobach",313
+"KS","Greeley","20071","2007100000","Governor","statewide",498,"Democrat","Laura Kelly",118
+"KS","Greeley","20071","2007100000","Governor","statewide",498,"Independent","Rick Kloos",6
+"KS","Greenwood","20073","2007300000","Governor","statewide",2135,"Independent","Greg Orman",209
+"KS","Greenwood","20073","2007300000","Governor","statewide",2135,"Libertarian","Jeff Caldwell",47
+"KS","Greenwood","20073","2007300000","Governor","statewide",2135,"Republican","Kris Kobach",1214
+"KS","Greenwood","20073","2007300000","Governor","statewide",2135,"Democrat","Laura Kelly",653
+"KS","Greenwood","20073","2007300000","Governor","statewide",2135,"Independent","Rick Kloos",12
+"KS","Hamilton","20075","2007500000","Governor","statewide",630,"Independent","Greg Orman",79
+"KS","Hamilton","20075","2007500000","Governor","statewide",630,"Libertarian","Jeff Caldwell",11
+"KS","Hamilton","20075","2007500000","Governor","statewide",630,"Republican","Kris Kobach",373
+"KS","Hamilton","20075","2007500000","Governor","statewide",630,"Democrat","Laura Kelly",166
+"KS","Hamilton","20075","2007500000","Governor","statewide",630,"Independent","Rick Kloos",1
+"KS","Harper","20077","2007700000","Governor","statewide",2046,"Independent","Greg Orman",193
+"KS","Harper","20077","2007700000","Governor","statewide",2046,"Libertarian","Jeff Caldwell",24
+"KS","Harper","20077","2007700000","Governor","statewide",2046,"Republican","Kris Kobach",1243
+"KS","Harper","20077","2007700000","Governor","statewide",2046,"Democrat","Laura Kelly",570
+"KS","Harper","20077","2007700000","Governor","statewide",2046,"Independent","Rick Kloos",16
+"KS","Harvey","20079","2007900000","Governor","statewide",13722,"Independent","Greg Orman",1079
+"KS","Harvey","20079","2007900000","Governor","statewide",13722,"Libertarian","Jeff Caldwell",232
+"KS","Harvey","20079","2007900000","Governor","statewide",13722,"Republican","Kris Kobach",5872
+"KS","Harvey","20079","2007900000","Governor","statewide",13722,"Democrat","Laura Kelly",6450
+"KS","Harvey","20079","2007900000","Governor","statewide",13722,"Independent","Rick Kloos",89
+"KS","Haskell","20081","2008100000","Governor","statewide",1134,"Independent","Greg Orman",143
+"KS","Haskell","20081","2008100000","Governor","statewide",1134,"Libertarian","Jeff Caldwell",17
+"KS","Haskell","20081","2008100000","Governor","statewide",1134,"Republican","Kris Kobach",681
+"KS","Haskell","20081","2008100000","Governor","statewide",1134,"Democrat","Laura Kelly",287
+"KS","Haskell","20081","2008100000","Governor","statewide",1134,"Independent","Rick Kloos",6
+"KS","Hodgeman","20083","2008300000","Governor","statewide",883,"Independent","Greg Orman",100
+"KS","Hodgeman","20083","2008300000","Governor","statewide",883,"Libertarian","Jeff Caldwell",13
+"KS","Hodgeman","20083","2008300000","Governor","statewide",883,"Republican","Kris Kobach",597
+"KS","Hodgeman","20083","2008300000","Governor","statewide",883,"Democrat","Laura Kelly",167
+"KS","Hodgeman","20083","2008300000","Governor","statewide",883,"Independent","Rick Kloos",6
+"KS","Jackson","20085","2008500000","Governor","statewide",5309,"Independent","Greg Orman",492
+"KS","Jackson","20085","2008500000","Governor","statewide",5309,"Libertarian","Jeff Caldwell",104
+"KS","Jackson","20085","2008500000","Governor","statewide",5309,"Republican","Kris Kobach",2565
+"KS","Jackson","20085","2008500000","Governor","statewide",5309,"Democrat","Laura Kelly",2088
+"KS","Jackson","20085","2008500000","Governor","statewide",5309,"Independent","Rick Kloos",60
+"KS","Jefferson","20087","2008700000","Governor","statewide",7562,"Independent","Greg Orman",593
+"KS","Jefferson","20087","2008700000","Governor","statewide",7562,"Libertarian","Jeff Caldwell",115
+"KS","Jefferson","20087","2008700000","Governor","statewide",7562,"Republican","Kris Kobach",3485
+"KS","Jefferson","20087","2008700000","Governor","statewide",7562,"Democrat","Laura Kelly",3306
+"KS","Jefferson","20087","2008700000","Governor","statewide",7562,"Independent","Rick Kloos",63
+"KS","Jewell","20089","2008900000","Governor","statewide",1183,"Independent","Greg Orman",88
+"KS","Jewell","20089","2008900000","Governor","statewide",1183,"Libertarian","Jeff Caldwell",23
+"KS","Jewell","20089","2008900000","Governor","statewide",1183,"Republican","Kris Kobach",765
+"KS","Jewell","20089","2008900000","Governor","statewide",1183,"Democrat","Laura Kelly",294
+"KS","Jewell","20089","2008900000","Governor","statewide",1183,"Independent","Rick Kloos",13
+"KS","Johnson","20091","2009100000","Governor","statewide",270851,"Independent","Greg Orman",13750
+"KS","Johnson","20091","2009100000","Governor","statewide",270851,"Libertarian","Jeff Caldwell",5083
+"KS","Johnson","20091","2009100000","Governor","statewide",270851,"Republican","Kris Kobach",102813
+"KS","Johnson","20091","2009100000","Governor","statewide",270851,"Democrat","Laura Kelly",148082
+"KS","Johnson","20091","2009100000","Governor","statewide",270851,"Independent","Rick Kloos",1123
+"KS","Kearny","20093","2009300000","Governor","statewide",1095,"Independent","Greg Orman",107
+"KS","Kearny","20093","2009300000","Governor","statewide",1095,"Libertarian","Jeff Caldwell",9
+"KS","Kearny","20093","2009300000","Governor","statewide",1095,"Republican","Kris Kobach",687
+"KS","Kearny","20093","2009300000","Governor","statewide",1095,"Democrat","Laura Kelly",286
+"KS","Kearny","20093","2009300000","Governor","statewide",1095,"Independent","Rick Kloos",6
+"KS","Kingman","20095","2009500000","Governor","statewide",2993,"Independent","Greg Orman",284
+"KS","Kingman","20095","2009500000","Governor","statewide",2993,"Libertarian","Jeff Caldwell",39
+"KS","Kingman","20095","2009500000","Governor","statewide",2993,"Republican","Kris Kobach",1764
+"KS","Kingman","20095","2009500000","Governor","statewide",2993,"Democrat","Laura Kelly",891
+"KS","Kingman","20095","2009500000","Governor","statewide",2993,"Independent","Rick Kloos",15
+"KS","Kiowa","20097","2009700000","Governor","statewide",1888,"Independent","Greg Orman",184
+"KS","Kiowa","20097","2009700000","Governor","statewide",1888,"Libertarian","Jeff Caldwell",22
+"KS","Kiowa","20097","2009700000","Governor","statewide",1888,"Republican","Kris Kobach",1230
+"KS","Kiowa","20097","2009700000","Governor","statewide",1888,"Democrat","Laura Kelly",436
+"KS","Kiowa","20097","2009700000","Governor","statewide",1888,"Independent","Rick Kloos",16
+"KS","Labette","20099","2009900000","Governor","statewide",6341,"Independent","Greg Orman",202
+"KS","Labette","20099","2009900000","Governor","statewide",6341,"Libertarian","Jeff Caldwell",155
+"KS","Labette","20099","2009900000","Governor","statewide",6341,"Republican","Kris Kobach",3273
+"KS","Labette","20099","2009900000","Governor","statewide",6341,"Democrat","Laura Kelly",2646
+"KS","Labette","20099","2009900000","Governor","statewide",6341,"Independent","Rick Kloos",65
+"KS","Lane","20101","2010100000","Governor","statewide",719,"Independent","Greg Orman",101
+"KS","Lane","20101","2010100000","Governor","statewide",719,"Libertarian","Jeff Caldwell",5
+"KS","Lane","20101","2010100000","Governor","statewide",719,"Republican","Kris Kobach",437
+"KS","Lane","20101","2010100000","Governor","statewide",719,"Democrat","Laura Kelly",174
+"KS","Lane","20101","2010100000","Governor","statewide",719,"Independent","Rick Kloos",2
+"KS","Leavenworth","20103","2010300000","Governor","statewide",26340,"Independent","Greg Orman",1376
+"KS","Leavenworth","20103","2010300000","Governor","statewide",26340,"Libertarian","Jeff Caldwell",586
+"KS","Leavenworth","20103","2010300000","Governor","statewide",26340,"Republican","Kris Kobach",12379
+"KS","Leavenworth","20103","2010300000","Governor","statewide",26340,"Democrat","Laura Kelly",11802
+"KS","Leavenworth","20103","2010300000","Governor","statewide",26340,"Independent","Rick Kloos",197
+"KS","Lincoln","20105","2010500000","Governor","statewide",1252,"Independent","Greg Orman",72
+"KS","Lincoln","20105","2010500000","Governor","statewide",1252,"Libertarian","Jeff Caldwell",22
+"KS","Lincoln","20105","2010500000","Governor","statewide",1252,"Republican","Kris Kobach",769
+"KS","Lincoln","20105","2010500000","Governor","statewide",1252,"Democrat","Laura Kelly",383
+"KS","Lincoln","20105","2010500000","Governor","statewide",1252,"Independent","Rick Kloos",6
+"KS","Linn","20107","2010700000","Governor","statewide",3767,"Independent","Greg Orman",185
+"KS","Linn","20107","2010700000","Governor","statewide",3767,"Libertarian","Jeff Caldwell",65
+"KS","Linn","20107","2010700000","Governor","statewide",3767,"Republican","Kris Kobach",2401
+"KS","Linn","20107","2010700000","Governor","statewide",3767,"Democrat","Laura Kelly",1091
+"KS","Linn","20107","2010700000","Governor","statewide",3767,"Independent","Rick Kloos",25
+"KS","Logan","20109","2010900000","Governor","statewide",1162,"Independent","Greg Orman",97
+"KS","Logan","20109","2010900000","Governor","statewide",1162,"Libertarian","Jeff Caldwell",19
+"KS","Logan","20109","2010900000","Governor","statewide",1162,"Republican","Kris Kobach",785
+"KS","Logan","20109","2010900000","Governor","statewide",1162,"Democrat","Laura Kelly",255
+"KS","Logan","20109","2010900000","Governor","statewide",1162,"Independent","Rick Kloos",6
+"KS","Lyon","20111","2011100000","Governor","statewide",10899,"Independent","Greg Orman",943
+"KS","Lyon","20111","2011100000","Governor","statewide",10899,"Libertarian","Jeff Caldwell",265
+"KS","Lyon","20111","2011100000","Governor","statewide",10899,"Republican","Kris Kobach",3920
+"KS","Lyon","20111","2011100000","Governor","statewide",10899,"Democrat","Laura Kelly",5679
+"KS","Lyon","20111","2011100000","Governor","statewide",10899,"Independent","Rick Kloos",92
+"KS","Marion","20115","2011500000","Governor","statewide",4862,"Independent","Greg Orman",423
+"KS","Marion","20115","2011500000","Governor","statewide",4862,"Libertarian","Jeff Caldwell",57
+"KS","Marion","20115","2011500000","Governor","statewide",4862,"Republican","Kris Kobach",2564
+"KS","Marion","20115","2011500000","Governor","statewide",4862,"Democrat","Laura Kelly",1785
+"KS","Marion","20115","2011500000","Governor","statewide",4862,"Independent","Rick Kloos",33
+"KS","Marshall","20117","2011700000","Governor","statewide",3488,"Independent","Greg Orman",392
+"KS","Marshall","20117","2011700000","Governor","statewide",3488,"Libertarian","Jeff Caldwell",43
+"KS","Marshall","20117","2011700000","Governor","statewide",3488,"Republican","Kris Kobach",1581
+"KS","Marshall","20117","2011700000","Governor","statewide",3488,"Democrat","Laura Kelly",1449
+"KS","Marshall","20117","2011700000","Governor","statewide",3488,"Independent","Rick Kloos",23
+"KS","McPherson","20113","2011300000","Governor","statewide",11349,"Independent","Greg Orman",895
+"KS","McPherson","20113","2011300000","Governor","statewide",11349,"Libertarian","Jeff Caldwell",134
+"KS","McPherson","20113","2011300000","Governor","statewide",11349,"Republican","Kris Kobach",5832
+"KS","McPherson","20113","2011300000","Governor","statewide",11349,"Democrat","Laura Kelly",4440
+"KS","McPherson","20113","2011300000","Governor","statewide",11349,"Independent","Rick Kloos",48
+"KS","Meade","20119","2011900000","Governor","statewide",1394,"Independent","Greg Orman",136
+"KS","Meade","20119","2011900000","Governor","statewide",1394,"Libertarian","Jeff Caldwell",28
+"KS","Meade","20119","2011900000","Governor","statewide",1394,"Republican","Kris Kobach",914
+"KS","Meade","20119","2011900000","Governor","statewide",1394,"Democrat","Laura Kelly",311
+"KS","Meade","20119","2011900000","Governor","statewide",1394,"Independent","Rick Kloos",5
+"KS","Miami","20121","2012100000","Governor","statewide",13100,"Independent","Greg Orman",758
+"KS","Miami","20121","2012100000","Governor","statewide",13100,"Libertarian","Jeff Caldwell",255
+"KS","Miami","20121","2012100000","Governor","statewide",13100,"Republican","Kris Kobach",7160
+"KS","Miami","20121","2012100000","Governor","statewide",13100,"Democrat","Laura Kelly",4842
+"KS","Miami","20121","2012100000","Governor","statewide",13100,"Independent","Rick Kloos",85
+"KS","Mitchell","20123","2012300000","Governor","statewide",2499,"Independent","Greg Orman",199
+"KS","Mitchell","20123","2012300000","Governor","statewide",2499,"Libertarian","Jeff Caldwell",35
+"KS","Mitchell","20123","2012300000","Governor","statewide",2499,"Republican","Kris Kobach",1375
+"KS","Mitchell","20123","2012300000","Governor","statewide",2499,"Democrat","Laura Kelly",876
+"KS","Mitchell","20123","2012300000","Governor","statewide",2499,"Independent","Rick Kloos",14
+"KS","Montgomery","20125","2012500000","Governor","statewide",9786,"Independent","Greg Orman",382
+"KS","Montgomery","20125","2012500000","Governor","statewide",9786,"Libertarian","Jeff Caldwell",263
+"KS","Montgomery","20125","2012500000","Governor","statewide",9786,"Republican","Kris Kobach",6133
+"KS","Montgomery","20125","2012500000","Governor","statewide",9786,"Democrat","Laura Kelly",2931
+"KS","Montgomery","20125","2012500000","Governor","statewide",9786,"Independent","Rick Kloos",77
+"KS","Morris","20127","2012700000","Governor","statewide",2250,"Independent","Greg Orman",202
+"KS","Morris","20127","2012700000","Governor","statewide",2250,"Libertarian","Jeff Caldwell",29
+"KS","Morris","20127","2012700000","Governor","statewide",2250,"Republican","Kris Kobach",1106
+"KS","Morris","20127","2012700000","Governor","statewide",2250,"Democrat","Laura Kelly",898
+"KS","Morris","20127","2012700000","Governor","statewide",2250,"Independent","Rick Kloos",15
+"KS","Morton","20129","2012900000","Governor","statewide",907,"Independent","Greg Orman",80
+"KS","Morton","20129","2012900000","Governor","statewide",907,"Libertarian","Jeff Caldwell",12
+"KS","Morton","20129","2012900000","Governor","statewide",907,"Republican","Kris Kobach",626
+"KS","Morton","20129","2012900000","Governor","statewide",907,"Democrat","Laura Kelly",184
+"KS","Morton","20129","2012900000","Governor","statewide",907,"Independent","Rick Kloos",5
+"KS","Nemaha","20131","2013100000","Governor","statewide",4580,"Independent","Greg Orman",445
+"KS","Nemaha","20131","2013100000","Governor","statewide",4580,"Libertarian","Jeff Caldwell",71
+"KS","Nemaha","20131","2013100000","Governor","statewide",4580,"Republican","Kris Kobach",2605
+"KS","Nemaha","20131","2013100000","Governor","statewide",4580,"Democrat","Laura Kelly",1415
+"KS","Nemaha","20131","2013100000","Governor","statewide",4580,"Independent","Rick Kloos",44
+"KS","Neosho","20133","2013300000","Governor","statewide",5440,"Independent","Greg Orman",247
+"KS","Neosho","20133","2013300000","Governor","statewide",5440,"Libertarian","Jeff Caldwell",132
+"KS","Neosho","20133","2013300000","Governor","statewide",5440,"Republican","Kris Kobach",2930
+"KS","Neosho","20133","2013300000","Governor","statewide",5440,"Democrat","Laura Kelly",2069
+"KS","Neosho","20133","2013300000","Governor","statewide",5440,"Independent","Rick Kloos",62
+"KS","Ness","20135","2013500000","Governor","statewide",1178,"Independent","Greg Orman",112
+"KS","Ness","20135","2013500000","Governor","statewide",1178,"Libertarian","Jeff Caldwell",6
+"KS","Ness","20135","2013500000","Governor","statewide",1178,"Republican","Kris Kobach",808
+"KS","Ness","20135","2013500000","Governor","statewide",1178,"Democrat","Laura Kelly",250
+"KS","Ness","20135","2013500000","Governor","statewide",1178,"Independent","Rick Kloos",2
+"KS","Norton","20137","2013700000","Governor","statewide",1891,"Independent","Greg Orman",142
+"KS","Norton","20137","2013700000","Governor","statewide",1891,"Libertarian","Jeff Caldwell",39
+"KS","Norton","20137","2013700000","Governor","statewide",1891,"Republican","Kris Kobach",1187
+"KS","Norton","20137","2013700000","Governor","statewide",1891,"Democrat","Laura Kelly",511
+"KS","Norton","20137","2013700000","Governor","statewide",1891,"Independent","Rick Kloos",12
+"KS","Osage","20139","2013900000","Governor","statewide",6306,"Independent","Greg Orman",616
+"KS","Osage","20139","2013900000","Governor","statewide",6306,"Libertarian","Jeff Caldwell",137
+"KS","Osage","20139","2013900000","Governor","statewide",6306,"Republican","Kris Kobach",2964
+"KS","Osage","20139","2013900000","Governor","statewide",6306,"Democrat","Laura Kelly",2525
+"KS","Osage","20139","2013900000","Governor","statewide",6306,"Independent","Rick Kloos",64
+"KS","Osborne","20141","2014100000","Governor","statewide",1498,"Independent","Greg Orman",145
+"KS","Osborne","20141","2014100000","Governor","statewide",1498,"Libertarian","Jeff Caldwell",26
+"KS","Osborne","20141","2014100000","Governor","statewide",1498,"Republican","Kris Kobach",907
+"KS","Osborne","20141","2014100000","Governor","statewide",1498,"Democrat","Laura Kelly",413
+"KS","Osborne","20141","2014100000","Governor","statewide",1498,"Independent","Rick Kloos",7
+"KS","Ottawa","20143","2014300000","Governor","statewide",2438,"Independent","Greg Orman",204
+"KS","Ottawa","20143","2014300000","Governor","statewide",2438,"Libertarian","Jeff Caldwell",50
+"KS","Ottawa","20143","2014300000","Governor","statewide",2438,"Republican","Kris Kobach",1497
+"KS","Ottawa","20143","2014300000","Governor","statewide",2438,"Democrat","Laura Kelly",669
+"KS","Ottawa","20143","2014300000","Governor","statewide",2438,"Independent","Rick Kloos",18
+"KS","Pawnee","20145","2014500000","Governor","statewide",2242,"Independent","Greg Orman",208
+"KS","Pawnee","20145","2014500000","Governor","statewide",2242,"Libertarian","Jeff Caldwell",40
+"KS","Pawnee","20145","2014500000","Governor","statewide",2242,"Republican","Kris Kobach",1145
+"KS","Pawnee","20145","2014500000","Governor","statewide",2242,"Democrat","Laura Kelly",837
+"KS","Pawnee","20145","2014500000","Governor","statewide",2242,"Independent","Rick Kloos",12
+"KS","Phillips","20147","2014700000","Governor","statewide",2170,"Independent","Greg Orman",179
+"KS","Phillips","20147","2014700000","Governor","statewide",2170,"Libertarian","Jeff Caldwell",43
+"KS","Phillips","20147","2014700000","Governor","statewide",2170,"Republican","Kris Kobach",1419
+"KS","Phillips","20147","2014700000","Governor","statewide",2170,"Democrat","Laura Kelly",518
+"KS","Phillips","20147","2014700000","Governor","statewide",2170,"Independent","Rick Kloos",11
+"KS","Pottawatomie","20149","2014900000","Governor","statewide",9821,"Independent","Greg Orman",890
+"KS","Pottawatomie","20149","2014900000","Governor","statewide",9821,"Libertarian","Jeff Caldwell",145
+"KS","Pottawatomie","20149","2014900000","Governor","statewide",9821,"Republican","Kris Kobach",5384
+"KS","Pottawatomie","20149","2014900000","Governor","statewide",9821,"Democrat","Laura Kelly",3344
+"KS","Pottawatomie","20149","2014900000","Governor","statewide",9821,"Independent","Rick Kloos",58
+"KS","Pratt","20151","2015100000","Governor","statewide",3269,"Independent","Greg Orman",283
+"KS","Pratt","20151","2015100000","Governor","statewide",3269,"Libertarian","Jeff Caldwell",50
+"KS","Pratt","20151","2015100000","Governor","statewide",3269,"Republican","Kris Kobach",1701
+"KS","Pratt","20151","2015100000","Governor","statewide",3269,"Democrat","Laura Kelly",1221
+"KS","Pratt","20151","2015100000","Governor","statewide",3269,"Independent","Rick Kloos",14
+"KS","Rawlins","20153","2015300000","Governor","statewide",1216,"Independent","Greg Orman",98
+"KS","Rawlins","20153","2015300000","Governor","statewide",1216,"Libertarian","Jeff Caldwell",8
+"KS","Rawlins","20153","2015300000","Governor","statewide",1216,"Republican","Kris Kobach",771
+"KS","Rawlins","20153","2015300000","Governor","statewide",1216,"Democrat","Laura Kelly",333
+"KS","Rawlins","20153","2015300000","Governor","statewide",1216,"Independent","Rick Kloos",6
+"KS","Reno","20155","2015500000","Governor","statewide",21022,"Independent","Greg Orman",1809
+"KS","Reno","20155","2015500000","Governor","statewide",21022,"Libertarian","Jeff Caldwell",401
+"KS","Reno","20155","2015500000","Governor","statewide",21022,"Republican","Kris Kobach",9892
+"KS","Reno","20155","2015500000","Governor","statewide",21022,"Democrat","Laura Kelly",8799
+"KS","Reno","20155","2015500000","Governor","statewide",21022,"Independent","Rick Kloos",121
+"KS","Republic","20157","2015700000","Governor","statewide",2025,"Independent","Greg Orman",131
+"KS","Republic","20157","2015700000","Governor","statewide",2025,"Libertarian","Jeff Caldwell",33
+"KS","Republic","20157","2015700000","Governor","statewide",2025,"Republican","Kris Kobach",1245
+"KS","Republic","20157","2015700000","Governor","statewide",2025,"Democrat","Laura Kelly",592
+"KS","Republic","20157","2015700000","Governor","statewide",2025,"Independent","Rick Kloos",24
+"KS","Rice","20159","2015900000","Governor","statewide",3088,"Independent","Greg Orman",311
+"KS","Rice","20159","2015900000","Governor","statewide",3088,"Libertarian","Jeff Caldwell",69
+"KS","Rice","20159","2015900000","Governor","statewide",3088,"Republican","Kris Kobach",1729
+"KS","Rice","20159","2015900000","Governor","statewide",3088,"Democrat","Laura Kelly",963
+"KS","Rice","20159","2015900000","Governor","statewide",3088,"Independent","Rick Kloos",16
+"KS","Riley","20161","2016100000","Governor","statewide",19862,"Independent","Greg Orman",1536
+"KS","Riley","20161","2016100000","Governor","statewide",19862,"Libertarian","Jeff Caldwell",370
+"KS","Riley","20161","2016100000","Governor","statewide",19862,"Republican","Kris Kobach",6514
+"KS","Riley","20161","2016100000","Governor","statewide",19862,"Democrat","Laura Kelly",11280
+"KS","Riley","20161","2016100000","Governor","statewide",19862,"Independent","Rick Kloos",162
+"KS","Rooks","20163","2016300000","Governor","statewide",2151,"Independent","Greg Orman",157
+"KS","Rooks","20163","2016300000","Governor","statewide",2151,"Libertarian","Jeff Caldwell",65
+"KS","Rooks","20163","2016300000","Governor","statewide",2151,"Republican","Kris Kobach",1409
+"KS","Rooks","20163","2016300000","Governor","statewide",2151,"Democrat","Laura Kelly",506
+"KS","Rooks","20163","2016300000","Governor","statewide",2151,"Independent","Rick Kloos",14
+"KS","Rush","20165","2016500000","Governor","statewide",1304,"Independent","Greg Orman",116
+"KS","Rush","20165","2016500000","Governor","statewide",1304,"Libertarian","Jeff Caldwell",26
+"KS","Rush","20165","2016500000","Governor","statewide",1304,"Republican","Kris Kobach",754
+"KS","Rush","20165","2016500000","Governor","statewide",1304,"Democrat","Laura Kelly",403
+"KS","Rush","20165","2016500000","Governor","statewide",1304,"Independent","Rick Kloos",5
+"KS","Russell","20167","2016700000","Governor","statewide",2687,"Independent","Greg Orman",281
+"KS","Russell","20167","2016700000","Governor","statewide",2687,"Libertarian","Jeff Caldwell",46
+"KS","Russell","20167","2016700000","Governor","statewide",2687,"Republican","Kris Kobach",1564
+"KS","Russell","20167","2016700000","Governor","statewide",2687,"Democrat","Laura Kelly",783
+"KS","Russell","20167","2016700000","Governor","statewide",2687,"Independent","Rick Kloos",13
+"KS","Saline","20169","2016900000","Governor","statewide",18379,"Independent","Greg Orman",1279
+"KS","Saline","20169","2016900000","Governor","statewide",18379,"Libertarian","Jeff Caldwell",422
+"KS","Saline","20169","2016900000","Governor","statewide",18379,"Republican","Kris Kobach",8384
+"KS","Saline","20169","2016900000","Governor","statewide",18379,"Democrat","Laura Kelly",8181
+"KS","Saline","20169","2016900000","Governor","statewide",18379,"Independent","Rick Kloos",113
+"KS","Scott","20171","2017100000","Governor","statewide",1864,"Independent","Greg Orman",266
+"KS","Scott","20171","2017100000","Governor","statewide",1864,"Libertarian","Jeff Caldwell",19
+"KS","Scott","20171","2017100000","Governor","statewide",1864,"Republican","Kris Kobach",1244
+"KS","Scott","20171","2017100000","Governor","statewide",1864,"Democrat","Laura Kelly",324
+"KS","Scott","20171","2017100000","Governor","statewide",1864,"Independent","Rick Kloos",11
+"KS","Sedgwick","20173","2017300000","Governor","statewide",167903,"Independent","Greg Orman",11983
+"KS","Sedgwick","20173","2017300000","Governor","statewide",167903,"Libertarian","Jeff Caldwell",3136
+"KS","Sedgwick","20173","2017300000","Governor","statewide",167903,"Republican","Kris Kobach",70879
+"KS","Sedgwick","20173","2017300000","Governor","statewide",167903,"Democrat","Laura Kelly",81011
+"KS","Sedgwick","20173","2017300000","Governor","statewide",167903,"Independent","Rick Kloos",894
+"KS","Seward","20175","2017500000","Governor","statewide",3815,"Independent","Greg Orman",311
+"KS","Seward","20175","2017500000","Governor","statewide",3815,"Libertarian","Jeff Caldwell",81
+"KS","Seward","20175","2017500000","Governor","statewide",3815,"Republican","Kris Kobach",2009
+"KS","Seward","20175","2017500000","Governor","statewide",3815,"Democrat","Laura Kelly",1394
+"KS","Seward","20175","2017500000","Governor","statewide",3815,"Independent","Rick Kloos",20
+"KS","Shawnee","20177","2017700000","Governor","statewide",70674,"Independent","Greg Orman",4080
+"KS","Shawnee","20177","2017700000","Governor","statewide",70674,"Libertarian","Jeff Caldwell",977
+"KS","Shawnee","20177","2017700000","Governor","statewide",70674,"Republican","Kris Kobach",23933
+"KS","Shawnee","20177","2017700000","Governor","statewide",70674,"Democrat","Laura Kelly",40936
+"KS","Shawnee","20177","2017700000","Governor","statewide",70674,"Independent","Rick Kloos",748
+"KS","Sheridan","20179","2017900000","Governor","statewide",1138,"Independent","Greg Orman",99
+"KS","Sheridan","20179","2017900000","Governor","statewide",1138,"Libertarian","Jeff Caldwell",22
+"KS","Sheridan","20179","2017900000","Governor","statewide",1138,"Republican","Kris Kobach",795
+"KS","Sheridan","20179","2017900000","Governor","statewide",1138,"Democrat","Laura Kelly",219
+"KS","Sheridan","20179","2017900000","Governor","statewide",1138,"Independent","Rick Kloos",3
+"KS","Sherman","20181","2018100000","Governor","statewide",2103,"Independent","Greg Orman",178
+"KS","Sherman","20181","2018100000","Governor","statewide",2103,"Libertarian","Jeff Caldwell",29
+"KS","Sherman","20181","2018100000","Governor","statewide",2103,"Republican","Kris Kobach",1376
+"KS","Sherman","20181","2018100000","Governor","statewide",2103,"Democrat","Laura Kelly",510
+"KS","Sherman","20181","2018100000","Governor","statewide",2103,"Independent","Rick Kloos",10
+"KS","Smith","20183","2018300000","Governor","statewide",1614,"Independent","Greg Orman",90
+"KS","Smith","20183","2018300000","Governor","statewide",1614,"Libertarian","Jeff Caldwell",24
+"KS","Smith","20183","2018300000","Governor","statewide",1614,"Republican","Kris Kobach",1074
+"KS","Smith","20183","2018300000","Governor","statewide",1614,"Democrat","Laura Kelly",418
+"KS","Smith","20183","2018300000","Governor","statewide",1614,"Independent","Rick Kloos",8
+"KS","Stafford","20185","2018500000","Governor","statewide",1620,"Independent","Greg Orman",167
+"KS","Stafford","20185","2018500000","Governor","statewide",1620,"Libertarian","Jeff Caldwell",34
+"KS","Stafford","20185","2018500000","Governor","statewide",1620,"Republican","Kris Kobach",950
+"KS","Stafford","20185","2018500000","Governor","statewide",1620,"Democrat","Laura Kelly",458
+"KS","Stafford","20185","2018500000","Governor","statewide",1620,"Independent","Rick Kloos",11
+"KS","Stanton","20187","2018700000","Governor","statewide",598,"Independent","Greg Orman",63
+"KS","Stanton","20187","2018700000","Governor","statewide",598,"Libertarian","Jeff Caldwell",8
+"KS","Stanton","20187","2018700000","Governor","statewide",598,"Republican","Kris Kobach",376
+"KS","Stanton","20187","2018700000","Governor","statewide",598,"Democrat","Laura Kelly",148
+"KS","Stanton","20187","2018700000","Governor","statewide",598,"Independent","Rick Kloos",3
+"KS","Stevens","20189","2018900000","Governor","statewide",1517,"Independent","Greg Orman",177
+"KS","Stevens","20189","2018900000","Governor","statewide",1517,"Libertarian","Jeff Caldwell",18
+"KS","Stevens","20189","2018900000","Governor","statewide",1517,"Republican","Kris Kobach",1042
+"KS","Stevens","20189","2018900000","Governor","statewide",1517,"Democrat","Laura Kelly",274
+"KS","Stevens","20189","2018900000","Governor","statewide",1517,"Independent","Rick Kloos",6
+"KS","Sumner","20191","2019100000","Governor","statewide",7994,"Independent","Greg Orman",761
+"KS","Sumner","20191","2019100000","Governor","statewide",7994,"Libertarian","Jeff Caldwell",146
+"KS","Sumner","20191","2019100000","Governor","statewide",7994,"Republican","Kris Kobach",4203
+"KS","Sumner","20191","2019100000","Governor","statewide",7994,"Democrat","Laura Kelly",2827
+"KS","Sumner","20191","2019100000","Governor","statewide",7994,"Independent","Rick Kloos",57
+"KS","Thomas","20193","2019300000","Governor","statewide",3027,"Independent","Greg Orman",284
+"KS","Thomas","20193","2019300000","Governor","statewide",3027,"Libertarian","Jeff Caldwell",55
+"KS","Thomas","20193","2019300000","Governor","statewide",3027,"Republican","Kris Kobach",1856
+"KS","Thomas","20193","2019300000","Governor","statewide",3027,"Democrat","Laura Kelly",813
+"KS","Thomas","20193","2019300000","Governor","statewide",3027,"Independent","Rick Kloos",19
+"KS","Trego","20195","2019500000","Governor","statewide",1269,"Independent","Greg Orman",149
+"KS","Trego","20195","2019500000","Governor","statewide",1269,"Libertarian","Jeff Caldwell",12
+"KS","Trego","20195","2019500000","Governor","statewide",1269,"Republican","Kris Kobach",755
+"KS","Trego","20195","2019500000","Governor","statewide",1269,"Democrat","Laura Kelly",348
+"KS","Trego","20195","2019500000","Governor","statewide",1269,"Independent","Rick Kloos",5
+"KS","Wabaunsee","20197","2019700000","Governor","statewide",3148,"Independent","Greg Orman",266
+"KS","Wabaunsee","20197","2019700000","Governor","statewide",3148,"Libertarian","Jeff Caldwell",41
+"KS","Wabaunsee","20197","2019700000","Governor","statewide",3148,"Republican","Kris Kobach",1582
+"KS","Wabaunsee","20197","2019700000","Governor","statewide",3148,"Democrat","Laura Kelly",1233
+"KS","Wabaunsee","20197","2019700000","Governor","statewide",3148,"Independent","Rick Kloos",26
+"KS","Wallace","20199","2019900000","Governor","statewide",661,"Independent","Greg Orman",41
+"KS","Wallace","20199","2019900000","Governor","statewide",661,"Libertarian","Jeff Caldwell",4
+"KS","Wallace","20199","2019900000","Governor","statewide",661,"Republican","Kris Kobach",506
+"KS","Wallace","20199","2019900000","Governor","statewide",661,"Democrat","Laura Kelly",106
+"KS","Wallace","20199","2019900000","Governor","statewide",661,"Independent","Rick Kloos",4
+"KS","Washington","20201","2020100000","Governor","statewide",2267,"Independent","Greg Orman",253
+"KS","Washington","20201","2020100000","Governor","statewide",2267,"Libertarian","Jeff Caldwell",23
+"KS","Washington","20201","2020100000","Governor","statewide",2267,"Republican","Kris Kobach",1342
+"KS","Washington","20201","2020100000","Governor","statewide",2267,"Democrat","Laura Kelly",626
+"KS","Washington","20201","2020100000","Governor","statewide",2267,"Independent","Rick Kloos",23
+"KS","Wichita","20203","2020300000","Governor","statewide",758,"Independent","Greg Orman",64
+"KS","Wichita","20203","2020300000","Governor","statewide",758,"Libertarian","Jeff Caldwell",2
+"KS","Wichita","20203","2020300000","Governor","statewide",758,"Republican","Kris Kobach",560
+"KS","Wichita","20203","2020300000","Governor","statewide",758,"Democrat","Laura Kelly",129
+"KS","Wichita","20203","2020300000","Governor","statewide",758,"Independent","Rick Kloos",3
+"KS","Wilson","20205","2020500000","Governor","statewide",2981,"Independent","Greg Orman",107
+"KS","Wilson","20205","2020500000","Governor","statewide",2981,"Libertarian","Jeff Caldwell",62
+"KS","Wilson","20205","2020500000","Governor","statewide",2981,"Republican","Kris Kobach",1869
+"KS","Wilson","20205","2020500000","Governor","statewide",2981,"Democrat","Laura Kelly",921
+"KS","Wilson","20205","2020500000","Governor","statewide",2981,"Independent","Rick Kloos",22
+"KS","Woodson","20207","2020700000","Governor","statewide",1180,"Independent","Greg Orman",55
+"KS","Woodson","20207","2020700000","Governor","statewide",1180,"Libertarian","Jeff Caldwell",28
+"KS","Woodson","20207","2020700000","Governor","statewide",1180,"Republican","Kris Kobach",693
+"KS","Woodson","20207","2020700000","Governor","statewide",1180,"Democrat","Laura Kelly",394
+"KS","Woodson","20207","2020700000","Governor","statewide",1180,"Independent","Rick Kloos",10
+"KS","Wyandotte","20209","2020900000","Governor","statewide",42126,"Independent","Greg Orman",1691
+"KS","Wyandotte","20209","2020900000","Governor","statewide",42126,"Libertarian","Jeff Caldwell",1320
+"KS","Wyandotte","20209","2020900000","Governor","statewide",42126,"Republican","Kris Kobach",10526
+"KS","Wyandotte","20209","2020900000","Governor","statewide",42126,"Democrat","Laura Kelly",28285
+"KS","Wyandotte","20209","2020900000","Governor","statewide",42126,"Independent","Rick Kloos",304
+"KS","Allen","20001","2000100000","Secretary of State","statewide",4408,"Democrat","Brian 'BAM' McClendon",1358
+"KS","Allen","20001","2000100000","Secretary of State","statewide",4408,"Libertarian","Rob Hodgkinson",172
+"KS","Allen","20001","2000100000","Secretary of State","statewide",4408,"Republican","Scott Schwab",2878
+"KS","Anderson","20003","2000300000","Secretary of State","statewide",2717,"Democrat","Brian 'BAM' McClendon",672
+"KS","Anderson","20003","2000300000","Secretary of State","statewide",2717,"Libertarian","Rob Hodgkinson",149
+"KS","Anderson","20003","2000300000","Secretary of State","statewide",2717,"Republican","Scott Schwab",1896
+"KS","Atchison","20005","2000500000","Secretary of State","statewide",5404,"Democrat","Brian 'BAM' McClendon",2026
+"KS","Atchison","20005","2000500000","Secretary of State","statewide",5404,"Libertarian","Rob Hodgkinson",192
+"KS","Atchison","20005","2000500000","Secretary of State","statewide",5404,"Republican","Scott Schwab",3186
+"KS","Barber","20007","2000700000","Secretary of State","statewide",1745,"Democrat","Brian 'BAM' McClendon",351
+"KS","Barber","20007","2000700000","Secretary of State","statewide",1745,"Libertarian","Rob Hodgkinson",70
+"KS","Barber","20007","2000700000","Secretary of State","statewide",1745,"Republican","Scott Schwab",1324
+"KS","Barton","20009","2000900000","Secretary of State","statewide",8455,"Democrat","Brian 'BAM' McClendon",2327
+"KS","Barton","20009","2000900000","Secretary of State","statewide",8455,"Libertarian","Rob Hodgkinson",252
+"KS","Barton","20009","2000900000","Secretary of State","statewide",8455,"Republican","Scott Schwab",5876
+"KS","Bourbon","20011","2001100000","Secretary of State","statewide",4884,"Democrat","Brian 'BAM' McClendon",1321
+"KS","Bourbon","20011","2001100000","Secretary of State","statewide",4884,"Libertarian","Rob Hodgkinson",207
+"KS","Bourbon","20011","2001100000","Secretary of State","statewide",4884,"Republican","Scott Schwab",3356
+"KS","Brown","20013","2001300000","Secretary of State","statewide",3355,"Democrat","Brian 'BAM' McClendon",986
+"KS","Brown","20013","2001300000","Secretary of State","statewide",3355,"Libertarian","Rob Hodgkinson",113
+"KS","Brown","20013","2001300000","Secretary of State","statewide",3355,"Republican","Scott Schwab",2256
+"KS","Butler","20015","2001500000","Secretary of State","statewide",23694,"Democrat","Brian 'BAM' McClendon",8121
+"KS","Butler","20015","2001500000","Secretary of State","statewide",23694,"Libertarian","Rob Hodgkinson",956
+"KS","Butler","20015","2001500000","Secretary of State","statewide",23694,"Republican","Scott Schwab",14617
+"KS","Chase","20017","2001700000","Secretary of State","statewide",1207,"Democrat","Brian 'BAM' McClendon",413
+"KS","Chase","20017","2001700000","Secretary of State","statewide",1207,"Libertarian","Rob Hodgkinson",39
+"KS","Chase","20017","2001700000","Secretary of State","statewide",1207,"Republican","Scott Schwab",755
+"KS","Chautauqua","20019","2001900000","Secretary of State","statewide",1126,"Democrat","Brian 'BAM' McClendon",203
+"KS","Chautauqua","20019","2001900000","Secretary of State","statewide",1126,"Libertarian","Rob Hodgkinson",41
+"KS","Chautauqua","20019","2001900000","Secretary of State","statewide",1126,"Republican","Scott Schwab",882
+"KS","Cherokee","20021","2002100000","Secretary of State","statewide",6959,"Democrat","Brian 'BAM' McClendon",2063
+"KS","Cherokee","20021","2002100000","Secretary of State","statewide",6959,"Libertarian","Rob Hodgkinson",269
+"KS","Cherokee","20021","2002100000","Secretary of State","statewide",6959,"Republican","Scott Schwab",4627
+"KS","Cheyenne","20023","2002300000","Secretary of State","statewide",1088,"Democrat","Brian 'BAM' McClendon",191
+"KS","Cheyenne","20023","2002300000","Secretary of State","statewide",1088,"Libertarian","Rob Hodgkinson",29
+"KS","Cheyenne","20023","2002300000","Secretary of State","statewide",1088,"Republican","Scott Schwab",868
+"KS","Clark","20025","2002500000","Secretary of State","statewide",829,"Democrat","Brian 'BAM' McClendon",176
+"KS","Clark","20025","2002500000","Secretary of State","statewide",829,"Libertarian","Rob Hodgkinson",41
+"KS","Clark","20025","2002500000","Secretary of State","statewide",829,"Republican","Scott Schwab",612
+"KS","Clay","20027","2002700000","Secretary of State","statewide",3131,"Democrat","Brian 'BAM' McClendon",809
+"KS","Clay","20027","2002700000","Secretary of State","statewide",3131,"Libertarian","Rob Hodgkinson",127
+"KS","Clay","20027","2002700000","Secretary of State","statewide",3131,"Republican","Scott Schwab",2195
+"KS","Cloud","20029","2002900000","Secretary of State","statewide",3198,"Democrat","Brian 'BAM' McClendon",928
+"KS","Cloud","20029","2002900000","Secretary of State","statewide",3198,"Libertarian","Rob Hodgkinson",105
+"KS","Cloud","20029","2002900000","Secretary of State","statewide",3198,"Republican","Scott Schwab",2165
+"KS","Coffey","20031","2003100000","Secretary of State","statewide",3436,"Democrat","Brian 'BAM' McClendon",1004
+"KS","Coffey","20031","2003100000","Secretary of State","statewide",3436,"Libertarian","Rob Hodgkinson",133
+"KS","Coffey","20031","2003100000","Secretary of State","statewide",3436,"Republican","Scott Schwab",2299
+"KS","Comanche","20033","2003300000","Secretary of State","statewide",711,"Democrat","Brian 'BAM' McClendon",132
+"KS","Comanche","20033","2003300000","Secretary of State","statewide",711,"Libertarian","Rob Hodgkinson",35
+"KS","Comanche","20033","2003300000","Secretary of State","statewide",711,"Republican","Scott Schwab",544
+"KS","Cowley","20035","2003500000","Secretary of State","statewide",10464,"Democrat","Brian 'BAM' McClendon",3944
+"KS","Cowley","20035","2003500000","Secretary of State","statewide",10464,"Libertarian","Rob Hodgkinson",375
+"KS","Cowley","20035","2003500000","Secretary of State","statewide",10464,"Republican","Scott Schwab",6145
+"KS","Crawford","20037","2003700000","Secretary of State","statewide",12734,"Democrat","Brian 'BAM' McClendon",5649
+"KS","Crawford","20037","2003700000","Secretary of State","statewide",12734,"Libertarian","Rob Hodgkinson",542
+"KS","Crawford","20037","2003700000","Secretary of State","statewide",12734,"Republican","Scott Schwab",6543
+"KS","Decatur","20039","2003900000","Secretary of State","statewide",1118,"Democrat","Brian 'BAM' McClendon",236
+"KS","Decatur","20039","2003900000","Secretary of State","statewide",1118,"Libertarian","Rob Hodgkinson",31
+"KS","Decatur","20039","2003900000","Secretary of State","statewide",1118,"Republican","Scott Schwab",851
+"KS","Dickinson","20041","2004100000","Secretary of State","statewide",6701,"Democrat","Brian 'BAM' McClendon",1903
+"KS","Dickinson","20041","2004100000","Secretary of State","statewide",6701,"Libertarian","Rob Hodgkinson",270
+"KS","Dickinson","20041","2004100000","Secretary of State","statewide",6701,"Republican","Scott Schwab",4528
+"KS","Doniphan","20043","2004300000","Secretary of State","statewide",2564,"Democrat","Brian 'BAM' McClendon",559
+"KS","Doniphan","20043","2004300000","Secretary of State","statewide",2564,"Libertarian","Rob Hodgkinson",77
+"KS","Doniphan","20043","2004300000","Secretary of State","statewide",2564,"Republican","Scott Schwab",1928
+"KS","Douglas","20045","2004500000","Secretary of State","statewide",49132,"Democrat","Brian 'BAM' McClendon",34868
+"KS","Douglas","20045","2004500000","Secretary of State","statewide",49132,"Libertarian","Rob Hodgkinson",1350
+"KS","Douglas","20045","2004500000","Secretary of State","statewide",49132,"Republican","Scott Schwab",12914
+"KS","Edwards","20047","2004700000","Secretary of State","statewide",1140,"Democrat","Brian 'BAM' McClendon",325
+"KS","Edwards","20047","2004700000","Secretary of State","statewide",1140,"Libertarian","Rob Hodgkinson",37
+"KS","Edwards","20047","2004700000","Secretary of State","statewide",1140,"Republican","Scott Schwab",778
+"KS","Elk","20049","2004900000","Secretary of State","statewide",1044,"Democrat","Brian 'BAM' McClendon",250
+"KS","Elk","20049","2004900000","Secretary of State","statewide",1044,"Libertarian","Rob Hodgkinson",35
+"KS","Elk","20049","2004900000","Secretary of State","statewide",1044,"Republican","Scott Schwab",759
+"KS","Ellis","20051","2005100000","Secretary of State","statewide",10283,"Democrat","Brian 'BAM' McClendon",3770
+"KS","Ellis","20051","2005100000","Secretary of State","statewide",10283,"Libertarian","Rob Hodgkinson",347
+"KS","Ellis","20051","2005100000","Secretary of State","statewide",10283,"Republican","Scott Schwab",6166
+"KS","Ellsworth","20053","2005300000","Secretary of State","statewide",2258,"Democrat","Brian 'BAM' McClendon",714
+"KS","Ellsworth","20053","2005300000","Secretary of State","statewide",2258,"Libertarian","Rob Hodgkinson",76
+"KS","Ellsworth","20053","2005300000","Secretary of State","statewide",2258,"Republican","Scott Schwab",1468
+"KS","Finney","20055","2005500000","Secretary of State","statewide",8556,"Democrat","Brian 'BAM' McClendon",3338
+"KS","Finney","20055","2005500000","Secretary of State","statewide",8556,"Libertarian","Rob Hodgkinson",324
+"KS","Finney","20055","2005500000","Secretary of State","statewide",8556,"Republican","Scott Schwab",4894
+"KS","Ford","20057","2005700000","Secretary of State","statewide",6996,"Democrat","Brian 'BAM' McClendon",2599
+"KS","Ford","20057","2005700000","Secretary of State","statewide",6996,"Libertarian","Rob Hodgkinson",244
+"KS","Ford","20057","2005700000","Secretary of State","statewide",6996,"Republican","Scott Schwab",4153
+"KS","Franklin","20059","2005900000","Secretary of State","statewide",9257,"Democrat","Brian 'BAM' McClendon",2962
+"KS","Franklin","20059","2005900000","Secretary of State","statewide",9257,"Libertarian","Rob Hodgkinson",344
+"KS","Franklin","20059","2005900000","Secretary of State","statewide",9257,"Republican","Scott Schwab",5951
+"KS","Geary","20061","2006100000","Secretary of State","statewide",6126,"Democrat","Brian 'BAM' McClendon",2669
+"KS","Geary","20061","2006100000","Secretary of State","statewide",6126,"Libertarian","Rob Hodgkinson",194
+"KS","Geary","20061","2006100000","Secretary of State","statewide",6126,"Republican","Scott Schwab",3263
+"KS","Gove","20063","2006300000","Secretary of State","statewide",1066,"Democrat","Brian 'BAM' McClendon",201
+"KS","Gove","20063","2006300000","Secretary of State","statewide",1066,"Libertarian","Rob Hodgkinson",19
+"KS","Gove","20063","2006300000","Secretary of State","statewide",1066,"Republican","Scott Schwab",846
+"KS","Graham","20065","2006500000","Secretary of State","statewide",1062,"Democrat","Brian 'BAM' McClendon",251
+"KS","Graham","20065","2006500000","Secretary of State","statewide",1062,"Libertarian","Rob Hodgkinson",38
+"KS","Graham","20065","2006500000","Secretary of State","statewide",1062,"Republican","Scott Schwab",773
+"KS","Grant","20067","2006700000","Secretary of State","statewide",1815,"Democrat","Brian 'BAM' McClendon",438
+"KS","Grant","20067","2006700000","Secretary of State","statewide",1815,"Libertarian","Rob Hodgkinson",57
+"KS","Grant","20067","2006700000","Secretary of State","statewide",1815,"Republican","Scott Schwab",1320
+"KS","Gray","20069","2006900000","Secretary of State","statewide",1763,"Democrat","Brian 'BAM' McClendon",369
+"KS","Gray","20069","2006900000","Secretary of State","statewide",1763,"Libertarian","Rob Hodgkinson",61
+"KS","Gray","20069","2006900000","Secretary of State","statewide",1763,"Republican","Scott Schwab",1333
+"KS","Greeley","20071","2007100000","Secretary of State","statewide",480,"Democrat","Brian 'BAM' McClendon",102
+"KS","Greeley","20071","2007100000","Secretary of State","statewide",480,"Libertarian","Rob Hodgkinson",9
+"KS","Greeley","20071","2007100000","Secretary of State","statewide",480,"Republican","Scott Schwab",369
+"KS","Greenwood","20073","2007300000","Secretary of State","statewide",2099,"Democrat","Brian 'BAM' McClendon",579
+"KS","Greenwood","20073","2007300000","Secretary of State","statewide",2099,"Libertarian","Rob Hodgkinson",70
+"KS","Greenwood","20073","2007300000","Secretary of State","statewide",2099,"Republican","Scott Schwab",1450
+"KS","Hamilton","20075","2007500000","Secretary of State","statewide",616,"Democrat","Brian 'BAM' McClendon",145
+"KS","Hamilton","20075","2007500000","Secretary of State","statewide",616,"Libertarian","Rob Hodgkinson",13
+"KS","Hamilton","20075","2007500000","Secretary of State","statewide",616,"Republican","Scott Schwab",458
+"KS","Harper","20077","2007700000","Secretary of State","statewide",2004,"Democrat","Brian 'BAM' McClendon",528
+"KS","Harper","20077","2007700000","Secretary of State","statewide",2004,"Libertarian","Rob Hodgkinson",54
+"KS","Harper","20077","2007700000","Secretary of State","statewide",2004,"Republican","Scott Schwab",1422
+"KS","Harvey","20079","2007900000","Secretary of State","statewide",13523,"Democrat","Brian 'BAM' McClendon",6080
+"KS","Harvey","20079","2007900000","Secretary of State","statewide",13523,"Libertarian","Rob Hodgkinson",449
+"KS","Harvey","20079","2007900000","Secretary of State","statewide",13523,"Republican","Scott Schwab",6994
+"KS","Haskell","20081","2008100000","Secretary of State","statewide",1122,"Democrat","Brian 'BAM' McClendon",258
+"KS","Haskell","20081","2008100000","Secretary of State","statewide",1122,"Libertarian","Rob Hodgkinson",29
+"KS","Haskell","20081","2008100000","Secretary of State","statewide",1122,"Republican","Scott Schwab",835
+"KS","Hodgeman","20083","2008300000","Secretary of State","statewide",861,"Democrat","Brian 'BAM' McClendon",174
+"KS","Hodgeman","20083","2008300000","Secretary of State","statewide",861,"Libertarian","Rob Hodgkinson",19
+"KS","Hodgeman","20083","2008300000","Secretary of State","statewide",861,"Republican","Scott Schwab",668
+"KS","Jackson","20085","2008500000","Secretary of State","statewide",5250,"Democrat","Brian 'BAM' McClendon",1974
+"KS","Jackson","20085","2008500000","Secretary of State","statewide",5250,"Libertarian","Rob Hodgkinson",205
+"KS","Jackson","20085","2008500000","Secretary of State","statewide",5250,"Republican","Scott Schwab",3071
+"KS","Jefferson","20087","2008700000","Secretary of State","statewide",7476,"Democrat","Brian 'BAM' McClendon",3157
+"KS","Jefferson","20087","2008700000","Secretary of State","statewide",7476,"Libertarian","Rob Hodgkinson",261
+"KS","Jefferson","20087","2008700000","Secretary of State","statewide",7476,"Republican","Scott Schwab",4058
+"KS","Jewell","20089","2008900000","Secretary of State","statewide",1172,"Democrat","Brian 'BAM' McClendon",203
+"KS","Jewell","20089","2008900000","Secretary of State","statewide",1172,"Libertarian","Rob Hodgkinson",52
+"KS","Jewell","20089","2008900000","Secretary of State","statewide",1172,"Republican","Scott Schwab",917
+"KS","Johnson","20091","2009100000","Secretary of State","statewide",269316,"Democrat","Brian 'BAM' McClendon",130611
+"KS","Johnson","20091","2009100000","Secretary of State","statewide",269316,"Libertarian","Rob Hodgkinson",9112
+"KS","Johnson","20091","2009100000","Secretary of State","statewide",269316,"Republican","Scott Schwab",129593
+"KS","Kearny","20093","2009300000","Secretary of State","statewide",1083,"Democrat","Brian 'BAM' McClendon",265
+"KS","Kearny","20093","2009300000","Secretary of State","statewide",1083,"Libertarian","Rob Hodgkinson",32
+"KS","Kearny","20093","2009300000","Secretary of State","statewide",1083,"Republican","Scott Schwab",786
+"KS","Kingman","20095","2009500000","Secretary of State","statewide",2925,"Democrat","Brian 'BAM' McClendon",847
+"KS","Kingman","20095","2009500000","Secretary of State","statewide",2925,"Libertarian","Rob Hodgkinson",84
+"KS","Kingman","20095","2009500000","Secretary of State","statewide",2925,"Republican","Scott Schwab",1994
+"KS","Kiowa","20097","2009700000","Secretary of State","statewide",1828,"Democrat","Brian 'BAM' McClendon",342
+"KS","Kiowa","20097","2009700000","Secretary of State","statewide",1828,"Libertarian","Rob Hodgkinson",70
+"KS","Kiowa","20097","2009700000","Secretary of State","statewide",1828,"Republican","Scott Schwab",1416
+"KS","Labette","20099","2009900000","Secretary of State","statewide",6259,"Democrat","Brian 'BAM' McClendon",2222
+"KS","Labette","20099","2009900000","Secretary of State","statewide",6259,"Libertarian","Rob Hodgkinson",220
+"KS","Labette","20099","2009900000","Secretary of State","statewide",6259,"Republican","Scott Schwab",3817
+"KS","Lane","20101","2010100000","Secretary of State","statewide",702,"Democrat","Brian 'BAM' McClendon",142
+"KS","Lane","20101","2010100000","Secretary of State","statewide",702,"Libertarian","Rob Hodgkinson",18
+"KS","Lane","20101","2010100000","Secretary of State","statewide",702,"Republican","Scott Schwab",542
+"KS","Leavenworth","20103","2010300000","Secretary of State","statewide",26241,"Democrat","Brian 'BAM' McClendon",10369
+"KS","Leavenworth","20103","2010300000","Secretary of State","statewide",26241,"Libertarian","Rob Hodgkinson",1063
+"KS","Leavenworth","20103","2010300000","Secretary of State","statewide",26241,"Republican","Scott Schwab",14809
+"KS","Lincoln","20105","2010500000","Secretary of State","statewide",1229,"Democrat","Brian 'BAM' McClendon",302
+"KS","Lincoln","20105","2010500000","Secretary of State","statewide",1229,"Libertarian","Rob Hodgkinson",44
+"KS","Lincoln","20105","2010500000","Secretary of State","statewide",1229,"Republican","Scott Schwab",883
+"KS","Linn","20107","2010700000","Secretary of State","statewide",3736,"Democrat","Brian 'BAM' McClendon",802
+"KS","Linn","20107","2010700000","Secretary of State","statewide",3736,"Libertarian","Rob Hodgkinson",180
+"KS","Linn","20107","2010700000","Secretary of State","statewide",3736,"Republican","Scott Schwab",2754
+"KS","Logan","20109","2010900000","Secretary of State","statewide",1135,"Democrat","Brian 'BAM' McClendon",204
+"KS","Logan","20109","2010900000","Secretary of State","statewide",1135,"Libertarian","Rob Hodgkinson",35
+"KS","Logan","20109","2010900000","Secretary of State","statewide",1135,"Republican","Scott Schwab",896
+"KS","Lyon","20111","2011100000","Secretary of State","statewide",10785,"Democrat","Brian 'BAM' McClendon",5182
+"KS","Lyon","20111","2011100000","Secretary of State","statewide",10785,"Libertarian","Rob Hodgkinson",437
+"KS","Lyon","20111","2011100000","Secretary of State","statewide",10785,"Republican","Scott Schwab",5166
+"KS","Marion","20115","2011500000","Secretary of State","statewide",4810,"Democrat","Brian 'BAM' McClendon",1488
+"KS","Marion","20115","2011500000","Secretary of State","statewide",4810,"Libertarian","Rob Hodgkinson",145
+"KS","Marion","20115","2011500000","Secretary of State","statewide",4810,"Republican","Scott Schwab",3177
+"KS","Marshall","20117","2011700000","Secretary of State","statewide",3532,"Democrat","Brian 'BAM' McClendon",1249
+"KS","Marshall","20117","2011700000","Secretary of State","statewide",3532,"Libertarian","Rob Hodgkinson",106
+"KS","Marshall","20117","2011700000","Secretary of State","statewide",3532,"Republican","Scott Schwab",2177
+"KS","McPherson","20113","2011300000","Secretary of State","statewide",11228,"Democrat","Brian 'BAM' McClendon",3916
+"KS","McPherson","20113","2011300000","Secretary of State","statewide",11228,"Libertarian","Rob Hodgkinson",312
+"KS","McPherson","20113","2011300000","Secretary of State","statewide",11228,"Republican","Scott Schwab",7000
+"KS","Meade","20119","2011900000","Secretary of State","statewide",1366,"Democrat","Brian 'BAM' McClendon",283
+"KS","Meade","20119","2011900000","Secretary of State","statewide",1366,"Libertarian","Rob Hodgkinson",38
+"KS","Meade","20119","2011900000","Secretary of State","statewide",1366,"Republican","Scott Schwab",1045
+"KS","Miami","20121","2012100000","Secretary of State","statewide",12925,"Democrat","Brian 'BAM' McClendon",3935
+"KS","Miami","20121","2012100000","Secretary of State","statewide",12925,"Libertarian","Rob Hodgkinson",629
+"KS","Miami","20121","2012100000","Secretary of State","statewide",12925,"Republican","Scott Schwab",8361
+"KS","Mitchell","20123","2012300000","Secretary of State","statewide",2470,"Democrat","Brian 'BAM' McClendon",574
+"KS","Mitchell","20123","2012300000","Secretary of State","statewide",2470,"Libertarian","Rob Hodgkinson",60
+"KS","Mitchell","20123","2012300000","Secretary of State","statewide",2470,"Republican","Scott Schwab",1836
+"KS","Montgomery","20125","2012500000","Secretary of State","statewide",9789,"Democrat","Brian 'BAM' McClendon",2523
+"KS","Montgomery","20125","2012500000","Secretary of State","statewide",9789,"Libertarian","Rob Hodgkinson",330
+"KS","Montgomery","20125","2012500000","Secretary of State","statewide",9789,"Republican","Scott Schwab",6936
+"KS","Morris","20127","2012700000","Secretary of State","statewide",2208,"Democrat","Brian 'BAM' McClendon",716
+"KS","Morris","20127","2012700000","Secretary of State","statewide",2208,"Libertarian","Rob Hodgkinson",80
+"KS","Morris","20127","2012700000","Secretary of State","statewide",2208,"Republican","Scott Schwab",1412
+"KS","Morton","20129","2012900000","Secretary of State","statewide",902,"Democrat","Brian 'BAM' McClendon",158
+"KS","Morton","20129","2012900000","Secretary of State","statewide",902,"Libertarian","Rob Hodgkinson",17
+"KS","Morton","20129","2012900000","Secretary of State","statewide",902,"Republican","Scott Schwab",727
+"KS","Nemaha","20131","2013100000","Secretary of State","statewide",4493,"Democrat","Brian 'BAM' McClendon",1201
+"KS","Nemaha","20131","2013100000","Secretary of State","statewide",4493,"Libertarian","Rob Hodgkinson",107
+"KS","Nemaha","20131","2013100000","Secretary of State","statewide",4493,"Republican","Scott Schwab",3185
+"KS","Neosho","20133","2013300000","Secretary of State","statewide",5369,"Democrat","Brian 'BAM' McClendon",1625
+"KS","Neosho","20133","2013300000","Secretary of State","statewide",5369,"Libertarian","Rob Hodgkinson",214
+"KS","Neosho","20133","2013300000","Secretary of State","statewide",5369,"Republican","Scott Schwab",3530
+"KS","Ness","20135","2013500000","Secretary of State","statewide",1156,"Democrat","Brian 'BAM' McClendon",217
+"KS","Ness","20135","2013500000","Secretary of State","statewide",1156,"Libertarian","Rob Hodgkinson",29
+"KS","Ness","20135","2013500000","Secretary of State","statewide",1156,"Republican","Scott Schwab",910
+"KS","Norton","20137","2013700000","Secretary of State","statewide",1866,"Democrat","Brian 'BAM' McClendon",378
+"KS","Norton","20137","2013700000","Secretary of State","statewide",1866,"Libertarian","Rob Hodgkinson",55
+"KS","Norton","20137","2013700000","Secretary of State","statewide",1866,"Republican","Scott Schwab",1433
+"KS","Osage","20139","2013900000","Secretary of State","statewide",6240,"Democrat","Brian 'BAM' McClendon",2294
+"KS","Osage","20139","2013900000","Secretary of State","statewide",6240,"Libertarian","Rob Hodgkinson",298
+"KS","Osage","20139","2013900000","Secretary of State","statewide",6240,"Republican","Scott Schwab",3648
+"KS","Osborne","20141","2014100000","Secretary of State","statewide",1487,"Democrat","Brian 'BAM' McClendon",319
+"KS","Osborne","20141","2014100000","Secretary of State","statewide",1487,"Libertarian","Rob Hodgkinson",57
+"KS","Osborne","20141","2014100000","Secretary of State","statewide",1487,"Republican","Scott Schwab",1111
+"KS","Ottawa","20143","2014300000","Secretary of State","statewide",2414,"Democrat","Brian 'BAM' McClendon",566
+"KS","Ottawa","20143","2014300000","Secretary of State","statewide",2414,"Libertarian","Rob Hodgkinson",83
+"KS","Ottawa","20143","2014300000","Secretary of State","statewide",2414,"Republican","Scott Schwab",1765
+"KS","Pawnee","20145","2014500000","Secretary of State","statewide",2212,"Democrat","Brian 'BAM' McClendon",671
+"KS","Pawnee","20145","2014500000","Secretary of State","statewide",2212,"Libertarian","Rob Hodgkinson",94
+"KS","Pawnee","20145","2014500000","Secretary of State","statewide",2212,"Republican","Scott Schwab",1447
+"KS","Phillips","20147","2014700000","Secretary of State","statewide",2164,"Democrat","Brian 'BAM' McClendon",325
+"KS","Phillips","20147","2014700000","Secretary of State","statewide",2164,"Libertarian","Rob Hodgkinson",81
+"KS","Phillips","20147","2014700000","Secretary of State","statewide",2164,"Republican","Scott Schwab",1758
+"KS","Pottawatomie","20149","2014900000","Secretary of State","statewide",9720,"Democrat","Brian 'BAM' McClendon",2817
+"KS","Pottawatomie","20149","2014900000","Secretary of State","statewide",9720,"Libertarian","Rob Hodgkinson",374
+"KS","Pottawatomie","20149","2014900000","Secretary of State","statewide",9720,"Republican","Scott Schwab",6529
+"KS","Pratt","20151","2015100000","Secretary of State","statewide",3199,"Democrat","Brian 'BAM' McClendon",974
+"KS","Pratt","20151","2015100000","Secretary of State","statewide",3199,"Libertarian","Rob Hodgkinson",144
+"KS","Pratt","20151","2015100000","Secretary of State","statewide",3199,"Republican","Scott Schwab",2081
+"KS","Rawlins","20153","2015300000","Secretary of State","statewide",1188,"Democrat","Brian 'BAM' McClendon",226
+"KS","Rawlins","20153","2015300000","Secretary of State","statewide",1188,"Libertarian","Rob Hodgkinson",43
+"KS","Rawlins","20153","2015300000","Secretary of State","statewide",1188,"Republican","Scott Schwab",919
+"KS","Reno","20155","2015500000","Secretary of State","statewide",20737,"Democrat","Brian 'BAM' McClendon",7928
+"KS","Reno","20155","2015500000","Secretary of State","statewide",20737,"Libertarian","Rob Hodgkinson",803
+"KS","Reno","20155","2015500000","Secretary of State","statewide",20737,"Republican","Scott Schwab",12006
+"KS","Republic","20157","2015700000","Secretary of State","statewide",2004,"Democrat","Brian 'BAM' McClendon",364
+"KS","Republic","20157","2015700000","Secretary of State","statewide",2004,"Libertarian","Rob Hodgkinson",72
+"KS","Republic","20157","2015700000","Secretary of State","statewide",2004,"Republican","Scott Schwab",1568
+"KS","Rice","20159","2015900000","Secretary of State","statewide",3171,"Democrat","Brian 'BAM' McClendon",871
+"KS","Rice","20159","2015900000","Secretary of State","statewide",3171,"Libertarian","Rob Hodgkinson",111
+"KS","Rice","20159","2015900000","Secretary of State","statewide",3171,"Republican","Scott Schwab",2189
+"KS","Riley","20161","2016100000","Secretary of State","statewide",19621,"Democrat","Brian 'BAM' McClendon",10224
+"KS","Riley","20161","2016100000","Secretary of State","statewide",19621,"Libertarian","Rob Hodgkinson",784
+"KS","Riley","20161","2016100000","Secretary of State","statewide",19621,"Republican","Scott Schwab",8613
+"KS","Rooks","20163","2016300000","Secretary of State","statewide",2113,"Democrat","Brian 'BAM' McClendon",381
+"KS","Rooks","20163","2016300000","Secretary of State","statewide",2113,"Libertarian","Rob Hodgkinson",71
+"KS","Rooks","20163","2016300000","Secretary of State","statewide",2113,"Republican","Scott Schwab",1661
+"KS","Rush","20165","2016500000","Secretary of State","statewide",1291,"Democrat","Brian 'BAM' McClendon",315
+"KS","Rush","20165","2016500000","Secretary of State","statewide",1291,"Libertarian","Rob Hodgkinson",43
+"KS","Rush","20165","2016500000","Secretary of State","statewide",1291,"Republican","Scott Schwab",933
+"KS","Russell","20167","2016700000","Secretary of State","statewide",2644,"Democrat","Brian 'BAM' McClendon",612
+"KS","Russell","20167","2016700000","Secretary of State","statewide",2644,"Libertarian","Rob Hodgkinson",105
+"KS","Russell","20167","2016700000","Secretary of State","statewide",2644,"Republican","Scott Schwab",1927
+"KS","Saline","20169","2016900000","Secretary of State","statewide",18229,"Democrat","Brian 'BAM' McClendon",6918
+"KS","Saline","20169","2016900000","Secretary of State","statewide",18229,"Libertarian","Rob Hodgkinson",735
+"KS","Saline","20169","2016900000","Secretary of State","statewide",18229,"Republican","Scott Schwab",10576
+"KS","Scott","20171","2017100000","Secretary of State","statewide",1850,"Democrat","Brian 'BAM' McClendon",331
+"KS","Scott","20171","2017100000","Secretary of State","statewide",1850,"Libertarian","Rob Hodgkinson",52
+"KS","Scott","20171","2017100000","Secretary of State","statewide",1850,"Republican","Scott Schwab",1467
+"KS","Sedgwick","20173","2017300000","Secretary of State","statewide",165294,"Democrat","Brian 'BAM' McClendon",76795
+"KS","Sedgwick","20173","2017300000","Secretary of State","statewide",165294,"Libertarian","Rob Hodgkinson",5956
+"KS","Sedgwick","20173","2017300000","Secretary of State","statewide",165294,"Republican","Scott Schwab",82543
+"KS","Seward","20175","2017500000","Secretary of State","statewide",3726,"Democrat","Brian 'BAM' McClendon",1300
+"KS","Seward","20175","2017500000","Secretary of State","statewide",3726,"Libertarian","Rob Hodgkinson",114
+"KS","Seward","20175","2017500000","Secretary of State","statewide",3726,"Republican","Scott Schwab",2312
+"KS","Shawnee","20177","2017700000","Secretary of State","statewide",69975,"Democrat","Brian 'BAM' McClendon",37948
+"KS","Shawnee","20177","2017700000","Secretary of State","statewide",69975,"Libertarian","Rob Hodgkinson",2351
+"KS","Shawnee","20177","2017700000","Secretary of State","statewide",69975,"Republican","Scott Schwab",29676
+"KS","Sheridan","20179","2017900000","Secretary of State","statewide",1119,"Democrat","Brian 'BAM' McClendon",176
+"KS","Sheridan","20179","2017900000","Secretary of State","statewide",1119,"Libertarian","Rob Hodgkinson",37
+"KS","Sheridan","20179","2017900000","Secretary of State","statewide",1119,"Republican","Scott Schwab",906
+"KS","Sherman","20181","2018100000","Secretary of State","statewide",2061,"Democrat","Brian 'BAM' McClendon",421
+"KS","Sherman","20181","2018100000","Secretary of State","statewide",2061,"Libertarian","Rob Hodgkinson",68
+"KS","Sherman","20181","2018100000","Secretary of State","statewide",2061,"Republican","Scott Schwab",1572
+"KS","Smith","20183","2018300000","Secretary of State","statewide",1597,"Democrat","Brian 'BAM' McClendon",305
+"KS","Smith","20183","2018300000","Secretary of State","statewide",1597,"Libertarian","Rob Hodgkinson",44
+"KS","Smith","20183","2018300000","Secretary of State","statewide",1597,"Republican","Scott Schwab",1248
+"KS","Stafford","20185","2018500000","Secretary of State","statewide",1583,"Democrat","Brian 'BAM' McClendon",360
+"KS","Stafford","20185","2018500000","Secretary of State","statewide",1583,"Libertarian","Rob Hodgkinson",47
+"KS","Stafford","20185","2018500000","Secretary of State","statewide",1583,"Republican","Scott Schwab",1176
+"KS","Stanton","20187","2018700000","Secretary of State","statewide",591,"Democrat","Brian 'BAM' McClendon",124
+"KS","Stanton","20187","2018700000","Secretary of State","statewide",591,"Libertarian","Rob Hodgkinson",24
+"KS","Stanton","20187","2018700000","Secretary of State","statewide",591,"Republican","Scott Schwab",443
+"KS","Stevens","20189","2018900000","Secretary of State","statewide",1488,"Democrat","Brian 'BAM' McClendon",211
+"KS","Stevens","20189","2018900000","Secretary of State","statewide",1488,"Libertarian","Rob Hodgkinson",34
+"KS","Stevens","20189","2018900000","Secretary of State","statewide",1488,"Republican","Scott Schwab",1243
+"KS","Sumner","20191","2019100000","Secretary of State","statewide",7913,"Democrat","Brian 'BAM' McClendon",2709
+"KS","Sumner","20191","2019100000","Secretary of State","statewide",7913,"Libertarian","Rob Hodgkinson",257
+"KS","Sumner","20191","2019100000","Secretary of State","statewide",7913,"Republican","Scott Schwab",4947
+"KS","Thomas","20193","2019300000","Secretary of State","statewide",2988,"Democrat","Brian 'BAM' McClendon",619
+"KS","Thomas","20193","2019300000","Secretary of State","statewide",2988,"Libertarian","Rob Hodgkinson",104
+"KS","Thomas","20193","2019300000","Secretary of State","statewide",2988,"Republican","Scott Schwab",2265
+"KS","Trego","20195","2019500000","Secretary of State","statewide",1244,"Democrat","Brian 'BAM' McClendon",293
+"KS","Trego","20195","2019500000","Secretary of State","statewide",1244,"Libertarian","Rob Hodgkinson",48
+"KS","Trego","20195","2019500000","Secretary of State","statewide",1244,"Republican","Scott Schwab",903
+"KS","Wabaunsee","20197","2019700000","Secretary of State","statewide",3081,"Democrat","Brian 'BAM' McClendon",1013
+"KS","Wabaunsee","20197","2019700000","Secretary of State","statewide",3081,"Libertarian","Rob Hodgkinson",148
+"KS","Wabaunsee","20197","2019700000","Secretary of State","statewide",3081,"Republican","Scott Schwab",1920
+"KS","Wallace","20199","2019900000","Secretary of State","statewide",650,"Democrat","Brian 'BAM' McClendon",64
+"KS","Wallace","20199","2019900000","Secretary of State","statewide",650,"Libertarian","Rob Hodgkinson",14
+"KS","Wallace","20199","2019900000","Secretary of State","statewide",650,"Republican","Scott Schwab",572
+"KS","Washington","20201","2020100000","Secretary of State","statewide",2239,"Democrat","Brian 'BAM' McClendon",464
+"KS","Washington","20201","2020100000","Secretary of State","statewide",2239,"Libertarian","Rob Hodgkinson",56
+"KS","Washington","20201","2020100000","Secretary of State","statewide",2239,"Republican","Scott Schwab",1719
+"KS","Wichita","20203","2020300000","Secretary of State","statewide",750,"Democrat","Brian 'BAM' McClendon",124
+"KS","Wichita","20203","2020300000","Secretary of State","statewide",750,"Libertarian","Rob Hodgkinson",19
+"KS","Wichita","20203","2020300000","Secretary of State","statewide",750,"Republican","Scott Schwab",607
+"KS","Wilson","20205","2020500000","Secretary of State","statewide",2959,"Democrat","Brian 'BAM' McClendon",636
+"KS","Wilson","20205","2020500000","Secretary of State","statewide",2959,"Libertarian","Rob Hodgkinson",109
+"KS","Wilson","20205","2020500000","Secretary of State","statewide",2959,"Republican","Scott Schwab",2214
+"KS","Woodson","20207","2020700000","Secretary of State","statewide",1171,"Democrat","Brian 'BAM' McClendon",293
+"KS","Woodson","20207","2020700000","Secretary of State","statewide",1171,"Libertarian","Rob Hodgkinson",48
+"KS","Woodson","20207","2020700000","Secretary of State","statewide",1171,"Republican","Scott Schwab",830
+"KS","Wyandotte","20209","2020900000","Secretary of State","statewide",41345,"Democrat","Brian 'BAM' McClendon",27274
+"KS","Wyandotte","20209","2020900000","Secretary of State","statewide",41345,"Libertarian","Rob Hodgkinson",1525
+"KS","Wyandotte","20209","2020900000","Secretary of State","statewide",41345,"Republican","Scott Schwab",12546
+"KS","Barton","20009","2000900000","US House","1",8527,"Democrat","Alan LaPolice",2179
+"KS","Barton","20009","2000900000","US House","1",8527,"Republican","Roger Marshall",6348
+"KS","Chase","20017","2001700000","US House","1",1203,"Democrat","Alan LaPolice",376
+"KS","Chase","20017","2001700000","US House","1",1203,"Republican","Roger Marshall",827
+"KS","Cheyenne","20023","2002300000","US House","1",1073,"Democrat","Alan LaPolice",155
+"KS","Cheyenne","20023","2002300000","US House","1",1073,"Republican","Roger Marshall",918
+"KS","Clark","20025","2002500000","US House","1",837,"Democrat","Alan LaPolice",164
+"KS","Clark","20025","2002500000","US House","1",837,"Republican","Roger Marshall",673
+"KS","Clay","20027","2002700000","US House","1",3155,"Democrat","Alan LaPolice",1105
+"KS","Clay","20027","2002700000","US House","1",3155,"Republican","Roger Marshall",2050
+"KS","Cloud","20029","2002900000","US House","1",3233,"Democrat","Alan LaPolice",1228
+"KS","Cloud","20029","2002900000","US House","1",3233,"Republican","Roger Marshall",2005
+"KS","Decatur","20039","2003900000","US House","1",1112,"Democrat","Alan LaPolice",190
+"KS","Decatur","20039","2003900000","US House","1",1112,"Republican","Roger Marshall",922
+"KS","Dickinson","20041","2004100000","US House","1",6739,"Democrat","Alan LaPolice",1960
+"KS","Dickinson","20041","2004100000","US House","1",6739,"Republican","Roger Marshall",4779
+"KS","Ellis","20051","2005100000","US House","1",10333,"Democrat","Alan LaPolice",3334
+"KS","Ellis","20051","2005100000","US House","1",10333,"Republican","Roger Marshall",6999
+"KS","Ellsworth","20053","2005300000","US House","1",2261,"Democrat","Alan LaPolice",641
+"KS","Ellsworth","20053","2005300000","US House","1",2261,"Republican","Roger Marshall",1620
+"KS","Finney","20055","2005500000","US House","1",8494,"Democrat","Alan LaPolice",3129
+"KS","Finney","20055","2005500000","US House","1",8494,"Republican","Roger Marshall",5365
+"KS","Ford","20057","2005700000","US House","1",7015,"Democrat","Alan LaPolice",2544
+"KS","Ford","20057","2005700000","US House","1",7015,"Republican","Roger Marshall",4471
+"KS","Geary","20061","2006100000","US House","1",6100,"Democrat","Alan LaPolice",2513
+"KS","Geary","20061","2006100000","US House","1",6100,"Republican","Roger Marshall",3587
+"KS","Gove","20063","2006300000","US House","1",1084,"Democrat","Alan LaPolice",159
+"KS","Gove","20063","2006300000","US House","1",1084,"Republican","Roger Marshall",925
+"KS","Graham","20065","2006500000","US House","1",1061,"Democrat","Alan LaPolice",220
+"KS","Graham","20065","2006500000","US House","1",1061,"Republican","Roger Marshall",841
+"KS","Grant","20067","2006700000","US House","1",1794,"Democrat","Alan LaPolice",354
+"KS","Grant","20067","2006700000","US House","1",1794,"Republican","Roger Marshall",1440
+"KS","Gray","20069","2006900000","US House","1",1765,"Democrat","Alan LaPolice",332
+"KS","Gray","20069","2006900000","US House","1",1765,"Republican","Roger Marshall",1433
+"KS","Greeley","20071","2007100000","US House","1",483,"Democrat","Alan LaPolice",66
+"KS","Greeley","20071","2007100000","US House","1",483,"Republican","Roger Marshall",417
+"KS","Hamilton","20075","2007500000","US House","1",622,"Democrat","Alan LaPolice",116
+"KS","Hamilton","20075","2007500000","US House","1",622,"Republican","Roger Marshall",506
+"KS","Haskell","20081","2008100000","US House","1",1102,"Democrat","Alan LaPolice",228
+"KS","Haskell","20081","2008100000","US House","1",1102,"Republican","Roger Marshall",874
+"KS","Hodgeman","20083","2008300000","US House","1",864,"Democrat","Alan LaPolice",154
+"KS","Hodgeman","20083","2008300000","US House","1",864,"Republican","Roger Marshall",710
+"KS","Jewell","20089","2008900000","US House","1",1182,"Democrat","Alan LaPolice",225
+"KS","Jewell","20089","2008900000","US House","1",1182,"Republican","Roger Marshall",957
+"KS","Kearny","20093","2009300000","US House","1",1074,"Democrat","Alan LaPolice",219
+"KS","Kearny","20093","2009300000","US House","1",1074,"Republican","Roger Marshall",855
+"KS","Lane","20101","2010100000","US House","1",697,"Democrat","Alan LaPolice",123
+"KS","Lane","20101","2010100000","US House","1",697,"Republican","Roger Marshall",574
+"KS","Lincoln","20105","2010500000","US House","1",1236,"Democrat","Alan LaPolice",278
+"KS","Lincoln","20105","2010500000","US House","1",1236,"Republican","Roger Marshall",958
+"KS","Logan","20109","2010900000","US House","1",1152,"Democrat","Alan LaPolice",160
+"KS","Logan","20109","2010900000","US House","1",1152,"Republican","Roger Marshall",992
+"KS","Lyon","20111","2011100000","US House","1",10783,"Democrat","Alan LaPolice",4942
+"KS","Lyon","20111","2011100000","US House","1",10783,"Republican","Roger Marshall",5841
+"KS","Marion","20115","2011500000","US House","1",4774,"Democrat","Alan LaPolice",1309
+"KS","Marion","20115","2011500000","US House","1",4774,"Republican","Roger Marshall",3465
+"KS","Marshall","20117","2011700000","US House","1",1700,"Democrat","Alan LaPolice",638
+"KS","Marshall","20117","2011700000","US House","1",1700,"Republican","Roger Marshall",1062
+"KS","McPherson","20113","2011300000","US House","1",11080,"Democrat","Alan LaPolice",3668
+"KS","McPherson","20113","2011300000","US House","1",11080,"Republican","Roger Marshall",7412
+"KS","Meade","20119","2011900000","US House","1",1344,"Democrat","Alan LaPolice",253
+"KS","Meade","20119","2011900000","US House","1",1344,"Republican","Roger Marshall",1091
+"KS","Mitchell","20123","2012300000","US House","1",2474,"Democrat","Alan LaPolice",581
+"KS","Mitchell","20123","2012300000","US House","1",2474,"Republican","Roger Marshall",1893
+"KS","Morris","20127","2012700000","US House","1",2195,"Democrat","Alan LaPolice",644
+"KS","Morris","20127","2012700000","US House","1",2195,"Republican","Roger Marshall",1551
+"KS","Morton","20129","2012900000","US House","1",904,"Democrat","Alan LaPolice",129
+"KS","Morton","20129","2012900000","US House","1",904,"Republican","Roger Marshall",775
+"KS","Ness","20135","2013500000","US House","1",1146,"Democrat","Alan LaPolice",154
+"KS","Ness","20135","2013500000","US House","1",1146,"Republican","Roger Marshall",992
+"KS","Norton","20137","2013700000","US House","1",1850,"Democrat","Alan LaPolice",315
+"KS","Norton","20137","2013700000","US House","1",1850,"Republican","Roger Marshall",1535
+"KS","Osborne","20141","2014100000","US House","1",1488,"Democrat","Alan LaPolice",316
+"KS","Osborne","20141","2014100000","US House","1",1488,"Republican","Roger Marshall",1172
+"KS","Ottawa","20143","2014300000","US House","1",2399,"Democrat","Alan LaPolice",663
+"KS","Ottawa","20143","2014300000","US House","1",2399,"Republican","Roger Marshall",1736
+"KS","Pawnee","20145","2014500000","US House","1",2094,"Democrat","Alan LaPolice",575
+"KS","Pawnee","20145","2014500000","US House","1",2094,"Republican","Roger Marshall",1519
+"KS","Phillips","20147","2014700000","US House","1",2163,"Democrat","Alan LaPolice",342
+"KS","Phillips","20147","2014700000","US House","1",2163,"Republican","Roger Marshall",1821
+"KS","Pottawatomie","20149","2014900000","US House","1",9719,"Democrat","Alan LaPolice",2642
+"KS","Pottawatomie","20149","2014900000","US House","1",9719,"Republican","Roger Marshall",7077
+"KS","Rawlins","20153","2015300000","US House","1",1199,"Democrat","Alan LaPolice",196
+"KS","Rawlins","20153","2015300000","US House","1",1199,"Republican","Roger Marshall",1003
+"KS","Reno","20155","2015500000","US House","1",20677,"Democrat","Alan LaPolice",7220
+"KS","Reno","20155","2015500000","US House","1",20677,"Republican","Roger Marshall",13457
+"KS","Republic","20157","2015700000","US House","1",2000,"Democrat","Alan LaPolice",543
+"KS","Republic","20157","2015700000","US House","1",2000,"Republican","Roger Marshall",1457
+"KS","Rice","20159","2015900000","US House","1",3095,"Democrat","Alan LaPolice",764
+"KS","Rice","20159","2015900000","US House","1",3095,"Republican","Roger Marshall",2331
+"KS","Riley","20161","2016100000","US House","1",19649,"Democrat","Alan LaPolice",10005
+"KS","Riley","20161","2016100000","US House","1",19649,"Republican","Roger Marshall",9644
+"KS","Rooks","20163","2016300000","US House","1",2113,"Democrat","Alan LaPolice",346
+"KS","Rooks","20163","2016300000","US House","1",2113,"Republican","Roger Marshall",1767
+"KS","Rush","20165","2016500000","US House","1",1304,"Democrat","Alan LaPolice",267
+"KS","Rush","20165","2016500000","US House","1",1304,"Republican","Roger Marshall",1037
+"KS","Russell","20167","2016700000","US House","1",2654,"Democrat","Alan LaPolice",624
+"KS","Russell","20167","2016700000","US House","1",2654,"Republican","Roger Marshall",2030
+"KS","Saline","20169","2016900000","US House","1",18294,"Democrat","Alan LaPolice",7298
+"KS","Saline","20169","2016900000","US House","1",18294,"Republican","Roger Marshall",10996
+"KS","Scott","20171","2017100000","US House","1",1855,"Democrat","Alan LaPolice",267
+"KS","Scott","20171","2017100000","US House","1",1855,"Republican","Roger Marshall",1588
+"KS","Seward","20175","2017500000","US House","1",3743,"Democrat","Alan LaPolice",1244
+"KS","Seward","20175","2017500000","US House","1",3743,"Republican","Roger Marshall",2499
+"KS","Sheridan","20179","2017900000","US House","1",1121,"Democrat","Alan LaPolice",146
+"KS","Sheridan","20179","2017900000","US House","1",1121,"Republican","Roger Marshall",975
+"KS","Sherman","20181","2018100000","US House","1",2073,"Democrat","Alan LaPolice",353
+"KS","Sherman","20181","2018100000","US House","1",2073,"Republican","Roger Marshall",1720
+"KS","Smith","20183","2018300000","US House","1",1593,"Democrat","Alan LaPolice",306
+"KS","Smith","20183","2018300000","US House","1",1593,"Republican","Roger Marshall",1287
+"KS","Stanton","20187","2018700000","US House","1",586,"Democrat","Alan LaPolice",101
+"KS","Stanton","20187","2018700000","US House","1",586,"Republican","Roger Marshall",485
+"KS","Stevens","20189","2018900000","US House","1",1494,"Democrat","Alan LaPolice",168
+"KS","Stevens","20189","2018900000","US House","1",1494,"Republican","Roger Marshall",1326
+"KS","Thomas","20193","2019300000","US House","1",2956,"Democrat","Alan LaPolice",549
+"KS","Thomas","20193","2019300000","US House","1",2956,"Republican","Roger Marshall",2407
+"KS","Trego","20195","2019500000","US House","1",1243,"Democrat","Alan LaPolice",262
+"KS","Trego","20195","2019500000","US House","1",1243,"Republican","Roger Marshall",981
+"KS","Wabaunsee","20197","2019700000","US House","1",3095,"Democrat","Alan LaPolice",856
+"KS","Wabaunsee","20197","2019700000","US House","1",3095,"Republican","Roger Marshall",2239
+"KS","Wallace","20199","2019900000","US House","1",642,"Democrat","Alan LaPolice",48
+"KS","Wallace","20199","2019900000","US House","1",642,"Republican","Roger Marshall",594
+"KS","Washington","20201","2020100000","US House","1",2195,"Democrat","Alan LaPolice",558
+"KS","Washington","20201","2020100000","US House","1",2195,"Republican","Roger Marshall",1637
+"KS","Wichita","20203","2020300000","US House","1",748,"Democrat","Alan LaPolice",114
+"KS","Wichita","20203","2020300000","US House","1",748,"Republican","Roger Marshall",634
+"KS","Allen","20001","2000100000","US House","2",4385,"Libertarian","Kelly Standley",326
+"KS","Allen","20001","2000100000","US House","2",4385,"Democrat","Paul Davis",1529
+"KS","Allen","20001","2000100000","US House","2",4385,"Republican","Steve Watkins",2530
+"KS","Anderson","20003","2000300000","US House","2",2736,"Libertarian","Kelly Standley",181
+"KS","Anderson","20003","2000300000","US House","2",2736,"Democrat","Paul Davis",770
+"KS","Anderson","20003","2000300000","US House","2",2736,"Republican","Steve Watkins",1785
+"KS","Atchison","20005","2000500000","US House","2",5448,"Libertarian","Kelly Standley",317
+"KS","Atchison","20005","2000500000","US House","2",5448,"Democrat","Paul Davis",2100
+"KS","Atchison","20005","2000500000","US House","2",5448,"Republican","Steve Watkins",3031
+"KS","Bourbon","20011","2001100000","US House","2",4933,"Libertarian","Kelly Standley",331
+"KS","Bourbon","20011","2001100000","US House","2",4933,"Democrat","Paul Davis",1430
+"KS","Bourbon","20011","2001100000","US House","2",4933,"Republican","Steve Watkins",3172
+"KS","Brown","20013","2001300000","US House","2",3366,"Libertarian","Kelly Standley",223
+"KS","Brown","20013","2001300000","US House","2",3366,"Democrat","Paul Davis",1006
+"KS","Brown","20013","2001300000","US House","2",3366,"Republican","Steve Watkins",2137
+"KS","Cherokee","20021","2002100000","US House","2",6976,"Libertarian","Kelly Standley",441
+"KS","Cherokee","20021","2002100000","US House","2",6976,"Democrat","Paul Davis",2130
+"KS","Cherokee","20021","2002100000","US House","2",6976,"Republican","Steve Watkins",4405
+"KS","Coffey","20031","2003100000","US House","2",3429,"Libertarian","Kelly Standley",226
+"KS","Coffey","20031","2003100000","US House","2",3429,"Democrat","Paul Davis",893
+"KS","Coffey","20031","2003100000","US House","2",3429,"Republican","Steve Watkins",2310
+"KS","Crawford","20037","2003700000","US House","2",12781,"Libertarian","Kelly Standley",949
+"KS","Crawford","20037","2003700000","US House","2",12781,"Democrat","Paul Davis",5684
+"KS","Crawford","20037","2003700000","US House","2",12781,"Republican","Steve Watkins",6148
+"KS","Doniphan","20043","2004300000","US House","2",2584,"Libertarian","Kelly Standley",99
+"KS","Doniphan","20043","2004300000","US House","2",2584,"Democrat","Paul Davis",598
+"KS","Doniphan","20043","2004300000","US House","2",2584,"Republican","Steve Watkins",1887
+"KS","Douglas","20045","2004500000","US House","2",49416,"Libertarian","Kelly Standley",1886
+"KS","Douglas","20045","2004500000","US House","2",49416,"Democrat","Paul Davis",35497
+"KS","Douglas","20045","2004500000","US House","2",49416,"Republican","Steve Watkins",12033
+"KS","Franklin","20059","2005900000","US House","2",9292,"Libertarian","Kelly Standley",607
+"KS","Franklin","20059","2005900000","US House","2",9292,"Democrat","Paul Davis",3207
+"KS","Franklin","20059","2005900000","US House","2",9292,"Republican","Steve Watkins",5478
+"KS","Jackson","20085","2008500000","US House","2",5262,"Libertarian","Kelly Standley",369
+"KS","Jackson","20085","2008500000","US House","2",5262,"Democrat","Paul Davis",1834
+"KS","Jackson","20085","2008500000","US House","2",5262,"Republican","Steve Watkins",3059
+"KS","Jefferson","20087","2008700000","US House","2",7514,"Libertarian","Kelly Standley",465
+"KS","Jefferson","20087","2008700000","US House","2",7514,"Democrat","Paul Davis",3041
+"KS","Jefferson","20087","2008700000","US House","2",7514,"Republican","Steve Watkins",4008
+"KS","Labette","20099","2009900000","US House","2",6310,"Libertarian","Kelly Standley",470
+"KS","Labette","20099","2009900000","US House","2",6310,"Democrat","Paul Davis",2316
+"KS","Labette","20099","2009900000","US House","2",6310,"Republican","Steve Watkins",3524
+"KS","Leavenworth","20103","2010300000","US House","2",26320,"Libertarian","Kelly Standley",1472
+"KS","Leavenworth","20103","2010300000","US House","2",26320,"Democrat","Paul Davis",10792
+"KS","Leavenworth","20103","2010300000","US House","2",26320,"Republican","Steve Watkins",14056
+"KS","Linn","20107","2010700000","US House","2",3757,"Libertarian","Kelly Standley",216
+"KS","Linn","20107","2010700000","US House","2",3757,"Democrat","Paul Davis",885
+"KS","Linn","20107","2010700000","US House","2",3757,"Republican","Steve Watkins",2656
+"KS","Marshall","20117","2011700000","US House","2",1921,"Libertarian","Kelly Standley",119
+"KS","Marshall","20117","2011700000","US House","2",1921,"Democrat","Paul Davis",578
+"KS","Marshall","20117","2011700000","US House","2",1921,"Republican","Steve Watkins",1224
+"KS","Miami","20121","2012100000","US House","2",7888,"Libertarian","Kelly Standley",428
+"KS","Miami","20121","2012100000","US House","2",7888,"Democrat","Paul Davis",2638
+"KS","Miami","20121","2012100000","US House","2",7888,"Republican","Steve Watkins",4822
+"KS","Montgomery","20125","2012500000","US House","2",9803,"Libertarian","Kelly Standley",421
+"KS","Montgomery","20125","2012500000","US House","2",9803,"Democrat","Paul Davis",2663
+"KS","Montgomery","20125","2012500000","US House","2",9803,"Republican","Steve Watkins",6719
+"KS","Nemaha","20131","2013100000","US House","2",4504,"Libertarian","Kelly Standley",226
+"KS","Nemaha","20131","2013100000","US House","2",4504,"Democrat","Paul Davis",1136
+"KS","Nemaha","20131","2013100000","US House","2",4504,"Republican","Steve Watkins",3142
+"KS","Neosho","20133","2013300000","US House","2",5385,"Libertarian","Kelly Standley",437
+"KS","Neosho","20133","2013300000","US House","2",5385,"Democrat","Paul Davis",1765
+"KS","Neosho","20133","2013300000","US House","2",5385,"Republican","Steve Watkins",3183
+"KS","Osage","20139","2013900000","US House","2",6262,"Libertarian","Kelly Standley",388
+"KS","Osage","20139","2013900000","US House","2",6262,"Democrat","Paul Davis",2195
+"KS","Osage","20139","2013900000","US House","2",6262,"Republican","Steve Watkins",3679
+"KS","Shawnee","20177","2017700000","US House","2",70262,"Libertarian","Kelly Standley",3870
+"KS","Shawnee","20177","2017700000","US House","2",70262,"Democrat","Paul Davis",38116
+"KS","Shawnee","20177","2017700000","US House","2",70262,"Republican","Steve Watkins",28276
+"KS","Wilson","20205","2020500000","US House","2",2975,"Libertarian","Kelly Standley",181
+"KS","Wilson","20205","2020500000","US House","2",2975,"Democrat","Paul Davis",763
+"KS","Wilson","20205","2020500000","US House","2",2975,"Republican","Steve Watkins",2031
+"KS","Woodson","20207","2020700000","US House","2",1179,"Libertarian","Kelly Standley",83
+"KS","Woodson","20207","2020700000","US House","2",1179,"Democrat","Paul Davis",293
+"KS","Woodson","20207","2020700000","US House","2",1179,"Republican","Steve Watkins",803
+"KS","Johnson","20091","2009100000","US House","3",270975,"Libertarian","Chris Clemmons",6557
+"KS","Johnson","20091","2009100000","US House","3",270975,"Republican","Kevin Yoder",124285
+"KS","Johnson","20091","2009100000","US House","3",270975,"Democrat","Sharice Davids",140133
+"KS","Miami","20121","2012100000","US House","3",5178,"Libertarian","Chris Clemmons",152
+"KS","Miami","20121","2012100000","US House","3",5178,"Republican","Kevin Yoder",3372
+"KS","Miami","20121","2012100000","US House","3",5178,"Democrat","Sharice Davids",1654
+"KS","Wyandotte","20209","2020900000","US House","3",42148,"Libertarian","Chris Clemmons",1312
+"KS","Wyandotte","20209","2020900000","US House","3",42148,"Republican","Kevin Yoder",12105
+"KS","Wyandotte","20209","2020900000","US House","3",42148,"Democrat","Sharice Davids",28731
+"KS","Barber","20007","2000700000","US House","4",1749,"Democrat","James A. Thompson",297
+"KS","Barber","20007","2000700000","US House","4",1749,"Republican","Ron Estes",1452
+"KS","Butler","20015","2001500000","US House","4",23870,"Democrat","James A. Thompson",7568
+"KS","Butler","20015","2001500000","US House","4",23870,"Republican","Ron Estes",16302
+"KS","Chautauqua","20019","2001900000","US House","4",1130,"Democrat","James A. Thompson",205
+"KS","Chautauqua","20019","2001900000","US House","4",1130,"Republican","Ron Estes",925
+"KS","Comanche","20033","2003300000","US House","4",715,"Democrat","James A. Thompson",133
+"KS","Comanche","20033","2003300000","US House","4",715,"Republican","Ron Estes",582
+"KS","Cowley","20035","2003500000","US House","4",10485,"Democrat","James A. Thompson",3624
+"KS","Cowley","20035","2003500000","US House","4",10485,"Republican","Ron Estes",6861
+"KS","Edwards","20047","2004700000","US House","4",1148,"Democrat","James A. Thompson",252
+"KS","Edwards","20047","2004700000","US House","4",1148,"Republican","Ron Estes",896
+"KS","Elk","20049","2004900000","US House","4",1046,"Democrat","James A. Thompson",185
+"KS","Elk","20049","2004900000","US House","4",1046,"Republican","Ron Estes",861
+"KS","Greenwood","20073","2007300000","US House","4",2112,"Democrat","James A. Thompson",502
+"KS","Greenwood","20073","2007300000","US House","4",2112,"Republican","Ron Estes",1610
+"KS","Harper","20077","2007700000","US House","4",2018,"Democrat","James A. Thompson",417
+"KS","Harper","20077","2007700000","US House","4",2018,"Republican","Ron Estes",1601
+"KS","Harvey","20079","2007900000","US House","4",13532,"Democrat","James A. Thompson",5525
+"KS","Harvey","20079","2007900000","US House","4",13532,"Republican","Ron Estes",8007
+"KS","Kingman","20095","2009500000","US House","4",2965,"Democrat","James A. Thompson",698
+"KS","Kingman","20095","2009500000","US House","4",2965,"Republican","Ron Estes",2267
+"KS","Kiowa","20097","2009700000","US House","4",1860,"Democrat","James A. Thompson",282
+"KS","Kiowa","20097","2009700000","US House","4",1860,"Republican","Ron Estes",1578
+"KS","Pawnee","20145","2014500000","US House","4",133,"Democrat","James A. Thompson",31
+"KS","Pawnee","20145","2014500000","US House","4",133,"Republican","Ron Estes",102
+"KS","Pratt","20151","2015100000","US House","4",3225,"Democrat","James A. Thompson",914
+"KS","Pratt","20151","2015100000","US House","4",3225,"Republican","Ron Estes",2311
+"KS","Sedgwick","20173","2017300000","US House","4",167112,"Democrat","James A. Thompson",75049
+"KS","Sedgwick","20173","2017300000","US House","4",167112,"Republican","Ron Estes",92063
+"KS","Stafford","20185","2018500000","US House","4",1617,"Democrat","James A. Thompson",310
+"KS","Stafford","20185","2018500000","US House","4",1617,"Republican","Ron Estes",1307
+"KS","Sumner","20191","2019100000","US House","4",7976,"Democrat","James A. Thompson",2453
+"KS","Sumner","20191","2019100000","US House","4",7976,"Republican","Ron Estes",5523

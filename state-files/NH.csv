@@ -1,0 +1,1444 @@
+"state","county","fipscode","fipscode2","office","district","total.votes","party","candidate","votes"
+"NH","Acworth","33019","3301900260","Governor","statewide",458,"Republican","Chris Sununu",212
+"NH","Acworth","33019","3301900260","Governor","statewide",458,"Libertarian","Jilletta Jarvis",10
+"NH","Acworth","33019","3301900260","Governor","statewide",458,"Democrat","Molly Kelly",236
+"NH","Albany","33003","3300300420","Governor","statewide",333,"Republican","Chris Sununu",146
+"NH","Albany","33003","3300300420","Governor","statewide",333,"Libertarian","Jilletta Jarvis",6
+"NH","Albany","33003","3300300420","Governor","statewide",333,"Democrat","Molly Kelly",181
+"NH","Alexandria","33009","3300900580","Governor","statewide",744,"Republican","Chris Sununu",463
+"NH","Alexandria","33009","3300900580","Governor","statewide",744,"Libertarian","Jilletta Jarvis",15
+"NH","Alexandria","33009","3300900580","Governor","statewide",744,"Democrat","Molly Kelly",266
+"NH","Allenstown","33013","3301300660","Governor","statewide",1571,"Republican","Chris Sununu",980
+"NH","Allenstown","33013","3301300660","Governor","statewide",1571,"Libertarian","Jilletta Jarvis",27
+"NH","Allenstown","33013","3301300660","Governor","statewide",1571,"Democrat","Molly Kelly",564
+"NH","Alstead","33005","3300500820","Governor","statewide",878,"Republican","Chris Sununu",390
+"NH","Alstead","33005","3300500820","Governor","statewide",878,"Libertarian","Jilletta Jarvis",19
+"NH","Alstead","33005","3300500820","Governor","statewide",878,"Democrat","Molly Kelly",469
+"NH","Alton","33001","3300101060","Governor","statewide",2693,"Republican","Chris Sununu",1932
+"NH","Alton","33001","3300101060","Governor","statewide",2693,"Libertarian","Jilletta Jarvis",16
+"NH","Alton","33001","3300101060","Governor","statewide",2693,"Democrat","Molly Kelly",745
+"NH","Amherst","33011","3301101300","Governor","statewide",6285,"Republican","Chris Sununu",3269
+"NH","Amherst","33011","3301101300","Governor","statewide",6285,"Libertarian","Jilletta Jarvis",75
+"NH","Amherst","33011","3301101300","Governor","statewide",6285,"Democrat","Molly Kelly",2941
+"NH","Andover","33013","3301301460","Governor","statewide",1103,"Republican","Chris Sununu",537
+"NH","Andover","33013","3301301460","Governor","statewide",1103,"Libertarian","Jilletta Jarvis",21
+"NH","Andover","33013","3301301460","Governor","statewide",1103,"Democrat","Molly Kelly",545
+"NH","Antrim","33011","3301101700","Governor","statewide",1192,"Republican","Chris Sununu",605
+"NH","Antrim","33011","3301101700","Governor","statewide",1192,"Libertarian","Jilletta Jarvis",23
+"NH","Antrim","33011","3301101700","Governor","statewide",1192,"Democrat","Molly Kelly",564
+"NH","Ashland","33009","3300902020","Governor","statewide",884,"Republican","Chris Sununu",449
+"NH","Ashland","33009","3300902020","Governor","statewide",884,"Libertarian","Jilletta Jarvis",16
+"NH","Ashland","33009","3300902020","Governor","statewide",884,"Democrat","Molly Kelly",419
+"NH","Atkinson","33015","3301502340","Governor","statewide",3550,"Republican","Chris Sununu",2279
+"NH","Atkinson","33015","3301502340","Governor","statewide",3550,"Libertarian","Jilletta Jarvis",42
+"NH","Atkinson","33015","3301502340","Governor","statewide",3550,"Democrat","Molly Kelly",1229
+"NH","Auburn","33015","3301502820","Governor","statewide",2854,"Republican","Chris Sununu",1966
+"NH","Auburn","33015","3301502820","Governor","statewide",2854,"Libertarian","Jilletta Jarvis",27
+"NH","Auburn","33015","3301502820","Governor","statewide",2854,"Democrat","Molly Kelly",861
+"NH","Barnstead","33001","3300103220","Governor","statewide",1989,"Republican","Chris Sununu",1247
+"NH","Barnstead","33001","3300103220","Governor","statewide",1989,"Libertarian","Jilletta Jarvis",43
+"NH","Barnstead","33001","3300103220","Governor","statewide",1989,"Democrat","Molly Kelly",699
+"NH","Barrington","33017","3301703460","Governor","statewide",4320,"Republican","Chris Sununu",2331
+"NH","Barrington","33017","3301703460","Governor","statewide",4320,"Libertarian","Jilletta Jarvis",85
+"NH","Barrington","33017","3301703460","Governor","statewide",4320,"Democrat","Molly Kelly",1904
+"NH","Bartlett","33003","3300303700","Governor","statewide",1704,"Republican","Chris Sununu",775
+"NH","Bartlett","33003","3300303700","Governor","statewide",1704,"Libertarian","Jilletta Jarvis",19
+"NH","Bartlett","33003","3300303700","Governor","statewide",1704,"Democrat","Molly Kelly",910
+"NH","Bath","33009","3300903940","Governor","statewide",464,"Republican","Chris Sununu",248
+"NH","Bath","33009","3300903940","Governor","statewide",464,"Libertarian","Jilletta Jarvis",10
+"NH","Bath","33009","3300903940","Governor","statewide",464,"Democrat","Molly Kelly",206
+"NH","Bedford","33011","3301104500","Governor","statewide",10967,"Republican","Chris Sununu",6815
+"NH","Bedford","33011","3301104500","Governor","statewide",10967,"Libertarian","Jilletta Jarvis",77
+"NH","Bedford","33011","3301104500","Governor","statewide",10967,"Democrat","Molly Kelly",4075
+"NH","Belmont","33001","3300104740","Governor","statewide",2710,"Republican","Chris Sununu",1818
+"NH","Belmont","33001","3300104740","Governor","statewide",2710,"Libertarian","Jilletta Jarvis",34
+"NH","Belmont","33001","3300104740","Governor","statewide",2710,"Democrat","Molly Kelly",858
+"NH","Bennington","33011","3301104900","Governor","statewide",580,"Republican","Chris Sununu",310
+"NH","Bennington","33011","3301104900","Governor","statewide",580,"Libertarian","Jilletta Jarvis",16
+"NH","Bennington","33011","3301104900","Governor","statewide",580,"Democrat","Molly Kelly",254
+"NH","Benton","33009","3300905060","Governor","statewide",161,"Republican","Chris Sununu",97
+"NH","Benton","33009","3300905060","Governor","statewide",161,"Libertarian","Jilletta Jarvis",3
+"NH","Benton","33009","3300905060","Governor","statewide",161,"Democrat","Molly Kelly",61
+"NH","Berlin","33007","3300705140","Governor","statewide",2846,"Republican","Chris Sununu",1420
+"NH","Berlin","33007","3300705140","Governor","statewide",2846,"Libertarian","Jilletta Jarvis",66
+"NH","Berlin","33007","3300705140","Governor","statewide",2846,"Democrat","Molly Kelly",1360
+"NH","Bethlehem","33009","3300905460","Governor","statewide",1211,"Republican","Chris Sununu",496
+"NH","Bethlehem","33009","3300905460","Governor","statewide",1211,"Libertarian","Jilletta Jarvis",19
+"NH","Bethlehem","33009","3300905460","Governor","statewide",1211,"Democrat","Molly Kelly",696
+"NH","Boscawen","33013","3301306260","Governor","statewide",1326,"Republican","Chris Sununu",752
+"NH","Boscawen","33013","3301306260","Governor","statewide",1326,"Libertarian","Jilletta Jarvis",35
+"NH","Boscawen","33013","3301306260","Governor","statewide",1326,"Democrat","Molly Kelly",539
+"NH","Bow","33013","3301306500","Governor","statewide",4250,"Republican","Chris Sununu",2175
+"NH","Bow","33013","3301306500","Governor","statewide",4250,"Libertarian","Jilletta Jarvis",30
+"NH","Bow","33013","3301306500","Governor","statewide",4250,"Democrat","Molly Kelly",2045
+"NH","Bradford","33013","3301306980","Governor","statewide",783,"Republican","Chris Sununu",419
+"NH","Bradford","33013","3301306980","Governor","statewide",783,"Libertarian","Jilletta Jarvis",7
+"NH","Bradford","33013","3301306980","Governor","statewide",783,"Democrat","Molly Kelly",357
+"NH","Brentwood","33015","3301507220","Governor","statewide",2129,"Republican","Chris Sununu",1221
+"NH","Brentwood","33015","3301507220","Governor","statewide",2129,"Libertarian","Jilletta Jarvis",24
+"NH","Brentwood","33015","3301507220","Governor","statewide",2129,"Democrat","Molly Kelly",884
+"NH","Bridgewater","33009","3300907540","Governor","statewide",604,"Republican","Chris Sununu",367
+"NH","Bridgewater","33009","3300907540","Governor","statewide",604,"Libertarian","Jilletta Jarvis",3
+"NH","Bridgewater","33009","3300907540","Governor","statewide",604,"Democrat","Molly Kelly",234
+"NH","Bristol","33009","3300907700","Governor","statewide",1272,"Republican","Chris Sununu",778
+"NH","Bristol","33009","3300907700","Governor","statewide",1272,"Libertarian","Jilletta Jarvis",19
+"NH","Bristol","33009","3300907700","Governor","statewide",1272,"Democrat","Molly Kelly",475
+"NH","Brookfield","33003","3300307940","Governor","statewide",387,"Republican","Chris Sununu",251
+"NH","Brookfield","33003","3300307940","Governor","statewide",387,"Libertarian","Jilletta Jarvis",7
+"NH","Brookfield","33003","3300307940","Governor","statewide",387,"Democrat","Molly Kelly",129
+"NH","Brookline","33011","3301108100","Governor","statewide",2611,"Republican","Chris Sununu",1481
+"NH","Brookline","33011","3301108100","Governor","statewide",2611,"Libertarian","Jilletta Jarvis",48
+"NH","Brookline","33011","3301108100","Governor","statewide",2611,"Democrat","Molly Kelly",1082
+"NH","Cambridge",NA,NA,"Governor","statewide",2,"Republican","Chris Sununu",2
+"NH","Cambridge",NA,NA,"Governor","statewide",2,"Libertarian","Jilletta Jarvis",0
+"NH","Cambridge",NA,NA,"Governor","statewide",2,"Democrat","Molly Kelly",0
+"NH","Campton","33009","3300908660","Governor","statewide",1571,"Republican","Chris Sununu",790
+"NH","Campton","33009","3300908660","Governor","statewide",1571,"Libertarian","Jilletta Jarvis",32
+"NH","Campton","33009","3300908660","Governor","statewide",1571,"Democrat","Molly Kelly",749
+"NH","Canaan","33009","3300908980","Governor","statewide",1438,"Republican","Chris Sununu",699
+"NH","Canaan","33009","3300908980","Governor","statewide",1438,"Libertarian","Jilletta Jarvis",15
+"NH","Canaan","33009","3300908980","Governor","statewide",1438,"Democrat","Molly Kelly",724
+"NH","Candia","33015","3301509300","Governor","statewide",2040,"Republican","Chris Sununu",1426
+"NH","Candia","33015","3301509300","Governor","statewide",2040,"Libertarian","Jilletta Jarvis",15
+"NH","Candia","33015","3301509300","Governor","statewide",2040,"Democrat","Molly Kelly",599
+"NH","Canterbury","33013","3301309860","Governor","statewide",1370,"Republican","Chris Sununu",639
+"NH","Canterbury","33013","3301309860","Governor","statewide",1370,"Libertarian","Jilletta Jarvis",22
+"NH","Canterbury","33013","3301309860","Governor","statewide",1370,"Democrat","Molly Kelly",709
+"NH","Carroll","33007","3300710100","Governor","statewide",393,"Republican","Chris Sununu",228
+"NH","Carroll","33007","3300710100","Governor","statewide",393,"Libertarian","Jilletta Jarvis",2
+"NH","Carroll","33007","3300710100","Governor","statewide",393,"Democrat","Molly Kelly",163
+"NH","Center Harbor","33001","3300110660","Governor","statewide",612,"Republican","Chris Sununu",374
+"NH","Center Harbor","33001","3300110660","Governor","statewide",612,"Libertarian","Jilletta Jarvis",12
+"NH","Center Harbor","33001","3300110660","Governor","statewide",612,"Democrat","Molly Kelly",226
+"NH","Charlestown","33019","3301911380","Governor","statewide",1685,"Republican","Chris Sununu",924
+"NH","Charlestown","33019","3301911380","Governor","statewide",1685,"Libertarian","Jilletta Jarvis",29
+"NH","Charlestown","33019","3301911380","Governor","statewide",1685,"Democrat","Molly Kelly",732
+"NH","Chatham","33003","3300311780","Governor","statewide",166,"Republican","Chris Sununu",94
+"NH","Chatham","33003","3300311780","Governor","statewide",166,"Libertarian","Jilletta Jarvis",2
+"NH","Chatham","33003","3300311780","Governor","statewide",166,"Democrat","Molly Kelly",70
+"NH","Chester","33015","3301512100","Governor","statewide",2380,"Republican","Chris Sununu",1547
+"NH","Chester","33015","3301512100","Governor","statewide",2380,"Libertarian","Jilletta Jarvis",30
+"NH","Chester","33015","3301512100","Governor","statewide",2380,"Democrat","Molly Kelly",803
+"NH","Chesterfield","33005","3300512260","Governor","statewide",1842,"Republican","Chris Sununu",823
+"NH","Chesterfield","33005","3300512260","Governor","statewide",1842,"Libertarian","Jilletta Jarvis",19
+"NH","Chesterfield","33005","3300512260","Governor","statewide",1842,"Democrat","Molly Kelly",1000
+"NH","Chichester","33013","3301312420","Governor","statewide",1232,"Republican","Chris Sununu",766
+"NH","Chichester","33013","3301312420","Governor","statewide",1232,"Libertarian","Jilletta Jarvis",25
+"NH","Chichester","33013","3301312420","Governor","statewide",1232,"Democrat","Molly Kelly",441
+"NH","Claremont","33019","3301912900","Governor","statewide",3940,"Republican","Chris Sununu",2117
+"NH","Claremont","33019","3301912900","Governor","statewide",3940,"Libertarian","Jilletta Jarvis",57
+"NH","Claremont","33019","3301912900","Governor","statewide",3940,"Democrat","Molly Kelly",1766
+"NH","Clarksville","33007","3300713220","Governor","statewide",124,"Republican","Chris Sununu",69
+"NH","Clarksville","33007","3300713220","Governor","statewide",124,"Libertarian","Jilletta Jarvis",4
+"NH","Clarksville","33007","3300713220","Governor","statewide",124,"Democrat","Molly Kelly",51
+"NH","Colebrook","33007","3300713780","Governor","statewide",749,"Republican","Chris Sununu",445
+"NH","Colebrook","33007","3300713780","Governor","statewide",749,"Libertarian","Jilletta Jarvis",20
+"NH","Colebrook","33007","3300713780","Governor","statewide",749,"Democrat","Molly Kelly",284
+"NH","Columbia","33007","3300713940","Governor","statewide",257,"Republican","Chris Sununu",162
+"NH","Columbia","33007","3300713940","Governor","statewide",257,"Libertarian","Jilletta Jarvis",6
+"NH","Columbia","33007","3300713940","Governor","statewide",257,"Democrat","Molly Kelly",89
+"NH","Concord","33013","3301314200","Governor","statewide",17670,"Republican","Chris Sununu",7244
+"NH","Concord","33013","3301314200","Governor","statewide",17670,"Libertarian","Jilletta Jarvis",250
+"NH","Concord","33013","3301314200","Governor","statewide",17670,"Democrat","Molly Kelly",10176
+"NH","Conway","33003","3300314660","Governor","statewide",4038,"Republican","Chris Sununu",1871
+"NH","Conway","33003","3300314660","Governor","statewide",4038,"Libertarian","Jilletta Jarvis",50
+"NH","Conway","33003","3300314660","Governor","statewide",4038,"Democrat","Molly Kelly",2117
+"NH","Cornish","33019","3301915060","Governor","statewide",871,"Republican","Chris Sununu",379
+"NH","Cornish","33019","3301915060","Governor","statewide",871,"Libertarian","Jilletta Jarvis",11
+"NH","Cornish","33019","3301915060","Governor","statewide",871,"Democrat","Molly Kelly",481
+"NH","Croydon","33019","3301916340","Governor","statewide",334,"Republican","Chris Sununu",220
+"NH","Croydon","33019","3301916340","Governor","statewide",334,"Libertarian","Jilletta Jarvis",5
+"NH","Croydon","33019","3301916340","Governor","statewide",334,"Democrat","Molly Kelly",109
+"NH","Dalton","33007","3300716820","Governor","statewide",383,"Republican","Chris Sununu",232
+"NH","Dalton","33007","3300716820","Governor","statewide",383,"Libertarian","Jilletta Jarvis",11
+"NH","Dalton","33007","3300716820","Governor","statewide",383,"Democrat","Molly Kelly",140
+"NH","Danbury","33013","3301316980","Governor","statewide",507,"Republican","Chris Sununu",305
+"NH","Danbury","33013","3301316980","Governor","statewide",507,"Libertarian","Jilletta Jarvis",11
+"NH","Danbury","33013","3301316980","Governor","statewide",507,"Democrat","Molly Kelly",191
+"NH","Danville","33015","3301517140","Governor","statewide",1859,"Republican","Chris Sununu",1204
+"NH","Danville","33015","3301517140","Governor","statewide",1859,"Libertarian","Jilletta Jarvis",32
+"NH","Danville","33015","3301517140","Governor","statewide",1859,"Democrat","Molly Kelly",623
+"NH","Deerfield","33015","3301517460","Governor","statewide",2290,"Republican","Chris Sununu",1369
+"NH","Deerfield","33015","3301517460","Governor","statewide",2290,"Libertarian","Jilletta Jarvis",46
+"NH","Deerfield","33015","3301517460","Governor","statewide",2290,"Democrat","Molly Kelly",875
+"NH","Deering","33011","3301117780","Governor","statewide",810,"Republican","Chris Sununu",486
+"NH","Deering","33011","3301117780","Governor","statewide",810,"Libertarian","Jilletta Jarvis",15
+"NH","Deering","33011","3301117780","Governor","statewide",810,"Democrat","Molly Kelly",309
+"NH","Derry","33015","3301517940","Governor","statewide",11431,"Republican","Chris Sununu",6632
+"NH","Derry","33015","3301517940","Governor","statewide",11431,"Libertarian","Jilletta Jarvis",194
+"NH","Derry","33015","3301517940","Governor","statewide",11431,"Democrat","Molly Kelly",4605
+"NH","Dixville","33007","3300718420","Governor","statewide",5,"Republican","Chris Sununu",2
+"NH","Dixville","33007","3300718420","Governor","statewide",5,"Libertarian","Jilletta Jarvis",1
+"NH","Dixville","33007","3300718420","Governor","statewide",5,"Democrat","Molly Kelly",2
+"NH","Dorchester","33009","3300918740","Governor","statewide",157,"Republican","Chris Sununu",105
+"NH","Dorchester","33009","3300918740","Governor","statewide",157,"Libertarian","Jilletta Jarvis",8
+"NH","Dorchester","33009","3300918740","Governor","statewide",157,"Democrat","Molly Kelly",44
+"NH","Dover","33017","3301718820","Governor","statewide",14151,"Republican","Chris Sununu",5878
+"NH","Dover","33017","3301718820","Governor","statewide",14151,"Libertarian","Jilletta Jarvis",219
+"NH","Dover","33017","3301718820","Governor","statewide",14151,"Democrat","Molly Kelly",8054
+"NH","Dublin","33005","3300519140","Governor","statewide",891,"Republican","Chris Sununu",371
+"NH","Dublin","33005","3300519140","Governor","statewide",891,"Libertarian","Jilletta Jarvis",14
+"NH","Dublin","33005","3300519140","Governor","statewide",891,"Democrat","Molly Kelly",506
+"NH","Dummer","33007","3300719300","Governor","statewide",124,"Republican","Chris Sununu",63
+"NH","Dummer","33007","3300719300","Governor","statewide",124,"Libertarian","Jilletta Jarvis",2
+"NH","Dummer","33007","3300719300","Governor","statewide",124,"Democrat","Molly Kelly",59
+"NH","Dunbarton","33013","3301319460","Governor","statewide",1469,"Republican","Chris Sununu",938
+"NH","Dunbarton","33013","3301319460","Governor","statewide",1469,"Libertarian","Jilletta Jarvis",9
+"NH","Dunbarton","33013","3301319460","Governor","statewide",1469,"Democrat","Molly Kelly",522
+"NH","Durham","33017","3301719700","Governor","statewide",6550,"Republican","Chris Sununu",1618
+"NH","Durham","33017","3301719700","Governor","statewide",6550,"Libertarian","Jilletta Jarvis",126
+"NH","Durham","33017","3301719700","Governor","statewide",6550,"Democrat","Molly Kelly",4806
+"NH","East Kingston","33015","3301521380","Governor","statewide",1302,"Republican","Chris Sununu",820
+"NH","East Kingston","33015","3301521380","Governor","statewide",1302,"Libertarian","Jilletta Jarvis",16
+"NH","East Kingston","33015","3301521380","Governor","statewide",1302,"Democrat","Molly Kelly",466
+"NH","Easton","33009","3300922020","Governor","statewide",191,"Republican","Chris Sununu",57
+"NH","Easton","33009","3300922020","Governor","statewide",191,"Libertarian","Jilletta Jarvis",5
+"NH","Easton","33009","3300922020","Governor","statewide",191,"Democrat","Molly Kelly",129
+"NH","Eaton","33003","3300323380","Governor","statewide",252,"Republican","Chris Sununu",119
+"NH","Eaton","33003","3300323380","Governor","statewide",252,"Libertarian","Jilletta Jarvis",2
+"NH","Eaton","33003","3300323380","Governor","statewide",252,"Democrat","Molly Kelly",131
+"NH","Effingham","33003","3300323620","Governor","statewide",626,"Republican","Chris Sununu",371
+"NH","Effingham","33003","3300323620","Governor","statewide",626,"Libertarian","Jilletta Jarvis",9
+"NH","Effingham","33003","3300323620","Governor","statewide",626,"Democrat","Molly Kelly",246
+"NH","Ellsworth","33009","3300923860","Governor","statewide",52,"Republican","Chris Sununu",21
+"NH","Ellsworth","33009","3300923860","Governor","statewide",52,"Libertarian","Jilletta Jarvis",1
+"NH","Ellsworth","33009","3300923860","Governor","statewide",52,"Democrat","Molly Kelly",30
+"NH","Enfield","33009","3300924340","Governor","statewide",1979,"Republican","Chris Sununu",847
+"NH","Enfield","33009","3300924340","Governor","statewide",1979,"Libertarian","Jilletta Jarvis",30
+"NH","Enfield","33009","3300924340","Governor","statewide",1979,"Democrat","Molly Kelly",1102
+"NH","Epping","33015","3301524660","Governor","statewide",3144,"Republican","Chris Sununu",1862
+"NH","Epping","33015","3301524660","Governor","statewide",3144,"Libertarian","Jilletta Jarvis",44
+"NH","Epping","33015","3301524660","Governor","statewide",3144,"Democrat","Molly Kelly",1238
+"NH","Epsom","33013","3301324900","Governor","statewide",1990,"Republican","Chris Sununu",1288
+"NH","Epsom","33013","3301324900","Governor","statewide",1990,"Libertarian","Jilletta Jarvis",20
+"NH","Epsom","33013","3301324900","Governor","statewide",1990,"Democrat","Molly Kelly",682
+"NH","Errol","33007","3300725140","Governor","statewide",163,"Republican","Chris Sununu",109
+"NH","Errol","33007","3300725140","Governor","statewide",163,"Libertarian","Jilletta Jarvis",2
+"NH","Errol","33007","3300725140","Governor","statewide",163,"Democrat","Molly Kelly",52
+"NH","Exeter","33015","3301525380","Governor","statewide",7821,"Republican","Chris Sununu",3344
+"NH","Exeter","33015","3301525380","Governor","statewide",7821,"Libertarian","Jilletta Jarvis",72
+"NH","Exeter","33015","3301525380","Governor","statewide",7821,"Democrat","Molly Kelly",4405
+"NH","Farmington","33017","3301726020","Governor","statewide",2244,"Republican","Chris Sununu",1410
+"NH","Farmington","33017","3301726020","Governor","statewide",2244,"Libertarian","Jilletta Jarvis",50
+"NH","Farmington","33017","3301726020","Governor","statewide",2244,"Democrat","Molly Kelly",784
+"NH","Fitzwilliam","33005","3300526500","Governor","statewide",1001,"Republican","Chris Sununu",498
+"NH","Fitzwilliam","33005","3300526500","Governor","statewide",1001,"Libertarian","Jilletta Jarvis",19
+"NH","Fitzwilliam","33005","3300526500","Governor","statewide",1001,"Democrat","Molly Kelly",484
+"NH","Francestown","33011","3301127140","Governor","statewide",905,"Republican","Chris Sununu",482
+"NH","Francestown","33011","3301127140","Governor","statewide",905,"Libertarian","Jilletta Jarvis",14
+"NH","Francestown","33011","3301127140","Governor","statewide",905,"Democrat","Molly Kelly",409
+"NH","Franconia","33009","3300927300","Governor","statewide",638,"Republican","Chris Sununu",225
+"NH","Franconia","33009","3300927300","Governor","statewide",638,"Libertarian","Jilletta Jarvis",7
+"NH","Franconia","33009","3300927300","Governor","statewide",638,"Democrat","Molly Kelly",406
+"NH","Franklin","33013","3301327380","Governor","statewide",2790,"Republican","Chris Sununu",1657
+"NH","Franklin","33013","3301327380","Governor","statewide",2790,"Libertarian","Jilletta Jarvis",48
+"NH","Franklin","33013","3301327380","Governor","statewide",2790,"Democrat","Molly Kelly",1085
+"NH","Freedom","33003","3300327700","Governor","statewide",800,"Republican","Chris Sununu",443
+"NH","Freedom","33003","3300327700","Governor","statewide",800,"Libertarian","Jilletta Jarvis",10
+"NH","Freedom","33003","3300327700","Governor","statewide",800,"Democrat","Molly Kelly",347
+"NH","Fremont","33015","3301527940","Governor","statewide",2046,"Republican","Chris Sununu",1350
+"NH","Fremont","33015","3301527940","Governor","statewide",2046,"Libertarian","Jilletta Jarvis",35
+"NH","Fremont","33015","3301527940","Governor","statewide",2046,"Democrat","Molly Kelly",661
+"NH","Gilford","33001","3300128740","Governor","statewide",3732,"Republican","Chris Sununu",2299
+"NH","Gilford","33001","3300128740","Governor","statewide",3732,"Libertarian","Jilletta Jarvis",34
+"NH","Gilford","33001","3300128740","Governor","statewide",3732,"Democrat","Molly Kelly",1399
+"NH","Gilmanton","33001","3300128980","Governor","statewide",1737,"Republican","Chris Sununu",1116
+"NH","Gilmanton","33001","3300128980","Governor","statewide",1737,"Libertarian","Jilletta Jarvis",28
+"NH","Gilmanton","33001","3300128980","Governor","statewide",1737,"Democrat","Molly Kelly",593
+"NH","Gilsum","33005","3300529220","Governor","statewide",365,"Republican","Chris Sununu",194
+"NH","Gilsum","33005","3300529220","Governor","statewide",365,"Libertarian","Jilletta Jarvis",7
+"NH","Gilsum","33005","3300529220","Governor","statewide",365,"Democrat","Molly Kelly",164
+"NH","Goffstown","33011","3301129860","Governor","statewide",7212,"Republican","Chris Sununu",4183
+"NH","Goffstown","33011","3301129860","Governor","statewide",7212,"Libertarian","Jilletta Jarvis",97
+"NH","Goffstown","33011","3301129860","Governor","statewide",7212,"Democrat","Molly Kelly",2932
+"NH","Gorham","33007","3300730260","Governor","statewide",1166,"Republican","Chris Sununu",579
+"NH","Gorham","33007","3300730260","Governor","statewide",1166,"Libertarian","Jilletta Jarvis",20
+"NH","Gorham","33007","3300730260","Governor","statewide",1166,"Democrat","Molly Kelly",567
+"NH","Goshen","33019","3301930500","Governor","statewide",326,"Republican","Chris Sununu",209
+"NH","Goshen","33019","3301930500","Governor","statewide",326,"Libertarian","Jilletta Jarvis",2
+"NH","Goshen","33019","3301930500","Governor","statewide",326,"Democrat","Molly Kelly",115
+"NH","Grafton","33009","3300930820","Governor","statewide",549,"Republican","Chris Sununu",329
+"NH","Grafton","33009","3300930820","Governor","statewide",549,"Libertarian","Jilletta Jarvis",15
+"NH","Grafton","33009","3300930820","Governor","statewide",549,"Democrat","Molly Kelly",205
+"NH","Grantham","33019","3301931220","Governor","statewide",1843,"Republican","Chris Sununu",731
+"NH","Grantham","33019","3301931220","Governor","statewide",1843,"Libertarian","Jilletta Jarvis",25
+"NH","Grantham","33019","3301931220","Governor","statewide",1843,"Democrat","Molly Kelly",1087
+"NH","Green's Grant",NA,NA,"Governor","statewide",1,"Republican","Chris Sununu",1
+"NH","Green's Grant",NA,NA,"Governor","statewide",1,"Libertarian","Jilletta Jarvis",0
+"NH","Green's Grant",NA,NA,"Governor","statewide",1,"Democrat","Molly Kelly",0
+"NH","Greenfield","33011","3301131540","Governor","statewide",743,"Republican","Chris Sununu",375
+"NH","Greenfield","33011","3301131540","Governor","statewide",743,"Libertarian","Jilletta Jarvis",19
+"NH","Greenfield","33011","3301131540","Governor","statewide",743,"Democrat","Molly Kelly",349
+"NH","Greenland","33015","3301531700","Governor","statewide",2334,"Republican","Chris Sununu",1249
+"NH","Greenland","33015","3301531700","Governor","statewide",2334,"Libertarian","Jilletta Jarvis",18
+"NH","Greenland","33015","3301531700","Governor","statewide",2334,"Democrat","Molly Kelly",1067
+"NH","Greenville","33011","3301131940","Governor","statewide",667,"Republican","Chris Sununu",365
+"NH","Greenville","33011","3301131940","Governor","statewide",667,"Libertarian","Jilletta Jarvis",15
+"NH","Greenville","33011","3301131940","Governor","statewide",667,"Democrat","Molly Kelly",287
+"NH","Groton","33009","3300932180","Governor","statewide",270,"Republican","Chris Sununu",166
+"NH","Groton","33009","3300932180","Governor","statewide",270,"Libertarian","Jilletta Jarvis",9
+"NH","Groton","33009","3300932180","Governor","statewide",270,"Democrat","Molly Kelly",95
+"NH","Hale's Location",NA,NA,"Governor","statewide",116,"Republican","Chris Sununu",86
+"NH","Hale's Location",NA,NA,"Governor","statewide",116,"Libertarian","Jilletta Jarvis",1
+"NH","Hale's Location",NA,NA,"Governor","statewide",116,"Democrat","Molly Kelly",29
+"NH","Hampstead","33015","3301532900","Governor","statewide",4144,"Republican","Chris Sununu",2693
+"NH","Hampstead","33015","3301532900","Governor","statewide",4144,"Libertarian","Jilletta Jarvis",31
+"NH","Hampstead","33015","3301532900","Governor","statewide",4144,"Democrat","Molly Kelly",1420
+"NH","Hampton","33015","3301533060","Governor","statewide",8399,"Republican","Chris Sununu",4593
+"NH","Hampton","33015","3301533060","Governor","statewide",8399,"Libertarian","Jilletta Jarvis",69
+"NH","Hampton","33015","3301533060","Governor","statewide",8399,"Democrat","Molly Kelly",3737
+"NH","Hampton Falls","33015","3301533460","Governor","statewide",1302,"Republican","Chris Sununu",815
+"NH","Hampton Falls","33015","3301533460","Governor","statewide",1302,"Libertarian","Jilletta Jarvis",16
+"NH","Hampton Falls","33015","3301533460","Governor","statewide",1302,"Democrat","Molly Kelly",471
+"NH","Hancock","33011","3301133700","Governor","statewide",1088,"Republican","Chris Sununu",451
+"NH","Hancock","33011","3301133700","Governor","statewide",1088,"Libertarian","Jilletta Jarvis",11
+"NH","Hancock","33011","3301133700","Governor","statewide",1088,"Democrat","Molly Kelly",626
+"NH","Hanover","33009","3300933860","Governor","statewide",6132,"Republican","Chris Sununu",1066
+"NH","Hanover","33009","3300933860","Governor","statewide",6132,"Libertarian","Jilletta Jarvis",34
+"NH","Hanover","33009","3300933860","Governor","statewide",6132,"Democrat","Molly Kelly",5032
+"NH","Harrisville","33005","3300534420","Governor","statewide",624,"Republican","Chris Sununu",174
+"NH","Harrisville","33005","3300534420","Governor","statewide",624,"Libertarian","Jilletta Jarvis",1
+"NH","Harrisville","33005","3300534420","Governor","statewide",624,"Democrat","Molly Kelly",449
+"NH","Harts Location","33003","3300334500","Governor","statewide",34,"Republican","Chris Sununu",19
+"NH","Harts Location","33003","3300334500","Governor","statewide",34,"Libertarian","Jilletta Jarvis",0
+"NH","Harts Location","33003","3300334500","Governor","statewide",34,"Democrat","Molly Kelly",15
+"NH","Haverhill","33009","3300934820","Governor","statewide",1652,"Republican","Chris Sununu",1000
+"NH","Haverhill","33009","3300934820","Governor","statewide",1652,"Libertarian","Jilletta Jarvis",35
+"NH","Haverhill","33009","3300934820","Governor","statewide",1652,"Democrat","Molly Kelly",617
+"NH","Hebron","33009","3300935220","Governor","statewide",383,"Republican","Chris Sununu",258
+"NH","Hebron","33009","3300935220","Governor","statewide",383,"Libertarian","Jilletta Jarvis",2
+"NH","Hebron","33009","3300935220","Governor","statewide",383,"Democrat","Molly Kelly",123
+"NH","Henniker","33013","3301335540","Governor","statewide",2026,"Republican","Chris Sununu",936
+"NH","Henniker","33013","3301335540","Governor","statewide",2026,"Libertarian","Jilletta Jarvis",33
+"NH","Henniker","33013","3301335540","Governor","statewide",2026,"Democrat","Molly Kelly",1057
+"NH","Hill","33013","3301335860","Governor","statewide",416,"Republican","Chris Sununu",272
+"NH","Hill","33013","3301335860","Governor","statewide",416,"Libertarian","Jilletta Jarvis",9
+"NH","Hill","33013","3301335860","Governor","statewide",416,"Democrat","Molly Kelly",135
+"NH","Hillsborough","33011","3301136180","Governor","statewide",2292,"Republican","Chris Sununu",1351
+"NH","Hillsborough","33011","3301136180","Governor","statewide",2292,"Libertarian","Jilletta Jarvis",57
+"NH","Hillsborough","33011","3301136180","Governor","statewide",2292,"Democrat","Molly Kelly",884
+"NH","Hinsdale","33005","3300536660","Governor","statewide",1314,"Republican","Chris Sununu",576
+"NH","Hinsdale","33005","3300536660","Governor","statewide",1314,"Libertarian","Jilletta Jarvis",13
+"NH","Hinsdale","33005","3300536660","Governor","statewide",1314,"Democrat","Molly Kelly",725
+"NH","Holderness","33009","3300936900","Governor","statewide",1142,"Republican","Chris Sununu",494
+"NH","Holderness","33009","3300936900","Governor","statewide",1142,"Libertarian","Jilletta Jarvis",12
+"NH","Holderness","33009","3300936900","Governor","statewide",1142,"Democrat","Molly Kelly",636
+"NH","Hollis","33011","3301137140","Governor","statewide",4305,"Republican","Chris Sununu",2288
+"NH","Hollis","33011","3301137140","Governor","statewide",4305,"Libertarian","Jilletta Jarvis",64
+"NH","Hollis","33011","3301137140","Governor","statewide",4305,"Democrat","Molly Kelly",1953
+"NH","Hooksett","33013","3301337300","Governor","statewide",5951,"Republican","Chris Sununu",3613
+"NH","Hooksett","33013","3301337300","Governor","statewide",5951,"Libertarian","Jilletta Jarvis",75
+"NH","Hooksett","33013","3301337300","Governor","statewide",5951,"Democrat","Molly Kelly",2263
+"NH","Hopkinton","33013","3301337540","Governor","statewide",3344,"Republican","Chris Sununu",1451
+"NH","Hopkinton","33013","3301337540","Governor","statewide",3344,"Libertarian","Jilletta Jarvis",31
+"NH","Hopkinton","33013","3301337540","Governor","statewide",3344,"Democrat","Molly Kelly",1862
+"NH","Hudson","33011","3301137940","Governor","statewide",9365,"Republican","Chris Sununu",5682
+"NH","Hudson","33011","3301137940","Governor","statewide",9365,"Libertarian","Jilletta Jarvis",152
+"NH","Hudson","33011","3301137940","Governor","statewide",9365,"Democrat","Molly Kelly",3531
+"NH","Jackson","33003","3300338260","Governor","statewide",632,"Republican","Chris Sununu",227
+"NH","Jackson","33003","3300338260","Governor","statewide",632,"Libertarian","Jilletta Jarvis",2
+"NH","Jackson","33003","3300338260","Governor","statewide",632,"Democrat","Molly Kelly",403
+"NH","Jaffrey","33005","3300538500","Governor","statewide",2217,"Republican","Chris Sununu",1155
+"NH","Jaffrey","33005","3300538500","Governor","statewide",2217,"Libertarian","Jilletta Jarvis",19
+"NH","Jaffrey","33005","3300538500","Governor","statewide",2217,"Democrat","Molly Kelly",1043
+"NH","Jefferson","33007","3300738820","Governor","statewide",497,"Republican","Chris Sununu",311
+"NH","Jefferson","33007","3300738820","Governor","statewide",497,"Libertarian","Jilletta Jarvis",6
+"NH","Jefferson","33007","3300738820","Governor","statewide",497,"Democrat","Molly Kelly",180
+"NH","Keene","33005","3300539300","Governor","statewide",9580,"Republican","Chris Sununu",2900
+"NH","Keene","33005","3300539300","Governor","statewide",9580,"Libertarian","Jilletta Jarvis",141
+"NH","Keene","33005","3300539300","Governor","statewide",9580,"Democrat","Molly Kelly",6539
+"NH","Kensington","33015","3301539780","Governor","statewide",1180,"Republican","Chris Sununu",649
+"NH","Kensington","33015","3301539780","Governor","statewide",1180,"Libertarian","Jilletta Jarvis",19
+"NH","Kensington","33015","3301539780","Governor","statewide",1180,"Democrat","Molly Kelly",512
+"NH","Kingston","33015","3301540100","Governor","statewide",2836,"Republican","Chris Sununu",1751
+"NH","Kingston","33015","3301540100","Governor","statewide",2836,"Libertarian","Jilletta Jarvis",36
+"NH","Kingston","33015","3301540100","Governor","statewide",2836,"Democrat","Molly Kelly",1049
+"NH","Laconia","33001","3300140180","Governor","statewide",6194,"Republican","Chris Sununu",3726
+"NH","Laconia","33001","3300140180","Governor","statewide",6194,"Libertarian","Jilletta Jarvis",87
+"NH","Laconia","33001","3300140180","Governor","statewide",6194,"Democrat","Molly Kelly",2381
+"NH","Lancaster","33007","3300740420","Governor","statewide",1221,"Republican","Chris Sununu",657
+"NH","Lancaster","33007","3300740420","Governor","statewide",1221,"Libertarian","Jilletta Jarvis",17
+"NH","Lancaster","33007","3300740420","Governor","statewide",1221,"Democrat","Molly Kelly",547
+"NH","Landaff","33009","3300940660","Governor","statewide",206,"Republican","Chris Sununu",120
+"NH","Landaff","33009","3300940660","Governor","statewide",206,"Libertarian","Jilletta Jarvis",4
+"NH","Landaff","33009","3300940660","Governor","statewide",206,"Democrat","Molly Kelly",82
+"NH","Langdon","33019","3301940900","Governor","statewide",311,"Republican","Chris Sununu",169
+"NH","Langdon","33019","3301940900","Governor","statewide",311,"Libertarian","Jilletta Jarvis",6
+"NH","Langdon","33019","3301940900","Governor","statewide",311,"Democrat","Molly Kelly",136
+"NH","Lebanon","33009","3300941300","Governor","statewide",6053,"Republican","Chris Sununu",1908
+"NH","Lebanon","33009","3300941300","Governor","statewide",6053,"Libertarian","Jilletta Jarvis",75
+"NH","Lebanon","33009","3300941300","Governor","statewide",6053,"Democrat","Molly Kelly",4070
+"NH","Lee","33017","3301741460","Governor","statewide",2274,"Republican","Chris Sununu",897
+"NH","Lee","33017","3301741460","Governor","statewide",2274,"Libertarian","Jilletta Jarvis",29
+"NH","Lee","33017","3301741460","Governor","statewide",2274,"Democrat","Molly Kelly",1348
+"NH","Lempster","33019","3301941700","Governor","statewide",500,"Republican","Chris Sununu",311
+"NH","Lempster","33019","3301941700","Governor","statewide",500,"Libertarian","Jilletta Jarvis",5
+"NH","Lempster","33019","3301941700","Governor","statewide",500,"Democrat","Molly Kelly",184
+"NH","Lincoln","33009","3300941860","Governor","statewide",648,"Republican","Chris Sununu",340
+"NH","Lincoln","33009","3300941860","Governor","statewide",648,"Libertarian","Jilletta Jarvis",12
+"NH","Lincoln","33009","3300941860","Governor","statewide",648,"Democrat","Molly Kelly",296
+"NH","Lisbon","33009","3300942020","Governor","statewide",513,"Republican","Chris Sununu",281
+"NH","Lisbon","33009","3300942020","Governor","statewide",513,"Libertarian","Jilletta Jarvis",19
+"NH","Lisbon","33009","3300942020","Governor","statewide",513,"Democrat","Molly Kelly",213
+"NH","Litchfield","33011","3301142260","Governor","statewide",3650,"Republican","Chris Sununu",2346
+"NH","Litchfield","33011","3301142260","Governor","statewide",3650,"Libertarian","Jilletta Jarvis",35
+"NH","Litchfield","33011","3301142260","Governor","statewide",3650,"Democrat","Molly Kelly",1269
+"NH","Littleton","33009","3300942580","Governor","statewide",2234,"Republican","Chris Sununu",1206
+"NH","Littleton","33009","3300942580","Governor","statewide",2234,"Libertarian","Jilletta Jarvis",53
+"NH","Littleton","33009","3300942580","Governor","statewide",2234,"Democrat","Molly Kelly",975
+"NH","Londonderry","33015","3301543220","Governor","statewide",10767,"Republican","Chris Sununu",6354
+"NH","Londonderry","33015","3301543220","Governor","statewide",10767,"Libertarian","Jilletta Jarvis",113
+"NH","Londonderry","33015","3301543220","Governor","statewide",10767,"Democrat","Molly Kelly",4300
+"NH","Loudon","33013","3301343380","Governor","statewide",2572,"Republican","Chris Sununu",1675
+"NH","Loudon","33013","3301343380","Governor","statewide",2572,"Libertarian","Jilletta Jarvis",37
+"NH","Loudon","33013","3301343380","Governor","statewide",2572,"Democrat","Molly Kelly",860
+"NH","Lyman","33009","3300944100","Governor","statewide",257,"Republican","Chris Sununu",125
+"NH","Lyman","33009","3300944100","Governor","statewide",257,"Libertarian","Jilletta Jarvis",5
+"NH","Lyman","33009","3300944100","Governor","statewide",257,"Democrat","Molly Kelly",127
+"NH","Lyme","33009","3300944260","Governor","statewide",1021,"Republican","Chris Sununu",244
+"NH","Lyme","33009","3300944260","Governor","statewide",1021,"Libertarian","Jilletta Jarvis",5
+"NH","Lyme","33009","3300944260","Governor","statewide",1021,"Democrat","Molly Kelly",772
+"NH","Lyndeborough","33011","3301144580","Governor","statewide",820,"Republican","Chris Sununu",443
+"NH","Lyndeborough","33011","3301144580","Governor","statewide",820,"Libertarian","Jilletta Jarvis",18
+"NH","Lyndeborough","33011","3301144580","Governor","statewide",820,"Democrat","Molly Kelly",359
+"NH","Madbury","33017","3301744820","Governor","statewide",1001,"Republican","Chris Sununu",451
+"NH","Madbury","33017","3301744820","Governor","statewide",1001,"Libertarian","Jilletta Jarvis",17
+"NH","Madbury","33017","3301744820","Governor","statewide",1001,"Democrat","Molly Kelly",533
+"NH","Madison","33003","3300345060","Governor","statewide",1239,"Republican","Chris Sununu",606
+"NH","Madison","33003","3300345060","Governor","statewide",1239,"Libertarian","Jilletta Jarvis",13
+"NH","Madison","33003","3300345060","Governor","statewide",1239,"Democrat","Molly Kelly",620
+"NH","Manchester","33011","3301145140","Governor","statewide",36919,"Republican","Chris Sununu",19147
+"NH","Manchester","33011","3301145140","Governor","statewide",36919,"Libertarian","Jilletta Jarvis",642
+"NH","Manchester","33011","3301145140","Governor","statewide",36919,"Democrat","Molly Kelly",17130
+"NH","Marlborough","33005","3300545460","Governor","statewide",935,"Republican","Chris Sununu",318
+"NH","Marlborough","33005","3300545460","Governor","statewide",935,"Libertarian","Jilletta Jarvis",13
+"NH","Marlborough","33005","3300545460","Governor","statewide",935,"Democrat","Molly Kelly",604
+"NH","Marlow","33005","3300545700","Governor","statewide",371,"Republican","Chris Sununu",178
+"NH","Marlow","33005","3300545700","Governor","statewide",371,"Libertarian","Jilletta Jarvis",12
+"NH","Marlow","33005","3300545700","Governor","statewide",371,"Democrat","Molly Kelly",181
+"NH","Mason","33011","3301146260","Governor","statewide",688,"Republican","Chris Sununu",407
+"NH","Mason","33011","3301146260","Governor","statewide",688,"Libertarian","Jilletta Jarvis",12
+"NH","Mason","33011","3301146260","Governor","statewide",688,"Democrat","Molly Kelly",269
+"NH","Meredith","33001","3300147140","Governor","statewide",3234,"Republican","Chris Sununu",1976
+"NH","Meredith","33001","3300147140","Governor","statewide",3234,"Libertarian","Jilletta Jarvis",42
+"NH","Meredith","33001","3300147140","Governor","statewide",3234,"Democrat","Molly Kelly",1216
+"NH","Merrimack","33011","3301147540","Governor","statewide",11576,"Republican","Chris Sununu",6535
+"NH","Merrimack","33011","3301147540","Governor","statewide",11576,"Libertarian","Jilletta Jarvis",156
+"NH","Merrimack","33011","3301147540","Governor","statewide",11576,"Democrat","Molly Kelly",4885
+"NH","Middleton","33017","3301747700","Governor","statewide",708,"Republican","Chris Sununu",480
+"NH","Middleton","33017","3301747700","Governor","statewide",708,"Libertarian","Jilletta Jarvis",11
+"NH","Middleton","33017","3301747700","Governor","statewide",708,"Democrat","Molly Kelly",217
+"NH","Milan","33007","3300747860","Governor","statewide",561,"Republican","Chris Sununu",328
+"NH","Milan","33007","3300747860","Governor","statewide",561,"Libertarian","Jilletta Jarvis",5
+"NH","Milan","33007","3300747860","Governor","statewide",561,"Democrat","Molly Kelly",228
+"NH","Milford","33011","3301148020","Governor","statewide",6400,"Republican","Chris Sununu",3447
+"NH","Milford","33011","3301148020","Governor","statewide",6400,"Libertarian","Jilletta Jarvis",137
+"NH","Milford","33011","3301148020","Governor","statewide",6400,"Democrat","Molly Kelly",2816
+"NH","Millsfield","33007","3300748260","Governor","statewide",19,"Republican","Chris Sununu",16
+"NH","Millsfield","33007","3300748260","Governor","statewide",19,"Libertarian","Jilletta Jarvis",0
+"NH","Millsfield","33007","3300748260","Governor","statewide",19,"Democrat","Molly Kelly",3
+"NH","Milton","33017","3301748660","Governor","statewide",1729,"Republican","Chris Sununu",1143
+"NH","Milton","33017","3301748660","Governor","statewide",1729,"Libertarian","Jilletta Jarvis",30
+"NH","Milton","33017","3301748660","Governor","statewide",1729,"Democrat","Molly Kelly",556
+"NH","Monroe","33009","3300948980","Governor","statewide",399,"Republican","Chris Sununu",254
+"NH","Monroe","33009","3300948980","Governor","statewide",399,"Libertarian","Jilletta Jarvis",6
+"NH","Monroe","33009","3300948980","Governor","statewide",399,"Democrat","Molly Kelly",139
+"NH","Mont Vernon","33011","3301149140","Governor","statewide",1325,"Republican","Chris Sununu",669
+"NH","Mont Vernon","33011","3301149140","Governor","statewide",1325,"Libertarian","Jilletta Jarvis",16
+"NH","Mont Vernon","33011","3301149140","Governor","statewide",1325,"Democrat","Molly Kelly",640
+"NH","Moultonborough","33003","3300349380","Governor","statewide",2644,"Republican","Chris Sununu",1764
+"NH","Moultonborough","33003","3300349380","Governor","statewide",2644,"Libertarian","Jilletta Jarvis",20
+"NH","Moultonborough","33003","3300349380","Governor","statewide",2644,"Democrat","Molly Kelly",860
+"NH","Nashua","33011","3301150260","Governor","statewide",31398,"Republican","Chris Sununu",14847
+"NH","Nashua","33011","3301150260","Governor","statewide",31398,"Libertarian","Jilletta Jarvis",458
+"NH","Nashua","33011","3301150260","Governor","statewide",31398,"Democrat","Molly Kelly",16093
+"NH","Nelson","33005","3300550580","Governor","statewide",360,"Republican","Chris Sununu",117
+"NH","Nelson","33005","3300550580","Governor","statewide",360,"Libertarian","Jilletta Jarvis",6
+"NH","Nelson","33005","3300550580","Governor","statewide",360,"Democrat","Molly Kelly",237
+"NH","New Boston","33011","3301150740","Governor","statewide",2861,"Republican","Chris Sununu",1722
+"NH","New Boston","33011","3301150740","Governor","statewide",2861,"Libertarian","Jilletta Jarvis",30
+"NH","New Boston","33011","3301150740","Governor","statewide",2861,"Democrat","Molly Kelly",1109
+"NH","New Castle","33015","3301550980","Governor","statewide",740,"Republican","Chris Sununu",380
+"NH","New Castle","33015","3301550980","Governor","statewide",740,"Libertarian","Jilletta Jarvis",5
+"NH","New Castle","33015","3301550980","Governor","statewide",740,"Democrat","Molly Kelly",355
+"NH","New Durham","33017","3301751220","Governor","statewide",1332,"Republican","Chris Sununu",855
+"NH","New Durham","33017","3301751220","Governor","statewide",1332,"Libertarian","Jilletta Jarvis",22
+"NH","New Durham","33017","3301751220","Governor","statewide",1332,"Democrat","Molly Kelly",455
+"NH","New Hampton","33001","3300151540","Governor","statewide",1128,"Republican","Chris Sununu",653
+"NH","New Hampton","33001","3300151540","Governor","statewide",1128,"Libertarian","Jilletta Jarvis",22
+"NH","New Hampton","33001","3300151540","Governor","statewide",1128,"Democrat","Molly Kelly",453
+"NH","New Ipswich","33011","3301151940","Governor","statewide",2180,"Republican","Chris Sununu",1542
+"NH","New Ipswich","33011","3301151940","Governor","statewide",2180,"Libertarian","Jilletta Jarvis",24
+"NH","New Ipswich","33011","3301151940","Governor","statewide",2180,"Democrat","Molly Kelly",614
+"NH","New London","33013","3301352100","Governor","statewide",2578,"Republican","Chris Sununu",1189
+"NH","New London","33013","3301352100","Governor","statewide",2578,"Libertarian","Jilletta Jarvis",25
+"NH","New London","33013","3301352100","Governor","statewide",2578,"Democrat","Molly Kelly",1364
+"NH","Newbury","33013","3301350900","Governor","statewide",1190,"Republican","Chris Sununu",680
+"NH","Newbury","33013","3301350900","Governor","statewide",1190,"Libertarian","Jilletta Jarvis",16
+"NH","Newbury","33013","3301350900","Governor","statewide",1190,"Democrat","Molly Kelly",494
+"NH","Newfields","33015","3301551380","Governor","statewide",1020,"Republican","Chris Sununu",586
+"NH","Newfields","33015","3301551380","Governor","statewide",1020,"Libertarian","Jilletta Jarvis",12
+"NH","Newfields","33015","3301551380","Governor","statewide",1020,"Democrat","Molly Kelly",422
+"NH","Newington","33015","3301551620","Governor","statewide",520,"Republican","Chris Sununu",305
+"NH","Newington","33015","3301551620","Governor","statewide",520,"Libertarian","Jilletta Jarvis",6
+"NH","Newington","33015","3301551620","Governor","statewide",520,"Democrat","Molly Kelly",209
+"NH","Newmarket","33015","3301552340","Governor","statewide",4454,"Republican","Chris Sununu",1821
+"NH","Newmarket","33015","3301552340","Governor","statewide",4454,"Libertarian","Jilletta Jarvis",61
+"NH","Newmarket","33015","3301552340","Governor","statewide",4454,"Democrat","Molly Kelly",2572
+"NH","Newport","33019","3301952580","Governor","statewide",2080,"Republican","Chris Sununu",1296
+"NH","Newport","33019","3301952580","Governor","statewide",2080,"Libertarian","Jilletta Jarvis",42
+"NH","Newport","33019","3301952580","Governor","statewide",2080,"Democrat","Molly Kelly",742
+"NH","Newton","33015","3301552900","Governor","statewide",2000,"Republican","Chris Sununu",1200
+"NH","Newton","33015","3301552900","Governor","statewide",2000,"Libertarian","Jilletta Jarvis",37
+"NH","Newton","33015","3301552900","Governor","statewide",2000,"Democrat","Molly Kelly",763
+"NH","North Hampton","33015","3301554580","Governor","statewide",2630,"Republican","Chris Sununu",1422
+"NH","North Hampton","33015","3301554580","Governor","statewide",2630,"Libertarian","Jilletta Jarvis",18
+"NH","North Hampton","33015","3301554580","Governor","statewide",2630,"Democrat","Molly Kelly",1190
+"NH","Northfield","33013","3301354260","Governor","statewide",1715,"Republican","Chris Sununu",1020
+"NH","Northfield","33013","3301354260","Governor","statewide",1715,"Libertarian","Jilletta Jarvis",40
+"NH","Northfield","33013","3301354260","Governor","statewide",1715,"Democrat","Molly Kelly",655
+"NH","Northumberland","33007","3300756100","Governor","statewide",684,"Republican","Chris Sununu",405
+"NH","Northumberland","33007","3300756100","Governor","statewide",684,"Libertarian","Jilletta Jarvis",9
+"NH","Northumberland","33007","3300756100","Governor","statewide",684,"Democrat","Molly Kelly",270
+"NH","Northwood","33015","3301556820","Governor","statewide",2017,"Republican","Chris Sununu",1182
+"NH","Northwood","33015","3301556820","Governor","statewide",2017,"Libertarian","Jilletta Jarvis",30
+"NH","Northwood","33015","3301556820","Governor","statewide",2017,"Democrat","Molly Kelly",805
+"NH","Nottingham","33015","3301557460","Governor","statewide",2485,"Republican","Chris Sununu",1383
+"NH","Nottingham","33015","3301557460","Governor","statewide",2485,"Libertarian","Jilletta Jarvis",36
+"NH","Nottingham","33015","3301557460","Governor","statewide",2485,"Democrat","Molly Kelly",1066
+"NH","Orange","33009","3300958340","Governor","statewide",142,"Republican","Chris Sununu",75
+"NH","Orange","33009","3300958340","Governor","statewide",142,"Libertarian","Jilletta Jarvis",2
+"NH","Orange","33009","3300958340","Governor","statewide",142,"Democrat","Molly Kelly",65
+"NH","Orford","33009","3300958500","Governor","statewide",593,"Republican","Chris Sununu",224
+"NH","Orford","33009","3300958500","Governor","statewide",593,"Libertarian","Jilletta Jarvis",4
+"NH","Orford","33009","3300958500","Governor","statewide",593,"Democrat","Molly Kelly",365
+"NH","Ossipee","33003","3300358740","Governor","statewide",1628,"Republican","Chris Sununu",1059
+"NH","Ossipee","33003","3300358740","Governor","statewide",1628,"Libertarian","Jilletta Jarvis",17
+"NH","Ossipee","33003","3300358740","Governor","statewide",1628,"Democrat","Molly Kelly",552
+"NH","Pelham","33011","3301159940","Governor","statewide",5556,"Republican","Chris Sununu",3563
+"NH","Pelham","33011","3301159940","Governor","statewide",5556,"Libertarian","Jilletta Jarvis",96
+"NH","Pelham","33011","3301159940","Governor","statewide",5556,"Democrat","Molly Kelly",1897
+"NH","Pembroke","33013","3301360020","Governor","statewide",2921,"Republican","Chris Sununu",1582
+"NH","Pembroke","33013","3301360020","Governor","statewide",2921,"Libertarian","Jilletta Jarvis",35
+"NH","Pembroke","33013","3301360020","Governor","statewide",2921,"Democrat","Molly Kelly",1304
+"NH","Peterborough","33011","3301160580","Governor","statewide",3389,"Republican","Chris Sununu",1168
+"NH","Peterborough","33011","3301160580","Governor","statewide",3389,"Libertarian","Jilletta Jarvis",54
+"NH","Peterborough","33011","3301160580","Governor","statewide",3389,"Democrat","Molly Kelly",2167
+"NH","Piermont","33009","3300961060","Governor","statewide",340,"Republican","Chris Sununu",171
+"NH","Piermont","33009","3300961060","Governor","statewide",340,"Libertarian","Jilletta Jarvis",4
+"NH","Piermont","33009","3300961060","Governor","statewide",340,"Democrat","Molly Kelly",165
+"NH","Pinkham's Grant",NA,NA,"Governor","statewide",1,"Republican","Chris Sununu",0
+"NH","Pinkham's Grant",NA,NA,"Governor","statewide",1,"Libertarian","Jilletta Jarvis",0
+"NH","Pinkham's Grant",NA,NA,"Governor","statewide",1,"Democrat","Molly Kelly",1
+"NH","Pittsburg","33007","3300761780","Governor","statewide",383,"Republican","Chris Sununu",306
+"NH","Pittsburg","33007","3300761780","Governor","statewide",383,"Libertarian","Jilletta Jarvis",4
+"NH","Pittsburg","33007","3300761780","Governor","statewide",383,"Democrat","Molly Kelly",73
+"NH","Pittsfield","33013","3301361940","Governor","statewide",1411,"Republican","Chris Sununu",888
+"NH","Pittsfield","33013","3301361940","Governor","statewide",1411,"Libertarian","Jilletta Jarvis",43
+"NH","Pittsfield","33013","3301361940","Governor","statewide",1411,"Democrat","Molly Kelly",480
+"NH","Plainfield","33019","3301962340","Governor","statewide",1273,"Republican","Chris Sununu",478
+"NH","Plainfield","33019","3301962340","Governor","statewide",1273,"Libertarian","Jilletta Jarvis",18
+"NH","Plainfield","33019","3301962340","Governor","statewide",1273,"Democrat","Molly Kelly",777
+"NH","Plaistow","33015","3301562500","Governor","statewide",3096,"Republican","Chris Sununu",1872
+"NH","Plaistow","33015","3301562500","Governor","statewide",3096,"Libertarian","Jilletta Jarvis",53
+"NH","Plaistow","33015","3301562500","Governor","statewide",3096,"Democrat","Molly Kelly",1171
+"NH","Plymouth","33009","3300962660","Governor","statewide",2571,"Republican","Chris Sununu",829
+"NH","Plymouth","33009","3300962660","Governor","statewide",2571,"Libertarian","Jilletta Jarvis",70
+"NH","Plymouth","33009","3300962660","Governor","statewide",2571,"Democrat","Molly Kelly",1672
+"NH","Portsmouth","33015","3301562900","Governor","statewide",11203,"Republican","Chris Sununu",3864
+"NH","Portsmouth","33015","3301562900","Governor","statewide",11203,"Libertarian","Jilletta Jarvis",113
+"NH","Portsmouth","33015","3301562900","Governor","statewide",11203,"Democrat","Molly Kelly",7226
+"NH","Randolph","33007","3300763860","Governor","statewide",218,"Republican","Chris Sununu",72
+"NH","Randolph","33007","3300763860","Governor","statewide",218,"Libertarian","Jilletta Jarvis",2
+"NH","Randolph","33007","3300763860","Governor","statewide",218,"Democrat","Molly Kelly",144
+"NH","Raymond","33015","3301564020","Governor","statewide",3888,"Republican","Chris Sununu",2514
+"NH","Raymond","33015","3301564020","Governor","statewide",3888,"Libertarian","Jilletta Jarvis",56
+"NH","Raymond","33015","3301564020","Governor","statewide",3888,"Democrat","Molly Kelly",1318
+"NH","Richmond","33005","3300564420","Governor","statewide",518,"Republican","Chris Sununu",293
+"NH","Richmond","33005","3300564420","Governor","statewide",518,"Libertarian","Jilletta Jarvis",8
+"NH","Richmond","33005","3300564420","Governor","statewide",518,"Democrat","Molly Kelly",217
+"NH","Rindge","33005","3300564580","Governor","statewide",2555,"Republican","Chris Sununu",1579
+"NH","Rindge","33005","3300564580","Governor","statewide",2555,"Libertarian","Jilletta Jarvis",45
+"NH","Rindge","33005","3300564580","Governor","statewide",2555,"Democrat","Molly Kelly",931
+"NH","Rochester","33017","3301765140","Governor","statewide",11567,"Republican","Chris Sununu",6799
+"NH","Rochester","33017","3301765140","Governor","statewide",11567,"Libertarian","Jilletta Jarvis",208
+"NH","Rochester","33017","3301765140","Governor","statewide",11567,"Democrat","Molly Kelly",4560
+"NH","Rollinsford","33017","3301765540","Governor","statewide",1272,"Republican","Chris Sununu",644
+"NH","Rollinsford","33017","3301765540","Governor","statewide",1272,"Libertarian","Jilletta Jarvis",23
+"NH","Rollinsford","33017","3301765540","Governor","statewide",1272,"Democrat","Molly Kelly",605
+"NH","Roxbury","33005","3300565700","Governor","statewide",114,"Republican","Chris Sununu",36
+"NH","Roxbury","33005","3300565700","Governor","statewide",114,"Libertarian","Jilletta Jarvis",2
+"NH","Roxbury","33005","3300565700","Governor","statewide",114,"Democrat","Molly Kelly",76
+"NH","Rumney","33009","3300965940","Governor","statewide",721,"Republican","Chris Sununu",433
+"NH","Rumney","33009","3300965940","Governor","statewide",721,"Libertarian","Jilletta Jarvis",10
+"NH","Rumney","33009","3300965940","Governor","statewide",721,"Democrat","Molly Kelly",278
+"NH","Rye","33015","3301566180","Governor","statewide",3556,"Republican","Chris Sununu",1816
+"NH","Rye","33015","3301566180","Governor","statewide",3556,"Libertarian","Jilletta Jarvis",26
+"NH","Rye","33015","3301566180","Governor","statewide",3556,"Democrat","Molly Kelly",1714
+"NH","Salem","33015","3301566660","Governor","statewide",11463,"Republican","Chris Sununu",7293
+"NH","Salem","33015","3301566660","Governor","statewide",11463,"Libertarian","Jilletta Jarvis",134
+"NH","Salem","33015","3301566660","Governor","statewide",11463,"Democrat","Molly Kelly",4036
+"NH","Salisbury","33013","3301366980","Governor","statewide",649,"Republican","Chris Sununu",400
+"NH","Salisbury","33013","3301366980","Governor","statewide",649,"Libertarian","Jilletta Jarvis",14
+"NH","Salisbury","33013","3301366980","Governor","statewide",649,"Democrat","Molly Kelly",235
+"NH","Sanbornton","33001","3300167300","Governor","statewide",1516,"Republican","Chris Sununu",915
+"NH","Sanbornton","33001","3300167300","Governor","statewide",1516,"Libertarian","Jilletta Jarvis",21
+"NH","Sanbornton","33001","3300167300","Governor","statewide",1516,"Democrat","Molly Kelly",580
+"NH","Sandown","33015","3301567620","Governor","statewide",2716,"Republican","Chris Sununu",1732
+"NH","Sandown","33015","3301567620","Governor","statewide",2716,"Libertarian","Jilletta Jarvis",56
+"NH","Sandown","33015","3301567620","Governor","statewide",2716,"Democrat","Molly Kelly",928
+"NH","Sandwich","33003","3300367780","Governor","statewide",919,"Republican","Chris Sununu",391
+"NH","Sandwich","33003","3300367780","Governor","statewide",919,"Libertarian","Jilletta Jarvis",5
+"NH","Sandwich","33003","3300367780","Governor","statewide",919,"Democrat","Molly Kelly",523
+"NH","Seabrook","33015","3301568260","Governor","statewide",3141,"Republican","Chris Sununu",1993
+"NH","Seabrook","33015","3301568260","Governor","statewide",3141,"Libertarian","Jilletta Jarvis",34
+"NH","Seabrook","33015","3301568260","Governor","statewide",3141,"Democrat","Molly Kelly",1114
+"NH","Sharon","33011","3301168820","Governor","statewide",224,"Republican","Chris Sununu",108
+"NH","Sharon","33011","3301168820","Governor","statewide",224,"Libertarian","Jilletta Jarvis",1
+"NH","Sharon","33011","3301168820","Governor","statewide",224,"Democrat","Molly Kelly",115
+"NH","Shelburne","33007","3300768980","Governor","statewide",210,"Republican","Chris Sununu",112
+"NH","Shelburne","33007","3300768980","Governor","statewide",210,"Libertarian","Jilletta Jarvis",3
+"NH","Shelburne","33007","3300768980","Governor","statewide",210,"Democrat","Molly Kelly",95
+"NH","Somersworth","33017","3301769940","Governor","statewide",4067,"Republican","Chris Sununu",2069
+"NH","Somersworth","33017","3301769940","Governor","statewide",4067,"Libertarian","Jilletta Jarvis",69
+"NH","Somersworth","33017","3301769940","Governor","statewide",4067,"Democrat","Molly Kelly",1929
+"NH","South Hampton","33015","3301571140","Governor","statewide",473,"Republican","Chris Sununu",264
+"NH","South Hampton","33015","3301571140","Governor","statewide",473,"Libertarian","Jilletta Jarvis",5
+"NH","South Hampton","33015","3301571140","Governor","statewide",473,"Democrat","Molly Kelly",204
+"NH","Springfield","33019","3301972740","Governor","statewide",671,"Republican","Chris Sununu",392
+"NH","Springfield","33019","3301972740","Governor","statewide",671,"Libertarian","Jilletta Jarvis",16
+"NH","Springfield","33019","3301972740","Governor","statewide",671,"Democrat","Molly Kelly",263
+"NH","Stark","33007","3300773060","Governor","statewide",224,"Republican","Chris Sununu",143
+"NH","Stark","33007","3300773060","Governor","statewide",224,"Libertarian","Jilletta Jarvis",1
+"NH","Stark","33007","3300773060","Governor","statewide",224,"Democrat","Molly Kelly",80
+"NH","Stewartstown","33007","3300773380","Governor","statewide",256,"Republican","Chris Sununu",166
+"NH","Stewartstown","33007","3300773380","Governor","statewide",256,"Libertarian","Jilletta Jarvis",8
+"NH","Stewartstown","33007","3300773380","Governor","statewide",256,"Democrat","Molly Kelly",82
+"NH","Stoddard","33005","3300573700","Governor","statewide",618,"Republican","Chris Sununu",325
+"NH","Stoddard","33005","3300573700","Governor","statewide",618,"Libertarian","Jilletta Jarvis",15
+"NH","Stoddard","33005","3300573700","Governor","statewide",618,"Democrat","Molly Kelly",278
+"NH","Strafford","33017","3301773860","Governor","statewide",2070,"Republican","Chris Sununu",1207
+"NH","Strafford","33017","3301773860","Governor","statewide",2070,"Libertarian","Jilletta Jarvis",21
+"NH","Strafford","33017","3301773860","Governor","statewide",2070,"Democrat","Molly Kelly",842
+"NH","Stratford","33007","3300774180","Governor","statewide",206,"Republican","Chris Sununu",92
+"NH","Stratford","33007","3300774180","Governor","statewide",206,"Libertarian","Jilletta Jarvis",5
+"NH","Stratford","33007","3300774180","Governor","statewide",206,"Democrat","Molly Kelly",109
+"NH","Stratham","33015","3301574340","Governor","statewide",4246,"Republican","Chris Sununu",2226
+"NH","Stratham","33015","3301574340","Governor","statewide",4246,"Libertarian","Jilletta Jarvis",33
+"NH","Stratham","33015","3301574340","Governor","statewide",4246,"Democrat","Molly Kelly",1987
+"NH","Sugar Hill","33009","3300974740","Governor","statewide",377,"Republican","Chris Sununu",138
+"NH","Sugar Hill","33009","3300974740","Governor","statewide",377,"Libertarian","Jilletta Jarvis",3
+"NH","Sugar Hill","33009","3300974740","Governor","statewide",377,"Democrat","Molly Kelly",236
+"NH","Sullivan","33005","3300574900","Governor","statewide",315,"Republican","Chris Sununu",153
+"NH","Sullivan","33005","3300574900","Governor","statewide",315,"Libertarian","Jilletta Jarvis",7
+"NH","Sullivan","33005","3300574900","Governor","statewide",315,"Democrat","Molly Kelly",155
+"NH","Sunapee","33019","3301975060","Governor","statewide",1827,"Republican","Chris Sununu",1093
+"NH","Sunapee","33019","3301975060","Governor","statewide",1827,"Libertarian","Jilletta Jarvis",22
+"NH","Sunapee","33019","3301975060","Governor","statewide",1827,"Democrat","Molly Kelly",712
+"NH","Surry","33005","3300575300","Governor","statewide",397,"Republican","Chris Sununu",194
+"NH","Surry","33005","3300575300","Governor","statewide",397,"Libertarian","Jilletta Jarvis",6
+"NH","Surry","33005","3300575300","Governor","statewide",397,"Democrat","Molly Kelly",197
+"NH","Sutton","33013","3301375460","Governor","statewide",1017,"Republican","Chris Sununu",510
+"NH","Sutton","33013","3301375460","Governor","statewide",1017,"Libertarian","Jilletta Jarvis",10
+"NH","Sutton","33013","3301375460","Governor","statewide",1017,"Democrat","Molly Kelly",497
+"NH","Swanzey","33005","3300575700","Governor","statewide",2919,"Republican","Chris Sununu",1484
+"NH","Swanzey","33005","3300575700","Governor","statewide",2919,"Libertarian","Jilletta Jarvis",42
+"NH","Swanzey","33005","3300575700","Governor","statewide",2919,"Democrat","Molly Kelly",1393
+"NH","Tamworth","33003","3300376100","Governor","statewide",1320,"Republican","Chris Sununu",676
+"NH","Tamworth","33003","3300376100","Governor","statewide",1320,"Libertarian","Jilletta Jarvis",25
+"NH","Tamworth","33003","3300376100","Governor","statewide",1320,"Democrat","Molly Kelly",619
+"NH","Temple","33011","3301176260","Governor","statewide",748,"Republican","Chris Sununu",366
+"NH","Temple","33011","3301176260","Governor","statewide",748,"Libertarian","Jilletta Jarvis",17
+"NH","Temple","33011","3301176260","Governor","statewide",748,"Democrat","Molly Kelly",365
+"NH","Thornton","33009","3300976740","Governor","statewide",1130,"Republican","Chris Sununu",537
+"NH","Thornton","33009","3300976740","Governor","statewide",1130,"Libertarian","Jilletta Jarvis",26
+"NH","Thornton","33009","3300976740","Governor","statewide",1130,"Democrat","Molly Kelly",567
+"NH","Tilton","33001","3300177060","Governor","statewide",1361,"Republican","Chris Sununu",800
+"NH","Tilton","33001","3300177060","Governor","statewide",1361,"Libertarian","Jilletta Jarvis",21
+"NH","Tilton","33001","3300177060","Governor","statewide",1361,"Democrat","Molly Kelly",540
+"NH","Troy","33005","3300577380","Governor","statewide",735,"Republican","Chris Sununu",389
+"NH","Troy","33005","3300577380","Governor","statewide",735,"Libertarian","Jilletta Jarvis",17
+"NH","Troy","33005","3300577380","Governor","statewide",735,"Democrat","Molly Kelly",329
+"NH","Tuftonboro","33003","3300377620","Governor","statewide",1436,"Republican","Chris Sununu",898
+"NH","Tuftonboro","33003","3300377620","Governor","statewide",1436,"Libertarian","Jilletta Jarvis",11
+"NH","Tuftonboro","33003","3300377620","Governor","statewide",1436,"Democrat","Molly Kelly",527
+"NH","Unity","33019","3301977940","Governor","statewide",591,"Republican","Chris Sununu",389
+"NH","Unity","33019","3301977940","Governor","statewide",591,"Libertarian","Jilletta Jarvis",12
+"NH","Unity","33019","3301977940","Governor","statewide",591,"Democrat","Molly Kelly",190
+"NH","Wakefield","33003","3300378180","Governor","statewide",2052,"Republican","Chris Sununu",1387
+"NH","Wakefield","33003","3300378180","Governor","statewide",2052,"Libertarian","Jilletta Jarvis",27
+"NH","Wakefield","33003","3300378180","Governor","statewide",2052,"Democrat","Molly Kelly",638
+"NH","Walpole","33005","3300578420","Governor","statewide",1762,"Republican","Chris Sununu",738
+"NH","Walpole","33005","3300578420","Governor","statewide",1762,"Libertarian","Jilletta Jarvis",23
+"NH","Walpole","33005","3300578420","Governor","statewide",1762,"Democrat","Molly Kelly",1001
+"NH","Warner","33013","3301378580","Governor","statewide",1496,"Republican","Chris Sununu",740
+"NH","Warner","33013","3301378580","Governor","statewide",1496,"Libertarian","Jilletta Jarvis",19
+"NH","Warner","33013","3301378580","Governor","statewide",1496,"Democrat","Molly Kelly",737
+"NH","Warren","33009","3300978740","Governor","statewide",347,"Republican","Chris Sununu",191
+"NH","Warren","33009","3300978740","Governor","statewide",347,"Libertarian","Jilletta Jarvis",11
+"NH","Warren","33009","3300978740","Governor","statewide",347,"Democrat","Molly Kelly",145
+"NH","Washington","33019","3301978980","Governor","statewide",536,"Republican","Chris Sununu",338
+"NH","Washington","33019","3301978980","Governor","statewide",536,"Libertarian","Jilletta Jarvis",4
+"NH","Washington","33019","3301978980","Governor","statewide",536,"Democrat","Molly Kelly",194
+"NH","Waterville","33009","3300979380","Governor","statewide",226,"Republican","Chris Sununu",119
+"NH","Waterville","33009","3300979380","Governor","statewide",226,"Libertarian","Jilletta Jarvis",2
+"NH","Waterville","33009","3300979380","Governor","statewide",226,"Democrat","Molly Kelly",105
+"NH","Weare","33011","3301179780","Governor","statewide",3711,"Republican","Chris Sununu",2366
+"NH","Weare","33011","3301179780","Governor","statewide",3711,"Libertarian","Jilletta Jarvis",79
+"NH","Weare","33011","3301179780","Governor","statewide",3711,"Democrat","Molly Kelly",1266
+"NH","Webster","33013","3301380020","Governor","statewide",871,"Republican","Chris Sununu",493
+"NH","Webster","33013","3301380020","Governor","statewide",871,"Libertarian","Jilletta Jarvis",17
+"NH","Webster","33013","3301380020","Governor","statewide",871,"Democrat","Molly Kelly",361
+"NH","Wentworth","33009","3300980500","Governor","statewide",395,"Republican","Chris Sununu",260
+"NH","Wentworth","33009","3300980500","Governor","statewide",395,"Libertarian","Jilletta Jarvis",5
+"NH","Wentworth","33009","3300980500","Governor","statewide",395,"Democrat","Molly Kelly",130
+"NH","Wentworth's Location","33007","3300780740","Governor","statewide",16,"Republican","Chris Sununu",10
+"NH","Wentworth's Location","33007","3300780740","Governor","statewide",16,"Libertarian","Jilletta Jarvis",0
+"NH","Wentworth's Location","33007","3300780740","Governor","statewide",16,"Democrat","Molly Kelly",6
+"NH","Westmoreland","33005","3300582660","Governor","statewide",876,"Republican","Chris Sununu",372
+"NH","Westmoreland","33005","3300582660","Governor","statewide",876,"Libertarian","Jilletta Jarvis",9
+"NH","Westmoreland","33005","3300582660","Governor","statewide",876,"Democrat","Molly Kelly",495
+"NH","Whitefield","33007","3300784420","Governor","statewide",896,"Republican","Chris Sununu",467
+"NH","Whitefield","33007","3300784420","Governor","statewide",896,"Libertarian","Jilletta Jarvis",26
+"NH","Whitefield","33007","3300784420","Governor","statewide",896,"Democrat","Molly Kelly",403
+"NH","Wilmot","33013","3301384900","Governor","statewide",758,"Republican","Chris Sununu",364
+"NH","Wilmot","33013","3301384900","Governor","statewide",758,"Libertarian","Jilletta Jarvis",14
+"NH","Wilmot","33013","3301384900","Governor","statewide",758,"Democrat","Molly Kelly",380
+"NH","Wilton","33011","3301185220","Governor","statewide",1804,"Republican","Chris Sununu",950
+"NH","Wilton","33011","3301185220","Governor","statewide",1804,"Libertarian","Jilletta Jarvis",30
+"NH","Wilton","33011","3301185220","Governor","statewide",1804,"Democrat","Molly Kelly",824
+"NH","Winchester","33005","3300585540","Governor","statewide",1340,"Republican","Chris Sununu",618
+"NH","Winchester","33005","3300585540","Governor","statewide",1340,"Libertarian","Jilletta Jarvis",37
+"NH","Winchester","33005","3300585540","Governor","statewide",1340,"Democrat","Molly Kelly",685
+"NH","Windham","33015","3301585780","Governor","statewide",6672,"Republican","Chris Sununu",4218
+"NH","Windham","33015","3301585780","Governor","statewide",6672,"Libertarian","Jilletta Jarvis",70
+"NH","Windham","33015","3301585780","Governor","statewide",6672,"Democrat","Molly Kelly",2384
+"NH","Windsor","33011","3301185940","Governor","statewide",98,"Republican","Chris Sununu",77
+"NH","Windsor","33011","3301185940","Governor","statewide",98,"Libertarian","Jilletta Jarvis",2
+"NH","Windsor","33011","3301185940","Governor","statewide",98,"Democrat","Molly Kelly",19
+"NH","Wolfeboro","33003","3300386420","Governor","statewide",3668,"Republican","Chris Sununu",2125
+"NH","Wolfeboro","33003","3300386420","Governor","statewide",3668,"Libertarian","Jilletta Jarvis",28
+"NH","Wolfeboro","33003","3300386420","Governor","statewide",3668,"Democrat","Molly Kelly",1515
+"NH","Woodstock","33009","3300987060","Governor","statewide",617,"Republican","Chris Sununu",324
+"NH","Woodstock","33009","3300987060","Governor","statewide",617,"Libertarian","Jilletta Jarvis",12
+"NH","Woodstock","33009","3300987060","Governor","statewide",617,"Democrat","Molly Kelly",281
+"NH","Albany","33003","3300300420","US House","1",330,"Democrat","Chris Pappas",201
+"NH","Albany","33003","3300300420","US House","1",330,"Libertarian","Dan Belforti",3
+"NH","Albany","33003","3300300420","US House","1",330,"Republican","Eddie Edwards",126
+"NH","Alton","33001","3300101060","US House","1",2701,"Democrat","Chris Pappas",976
+"NH","Alton","33001","3300101060","US House","1",2701,"Libertarian","Dan Belforti",26
+"NH","Alton","33001","3300101060","US House","1",2701,"Republican","Eddie Edwards",1699
+"NH","Auburn","33015","3301502820","US House","1",2858,"Democrat","Chris Pappas",1205
+"NH","Auburn","33015","3301502820","US House","1",2858,"Libertarian","Dan Belforti",35
+"NH","Auburn","33015","3301502820","US House","1",2858,"Republican","Eddie Edwards",1618
+"NH","Barnstead","33001","3300103220","US House","1",1980,"Democrat","Chris Pappas",832
+"NH","Barnstead","33001","3300103220","US House","1",1980,"Libertarian","Dan Belforti",48
+"NH","Barnstead","33001","3300103220","US House","1",1980,"Republican","Eddie Edwards",1100
+"NH","Barrington","33017","3301703460","US House","1",4322,"Democrat","Chris Pappas",2266
+"NH","Barrington","33017","3301703460","US House","1",4322,"Libertarian","Dan Belforti",79
+"NH","Barrington","33017","3301703460","US House","1",4322,"Republican","Eddie Edwards",1977
+"NH","Bartlett","33003","3300303700","US House","1",1701,"Democrat","Chris Pappas",1046
+"NH","Bartlett","33003","3300303700","US House","1",1701,"Libertarian","Dan Belforti",17
+"NH","Bartlett","33003","3300303700","US House","1",1701,"Republican","Eddie Edwards",638
+"NH","Bedford","33011","3301104500","US House","1",10935,"Democrat","Chris Pappas",5462
+"NH","Bedford","33011","3301104500","US House","1",10935,"Libertarian","Dan Belforti",83
+"NH","Bedford","33011","3301104500","US House","1",10935,"Republican","Eddie Edwards",5390
+"NH","Belmont","33001","3300104740","US House","1",2691,"Democrat","Chris Pappas",1156
+"NH","Belmont","33001","3300104740","US House","1",2691,"Libertarian","Dan Belforti",38
+"NH","Belmont","33001","3300104740","US House","1",2691,"Republican","Eddie Edwards",1497
+"NH","Brentwood","33015","3301507220","US House","1",2126,"Democrat","Chris Pappas",1055
+"NH","Brentwood","33015","3301507220","US House","1",2126,"Libertarian","Dan Belforti",35
+"NH","Brentwood","33015","3301507220","US House","1",2126,"Republican","Eddie Edwards",1036
+"NH","Brookfield","33003","3300307940","US House","1",390,"Democrat","Chris Pappas",164
+"NH","Brookfield","33003","3300307940","US House","1",390,"Libertarian","Dan Belforti",11
+"NH","Brookfield","33003","3300307940","US House","1",390,"Republican","Eddie Edwards",215
+"NH","Campton","33009","3300908660","US House","1",1560,"Democrat","Chris Pappas",848
+"NH","Campton","33009","3300908660","US House","1",1560,"Libertarian","Dan Belforti",33
+"NH","Campton","33009","3300908660","US House","1",1560,"Republican","Eddie Edwards",679
+"NH","Candia","33015","3301509300","US House","1",2037,"Democrat","Chris Pappas",815
+"NH","Candia","33015","3301509300","US House","1",2037,"Libertarian","Dan Belforti",23
+"NH","Candia","33015","3301509300","US House","1",2037,"Republican","Eddie Edwards",1199
+"NH","Chatham","33003","3300311780","US House","1",161,"Democrat","Chris Pappas",73
+"NH","Chatham","33003","3300311780","US House","1",161,"Libertarian","Dan Belforti",2
+"NH","Chatham","33003","3300311780","US House","1",161,"Republican","Eddie Edwards",86
+"NH","Chester","33015","3301512100","US House","1",2373,"Democrat","Chris Pappas",1015
+"NH","Chester","33015","3301512100","US House","1",2373,"Libertarian","Dan Belforti",27
+"NH","Chester","33015","3301512100","US House","1",2373,"Republican","Eddie Edwards",1331
+"NH","Conway","33003","3300314660","US House","1",4022,"Democrat","Chris Pappas",2433
+"NH","Conway","33003","3300314660","US House","1",4022,"Libertarian","Dan Belforti",52
+"NH","Conway","33003","3300314660","US House","1",4022,"Republican","Eddie Edwards",1537
+"NH","Danville","33015","3301517140","US House","1",1841,"Democrat","Chris Pappas",777
+"NH","Danville","33015","3301517140","US House","1",1841,"Libertarian","Dan Belforti",29
+"NH","Danville","33015","3301517140","US House","1",1841,"Republican","Eddie Edwards",1035
+"NH","Derry","33015","3301517940","US House","1",11380,"Democrat","Chris Pappas",5507
+"NH","Derry","33015","3301517940","US House","1",11380,"Libertarian","Dan Belforti",181
+"NH","Derry","33015","3301517940","US House","1",11380,"Republican","Eddie Edwards",5692
+"NH","Dover","33017","3301718820","US House","1",14073,"Democrat","Chris Pappas",9168
+"NH","Dover","33017","3301718820","US House","1",14073,"Libertarian","Dan Belforti",165
+"NH","Dover","33017","3301718820","US House","1",14073,"Republican","Eddie Edwards",4740
+"NH","Durham","33017","3301719700","US House","1",6572,"Democrat","Chris Pappas",5153
+"NH","Durham","33017","3301719700","US House","1",6572,"Libertarian","Dan Belforti",111
+"NH","Durham","33017","3301719700","US House","1",6572,"Republican","Eddie Edwards",1308
+"NH","East Kingston","33015","3301521380","US House","1",1300,"Democrat","Chris Pappas",579
+"NH","East Kingston","33015","3301521380","US House","1",1300,"Libertarian","Dan Belforti",20
+"NH","East Kingston","33015","3301521380","US House","1",1300,"Republican","Eddie Edwards",701
+"NH","Eaton","33003","3300323380","US House","1",254,"Democrat","Chris Pappas",150
+"NH","Eaton","33003","3300323380","US House","1",254,"Libertarian","Dan Belforti",2
+"NH","Eaton","33003","3300323380","US House","1",254,"Republican","Eddie Edwards",102
+"NH","Effingham","33003","3300323620","US House","1",619,"Democrat","Chris Pappas",284
+"NH","Effingham","33003","3300323620","US House","1",619,"Libertarian","Dan Belforti",8
+"NH","Effingham","33003","3300323620","US House","1",619,"Republican","Eddie Edwards",327
+"NH","Epping","33015","3301524660","US House","1",3127,"Democrat","Chris Pappas",1519
+"NH","Epping","33015","3301524660","US House","1",3127,"Libertarian","Dan Belforti",48
+"NH","Epping","33015","3301524660","US House","1",3127,"Republican","Eddie Edwards",1560
+"NH","Exeter","33015","3301525380","US House","1",7788,"Democrat","Chris Pappas",5102
+"NH","Exeter","33015","3301525380","US House","1",7788,"Libertarian","Dan Belforti",82
+"NH","Exeter","33015","3301525380","US House","1",7788,"Republican","Eddie Edwards",2604
+"NH","Farmington","33017","3301726020","US House","1",2237,"Democrat","Chris Pappas",965
+"NH","Farmington","33017","3301726020","US House","1",2237,"Libertarian","Dan Belforti",49
+"NH","Farmington","33017","3301726020","US House","1",2237,"Republican","Eddie Edwards",1223
+"NH","Freedom","33003","3300327700","US House","1",798,"Democrat","Chris Pappas",413
+"NH","Freedom","33003","3300327700","US House","1",798,"Libertarian","Dan Belforti",10
+"NH","Freedom","33003","3300327700","US House","1",798,"Republican","Eddie Edwards",375
+"NH","Fremont","33015","3301527940","US House","1",2050,"Democrat","Chris Pappas",856
+"NH","Fremont","33015","3301527940","US House","1",2050,"Libertarian","Dan Belforti",41
+"NH","Fremont","33015","3301527940","US House","1",2050,"Republican","Eddie Edwards",1153
+"NH","Gilford","33001","3300128740","US House","1",3715,"Democrat","Chris Pappas",1793
+"NH","Gilford","33001","3300128740","US House","1",3715,"Libertarian","Dan Belforti",44
+"NH","Gilford","33001","3300128740","US House","1",3715,"Republican","Eddie Edwards",1878
+"NH","Gilmanton","33001","3300128980","US House","1",1735,"Democrat","Chris Pappas",723
+"NH","Gilmanton","33001","3300128980","US House","1",1735,"Libertarian","Dan Belforti",31
+"NH","Gilmanton","33001","3300128980","US House","1",1735,"Republican","Eddie Edwards",981
+"NH","Goffstown","33011","3301129860","US House","1",7190,"Democrat","Chris Pappas",3745
+"NH","Goffstown","33011","3301129860","US House","1",7190,"Libertarian","Dan Belforti",116
+"NH","Goffstown","33011","3301129860","US House","1",7190,"Republican","Eddie Edwards",3329
+"NH","Greenland","33015","3301531700","US House","1",2341,"Democrat","Chris Pappas",1324
+"NH","Greenland","33015","3301531700","US House","1",2341,"Libertarian","Dan Belforti",38
+"NH","Greenland","33015","3301531700","US House","1",2341,"Republican","Eddie Edwards",979
+"NH","Hale's Location",NA,NA,"US House","1",114,"Democrat","Chris Pappas",29
+"NH","Hale's Location",NA,NA,"US House","1",114,"Libertarian","Dan Belforti",0
+"NH","Hale's Location",NA,NA,"US House","1",114,"Republican","Eddie Edwards",85
+"NH","Hampstead","33015","3301532900","US House","1",4133,"Democrat","Chris Pappas",1734
+"NH","Hampstead","33015","3301532900","US House","1",4133,"Libertarian","Dan Belforti",61
+"NH","Hampstead","33015","3301532900","US House","1",4133,"Republican","Eddie Edwards",2338
+"NH","Hampton","33015","3301533060","US House","1",8325,"Democrat","Chris Pappas",4452
+"NH","Hampton","33015","3301533060","US House","1",8325,"Libertarian","Dan Belforti",104
+"NH","Hampton","33015","3301533060","US House","1",8325,"Republican","Eddie Edwards",3769
+"NH","Hampton Falls","33015","3301533460","US House","1",1288,"Democrat","Chris Pappas",565
+"NH","Hampton Falls","33015","3301533460","US House","1",1288,"Libertarian","Dan Belforti",19
+"NH","Hampton Falls","33015","3301533460","US House","1",1288,"Republican","Eddie Edwards",704
+"NH","Harts Location","33003","3300334500","US House","1",33,"Democrat","Chris Pappas",21
+"NH","Harts Location","33003","3300334500","US House","1",33,"Libertarian","Dan Belforti",0
+"NH","Harts Location","33003","3300334500","US House","1",33,"Republican","Eddie Edwards",12
+"NH","Hooksett","33013","3301337300","US House","1",5945,"Democrat","Chris Pappas",3079
+"NH","Hooksett","33013","3301337300","US House","1",5945,"Libertarian","Dan Belforti",63
+"NH","Hooksett","33013","3301337300","US House","1",5945,"Republican","Eddie Edwards",2803
+"NH","Jackson","33003","3300338260","US House","1",628,"Democrat","Chris Pappas",434
+"NH","Jackson","33003","3300338260","US House","1",628,"Libertarian","Dan Belforti",2
+"NH","Jackson","33003","3300338260","US House","1",628,"Republican","Eddie Edwards",192
+"NH","Kensington","33015","3301539780","US House","1",1179,"Democrat","Chris Pappas",619
+"NH","Kensington","33015","3301539780","US House","1",1179,"Libertarian","Dan Belforti",18
+"NH","Kensington","33015","3301539780","US House","1",1179,"Republican","Eddie Edwards",542
+"NH","Kingston","33015","3301540100","US House","1",2816,"Democrat","Chris Pappas",1258
+"NH","Kingston","33015","3301540100","US House","1",2816,"Libertarian","Dan Belforti",39
+"NH","Kingston","33015","3301540100","US House","1",2816,"Republican","Eddie Edwards",1519
+"NH","Laconia","33001","3300140180","US House","1",6121,"Democrat","Chris Pappas",3049
+"NH","Laconia","33001","3300140180","US House","1",6121,"Libertarian","Dan Belforti",93
+"NH","Laconia","33001","3300140180","US House","1",6121,"Republican","Eddie Edwards",2979
+"NH","Lee","33017","3301741460","US House","1",2286,"Democrat","Chris Pappas",1548
+"NH","Lee","33017","3301741460","US House","1",2286,"Libertarian","Dan Belforti",29
+"NH","Lee","33017","3301741460","US House","1",2286,"Republican","Eddie Edwards",709
+"NH","Londonderry","33015","3301543220","US House","1",10738,"Democrat","Chris Pappas",5303
+"NH","Londonderry","33015","3301543220","US House","1",10738,"Libertarian","Dan Belforti",118
+"NH","Londonderry","33015","3301543220","US House","1",10738,"Republican","Eddie Edwards",5317
+"NH","Madbury","33017","3301744820","US House","1",1002,"Democrat","Chris Pappas",615
+"NH","Madbury","33017","3301744820","US House","1",1002,"Libertarian","Dan Belforti",14
+"NH","Madbury","33017","3301744820","US House","1",1002,"Republican","Eddie Edwards",373
+"NH","Madison","33003","3300345060","US House","1",1239,"Democrat","Chris Pappas",707
+"NH","Madison","33003","3300345060","US House","1",1239,"Libertarian","Dan Belforti",19
+"NH","Madison","33003","3300345060","US House","1",1239,"Republican","Eddie Edwards",513
+"NH","Manchester","33011","3301145140","US House","1",36906,"Democrat","Chris Pappas",22019
+"NH","Manchester","33011","3301145140","US House","1",36906,"Libertarian","Dan Belforti",590
+"NH","Manchester","33011","3301145140","US House","1",36906,"Republican","Eddie Edwards",14297
+"NH","Meredith","33001","3300147140","US House","1",3219,"Democrat","Chris Pappas",1514
+"NH","Meredith","33001","3300147140","US House","1",3219,"Libertarian","Dan Belforti",35
+"NH","Meredith","33001","3300147140","US House","1",3219,"Republican","Eddie Edwards",1670
+"NH","Merrimack","33011","3301147540","US House","1",11551,"Democrat","Chris Pappas",6008
+"NH","Merrimack","33011","3301147540","US House","1",11551,"Libertarian","Dan Belforti",160
+"NH","Merrimack","33011","3301147540","US House","1",11551,"Republican","Eddie Edwards",5383
+"NH","Middleton","33017","3301747700","US House","1",702,"Democrat","Chris Pappas",262
+"NH","Middleton","33017","3301747700","US House","1",702,"Libertarian","Dan Belforti",15
+"NH","Middleton","33017","3301747700","US House","1",702,"Republican","Eddie Edwards",425
+"NH","Milton","33017","3301748660","US House","1",1721,"Democrat","Chris Pappas",718
+"NH","Milton","33017","3301748660","US House","1",1721,"Libertarian","Dan Belforti",39
+"NH","Milton","33017","3301748660","US House","1",1721,"Republican","Eddie Edwards",964
+"NH","Moultonborough","33003","3300349380","US House","1",2640,"Democrat","Chris Pappas",1114
+"NH","Moultonborough","33003","3300349380","US House","1",2640,"Libertarian","Dan Belforti",22
+"NH","Moultonborough","33003","3300349380","US House","1",2640,"Republican","Eddie Edwards",1504
+"NH","New Castle","33015","3301550980","US House","1",729,"Democrat","Chris Pappas",440
+"NH","New Castle","33015","3301550980","US House","1",729,"Libertarian","Dan Belforti",5
+"NH","New Castle","33015","3301550980","US House","1",729,"Republican","Eddie Edwards",284
+"NH","New Durham","33017","3301751220","US House","1",1329,"Democrat","Chris Pappas",542
+"NH","New Durham","33017","3301751220","US House","1",1329,"Libertarian","Dan Belforti",19
+"NH","New Durham","33017","3301751220","US House","1",1329,"Republican","Eddie Edwards",768
+"NH","New Hampton","33001","3300151540","US House","1",1126,"Democrat","Chris Pappas",543
+"NH","New Hampton","33001","3300151540","US House","1",1126,"Libertarian","Dan Belforti",9
+"NH","New Hampton","33001","3300151540","US House","1",1126,"Republican","Eddie Edwards",574
+"NH","Newfields","33015","3301551380","US House","1",1015,"Democrat","Chris Pappas",560
+"NH","Newfields","33015","3301551380","US House","1",1015,"Libertarian","Dan Belforti",17
+"NH","Newfields","33015","3301551380","US House","1",1015,"Republican","Eddie Edwards",438
+"NH","Newington","33015","3301551620","US House","1",519,"Democrat","Chris Pappas",238
+"NH","Newington","33015","3301551620","US House","1",519,"Libertarian","Dan Belforti",8
+"NH","Newington","33015","3301551620","US House","1",519,"Republican","Eddie Edwards",273
+"NH","Newmarket","33015","3301552340","US House","1",4453,"Democrat","Chris Pappas",2964
+"NH","Newmarket","33015","3301552340","US House","1",4453,"Libertarian","Dan Belforti",71
+"NH","Newmarket","33015","3301552340","US House","1",4453,"Republican","Eddie Edwards",1418
+"NH","Newton","33015","3301552900","US House","1",1992,"Democrat","Chris Pappas",891
+"NH","Newton","33015","3301552900","US House","1",1992,"Libertarian","Dan Belforti",29
+"NH","Newton","33015","3301552900","US House","1",1992,"Republican","Eddie Edwards",1072
+"NH","North Hampton","33015","3301554580","US House","1",2627,"Democrat","Chris Pappas",1442
+"NH","North Hampton","33015","3301554580","US House","1",2627,"Libertarian","Dan Belforti",31
+"NH","North Hampton","33015","3301554580","US House","1",2627,"Republican","Eddie Edwards",1154
+"NH","Nottingham","33015","3301557460","US House","1",2476,"Democrat","Chris Pappas",1263
+"NH","Nottingham","33015","3301557460","US House","1",2476,"Libertarian","Dan Belforti",39
+"NH","Nottingham","33015","3301557460","US House","1",2476,"Republican","Eddie Edwards",1174
+"NH","Ossipee","33003","3300358740","US House","1",1622,"Democrat","Chris Pappas",655
+"NH","Ossipee","33003","3300358740","US House","1",1622,"Libertarian","Dan Belforti",22
+"NH","Ossipee","33003","3300358740","US House","1",1622,"Republican","Eddie Edwards",945
+"NH","Plaistow","33015","3301562500","US House","1",3054,"Democrat","Chris Pappas",1366
+"NH","Plaistow","33015","3301562500","US House","1",3054,"Libertarian","Dan Belforti",53
+"NH","Plaistow","33015","3301562500","US House","1",3054,"Republican","Eddie Edwards",1635
+"NH","Portsmouth","33015","3301562900","US House","1",11198,"Democrat","Chris Pappas",8101
+"NH","Portsmouth","33015","3301562900","US House","1",11198,"Libertarian","Dan Belforti",111
+"NH","Portsmouth","33015","3301562900","US House","1",11198,"Republican","Eddie Edwards",2986
+"NH","Raymond","33015","3301564020","US House","1",3882,"Democrat","Chris Pappas",1682
+"NH","Raymond","33015","3301564020","US House","1",3882,"Libertarian","Dan Belforti",62
+"NH","Raymond","33015","3301564020","US House","1",3882,"Republican","Eddie Edwards",2138
+"NH","Rochester","33017","3301765140","US House","1",11518,"Democrat","Chris Pappas",5615
+"NH","Rochester","33017","3301765140","US House","1",11518,"Libertarian","Dan Belforti",214
+"NH","Rochester","33017","3301765140","US House","1",11518,"Republican","Eddie Edwards",5689
+"NH","Rollinsford","33017","3301765540","US House","1",1271,"Democrat","Chris Pappas",692
+"NH","Rollinsford","33017","3301765540","US House","1",1271,"Libertarian","Dan Belforti",30
+"NH","Rollinsford","33017","3301765540","US House","1",1271,"Republican","Eddie Edwards",549
+"NH","Rye","33015","3301566180","US House","1",3548,"Democrat","Chris Pappas",2065
+"NH","Rye","33015","3301566180","US House","1",3548,"Libertarian","Dan Belforti",42
+"NH","Rye","33015","3301566180","US House","1",3548,"Republican","Eddie Edwards",1441
+"NH","Sanbornton","33001","3300167300","US House","1",1516,"Democrat","Chris Pappas",711
+"NH","Sanbornton","33001","3300167300","US House","1",1516,"Libertarian","Dan Belforti",21
+"NH","Sanbornton","33001","3300167300","US House","1",1516,"Republican","Eddie Edwards",784
+"NH","Sandown","33015","3301567620","US House","1",2693,"Democrat","Chris Pappas",1124
+"NH","Sandown","33015","3301567620","US House","1",2693,"Libertarian","Dan Belforti",46
+"NH","Sandown","33015","3301567620","US House","1",2693,"Republican","Eddie Edwards",1523
+"NH","Sandwich","33003","3300367780","US House","1",920,"Democrat","Chris Pappas",588
+"NH","Sandwich","33003","3300367780","US House","1",920,"Libertarian","Dan Belforti",5
+"NH","Sandwich","33003","3300367780","US House","1",920,"Republican","Eddie Edwards",327
+"NH","Seabrook","33015","3301568260","US House","1",3105,"Democrat","Chris Pappas",1327
+"NH","Seabrook","33015","3301568260","US House","1",3105,"Libertarian","Dan Belforti",51
+"NH","Seabrook","33015","3301568260","US House","1",3105,"Republican","Eddie Edwards",1727
+"NH","Somersworth","33017","3301769940","US House","1",4052,"Democrat","Chris Pappas",2271
+"NH","Somersworth","33017","3301769940","US House","1",4052,"Libertarian","Dan Belforti",59
+"NH","Somersworth","33017","3301769940","US House","1",4052,"Republican","Eddie Edwards",1722
+"NH","South Hampton","33015","3301571140","US House","1",468,"Democrat","Chris Pappas",232
+"NH","South Hampton","33015","3301571140","US House","1",468,"Libertarian","Dan Belforti",7
+"NH","South Hampton","33015","3301571140","US House","1",468,"Republican","Eddie Edwards",229
+"NH","Strafford","33017","3301773860","US House","1",2026,"Democrat","Chris Pappas",1004
+"NH","Strafford","33017","3301773860","US House","1",2026,"Libertarian","Dan Belforti",0
+"NH","Strafford","33017","3301773860","US House","1",2026,"Republican","Eddie Edwards",1022
+"NH","Stratham","33015","3301574340","US House","1",4241,"Democrat","Chris Pappas",2413
+"NH","Stratham","33015","3301574340","US House","1",4241,"Libertarian","Dan Belforti",56
+"NH","Stratham","33015","3301574340","US House","1",4241,"Republican","Eddie Edwards",1772
+"NH","Tamworth","33003","3300376100","US House","1",1308,"Democrat","Chris Pappas",689
+"NH","Tamworth","33003","3300376100","US House","1",1308,"Libertarian","Dan Belforti",17
+"NH","Tamworth","33003","3300376100","US House","1",1308,"Republican","Eddie Edwards",602
+"NH","Tilton","33001","3300177060","US House","1",1349,"Democrat","Chris Pappas",668
+"NH","Tilton","33001","3300177060","US House","1",1349,"Libertarian","Dan Belforti",22
+"NH","Tilton","33001","3300177060","US House","1",1349,"Republican","Eddie Edwards",659
+"NH","Tuftonboro","33003","3300377620","US House","1",1426,"Democrat","Chris Pappas",627
+"NH","Tuftonboro","33003","3300377620","US House","1",1426,"Libertarian","Dan Belforti",13
+"NH","Tuftonboro","33003","3300377620","US House","1",1426,"Republican","Eddie Edwards",786
+"NH","Wakefield","33003","3300378180","US House","1",2026,"Democrat","Chris Pappas",748
+"NH","Wakefield","33003","3300378180","US House","1",2026,"Libertarian","Dan Belforti",33
+"NH","Wakefield","33003","3300378180","US House","1",2026,"Republican","Eddie Edwards",1245
+"NH","Wolfeboro","33003","3300386420","US House","1",3646,"Democrat","Chris Pappas",1770
+"NH","Wolfeboro","33003","3300386420","US House","1",3646,"Libertarian","Dan Belforti",29
+"NH","Wolfeboro","33003","3300386420","US House","1",3646,"Republican","Eddie Edwards",1847
+"NH","Acworth","33019","3301900260","US House","2",453,"Democrat","Ann McLane Kuster",262
+"NH","Acworth","33019","3301900260","US House","2",453,"Libertarian","Justin O'Donnell",9
+"NH","Acworth","33019","3301900260","US House","2",453,"Republican","Steven Negron",182
+"NH","Alexandria","33009","3300900580","US House","2",735,"Democrat","Ann McLane Kuster",336
+"NH","Alexandria","33009","3300900580","US House","2",735,"Libertarian","Justin O'Donnell",23
+"NH","Alexandria","33009","3300900580","US House","2",735,"Republican","Steven Negron",376
+"NH","Allenstown","33013","3301300660","US House","2",1558,"Democrat","Ann McLane Kuster",748
+"NH","Allenstown","33013","3301300660","US House","2",1558,"Libertarian","Justin O'Donnell",46
+"NH","Allenstown","33013","3301300660","US House","2",1558,"Republican","Steven Negron",764
+"NH","Alstead","33005","3300500820","US House","2",875,"Democrat","Ann McLane Kuster",530
+"NH","Alstead","33005","3300500820","US House","2",875,"Libertarian","Justin O'Donnell",23
+"NH","Alstead","33005","3300500820","US House","2",875,"Republican","Steven Negron",322
+"NH","Amherst","33011","3301101300","US House","2",6293,"Democrat","Ann McLane Kuster",3484
+"NH","Amherst","33011","3301101300","US House","2",6293,"Libertarian","Justin O'Donnell",126
+"NH","Amherst","33011","3301101300","US House","2",6293,"Republican","Steven Negron",2683
+"NH","Andover","33013","3301301460","US House","2",1100,"Democrat","Ann McLane Kuster",637
+"NH","Andover","33013","3301301460","US House","2",1100,"Libertarian","Justin O'Donnell",20
+"NH","Andover","33013","3301301460","US House","2",1100,"Republican","Steven Negron",443
+"NH","Antrim","33011","3301101700","US House","2",1187,"Democrat","Ann McLane Kuster",631
+"NH","Antrim","33011","3301101700","US House","2",1187,"Libertarian","Justin O'Donnell",34
+"NH","Antrim","33011","3301101700","US House","2",1187,"Republican","Steven Negron",522
+"NH","Ashland","33009","3300902020","US House","2",875,"Democrat","Ann McLane Kuster",490
+"NH","Ashland","33009","3300902020","US House","2",875,"Libertarian","Justin O'Donnell",23
+"NH","Ashland","33009","3300902020","US House","2",875,"Republican","Steven Negron",362
+"NH","Atkinson","33015","3301502340","US House","2",3507,"Democrat","Ann McLane Kuster",1519
+"NH","Atkinson","33015","3301502340","US House","2",3507,"Libertarian","Justin O'Donnell",74
+"NH","Atkinson","33015","3301502340","US House","2",3507,"Republican","Steven Negron",1914
+"NH","Bath","33009","3300903940","US House","2",461,"Democrat","Ann McLane Kuster",226
+"NH","Bath","33009","3300903940","US House","2",461,"Libertarian","Justin O'Donnell",8
+"NH","Bath","33009","3300903940","US House","2",461,"Republican","Steven Negron",227
+"NH","Bennington","33011","3301104900","US House","2",589,"Democrat","Ann McLane Kuster",286
+"NH","Bennington","33011","3301104900","US House","2",589,"Libertarian","Justin O'Donnell",18
+"NH","Bennington","33011","3301104900","US House","2",589,"Republican","Steven Negron",285
+"NH","Benton","33009","3300905060","US House","2",159,"Democrat","Ann McLane Kuster",63
+"NH","Benton","33009","3300905060","US House","2",159,"Libertarian","Justin O'Donnell",5
+"NH","Benton","33009","3300905060","US House","2",159,"Republican","Steven Negron",91
+"NH","Berlin","33007","3300705140","US House","2",2806,"Democrat","Ann McLane Kuster",1732
+"NH","Berlin","33007","3300705140","US House","2",2806,"Libertarian","Justin O'Donnell",88
+"NH","Berlin","33007","3300705140","US House","2",2806,"Republican","Steven Negron",986
+"NH","Bethlehem","33009","3300905460","US House","2",1214,"Democrat","Ann McLane Kuster",790
+"NH","Bethlehem","33009","3300905460","US House","2",1214,"Libertarian","Justin O'Donnell",22
+"NH","Bethlehem","33009","3300905460","US House","2",1214,"Republican","Steven Negron",402
+"NH","Boscawen","33013","3301306260","US House","2",1304,"Democrat","Ann McLane Kuster",677
+"NH","Boscawen","33013","3301306260","US House","2",1304,"Libertarian","Justin O'Donnell",39
+"NH","Boscawen","33013","3301306260","US House","2",1304,"Republican","Steven Negron",588
+"NH","Bow","33013","3301306500","US House","2",4243,"Democrat","Ann McLane Kuster",2450
+"NH","Bow","33013","3301306500","US House","2",4243,"Libertarian","Justin O'Donnell",64
+"NH","Bow","33013","3301306500","US House","2",4243,"Republican","Steven Negron",1729
+"NH","Bradford","33013","3301306980","US House","2",781,"Democrat","Ann McLane Kuster",431
+"NH","Bradford","33013","3301306980","US House","2",781,"Libertarian","Justin O'Donnell",14
+"NH","Bradford","33013","3301306980","US House","2",781,"Republican","Steven Negron",336
+"NH","Bridgewater","33009","3300907540","US House","2",599,"Democrat","Ann McLane Kuster",264
+"NH","Bridgewater","33009","3300907540","US House","2",599,"Libertarian","Justin O'Donnell",13
+"NH","Bridgewater","33009","3300907540","US House","2",599,"Republican","Steven Negron",322
+"NH","Bristol","33009","3300907700","US House","2",1270,"Democrat","Ann McLane Kuster",615
+"NH","Bristol","33009","3300907700","US House","2",1270,"Libertarian","Justin O'Donnell",32
+"NH","Bristol","33009","3300907700","US House","2",1270,"Republican","Steven Negron",623
+"NH","Brookline","33011","3301108100","US House","2",2600,"Democrat","Ann McLane Kuster",1287
+"NH","Brookline","33011","3301108100","US House","2",2600,"Libertarian","Justin O'Donnell",59
+"NH","Brookline","33011","3301108100","US House","2",2600,"Republican","Steven Negron",1254
+"NH","Cambridge",NA,NA,"US House","2",2,"Democrat","Ann McLane Kuster",0
+"NH","Cambridge",NA,NA,"US House","2",2,"Libertarian","Justin O'Donnell",0
+"NH","Cambridge",NA,NA,"US House","2",2,"Republican","Steven Negron",2
+"NH","Canaan","33009","3300908980","US House","2",1431,"Democrat","Ann McLane Kuster",832
+"NH","Canaan","33009","3300908980","US House","2",1431,"Libertarian","Justin O'Donnell",32
+"NH","Canaan","33009","3300908980","US House","2",1431,"Republican","Steven Negron",567
+"NH","Canterbury","33013","3301309860","US House","2",1371,"Democrat","Ann McLane Kuster",808
+"NH","Canterbury","33013","3301309860","US House","2",1371,"Libertarian","Justin O'Donnell",26
+"NH","Canterbury","33013","3301309860","US House","2",1371,"Republican","Steven Negron",537
+"NH","Carroll","33007","3300710100","US House","2",391,"Democrat","Ann McLane Kuster",207
+"NH","Carroll","33007","3300710100","US House","2",391,"Libertarian","Justin O'Donnell",5
+"NH","Carroll","33007","3300710100","US House","2",391,"Republican","Steven Negron",179
+"NH","Center Harbor","33001","3300110660","US House","2",608,"Democrat","Ann McLane Kuster",291
+"NH","Center Harbor","33001","3300110660","US House","2",608,"Libertarian","Justin O'Donnell",13
+"NH","Center Harbor","33001","3300110660","US House","2",608,"Republican","Steven Negron",304
+"NH","Charlestown","33019","3301911380","US House","2",1667,"Democrat","Ann McLane Kuster",858
+"NH","Charlestown","33019","3301911380","US House","2",1667,"Libertarian","Justin O'Donnell",55
+"NH","Charlestown","33019","3301911380","US House","2",1667,"Republican","Steven Negron",754
+"NH","Chesterfield","33005","3300512260","US House","2",1841,"Democrat","Ann McLane Kuster",1113
+"NH","Chesterfield","33005","3300512260","US House","2",1841,"Libertarian","Justin O'Donnell",30
+"NH","Chesterfield","33005","3300512260","US House","2",1841,"Republican","Steven Negron",698
+"NH","Chichester","33013","3301312420","US House","2",1228,"Democrat","Ann McLane Kuster",563
+"NH","Chichester","33013","3301312420","US House","2",1228,"Libertarian","Justin O'Donnell",35
+"NH","Chichester","33013","3301312420","US House","2",1228,"Republican","Steven Negron",630
+"NH","Claremont","33019","3301912900","US House","2",3930,"Democrat","Ann McLane Kuster",2138
+"NH","Claremont","33019","3301912900","US House","2",3930,"Libertarian","Justin O'Donnell",109
+"NH","Claremont","33019","3301912900","US House","2",3930,"Republican","Steven Negron",1683
+"NH","Clarksville","33007","3300713220","US House","2",125,"Democrat","Ann McLane Kuster",55
+"NH","Clarksville","33007","3300713220","US House","2",125,"Libertarian","Justin O'Donnell",4
+"NH","Clarksville","33007","3300713220","US House","2",125,"Republican","Steven Negron",66
+"NH","Colebrook","33007","3300713780","US House","2",489,"Democrat","Ann McLane Kuster",215
+"NH","Colebrook","33007","3300713780","US House","2",489,"Libertarian","Justin O'Donnell",37
+"NH","Colebrook","33007","3300713780","US House","2",489,"Republican","Steven Negron",237
+"NH","Columbia","33007","3300713940","US House","2",256,"Democrat","Ann McLane Kuster",103
+"NH","Columbia","33007","3300713940","US House","2",256,"Libertarian","Justin O'Donnell",4
+"NH","Columbia","33007","3300713940","US House","2",256,"Republican","Steven Negron",149
+"NH","Concord","33013","3301314200","US House","2",17614,"Democrat","Ann McLane Kuster",11781
+"NH","Concord","33013","3301314200","US House","2",17614,"Libertarian","Justin O'Donnell",422
+"NH","Concord","33013","3301314200","US House","2",17614,"Republican","Steven Negron",5411
+"NH","Cornish","33019","3301915060","US House","2",870,"Democrat","Ann McLane Kuster",551
+"NH","Cornish","33019","3301915060","US House","2",870,"Libertarian","Justin O'Donnell",15
+"NH","Cornish","33019","3301915060","US House","2",870,"Republican","Steven Negron",304
+"NH","Croydon","33019","3301916340","US House","2",338,"Democrat","Ann McLane Kuster",130
+"NH","Croydon","33019","3301916340","US House","2",338,"Libertarian","Justin O'Donnell",11
+"NH","Croydon","33019","3301916340","US House","2",338,"Republican","Steven Negron",197
+"NH","Dalton","33007","3300716820","US House","2",382,"Democrat","Ann McLane Kuster",179
+"NH","Dalton","33007","3300716820","US House","2",382,"Libertarian","Justin O'Donnell",9
+"NH","Dalton","33007","3300716820","US House","2",382,"Republican","Steven Negron",194
+"NH","Danbury","33013","3301316980","US House","2",504,"Democrat","Ann McLane Kuster",224
+"NH","Danbury","33013","3301316980","US House","2",504,"Libertarian","Justin O'Donnell",19
+"NH","Danbury","33013","3301316980","US House","2",504,"Republican","Steven Negron",261
+"NH","Deerfield","33015","3301517460","US House","2",2261,"Democrat","Ann McLane Kuster",1035
+"NH","Deerfield","33015","3301517460","US House","2",2261,"Libertarian","Justin O'Donnell",65
+"NH","Deerfield","33015","3301517460","US House","2",2261,"Republican","Steven Negron",1161
+"NH","Deering","33011","3301117780","US House","2",799,"Democrat","Ann McLane Kuster",361
+"NH","Deering","33011","3301117780","US House","2",799,"Libertarian","Justin O'Donnell",24
+"NH","Deering","33011","3301117780","US House","2",799,"Republican","Steven Negron",414
+"NH","Dixville","33007","3300718420","US House","2",5,"Democrat","Ann McLane Kuster",3
+"NH","Dixville","33007","3300718420","US House","2",5,"Libertarian","Justin O'Donnell",1
+"NH","Dixville","33007","3300718420","US House","2",5,"Republican","Steven Negron",1
+"NH","Dorchester","33009","3300918740","US House","2",158,"Democrat","Ann McLane Kuster",57
+"NH","Dorchester","33009","3300918740","US House","2",158,"Libertarian","Justin O'Donnell",11
+"NH","Dorchester","33009","3300918740","US House","2",158,"Republican","Steven Negron",90
+"NH","Dublin","33005","3300519140","US House","2",891,"Democrat","Ann McLane Kuster",551
+"NH","Dublin","33005","3300519140","US House","2",891,"Libertarian","Justin O'Donnell",21
+"NH","Dublin","33005","3300519140","US House","2",891,"Republican","Steven Negron",319
+"NH","Dummer","33007","3300719300","US House","2",123,"Democrat","Ann McLane Kuster",69
+"NH","Dummer","33007","3300719300","US House","2",123,"Libertarian","Justin O'Donnell",5
+"NH","Dummer","33007","3300719300","US House","2",123,"Republican","Steven Negron",49
+"NH","Dunbarton","33013","3301319460","US House","2",1464,"Democrat","Ann McLane Kuster",625
+"NH","Dunbarton","33013","3301319460","US House","2",1464,"Libertarian","Justin O'Donnell",13
+"NH","Dunbarton","33013","3301319460","US House","2",1464,"Republican","Steven Negron",826
+"NH","Easton","33009","3300922020","US House","2",191,"Democrat","Ann McLane Kuster",127
+"NH","Easton","33009","3300922020","US House","2",191,"Libertarian","Justin O'Donnell",5
+"NH","Easton","33009","3300922020","US House","2",191,"Republican","Steven Negron",59
+"NH","Ellsworth","33009","3300923860","US House","2",52,"Democrat","Ann McLane Kuster",32
+"NH","Ellsworth","33009","3300923860","US House","2",52,"Libertarian","Justin O'Donnell",0
+"NH","Ellsworth","33009","3300923860","US House","2",52,"Republican","Steven Negron",20
+"NH","Enfield","33009","3300924340","US House","2",1978,"Democrat","Ann McLane Kuster",1279
+"NH","Enfield","33009","3300924340","US House","2",1978,"Libertarian","Justin O'Donnell",52
+"NH","Enfield","33009","3300924340","US House","2",1978,"Republican","Steven Negron",647
+"NH","Epsom","33013","3301324900","US House","2",1974,"Democrat","Ann McLane Kuster",875
+"NH","Epsom","33013","3301324900","US House","2",1974,"Libertarian","Justin O'Donnell",41
+"NH","Epsom","33013","3301324900","US House","2",1974,"Republican","Steven Negron",1058
+"NH","Errol","33007","3300725140","US House","2",158,"Democrat","Ann McLane Kuster",62
+"NH","Errol","33007","3300725140","US House","2",158,"Libertarian","Justin O'Donnell",1
+"NH","Errol","33007","3300725140","US House","2",158,"Republican","Steven Negron",95
+"NH","Fitzwilliam","33005","3300526500","US House","2",991,"Democrat","Ann McLane Kuster",540
+"NH","Fitzwilliam","33005","3300526500","US House","2",991,"Libertarian","Justin O'Donnell",21
+"NH","Fitzwilliam","33005","3300526500","US House","2",991,"Republican","Steven Negron",430
+"NH","Francestown","33011","3301127140","US House","2",902,"Democrat","Ann McLane Kuster",466
+"NH","Francestown","33011","3301127140","US House","2",902,"Libertarian","Justin O'Donnell",25
+"NH","Francestown","33011","3301127140","US House","2",902,"Republican","Steven Negron",411
+"NH","Franconia","33009","3300927300","US House","2",646,"Democrat","Ann McLane Kuster",439
+"NH","Franconia","33009","3300927300","US House","2",646,"Libertarian","Justin O'Donnell",6
+"NH","Franconia","33009","3300927300","US House","2",646,"Republican","Steven Negron",201
+"NH","Franklin","33013","3301327380","US House","2",2788,"Democrat","Ann McLane Kuster",1355
+"NH","Franklin","33013","3301327380","US House","2",2788,"Libertarian","Justin O'Donnell",72
+"NH","Franklin","33013","3301327380","US House","2",2788,"Republican","Steven Negron",1361
+"NH","Gilsum","33005","3300529220","US House","2",359,"Democrat","Ann McLane Kuster",199
+"NH","Gilsum","33005","3300529220","US House","2",359,"Libertarian","Justin O'Donnell",10
+"NH","Gilsum","33005","3300529220","US House","2",359,"Republican","Steven Negron",150
+"NH","Gorham","33007","3300730260","US House","2",1168,"Democrat","Ann McLane Kuster",696
+"NH","Gorham","33007","3300730260","US House","2",1168,"Libertarian","Justin O'Donnell",24
+"NH","Gorham","33007","3300730260","US House","2",1168,"Republican","Steven Negron",448
+"NH","Goshen","33019","3301930500","US House","2",324,"Democrat","Ann McLane Kuster",147
+"NH","Goshen","33019","3301930500","US House","2",324,"Libertarian","Justin O'Donnell",4
+"NH","Goshen","33019","3301930500","US House","2",324,"Republican","Steven Negron",173
+"NH","Grafton","33009","3300930820","US House","2",540,"Democrat","Ann McLane Kuster",240
+"NH","Grafton","33009","3300930820","US House","2",540,"Libertarian","Justin O'Donnell",17
+"NH","Grafton","33009","3300930820","US House","2",540,"Republican","Steven Negron",283
+"NH","Grantham","33019","3301931220","US House","2",1848,"Democrat","Ann McLane Kuster",1234
+"NH","Grantham","33019","3301931220","US House","2",1848,"Libertarian","Justin O'Donnell",30
+"NH","Grantham","33019","3301931220","US House","2",1848,"Republican","Steven Negron",584
+"NH","Green's Grant",NA,NA,"US House","2",1,"Democrat","Ann McLane Kuster",1
+"NH","Green's Grant",NA,NA,"US House","2",1,"Libertarian","Justin O'Donnell",0
+"NH","Green's Grant",NA,NA,"US House","2",1,"Republican","Steven Negron",0
+"NH","Greenfield","33011","3301131540","US House","2",736,"Democrat","Ann McLane Kuster",413
+"NH","Greenfield","33011","3301131540","US House","2",736,"Libertarian","Justin O'Donnell",19
+"NH","Greenfield","33011","3301131540","US House","2",736,"Republican","Steven Negron",304
+"NH","Greenville","33011","3301131940","US House","2",669,"Democrat","Ann McLane Kuster",328
+"NH","Greenville","33011","3301131940","US House","2",669,"Libertarian","Justin O'Donnell",19
+"NH","Greenville","33011","3301131940","US House","2",669,"Republican","Steven Negron",322
+"NH","Groton","33009","3300932180","US House","2",266,"Democrat","Ann McLane Kuster",118
+"NH","Groton","33009","3300932180","US House","2",266,"Libertarian","Justin O'Donnell",13
+"NH","Groton","33009","3300932180","US House","2",266,"Republican","Steven Negron",135
+"NH","Hancock","33011","3301133700","US House","2",1088,"Democrat","Ann McLane Kuster",695
+"NH","Hancock","33011","3301133700","US House","2",1088,"Libertarian","Justin O'Donnell",15
+"NH","Hancock","33011","3301133700","US House","2",1088,"Republican","Steven Negron",378
+"NH","Hanover","33009","3300933860","US House","2",6172,"Democrat","Ann McLane Kuster",5358
+"NH","Hanover","33009","3300933860","US House","2",6172,"Libertarian","Justin O'Donnell",62
+"NH","Hanover","33009","3300933860","US House","2",6172,"Republican","Steven Negron",752
+"NH","Harrisville","33005","3300534420","US House","2",623,"Democrat","Ann McLane Kuster",471
+"NH","Harrisville","33005","3300534420","US House","2",623,"Libertarian","Justin O'Donnell",6
+"NH","Harrisville","33005","3300534420","US House","2",623,"Republican","Steven Negron",146
+"NH","Haverhill","33009","3300934820","US House","2",1410,"Democrat","Ann McLane Kuster",533
+"NH","Haverhill","33009","3300934820","US House","2",1410,"Libertarian","Justin O'Donnell",69
+"NH","Haverhill","33009","3300934820","US House","2",1410,"Republican","Steven Negron",808
+"NH","Hebron","33009","3300935220","US House","2",384,"Democrat","Ann McLane Kuster",162
+"NH","Hebron","33009","3300935220","US House","2",384,"Libertarian","Justin O'Donnell",3
+"NH","Hebron","33009","3300935220","US House","2",384,"Republican","Steven Negron",219
+"NH","Henniker","33013","3301335540","US House","2",2021,"Democrat","Ann McLane Kuster",1225
+"NH","Henniker","33013","3301335540","US House","2",2021,"Libertarian","Justin O'Donnell",38
+"NH","Henniker","33013","3301335540","US House","2",2021,"Republican","Steven Negron",758
+"NH","Hill","33013","3301335860","US House","2",410,"Democrat","Ann McLane Kuster",170
+"NH","Hill","33013","3301335860","US House","2",410,"Libertarian","Justin O'Donnell",12
+"NH","Hill","33013","3301335860","US House","2",410,"Republican","Steven Negron",228
+"NH","Hillsborough","33011","3301136180","US House","2",2279,"Democrat","Ann McLane Kuster",1072
+"NH","Hillsborough","33011","3301136180","US House","2",2279,"Libertarian","Justin O'Donnell",64
+"NH","Hillsborough","33011","3301136180","US House","2",2279,"Republican","Steven Negron",1143
+"NH","Hinsdale","33005","3300536660","US House","2",1289,"Democrat","Ann McLane Kuster",811
+"NH","Hinsdale","33005","3300536660","US House","2",1289,"Libertarian","Justin O'Donnell",26
+"NH","Hinsdale","33005","3300536660","US House","2",1289,"Republican","Steven Negron",452
+"NH","Holderness","33009","3300936900","US House","2",1136,"Democrat","Ann McLane Kuster",705
+"NH","Holderness","33009","3300936900","US House","2",1136,"Libertarian","Justin O'Donnell",17
+"NH","Holderness","33009","3300936900","US House","2",1136,"Republican","Steven Negron",414
+"NH","Hollis","33011","3301137140","US House","2",4278,"Democrat","Ann McLane Kuster",2300
+"NH","Hollis","33011","3301137140","US House","2",4278,"Libertarian","Justin O'Donnell",85
+"NH","Hollis","33011","3301137140","US House","2",4278,"Republican","Steven Negron",1893
+"NH","Hopkinton","33013","3301337540","US House","2",3328,"Democrat","Ann McLane Kuster",2164
+"NH","Hopkinton","33013","3301337540","US House","2",3328,"Libertarian","Justin O'Donnell",57
+"NH","Hopkinton","33013","3301337540","US House","2",3328,"Republican","Steven Negron",1107
+"NH","Hudson","33011","3301137940","US House","2",9300,"Democrat","Ann McLane Kuster",4216
+"NH","Hudson","33011","3301137940","US House","2",9300,"Libertarian","Justin O'Donnell",214
+"NH","Hudson","33011","3301137940","US House","2",9300,"Republican","Steven Negron",4870
+"NH","Jaffrey","33005","3300538500","US House","2",2210,"Democrat","Ann McLane Kuster",1200
+"NH","Jaffrey","33005","3300538500","US House","2",2210,"Libertarian","Justin O'Donnell",50
+"NH","Jaffrey","33005","3300538500","US House","2",2210,"Republican","Steven Negron",960
+"NH","Jefferson","33007","3300738820","US House","2",492,"Democrat","Ann McLane Kuster",221
+"NH","Jefferson","33007","3300738820","US House","2",492,"Libertarian","Justin O'Donnell",7
+"NH","Jefferson","33007","3300738820","US House","2",492,"Republican","Steven Negron",264
+"NH","Keene","33005","3300539300","US House","2",9525,"Democrat","Ann McLane Kuster",6835
+"NH","Keene","33005","3300539300","US House","2",9525,"Libertarian","Justin O'Donnell",223
+"NH","Keene","33005","3300539300","US House","2",9525,"Republican","Steven Negron",2467
+"NH","Lancaster","33007","3300740420","US House","2",1209,"Democrat","Ann McLane Kuster",638
+"NH","Lancaster","33007","3300740420","US House","2",1209,"Libertarian","Justin O'Donnell",20
+"NH","Lancaster","33007","3300740420","US House","2",1209,"Republican","Steven Negron",551
+"NH","Landaff","33009","3300940660","US House","2",199,"Democrat","Ann McLane Kuster",101
+"NH","Landaff","33009","3300940660","US House","2",199,"Libertarian","Justin O'Donnell",3
+"NH","Landaff","33009","3300940660","US House","2",199,"Republican","Steven Negron",95
+"NH","Langdon","33019","3301940900","US House","2",311,"Democrat","Ann McLane Kuster",171
+"NH","Langdon","33019","3301940900","US House","2",311,"Libertarian","Justin O'Donnell",9
+"NH","Langdon","33019","3301940900","US House","2",311,"Republican","Steven Negron",131
+"NH","Lebanon","33009","3300941300","US House","2",6040,"Democrat","Ann McLane Kuster",4538
+"NH","Lebanon","33009","3300941300","US House","2",6040,"Libertarian","Justin O'Donnell",95
+"NH","Lebanon","33009","3300941300","US House","2",6040,"Republican","Steven Negron",1407
+"NH","Lempster","33019","3301941700","US House","2",509,"Democrat","Ann McLane Kuster",218
+"NH","Lempster","33019","3301941700","US House","2",509,"Libertarian","Justin O'Donnell",12
+"NH","Lempster","33019","3301941700","US House","2",509,"Republican","Steven Negron",279
+"NH","Lincoln","33009","3300941860","US House","2",643,"Democrat","Ann McLane Kuster",351
+"NH","Lincoln","33009","3300941860","US House","2",643,"Libertarian","Justin O'Donnell",23
+"NH","Lincoln","33009","3300941860","US House","2",643,"Republican","Steven Negron",269
+"NH","Lisbon","33009","3300942020","US House","2",507,"Democrat","Ann McLane Kuster",237
+"NH","Lisbon","33009","3300942020","US House","2",507,"Libertarian","Justin O'Donnell",20
+"NH","Lisbon","33009","3300942020","US House","2",507,"Republican","Steven Negron",250
+"NH","Litchfield","33011","3301142260","US House","2",3620,"Democrat","Ann McLane Kuster",1620
+"NH","Litchfield","33011","3301142260","US House","2",3620,"Libertarian","Justin O'Donnell",85
+"NH","Litchfield","33011","3301142260","US House","2",3620,"Republican","Steven Negron",1915
+"NH","Littleton","33009","3300942580","US House","2",2218,"Democrat","Ann McLane Kuster",1199
+"NH","Littleton","33009","3300942580","US House","2",2218,"Libertarian","Justin O'Donnell",51
+"NH","Littleton","33009","3300942580","US House","2",2218,"Republican","Steven Negron",968
+"NH","Loudon","33013","3301343380","US House","2",2555,"Democrat","Ann McLane Kuster",1112
+"NH","Loudon","33013","3301343380","US House","2",2555,"Libertarian","Justin O'Donnell",42
+"NH","Loudon","33013","3301343380","US House","2",2555,"Republican","Steven Negron",1401
+"NH","Lyman","33009","3300944100","US House","2",257,"Democrat","Ann McLane Kuster",136
+"NH","Lyman","33009","3300944100","US House","2",257,"Libertarian","Justin O'Donnell",8
+"NH","Lyman","33009","3300944100","US House","2",257,"Republican","Steven Negron",113
+"NH","Lyme","33009","3300944260","US House","2",1026,"Democrat","Ann McLane Kuster",847
+"NH","Lyme","33009","3300944260","US House","2",1026,"Libertarian","Justin O'Donnell",8
+"NH","Lyme","33009","3300944260","US House","2",1026,"Republican","Steven Negron",171
+"NH","Lyndeborough","33011","3301144580","US House","2",819,"Democrat","Ann McLane Kuster",424
+"NH","Lyndeborough","33011","3301144580","US House","2",819,"Libertarian","Justin O'Donnell",33
+"NH","Lyndeborough","33011","3301144580","US House","2",819,"Republican","Steven Negron",362
+"NH","Marlborough","33005","3300545460","US House","2",934,"Democrat","Ann McLane Kuster",657
+"NH","Marlborough","33005","3300545460","US House","2",934,"Libertarian","Justin O'Donnell",13
+"NH","Marlborough","33005","3300545460","US House","2",934,"Republican","Steven Negron",264
+"NH","Marlow","33005","3300545700","US House","2",373,"Democrat","Ann McLane Kuster",199
+"NH","Marlow","33005","3300545700","US House","2",373,"Libertarian","Justin O'Donnell",11
+"NH","Marlow","33005","3300545700","US House","2",373,"Republican","Steven Negron",163
+"NH","Mason","33011","3301146260","US House","2",694,"Democrat","Ann McLane Kuster",303
+"NH","Mason","33011","3301146260","US House","2",694,"Libertarian","Justin O'Donnell",19
+"NH","Mason","33011","3301146260","US House","2",694,"Republican","Steven Negron",372
+"NH","Milan","33007","3300747860","US House","2",556,"Democrat","Ann McLane Kuster",283
+"NH","Milan","33007","3300747860","US House","2",556,"Libertarian","Justin O'Donnell",13
+"NH","Milan","33007","3300747860","US House","2",556,"Republican","Steven Negron",260
+"NH","Milford","33011","3301148020","US House","2",6372,"Democrat","Ann McLane Kuster",3425
+"NH","Milford","33011","3301148020","US House","2",6372,"Libertarian","Justin O'Donnell",184
+"NH","Milford","33011","3301148020","US House","2",6372,"Republican","Steven Negron",2763
+"NH","Millsfield","33007","3300748260","US House","2",19,"Democrat","Ann McLane Kuster",3
+"NH","Millsfield","33007","3300748260","US House","2",19,"Libertarian","Justin O'Donnell",1
+"NH","Millsfield","33007","3300748260","US House","2",19,"Republican","Steven Negron",15
+"NH","Monroe","33009","3300948980","US House","2",394,"Democrat","Ann McLane Kuster",172
+"NH","Monroe","33009","3300948980","US House","2",394,"Libertarian","Justin O'Donnell",9
+"NH","Monroe","33009","3300948980","US House","2",394,"Republican","Steven Negron",213
+"NH","Mont Vernon","33011","3301149140","US House","2",1316,"Democrat","Ann McLane Kuster",729
+"NH","Mont Vernon","33011","3301149140","US House","2",1316,"Libertarian","Justin O'Donnell",21
+"NH","Mont Vernon","33011","3301149140","US House","2",1316,"Republican","Steven Negron",566
+"NH","Nashua","33011","3301150260","US House","2",31334,"Democrat","Ann McLane Kuster",18476
+"NH","Nashua","33011","3301150260","US House","2",31334,"Libertarian","Justin O'Donnell",610
+"NH","Nashua","33011","3301150260","US House","2",31334,"Republican","Steven Negron",12248
+"NH","Nelson","33005","3300550580","US House","2",360,"Democrat","Ann McLane Kuster",245
+"NH","Nelson","33005","3300550580","US House","2",360,"Libertarian","Justin O'Donnell",6
+"NH","Nelson","33005","3300550580","US House","2",360,"Republican","Steven Negron",109
+"NH","New Boston","33011","3301150740","US House","2",2878,"Democrat","Ann McLane Kuster",1360
+"NH","New Boston","33011","3301150740","US House","2",2878,"Libertarian","Justin O'Donnell",57
+"NH","New Boston","33011","3301150740","US House","2",2878,"Republican","Steven Negron",1461
+"NH","New Ipswich","33011","3301151940","US House","2",2165,"Democrat","Ann McLane Kuster",667
+"NH","New Ipswich","33011","3301151940","US House","2",2165,"Libertarian","Justin O'Donnell",44
+"NH","New Ipswich","33011","3301151940","US House","2",2165,"Republican","Steven Negron",1454
+"NH","New London","33013","3301352100","US House","2",2575,"Democrat","Ann McLane Kuster",1631
+"NH","New London","33013","3301352100","US House","2",2575,"Libertarian","Justin O'Donnell",28
+"NH","New London","33013","3301352100","US House","2",2575,"Republican","Steven Negron",916
+"NH","Newbury","33013","3301350900","US House","2",1185,"Democrat","Ann McLane Kuster",622
+"NH","Newbury","33013","3301350900","US House","2",1185,"Libertarian","Justin O'Donnell",20
+"NH","Newbury","33013","3301350900","US House","2",1185,"Republican","Steven Negron",543
+"NH","Newport","33019","3301952580","US House","2",2063,"Democrat","Ann McLane Kuster",947
+"NH","Newport","33019","3301952580","US House","2",2063,"Libertarian","Justin O'Donnell",65
+"NH","Newport","33019","3301952580","US House","2",2063,"Republican","Steven Negron",1051
+"NH","Northfield","33013","3301354260","US House","2",1704,"Democrat","Ann McLane Kuster",793
+"NH","Northfield","33013","3301354260","US House","2",1704,"Libertarian","Justin O'Donnell",60
+"NH","Northfield","33013","3301354260","US House","2",1704,"Republican","Steven Negron",851
+"NH","Northumberland","33007","3300756100","US House","2",680,"Democrat","Ann McLane Kuster",343
+"NH","Northumberland","33007","3300756100","US House","2",680,"Libertarian","Justin O'Donnell",12
+"NH","Northumberland","33007","3300756100","US House","2",680,"Republican","Steven Negron",325
+"NH","Northwood","33015","3301556820","US House","2",2005,"Democrat","Ann McLane Kuster",965
+"NH","Northwood","33015","3301556820","US House","2",2005,"Libertarian","Justin O'Donnell",50
+"NH","Northwood","33015","3301556820","US House","2",2005,"Republican","Steven Negron",990
+"NH","Orange","33009","3300958340","US House","2",140,"Democrat","Ann McLane Kuster",74
+"NH","Orange","33009","3300958340","US House","2",140,"Libertarian","Justin O'Donnell",2
+"NH","Orange","33009","3300958340","US House","2",140,"Republican","Steven Negron",64
+"NH","Orford","33009","3300958500","US House","2",591,"Democrat","Ann McLane Kuster",392
+"NH","Orford","33009","3300958500","US House","2",591,"Libertarian","Justin O'Donnell",9
+"NH","Orford","33009","3300958500","US House","2",591,"Republican","Steven Negron",190
+"NH","Pelham","33011","3301159940","US House","2",5512,"Democrat","Ann McLane Kuster",2242
+"NH","Pelham","33011","3301159940","US House","2",5512,"Libertarian","Justin O'Donnell",132
+"NH","Pelham","33011","3301159940","US House","2",5512,"Republican","Steven Negron",3138
+"NH","Pembroke","33013","3301360020","US House","2",2915,"Democrat","Ann McLane Kuster",1587
+"NH","Pembroke","33013","3301360020","US House","2",2915,"Libertarian","Justin O'Donnell",55
+"NH","Pembroke","33013","3301360020","US House","2",2915,"Republican","Steven Negron",1273
+"NH","Peterborough","33011","3301160580","US House","2",3396,"Democrat","Ann McLane Kuster",2365
+"NH","Peterborough","33011","3301160580","US House","2",3396,"Libertarian","Justin O'Donnell",69
+"NH","Peterborough","33011","3301160580","US House","2",3396,"Republican","Steven Negron",962
+"NH","Piermont","33009","3300961060","US House","2",334,"Democrat","Ann McLane Kuster",178
+"NH","Piermont","33009","3300961060","US House","2",334,"Libertarian","Justin O'Donnell",9
+"NH","Piermont","33009","3300961060","US House","2",334,"Republican","Steven Negron",147
+"NH","Pittsburg","33007","3300761780","US House","2",376,"Democrat","Ann McLane Kuster",116
+"NH","Pittsburg","33007","3300761780","US House","2",376,"Libertarian","Justin O'Donnell",7
+"NH","Pittsburg","33007","3300761780","US House","2",376,"Republican","Steven Negron",253
+"NH","Pittsfield","33013","3301361940","US House","2",1400,"Democrat","Ann McLane Kuster",598
+"NH","Pittsfield","33013","3301361940","US House","2",1400,"Libertarian","Justin O'Donnell",43
+"NH","Pittsfield","33013","3301361940","US House","2",1400,"Republican","Steven Negron",759
+"NH","Plainfield","33019","3301962340","US House","2",1229,"Democrat","Ann McLane Kuster",826
+"NH","Plainfield","33019","3301962340","US House","2",1229,"Libertarian","Justin O'Donnell",19
+"NH","Plainfield","33019","3301962340","US House","2",1229,"Republican","Steven Negron",384
+"NH","Plymouth","33009","3300962660","US House","2",2555,"Democrat","Ann McLane Kuster",1782
+"NH","Plymouth","33009","3300962660","US House","2",2555,"Libertarian","Justin O'Donnell",85
+"NH","Plymouth","33009","3300962660","US House","2",2555,"Republican","Steven Negron",688
+"NH","Randolph","33007","3300763860","US House","2",225,"Democrat","Ann McLane Kuster",170
+"NH","Randolph","33007","3300763860","US House","2",225,"Libertarian","Justin O'Donnell",5
+"NH","Randolph","33007","3300763860","US House","2",225,"Republican","Steven Negron",50
+"NH","Richmond","33005","3300564420","US House","2",519,"Democrat","Ann McLane Kuster",222
+"NH","Richmond","33005","3300564420","US House","2",519,"Libertarian","Justin O'Donnell",13
+"NH","Richmond","33005","3300564420","US House","2",519,"Republican","Steven Negron",284
+"NH","Rindge","33005","3300564580","US House","2",2532,"Democrat","Ann McLane Kuster",1044
+"NH","Rindge","33005","3300564580","US House","2",2532,"Libertarian","Justin O'Donnell",67
+"NH","Rindge","33005","3300564580","US House","2",2532,"Republican","Steven Negron",1421
+"NH","Roxbury","33005","3300565700","US House","2",106,"Democrat","Ann McLane Kuster",74
+"NH","Roxbury","33005","3300565700","US House","2",106,"Libertarian","Justin O'Donnell",2
+"NH","Roxbury","33005","3300565700","US House","2",106,"Republican","Steven Negron",30
+"NH","Rumney","33009","3300965940","US House","2",719,"Democrat","Ann McLane Kuster",337
+"NH","Rumney","33009","3300965940","US House","2",719,"Libertarian","Justin O'Donnell",13
+"NH","Rumney","33009","3300965940","US House","2",719,"Republican","Steven Negron",369
+"NH","Salem","33015","3301566660","US House","2",11318,"Democrat","Ann McLane Kuster",4963
+"NH","Salem","33015","3301566660","US House","2",11318,"Libertarian","Justin O'Donnell",257
+"NH","Salem","33015","3301566660","US House","2",11318,"Republican","Steven Negron",6098
+"NH","Salisbury","33013","3301366980","US House","2",642,"Democrat","Ann McLane Kuster",282
+"NH","Salisbury","33013","3301366980","US House","2",642,"Libertarian","Justin O'Donnell",20
+"NH","Salisbury","33013","3301366980","US House","2",642,"Republican","Steven Negron",340
+"NH","Sharon","33011","3301168820","US House","2",224,"Democrat","Ann McLane Kuster",136
+"NH","Sharon","33011","3301168820","US House","2",224,"Libertarian","Justin O'Donnell",2
+"NH","Sharon","33011","3301168820","US House","2",224,"Republican","Steven Negron",86
+"NH","Shelburne","33007","3300768980","US House","2",209,"Democrat","Ann McLane Kuster",111
+"NH","Shelburne","33007","3300768980","US House","2",209,"Libertarian","Justin O'Donnell",3
+"NH","Shelburne","33007","3300768980","US House","2",209,"Republican","Steven Negron",95
+"NH","Springfield","33019","3301972740","US House","2",670,"Democrat","Ann McLane Kuster",325
+"NH","Springfield","33019","3301972740","US House","2",670,"Libertarian","Justin O'Donnell",11
+"NH","Springfield","33019","3301972740","US House","2",670,"Republican","Steven Negron",334
+"NH","Stark","33007","3300773060","US House","2",223,"Democrat","Ann McLane Kuster",96
+"NH","Stark","33007","3300773060","US House","2",223,"Libertarian","Justin O'Donnell",3
+"NH","Stark","33007","3300773060","US House","2",223,"Republican","Steven Negron",124
+"NH","Stewartstown","33007","3300773380","US House","2",245,"Democrat","Ann McLane Kuster",98
+"NH","Stewartstown","33007","3300773380","US House","2",245,"Libertarian","Justin O'Donnell",4
+"NH","Stewartstown","33007","3300773380","US House","2",245,"Republican","Steven Negron",143
+"NH","Stoddard","33005","3300573700","US House","2",614,"Democrat","Ann McLane Kuster",309
+"NH","Stoddard","33005","3300573700","US House","2",614,"Libertarian","Justin O'Donnell",20
+"NH","Stoddard","33005","3300573700","US House","2",614,"Republican","Steven Negron",285
+"NH","Stratford","33007","3300774180","US House","2",206,"Democrat","Ann McLane Kuster",123
+"NH","Stratford","33007","3300774180","US House","2",206,"Libertarian","Justin O'Donnell",4
+"NH","Stratford","33007","3300774180","US House","2",206,"Republican","Steven Negron",79
+"NH","Sugar Hill","33009","3300974740","US House","2",376,"Democrat","Ann McLane Kuster",243
+"NH","Sugar Hill","33009","3300974740","US House","2",376,"Libertarian","Justin O'Donnell",5
+"NH","Sugar Hill","33009","3300974740","US House","2",376,"Republican","Steven Negron",128
+"NH","Sullivan","33005","3300574900","US House","2",314,"Democrat","Ann McLane Kuster",173
+"NH","Sullivan","33005","3300574900","US House","2",314,"Libertarian","Justin O'Donnell",9
+"NH","Sullivan","33005","3300574900","US House","2",314,"Republican","Steven Negron",132
+"NH","Sunapee","33019","3301975060","US House","2",1816,"Democrat","Ann McLane Kuster",901
+"NH","Sunapee","33019","3301975060","US House","2",1816,"Libertarian","Justin O'Donnell",37
+"NH","Sunapee","33019","3301975060","US House","2",1816,"Republican","Steven Negron",878
+"NH","Surry","33005","3300575300","US House","2",394,"Democrat","Ann McLane Kuster",218
+"NH","Surry","33005","3300575300","US House","2",394,"Libertarian","Justin O'Donnell",6
+"NH","Surry","33005","3300575300","US House","2",394,"Republican","Steven Negron",170
+"NH","Sutton","33013","3301375460","US House","2",960,"Democrat","Ann McLane Kuster",530
+"NH","Sutton","33013","3301375460","US House","2",960,"Libertarian","Justin O'Donnell",13
+"NH","Sutton","33013","3301375460","US House","2",960,"Republican","Steven Negron",417
+"NH","Swanzey","33005","3300575700","US House","2",2900,"Democrat","Ann McLane Kuster",1590
+"NH","Swanzey","33005","3300575700","US House","2",2900,"Libertarian","Justin O'Donnell",58
+"NH","Swanzey","33005","3300575700","US House","2",2900,"Republican","Steven Negron",1252
+"NH","Temple","33011","3301176260","US House","2",747,"Democrat","Ann McLane Kuster",411
+"NH","Temple","33011","3301176260","US House","2",747,"Libertarian","Justin O'Donnell",17
+"NH","Temple","33011","3301176260","US House","2",747,"Republican","Steven Negron",319
+"NH","Thornton","33009","3300976740","US House","2",1133,"Democrat","Ann McLane Kuster",681
+"NH","Thornton","33009","3300976740","US House","2",1133,"Libertarian","Justin O'Donnell",26
+"NH","Thornton","33009","3300976740","US House","2",1133,"Republican","Steven Negron",426
+"NH","Troy","33005","3300577380","US House","2",722,"Democrat","Ann McLane Kuster",370
+"NH","Troy","33005","3300577380","US House","2",722,"Libertarian","Justin O'Donnell",16
+"NH","Troy","33005","3300577380","US House","2",722,"Republican","Steven Negron",336
+"NH","Unity","33019","3301977940","US House","2",586,"Democrat","Ann McLane Kuster",243
+"NH","Unity","33019","3301977940","US House","2",586,"Libertarian","Justin O'Donnell",15
+"NH","Unity","33019","3301977940","US House","2",586,"Republican","Steven Negron",328
+"NH","Walpole","33005","3300578420","US House","2",1761,"Democrat","Ann McLane Kuster",1116
+"NH","Walpole","33005","3300578420","US House","2",1761,"Libertarian","Justin O'Donnell",32
+"NH","Walpole","33005","3300578420","US House","2",1761,"Republican","Steven Negron",613
+"NH","Warner","33013","3301378580","US House","2",1479,"Democrat","Ann McLane Kuster",829
+"NH","Warner","33013","3301378580","US House","2",1479,"Libertarian","Justin O'Donnell",40
+"NH","Warner","33013","3301378580","US House","2",1479,"Republican","Steven Negron",610
+"NH","Warren","33009","3300978740","US House","2",342,"Democrat","Ann McLane Kuster",172
+"NH","Warren","33009","3300978740","US House","2",342,"Libertarian","Justin O'Donnell",18
+"NH","Warren","33009","3300978740","US House","2",342,"Republican","Steven Negron",152
+"NH","Washington","33019","3301978980","US House","2",545,"Democrat","Ann McLane Kuster",249
+"NH","Washington","33019","3301978980","US House","2",545,"Libertarian","Justin O'Donnell",5
+"NH","Washington","33019","3301978980","US House","2",545,"Republican","Steven Negron",291
+"NH","Waterville","33009","3300979380","US House","2",229,"Democrat","Ann McLane Kuster",148
+"NH","Waterville","33009","3300979380","US House","2",229,"Libertarian","Justin O'Donnell",3
+"NH","Waterville","33009","3300979380","US House","2",229,"Republican","Steven Negron",78
+"NH","Weare","33011","3301179780","US House","2",3674,"Democrat","Ann McLane Kuster",1545
+"NH","Weare","33011","3301179780","US House","2",3674,"Libertarian","Justin O'Donnell",131
+"NH","Weare","33011","3301179780","US House","2",3674,"Republican","Steven Negron",1998
+"NH","Webster","33013","3301380020","US House","2",867,"Democrat","Ann McLane Kuster",446
+"NH","Webster","33013","3301380020","US House","2",867,"Libertarian","Justin O'Donnell",29
+"NH","Webster","33013","3301380020","US House","2",867,"Republican","Steven Negron",392
+"NH","Wentworth","33009","3300980500","US House","2",418,"Democrat","Ann McLane Kuster",164
+"NH","Wentworth","33009","3300980500","US House","2",418,"Libertarian","Justin O'Donnell",12
+"NH","Wentworth","33009","3300980500","US House","2",418,"Republican","Steven Negron",242
+"NH","Wentworth's Location","33007","3300780740","US House","2",16,"Democrat","Ann McLane Kuster",6
+"NH","Wentworth's Location","33007","3300780740","US House","2",16,"Libertarian","Justin O'Donnell",0
+"NH","Wentworth's Location","33007","3300780740","US House","2",16,"Republican","Steven Negron",10
+"NH","Westmoreland","33005","3300582660","US House","2",860,"Democrat","Ann McLane Kuster",542
+"NH","Westmoreland","33005","3300582660","US House","2",860,"Libertarian","Justin O'Donnell",0
+"NH","Westmoreland","33005","3300582660","US House","2",860,"Republican","Steven Negron",318
+"NH","Whitefield","33007","3300784420","US House","2",874,"Democrat","Ann McLane Kuster",478
+"NH","Whitefield","33007","3300784420","US House","2",874,"Libertarian","Justin O'Donnell",0
+"NH","Whitefield","33007","3300784420","US House","2",874,"Republican","Steven Negron",396
+"NH","Wilmot","33013","3301384900","US House","2",744,"Democrat","Ann McLane Kuster",460
+"NH","Wilmot","33013","3301384900","US House","2",744,"Libertarian","Justin O'Donnell",0
+"NH","Wilmot","33013","3301384900","US House","2",744,"Republican","Steven Negron",284
+"NH","Wilton","33011","3301185220","US House","2",1801,"Democrat","Ann McLane Kuster",988
+"NH","Wilton","33011","3301185220","US House","2",1801,"Libertarian","Justin O'Donnell",46
+"NH","Wilton","33011","3301185220","US House","2",1801,"Republican","Steven Negron",767
+"NH","Winchester","33005","3300585540","US House","2",1330,"Democrat","Ann McLane Kuster",775
+"NH","Winchester","33005","3300585540","US House","2",1330,"Libertarian","Justin O'Donnell",46
+"NH","Winchester","33005","3300585540","US House","2",1330,"Republican","Steven Negron",509
+"NH","Windham","33015","3301585780","US House","2",6625,"Democrat","Ann McLane Kuster",2936
+"NH","Windham","33015","3301585780","US House","2",6625,"Libertarian","Justin O'Donnell",124
+"NH","Windham","33015","3301585780","US House","2",6625,"Republican","Steven Negron",3565
+"NH","Windsor","33011","3301185940","US House","2",99,"Democrat","Ann McLane Kuster",25
+"NH","Windsor","33011","3301185940","US House","2",99,"Libertarian","Justin O'Donnell",3
+"NH","Windsor","33011","3301185940","US House","2",99,"Republican","Steven Negron",71
+"NH","Woodstock","33009","3300987060","US House","2",629,"Democrat","Ann McLane Kuster",361
+"NH","Woodstock","33009","3300987060","US House","2",629,"Libertarian","Justin O'Donnell",16
+"NH","Woodstock","33009","3300987060","US House","2",629,"Republican","Steven Negron",252
